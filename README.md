@@ -12,6 +12,8 @@ It provide a list that merged information from various GAN lists and repositoiri
 * Awesome GAN for Medical Imaging [[Medical]](https://github.com/xinario/awesome-gan-for-medical-imaging/)
 * Collection of generative models in [[Pytorch version]](https://github.com/znxlwm/pytorch-generative-model-collections), [[Tensorflow version]](https://github.com/hwalsuklee/tensorflow-generative-model-collections)
 
+----
+
 You can also check out the same data in a tabular format with functionality to filter by year or do a quick search by title [here](https://github.com/hollobit/All-About-the-GAN/blob/master/AllGAN-r2.tsv).
 
 Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pull request. You can have to add links through pull requests or create an issue to let me know something I missed or to start a discussion. 
