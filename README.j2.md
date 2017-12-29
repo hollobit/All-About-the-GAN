@@ -38,5 +38,6 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
 ----
 
-GAN model count: {{ count.value-1 }}
-Modified: {{ nowts.strftime('%A, %b %d %Y / %X') }}
+#### GAN model count: {{ count.value-1 }}
+
+#### Modified: {{ nowts.strftime('%A, %b %d %Y / %X') }}
