@@ -6,6 +6,7 @@ from __future__ import division
 import numpy as np
 import matplotlib.pyplot as plt
 import sys
+import datetime
 
 def load_data():
     """ Load GANs data from the AllGAN.csv file """
@@ -25,6 +26,8 @@ def update_readme(gans):
     gans.sort(key=lambda v: v['Title'].upper())
     j2_env = j2.Environment(loader=j2.FileSystemLoader('.'),
                             trim_blocks=True, lstrip_blocks=True)
+
+    j2_env.globals['nowts'] = datetime.datetime.now()
 
     with open('README.md', 'w') as fid:
         print(j2_env.get_template('README.j2.md').render(gans=gans), file=fid)
@@ -50,6 +53,7 @@ def update_figure(gans):
 if __name__ == '__main__':
     reload(sys)
     sys.setdefaultencoding('utf-8')
+
     GANS = load_data()
     update_readme(GANS)
 #    update_figure(GANS)

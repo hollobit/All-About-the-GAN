@@ -20,8 +20,10 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
 ----
 
+{% set count = {'value': 1} %}
 {% for gan in gans %}
-* {{ gan['Title'] }} ( {{ gan['Abbr.'] }} ) - ([PDF]({{ gan['pdf'] }}))
+{{count.value}}. {{ gan['Title'] }} ( {{ gan['Abbr.'] }} ) - ([PDF]({{ gan['pdf'] }}))
+  {% if count.update({'value': (count.value + 1)}) %} {% endif %}
   {%- if gan['Arxiv'] != '-' -%}
   {#- #} ([Arxiv]({{ gan['Arxiv'] }}))
   {% else %} {# space removed if no arxiv repository #}
@@ -33,3 +35,8 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
   {% endif %}
 {%- endfor %}
+
+----
+
+GAN model count: {{ count.value-1 }}
+Modified: {{ nowts.strftime('%A, %b %d %Y / %X') }}
