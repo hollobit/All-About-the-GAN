@@ -3,7 +3,7 @@ Mnum	Abbr.	Title	Year	Month	Citations	pdf	Arxiv	Official_Code	No	SN	Medical
 2	ORGAN	3D Reconstruction of Incomplete Archaeological Objects Using a Generative Adversary Network	2017	11		https://arxiv.org/pdf/1711.06363	https://arxiv.org/abs/1711.06363	-	228
 3	PrGAN	3D Shape Induction from 2D Views of Multiple Objects (PrGAN)?	2016	12	9	https://arxiv.org/pdf/1612.05872.pdf	https://arxiv.org/abs/1612.05872	-	50	120
 4		A Classification-Based Perspective on GAN Distributions?	2017		0	https://arxiv.org/pdf/1711.00970.pdf	https://arxiv.org/abs/1711.00970	-	253
-5		"A Connection between Generative Adversarial Networks, Inverse Reinforcement Learning, and Energy-Based Models?"	2016		16	https://arxiv.org/pdf/1611.03852.pdf	https://arxiv.org/abs/1611.03852	-		86
+5		A Connection between Generative Adversarial Networks, Inverse Reinforcement Learning, and Energy-Based Models	2016		16	https://arxiv.org/pdf/1611.03852.pdf	https://arxiv.org/abs/1611.03852	-		86
 6		A General Retraining Framework for Scalable Adversarial Classification?	2016		6	https://arxiv.org/pdf/1604.02606.pdf	https://arxiv.org/abs/1604.02606	-		141
 7	GPU	A generative adversarial framework for positive-unlabeled classification	2017	11		https://arxiv.org/pdf/1711.08054	https://arxiv.org/abs/1711.08054	-	215
 8	GAN-ATV	A Novel Approach to Artistic Textual Visualization via GAN?	2017	10	0	https://arxiv.org/pdf/1710.10553.pdf	https://arxiv.org/abs/1710.10553	-	190	274
