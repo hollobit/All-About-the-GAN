@@ -25,20 +25,26 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 {% for gan in gans %}
 {{count.value}}. {{ gan['Title'] }} ( {{ gan['Abbr.'] }} ) - ([PDF]({{ gan['pdf'] }}))
   {% if count.update({'value': (count.value + 1)}) %} {% endif %}
-  {%- if gan['Arxiv'] != '-' -%}
+  {%- if gan['Arxiv'] != '-' and gan['Arxiv'] != '' -%}
   {#- #} ([Arxiv]({{ gan['Arxiv'] }}))
   {% else %} {# space removed if no arxiv repository #}
   {% endif %}
 
-  {%- if gan['Official_Code'] != '-' -%}
+  {%- if gan['Official_Code'] != '-' and gan['Official_Code'] != '' -%}
   {#- #} ([github]({{ gan['Official_Code'] }}))
   {% else %} {# space removed if no github repository #}
-
   {% endif %}
+
+  {%- if gan['Medical'] != None -%}
+  {#- #} - 'Medical:{{ gan['Medical'] }}'
+  {% else %} {# space removed if no github repository #}
+  {% endif %}  
 {%- endfor %}
 
 ----
 
-#### GAN model count: {{ count.value-1 }}
+#### GAN counter: {{ count.value-1 }}
 
 #### Modified: {{ nowts.strftime('%A, %b %d %Y / %X') }}
+
+MIT (c) 2017 Jonathan Jeon
