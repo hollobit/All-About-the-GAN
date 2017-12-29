@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 import sys
 
 def load_data():
-    """ Load GANs data from the gans.csv file """
+    """ Load GANs data from the AllGAN.csv file """
     import csv
     import codecs
 

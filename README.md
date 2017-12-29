@@ -2,7 +2,7 @@
 
 ### GAN(Generative Adversarial Networks) are the models that used in unsupervised machine learning, implemented by a system of two neural networks competing against each other in a zero-sum game framework. It was introduced by Ian Goodfellow et al. in 2014.
 
-### The purpose of this repository is providing the summuraized list of the state-of-the-art works on the field of Generative Adversarial Networks since their introduction in 2014.
+The purpose of this repository is providing the summuraized list of the state-of-the-art works on the field of Generative Adversarial Networks since their introduction in 2014.
 
 It provide a list that merged information from various GAN lists and repositoiries as below:
 
@@ -54,7 +54,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 * Adversarial Attacks on Neural Network Policies? (  ) - ([PDF](https://arxiv.org/pdf/1702.02284.pdf)) ([Arxiv](https://arxiv.org/abs/1702.02284))
  
 * Adversarial Autoencoders? (  ) - ([PDF](https://arxiv.org/pdf/1511.05644.pdf)) ([Arxiv](https://arxiv.org/abs/1511.05644))
- 
+ ([github](https://github.com/musyoku/adversarial-autoencoder))
 * Adversarial Deep Structural Networks for Mammographic Mass Segmentation? (  ) - ([PDF](https://arxiv.org/pdf/1612.05970.pdf)) ([Arxiv](https://arxiv.org/abs/1612.05970))
  
 * Adversarial Deep Structured Nets for Mass Segmentation from Mammograms (  ) - ([PDF](https://arxiv.org/pdf/1710.09288)) ([Arxiv](https://arxiv.org/abs/1710.09288))
@@ -95,7 +95,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 * Adversarial Transformation Networks: Learning to Generate Adversarial Examples (  ) - ([PDF](https://arxiv.org/pdf/1703.09387)) ([Arxiv](https://arxiv.org/abs/1703.09387))
  
 * Adversarially Learned Inference (ALI)? ( ALI ) - ([PDF](https://arxiv.org/pdf/1606.00704.pdf)) ([Arxiv](https://arxiv.org/abs/1606.00704))
- 
+ ([github](https://github.com/IshmaelBelghazi/ALI))
 * Adversarially Regularized Autoencoders for Generating Discrete Structures ( ARAE ) - ([PDF](https://arxiv.org/pdf/1706.04223)) ([Arxiv](https://arxiv.org/abs/1706.04223))
  ([github](https://github.com/jakezhaojb/ARAE))
 * AE-GAN: adversarial eliminating with GAN ( AE-GAN ) - ([PDF](https://arxiv.org/pdf/1707.05474)) ([Arxiv](https://arxiv.org/abs/1707.05474))
@@ -138,7 +138,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 * Auto-painter: Cartoon Image Generation from Sketch by Using Conditional Generative Adversarial Networks? (  ) - ([PDF](https://arxiv.org/pdf/1705.01908.pdf)) ([Arxiv](https://arxiv.org/abs/1705.01908))
  
 * Autoencoding beyond pixels using a learned similarity metric (VAE-GAN)? ( VAE-GAN ) - ([PDF](https://arxiv.org/pdf/1512.09300.pdf)) ([Arxiv](https://arxiv.org/abs/1512.09300))
- 
+ ([github](https://github.com/andersbll/autoencoding_beyond_pixels))
 * Automatic Liver Segmentation Using an Adversarial Image-to-Image Network? (  ) - ([PDF](https://arxiv.org/pdf/1707.08037.pdf)) ([Arxiv](https://arxiv.org/abs/1707.08037))
  
 * Bayesian Conditional Generative Adverserial Networks? ( BCGAN ) - ([PDF](https://arxiv.org/pdf/1706.05477.pdf)) ([Arxiv](https://arxiv.org/abs/1706.05477))
@@ -172,6 +172,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
  
 * Class-Splitting Generative Adversarial Networks? ( Splitting GAN ) - ([PDF](https://arxiv.org/pdf/1709.07359.pdf)) ([Arxiv](https://arxiv.org/abs/1709.07359))
  
+* cleverhans: A library for benchmarking vulnerability to adversarial examples ( CleverHANS ) - ([PDF](-))  ([github](https://github.com/openai/cleverhans))
 * CM-GANs: Cross-modal Generative Adversarial Networks for Common Representation Learning? ( CM-GAN ) - ([PDF](https://arxiv.org/pdf/1710.05106.pdf)) ([Arxiv](https://arxiv.org/abs/1710.05106))
  
 * Comparison of Maximum Likelihood and GAN-based training of Real NVPs? (  ) - ([PDF](https://arxiv.org/pdf/1705.05263.pdf)) ([Arxiv](https://arxiv.org/abs/1705.05263))
@@ -187,16 +188,16 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 * Conditional CycleGAN for Attribute Guided Face Image Generation? ( Conditional cycleGAN ) - ([PDF](https://arxiv.org/abs/1705.09966)) ([Arxiv](https://arxiv.org/abs/1705.09966))
  
 * Conditional Generative Adversarial Nets (CGAN)? ( CGAN ) - ([PDF](https://arxiv.org/pdf/1411.1784v1.pdf)) ([Arxiv](https://arxiv.org/abs/1411.1784v1))
- 
+ ([github](https://github.com/zhangqianhui/Conditional-Gans))
 * Conditional generative adversarial nets for convolutional face generation? (  ) - ([PDF](https://pdfs.semanticscholar.org/42f6/f5454dda99d8989f9814989efd50fe807ee8.pdf))  
 * Conditional Image Generation with PixelCNN Decoders? (  ) - ([PDF](https://arxiv.org/pdf/1606.05328.pdf)) ([Arxiv](https://arxiv.org/abs/1606.05328))
  
 * Conditional Image Synthesis with Auxiliary Classifier GANs (AC-GAN)? ( AC-GAN ) - ([PDF](https://arxiv.org/pdf/1610.09585.pdf)) ([Arxiv](https://arxiv.org/abs/1610.09585))
- 
+ ([github](https://github.com/buriburisuri/ac-gan))
 * Connecting Generative Adversarial Networks and Actor-Critic Methods? (  ) - ([PDF](https://arxiv.org/pdf/1610.01945.pdf)) ([Arxiv](https://arxiv.org/abs/1610.01945))
  
 * Context Encoders: Feature Learning by Inpainting? (  ) - ([PDF](https://arxiv.org/pdf/1604.07379)) ([Arxiv](https://arxiv.org/abs/1604.07379))
- 
+ ([github](https://github.com/jazzsaxmafia/Inpainting))
 * Context-Aware Generative Adversarial Privacy ( GAP ) - ([PDF](https://arxiv.org/pdf/1710.09549)) ([Arxiv](https://arxiv.org/abs/1710.09549))
  
 * Contextual RNN-GANs for Abstract Reasoning Diagram Generation (Context-RNN-GAN)? ( Context-RNN-GAN ) - ([PDF](https://arxiv.org/pdf/1609.09444.pdf)) ([Arxiv](https://arxiv.org/abs/1609.09444))
@@ -210,7 +211,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 * Coulomb GANs: Provably Optimal Nash Equilibria via Potential Fields ( Coulomb GAN ) - ([PDF](https://arxiv.org/pdf/1708.08819)) ([Arxiv](https://arxiv.org/abs/1708.08819))
  
 * Coupled Generative Adversarial Networks ( CoGAN ) - ([PDF](https://arxiv.org/pdf/1606.07536v2)) ([Arxiv](https://arxiv.org/abs/1606.07536v2))
- 
+ ([github](https://github.com/mingyuliutw/CoGAN))
 * Coupled Generative Adversarial Networks (CoGAN)? (  ) - ([PDF](https://arxiv.org/pdf/1606.07536)) ([Arxiv](https://arxiv.org/abs/1606.07536))
  
 * Creatism: A deep-learning photographer capable of creating professional work? (  ) - ([PDF](https://arxiv.org/pdf/1707.03491.pdf)) ([Arxiv](https://arxiv.org/abs/1707.03491))
@@ -241,7 +242,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 * Deep MR to CT Synthesis using Unpaired Data?[arXiv] (  ) - ([PDF](https://arxiv.org/pdf/1708.01155)) ([Arxiv](https://arxiv.org/abs/1708.01155))
  
 * Deep multi-scale video prediction beyond mean square error? (  ) - ([PDF](https://arxiv.org/pdf/1511.05440.pdf)) ([Arxiv](https://arxiv.org/abs/1511.05440))
- 
+ ([github](https://github.com/dyelax/Adversarial_Video_Generation))
 * Deep Unsupervised Representation Learning for Remote Sensing Images (MARTA-GAN)? ( MARTA-GAN ) - ([PDF](https://arxiv.org/pdf/1612.08879.pdf)) ([Arxiv](https://arxiv.org/abs/1612.08879))
  
 * DeLiGAN : Generative Adversarial Networks for Diverse and Limited Data? ( DeliGAN ) - ([PDF](https://arxiv.org/abs/1706.02071)) ([Arxiv](https://arxiv.org/abs/1706.02071))
@@ -269,7 +270,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
  
 * Energy-Based GANs & other Adversarial things by Yann Le Cun? (  ) - ([PDF](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf))  
 * Energy-based Generative Adversarial Network (EBGAN)? ( EBGAN ) - ([PDF](https://arxiv.org/pdf/1609.03126.pdf)) ([Arxiv](https://arxiv.org/abs/1609.03126v4))
- 
+ ([github](https://github.com/buriburisuri/ebgan))
 * Energy-relaxed Wassertein GANs (EnergyWGAN): Towards More Stable and High Resolution Image Generation ( EnergyWGAN ) - ([PDF](https://arxiv.org/pdf/1712.01026)) ([Arxiv](https://arxiv.org/abs/1712.01026))
  
 * Enhanced Experience Replay Generation for Efficient Reinforcement Learning ( EGAN ) - ([PDF](https://arxiv.org/pdf/1705.08245)) ([Arxiv](https://arxiv.org/abs/1705.08245))
@@ -360,6 +361,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
  
 * Generative Adversarial Networks ( GAN ) - ([PDF](https://arxiv.org/pdf/1406.2661)) ([Arxiv](https://arxiv.org/abs/1406.2661))
  ([github](https://github.com/goodfeli/adversarial))
+* Generative adversarial networks (GAN) applied to sequential data via recurrent neural networks (RNN) ( SequenceGAN ) - ([PDF](-))  ([github](https://github.com/ofirnachum/sequence_gan))
 * Generative Adversarial Networks as Variational Training of Energy Based Models ( VGAN ) - ([PDF](https://arxiv.org/pdf/1611.01799)) ([Arxiv](https://arxiv.org/abs/1611.01799))
  ([github](https://github.com/Shuangfei/vgan))
 * Generative adversarial networks for brain lesion detection?[JMI] (  ) - ([PDF](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10133/1/Generative-adversarial-networks-for-brain-lesion-detection/10.1117/12.2254487.short))  
@@ -380,9 +382,9 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 * Generative Cooperative Net for Image Generation and Data Augmentation? (  ) - ([PDF](https://arxiv.org/pdf/1705.02887.pdf)) ([Arxiv](https://arxiv.org/abs/1705.02887))
  
 * Generative face completion? (  ) - ([PDF](https://arxiv.org/pdf/1704.05838)) ([Arxiv](https://arxiv.org/abs/1704.05838))
- 
+ ([github](https://github.com/Yijunmaverick/GenerativeFaceCompletion))
 * Generative Image Modeling using Style and Structure Adversarial Networks (S^2GAN)? ( S^2GAN ) - ([PDF](https://arxiv.org/pdf/1603.05631.pdf)) ([Arxiv](https://arxiv.org/abs/1603.05631v2))
- 
+ ([github](https://github.com/xiaolonw/ss-gan))
 * Generative Mixture of Networks? (  ) - ([PDF](https://arxiv.org/pdf/1702.03307.pdf)) ([Arxiv](https://arxiv.org/abs/1702.03307))
  
 * Generative Moment Matching Networks? (  ) - ([PDF](https://arxiv.org/pdf/1502.02761.pdf)) ([Arxiv](https://arxiv.org/abs/1502.02761))
@@ -431,12 +433,14 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
  ([github](https://github.com/kodalinaveen3/DRAGAN))
 * HP-GAN: Probabilistic 3D human motion prediction via GAN ( HP-GAN ) - ([PDF](https://arxiv.org/pdf/1711.09561)) ([Arxiv](https://arxiv.org/abs/1711.09561))
  
+* HyperGAN (  ) - ([PDF](-))  ([github](https://github.com/255bits/HyperGAN))
 * Image De-raining Using a Conditional Generative Adversarial Network (ID-CGAN) ( ID-CGAN ) - ([PDF](https://arxiv.org/pdf/1701.05957)) ([Arxiv](https://arxiv.org/abs/1701.05957v3))
  
 * Image Generation and Editing with Variational Info Generative Adversarial Networks (ViGAN)? ( ViGAN ) - ([PDF](https://arxiv.org/pdf/1701.04568.pdf)) ([Arxiv](https://arxiv.org/abs/1701.04568v1))
  
 * Image Quality Assessment Techniques Show Improved Training and Evaluation of Autoencoder Generative Adversarial Networks? (  ) - ([PDF](https://arxiv.org/pdf/1708.02237.pdf)) ([Arxiv](https://arxiv.org/abs/1708.02237))
  
+* Image super-resolution through deep learning (  ) - ([PDF](-))  ([github](https://github.com/david-gpu/srez))
 * Image-to-Image Translation with Conditional Adversarial Networks (pix2pix)? ( pix2pix ) - ([PDF](https://arxiv.org/pdf/1611.07004.pdf)) ([Arxiv](https://arxiv.org/abs/1611.07004))
  ([github](https://github.com/phillipi/pix2pix))
 * Imitating Driver Behavior with Generative Adversarial Networks? (  ) - ([PDF](https://arxiv.org/pdf/1701.06699)) ([Arxiv](https://arxiv.org/abs/1701.06699))
@@ -452,6 +456,8 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 * Improved Techniques for Training GANs? (  ) - ([PDF](http://papers.nips.cc/paper/6124-improved-techniques-for-training-gans.pdf))  
 * Improved Training of Wasserstein GANs (WGAN-GP)? ( WGAN-GP ) - ([PDF](https://arxiv.org/pdf/1704.00028.pdf)) ([Arxiv](https://arxiv.org/abs/1704.00028))
  ([github](https://github.com/igul222/improved_wgan_training))
+* Improving Generative Adversarial Networks with Denoising Feature Matching (  ) - ([PDF](https://pdfs.semanticscholar.org/424a/f8e96c76de69153a0d528cf7d41d5c69a1a1.pdf)) ([Arxiv](https://openreview.net/forum?id=S1X7nhsxl))
+ ([github](https://github.com/hvy/chainer-gan-denoising-feature-matching))
 * Improving Heterogeneous Face Recognition with Conditional Adversarial Networks (  ) - ([PDF](https://arxiv.org/pdf/1709.02848.pdf)) ([Arxiv](https://arxiv.org/abs/1709.02848))
  
 * Improving image generative models with human interactions? (  ) - ([PDF](https://arxiv.org/pdf/1709.10459.pdf)) ([Arxiv](https://arxiv.org/abs/1709.10459))
@@ -499,7 +505,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 * Learning Disentangling and Fusing Networks for Face Completion Under Structured Occlusions ( DF-GAN ) - ([PDF](https://arxiv.org/pdf/1712.04646)) ([Arxiv](https://arxiv.org/abs/1712.04646))
  
 * Learning from Simulated and Unsupervised Images through Adversarial Training (SimGAN) by Apple? ( SimGAN ) - ([PDF](https://arxiv.org/pdf/1612.07828v1.pdf)) ([Arxiv](https://arxiv.org/abs/1612.07828v1))
- 
+ ([github](https://github.com/carpedm20/simulated-unsupervised-tensorflow))
 * Learning in Implicit Generative Models? (  ) - ([PDF](https://arxiv.org/pdf/1610.03483.pdf)) ([Arxiv](https://arxiv.org/abs/1610.03483))
  
 * Learning Inverse Mapping by Autoencoder based Generative Adversarial Nets ( AEGAN ) - ([PDF](https://arxiv.org/pdf/1703.10094)) ([Arxiv](https://arxiv.org/abs/1703.10094))
@@ -513,7 +519,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 * Learning Texture Manifolds with the Periodic Spatial GAN? ( PSGAN ) - ([PDF](https://arxiv.org/abs/1705.06566)) ([Arxiv](https://arxiv.org/abs/1705.06566))
  
 * Learning to Discover Cross-Domain Relations with Generative Adversarial Networks (DiscoGAN)? ( DiscoGAN ) - ([PDF](https://arxiv.org/pdf/1703.05192.pdf)) ([Arxiv](https://arxiv.org/abs/1703.05192v1))
- 
+ ([github](https://github.com/carpedm20/DiscoGAN-pytorch))
 * Learning to Fuse Music Genres with Generative Adversarial Dual Learning ( FusionGAN ) - ([PDF](https://arxiv.org/pdf/1712.01456)) ([Arxiv](https://arxiv.org/abs/1712.01456))
  
 * Learning to Generate Chairs with Generative Adversarial Nets? (  ) - ([PDF](https://arxiv.org/pdf/1705.10413.pdf)) ([Arxiv](https://arxiv.org/abs/1705.10413))
@@ -527,7 +533,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 * Learning What and Where to Draw (GAWWN)? ( GAWWN ) - ([PDF](https://arxiv.org/pdf/1610.02454v1.pdf)) ([Arxiv](https://arxiv.org/abs/1610.02454v1))
  ([github](https://github.com/reedscot/nips2016))
 * Least Squares Generative Adversarial Networks (LSGAN)? ( LSGAN ) - ([PDF](https://arxiv.org/pdf/1611.04076.pdf)) ([Arxiv](https://arxiv.org/abs/1611.04076v3))
- 
+ ([github](https://github.com/pfnet-research/chainer-LSGAN))
 * Likelihood Estimation for Generative Adversarial Networks ( LeGAN ) - ([PDF](https://arxiv.org/pdf/1707.07530)) ([Arxiv](https://arxiv.org/abs/1707.07530))
  
 * Linear Discriminant Generative Adversarial Networks ( LD-GAN ) - ([PDF](https://arxiv.org/pdf/1707.07831)) ([Arxiv](https://arxiv.org/abs/1707.07831))
@@ -623,15 +629,15 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 * Perceptual Generative Adversarial Networks for Small Object Detection? ( Perceptual GAN ) - ([PDF](https://arxiv.org/abs/1706.05274)) ([Arxiv](https://arxiv.org/abs/1706.05274))
  
 * Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network (SRGAN)? ( SRGAN ) - ([PDF](https://arxiv.org/pdf/1609.04802.pdf)) ([Arxiv](https://arxiv.org/abs/1609.04802))
- 
+ ([github](https://github.com/leehomyc/Photo-Realistic-Super-Resoluton))
 * Pipeline Generative Adversarial Networks for Facial Images Generation with Multiple Attributes ( Pip-GAN ) - ([PDF](https://arxiv.org/pdf/1711.10742)) ([Arxiv](https://arxiv.org/abs/1711.10742))
  
 * Pixel-Level Domain Transfer? (  ) - ([PDF](https://arxiv.org/pdf/1603.07442)) ([Arxiv](https://arxiv.org/abs/1603.07442))
- 
+ ([github](https://github.com/fxia22/PixelDTGAN))
 * PixelGAN Autoencoders? ( PixelGAN ) - ([PDF](https://arxiv.org/pdf/1706.00531.pdf)) ([Arxiv](https://arxiv.org/abs/1706.00531))
  
 * Plug & Play Generative Networks: Conditional Iterative Generation of Images in Latent Space (PPGN)? ( PPGN ) - ([PDF](https://arxiv.org/pdf/1612.00005.pdf)) ([Arxiv](https://arxiv.org/abs/1612.00005))
- 
+ ([github](https://github.com/Evolving-AI-Lab/ppgn))
 * Pose Guided Person Image Generation? (  ) - ([PDF](https://arxiv.org/pdf/1705.09368.pdf)) ([Arxiv](https://arxiv.org/abs/1705.09368))
  
 * Pose-Normalized Image Generation for Person Re-identification ( PN-GAN ) - ([PDF](https://arxiv.org/pdf/1712.02225)) ([Arxiv](https://arxiv.org/abs/1712.02225))
@@ -647,7 +653,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 * Real-valued (Medical) Time Series Generation with Recurrent Conditional GANs ( RCGAN ) - ([PDF](https://arxiv.org/pdf/1706.02633)) ([Arxiv](https://arxiv.org/abs/1706.02633))
  
 * Reconstruction of three-dimensional porous media using generative adversarial neural networks? (  ) - ([PDF](https://arxiv.org/pdf/1704.03225)) ([Arxiv](https://arxiv.org/abs/1704.03225))
- 
+ ([github](https://github.com/LukasMosser/PorousMediaGan))
 * Recurrent Generative Adversarial Networks for Proximal Learning and Automated Compressive Image Recovery (  ) - ([PDF](https://arxiv.org/pdf/1711.10046)) ([Arxiv](https://arxiv.org/abs/1711.10046))
  
 * Recurrent Topic-Transition GAN for Visual Paragraph Generation (RTT-GAN)? ( RTT-GAN ) - ([PDF](https://arxiv.org/pdf/1703.07022.pdf)) ([Arxiv](https://arxiv.org/abs/1703.07022v2))
@@ -729,7 +735,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 * StackGAN++: Realistic Image Synthesis with Stacked Generative Adversarial Networks? (  ) - ([PDF](https://arxiv.org/pdf/1710.10916.pdf)) ([Arxiv](https://arxiv.org/abs/1710.10916))
  
 * StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks? ( StackGAN ) - ([PDF](https://arxiv.org/pdf/1612.03242.pdf)) ([Arxiv](https://arxiv.org/abs/1612.03242v1))
- 
+ ([github](https://github.com/hanzhanggit/StackGAN))
 * StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation ( StarGAN ) - ([PDF](https://arxiv.org/pdf/1711.09020)) ([Arxiv](https://arxiv.org/abs/1711.09020))
  ([github](https://github.com/yunjey/StarGAN))
 * Statistics of Deep Generated Images? (  ) - ([PDF](https://arxiv.org/pdf/1708.02688.pdf)) ([Arxiv](https://arxiv.org/abs/1708.02688))
@@ -752,7 +758,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 * Synthesizing Filamentary Structured Images with GANs? ( Fila-GAN ) - ([PDF](https://arxiv.org/abs/1706.02185)) ([Arxiv](https://arxiv.org/abs/1706.02185))
  ([github](https://web.bii.a-star.edu.sg/archive/machine_learning/Projects/filaStructObjs/Synthesis/downloads.html))
 * Synthesizing the preferred inputs for neurons in neural networks via deep generator networks? (  ) - ([PDF](https://arxiv.org/pdf/1605.09304)) ([Arxiv](https://arxiv.org/abs/1605.09304))
- 
+ ([github](https://github.com/Evolving-AI-Lab/synthesizing))
 * Synthetic Medical Images from Dual Generative Adversarial Networks?[arXiv] (  ) - ([PDF](https://arxiv.org/abs/1709.01872)) ([Arxiv](https://arxiv.org/abs/1709.01872))
  
 * TAC-GAN - Text Conditioned Auxiliary Classifier Generative Adversarial Network ( TAC-GAN ) - ([PDF](https://arxiv.org/pdf/1703.06412.pdf)) ([Arxiv](https://arxiv.org/abs/1703.06412v2))
@@ -823,7 +829,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 * Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery (AnoGAN)? ( AnoGAN ) - ([PDF](https://arxiv.org/pdf/1703.05921.pdf)) ([Arxiv](https://arxiv.org/abs/1703.05921v1))
  
 * Unsupervised Cross-Domain Image Generation (DTN)? ( DTN ) - ([PDF](https://arxiv.org/pdf/1611.02200.pdf)) ([Arxiv](https://arxiv.org/abs/1611.02200))
- 
+ ([github](https://github.com/yunjey/domain-transfer-network))
 * Unsupervised Diverse Colorization via Generative Adversarial Networks? (  ) - ([PDF](https://arxiv.org/pdf/1702.06674.pdf)) ([Arxiv](https://arxiv.org/abs/1702.06674))
  
 * Unsupervised Generative Adversarial Cross-modal Hashing ( UGACH ) - ([PDF](https://arxiv.org/pdf/1712.00358)) ([Arxiv](https://arxiv.org/abs/1712.00358))

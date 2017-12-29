@@ -15,7 +15,7 @@ Mnum	Abbr.	Title	Year	Month	Citations	pdf	Arxiv	Official_Code	No	SN	Medical
 14	ACtuAL	ACtuAL: Actor-Critic Under Adversarial Learning	2017	11		https://arxiv.org/pdf/1711.04755	https://arxiv.org/abs/1711.04755	-	198
 15	AdaGAN	AdaGAN: Boosting Generative Models?	2017	1	19	https://arxiv.org/pdf/1701.02386.pdf	https://arxiv.org/abs/1701.02386v1	-	54	80
 16		Adversarial Attacks on Neural Network Policies?	2017		21	https://arxiv.org/pdf/1702.02284.pdf	https://arxiv.org/abs/1702.02284	-		77
-17		Adversarial Autoencoders?	2015		163	https://arxiv.org/pdf/1511.05644.pdf	https://arxiv.org/abs/1511.05644	-		14
+17		Adversarial Autoencoders?	2015		163	https://arxiv.org/pdf/1511.05644.pdf	https://arxiv.org/abs/1511.05644	https://github.com/musyoku/adversarial-autoencoder		14
 18		Adversarial Deep Structural Networks for Mammographic Mass Segmentation?	2017		7	https://arxiv.org/pdf/1612.05970.pdf	https://arxiv.org/abs/1612.05970	-		132
 19		Adversarial Deep Structured Nets for Mass Segmentation from Mammograms				https://arxiv.org/pdf/1710.09288	https://arxiv.org/abs/1710.09288	https://github.com/wentaozhu/adversarial-deep-structural-networks			Segmentation
 20		Adversarial Discriminative Domain Adaptation?	2017		52	https://arxiv.org/pdf/1702.05464.pdf	https://arxiv.org/abs/1702.05464	-		52
@@ -36,7 +36,7 @@ Mnum	Abbr.	Title	Year	Month	Citations	pdf	Arxiv	Official_Code	No	SN	Medical
 35	SketchGAN	Adversarial Training For Sketch Retrieval (SketchGAN)?	2016	7	4	https://arxiv.org/pdf/1607.02748.pdf	https://arxiv.org/abs/1607.02748	-	17	168
 36		Adversarial Training Methods for Semi-Supervised Text Classification?	2016		9	https://arxiv.org/abs/1605.07725	https://arxiv.org/abs/1605.07725	-		122
 37		Adversarial Transformation Networks: Learning to Generate Adversarial Examples	2017		11	https://arxiv.org/pdf/1703.09387	https://arxiv.org/abs/1703.09387	-		107
-38	ALI	Adversarially Learned Inference (ALI)?	2016	6	129	https://arxiv.org/pdf/1606.00704.pdf	https://arxiv.org/abs/1606.00704	-	12	21
+38	ALI	Adversarially Learned Inference (ALI)?	2016	6	129	https://arxiv.org/pdf/1606.00704.pdf	https://arxiv.org/abs/1606.00704	https://github.com/IshmaelBelghazi/ALI	12	21
 39	ARAE	Adversarially Regularized Autoencoders for Generating Discrete Structures	2017	6		https://arxiv.org/pdf/1706.04223	https://arxiv.org/abs/1706.04223	https://github.com/jakezhaojb/ARAE	125
 40	AE-GAN	AE-GAN: adversarial eliminating with GAN	2017	7		https://arxiv.org/pdf/1707.05474	https://arxiv.org/abs/1707.05474	-	146
 41		Aesthetic-Driven Image Enhancement by Adversarial Learning?	2017		1	https://arxiv.org/pdf/1707.05251.pdf	https://arxiv.org/abs/1707.05251	-		214
@@ -58,7 +58,7 @@ Mnum	Abbr.	Title	Year	Month	Citations	pdf	Arxiv	Official_Code	No	SN	Medical
 57		"Attend, infer, repeat: Fast scene understanding with generative models?"	2016		42	https://arxiv.org/pdf/1603.08575.pdf	https://arxiv.org/abs/1603.08575	-		57
 58	AttnGAN	AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks	2017	11		https://arxiv.org/pdf/1711.10485	https://arxiv.org/abs/1711.10485	-	200
 59		Auto-Encoder Guided GAN for Chinese Calligraphy Synthesis?	2017		3	https://arxiv.org/abs/1706.08789	https://arxiv.org/abs/1706.08789	-		192
-60	VAE-GAN	Autoencoding beyond pixels using a learned similarity metric (VAE-GAN)?	2015	12	155	https://arxiv.org/pdf/1512.09300.pdf	https://arxiv.org/abs/1512.09300	-	6	16
+60	VAE-GAN	Autoencoding beyond pixels using a learned similarity metric (VAE-GAN)?	2015	12	155	https://arxiv.org/pdf/1512.09300.pdf	https://arxiv.org/abs/1512.09300	https://github.com/andersbll/autoencoding_beyond_pixels	6	16
 61		Automatic Liver Segmentation Using an Adversarial Image-to-Image Network?	2017		1	https://arxiv.org/pdf/1707.08037.pdf	https://arxiv.org/abs/1707.08037	-		215	Segmentation
 62		Auto-painter: Cartoon Image Generation from Sketch by Using Conditional Generative Adversarial Networks?	2017		2	https://arxiv.org/pdf/1705.01908.pdf	https://arxiv.org/abs/1705.01908	-		205
 63	BCGAN	Bayesian Conditional Generative Adverserial Networks?	2017	6	0	https://arxiv.org/pdf/1706.05477.pdf	https://arxiv.org/abs/1706.05477	-	126	255
@@ -76,6 +76,7 @@ Mnum	Abbr.	Title	Year	Month	Citations	pdf	Arxiv	Official_Code	No	SN	Medical
 75	crVAE-GAN	Channel-Recurrent Variational Autoencoders	2017	6		https://arxiv.org/pdf/1706.03729	https://arxiv.org/abs/1706.03729	-	129
 76	HAN	Chinese Typeface Transformation with Hierarchical Adversarial Network	2017	11		https://arxiv.org/pdf/1711.06448	https://arxiv.org/abs/1711.06448	-	216
 77	Splitting GAN	Class-Splitting Generative Adversarial Networks?	2017	9	1	https://arxiv.org/pdf/1709.07359.pdf	https://arxiv.org/abs/1709.07359	-	187	212
+	CleverHANS	cleverhans: A library for benchmarking vulnerability to adversarial examples				-	-	https://github.com/openai/cleverhans
 78	CM-GAN	CM-GANs: Cross-modal Generative Adversarial Networks for Common Representation Learning?	2017	10	0	https://arxiv.org/pdf/1710.05106.pdf	https://arxiv.org/abs/1710.05106	-	189	257
 79		Comparison of Maximum Likelihood and GAN-based training of Real NVPs?	2017		7	https://arxiv.org/pdf/1705.05263.pdf	https://arxiv.org/abs/1705.05263	-		130
 80	CA-GAN	Composition-aided Sketch-realistic Portrait Generation	2017	12		https://arxiv.org/pdf/1712.00899	https://arxiv.org/abs/1712.00899	-	236
@@ -83,19 +84,19 @@ Mnum	Abbr.	Title	Year	Month	Citations	pdf	Arxiv	Official_Code	No	SN	Medical
 82		Conditional Adversarial Network for Semantic Segmentation of Brain Tumor?	2017		0	https://arxiv.org/pdf/1708.05227	https://arxiv.org/abs/1708.05227	-		278
 83	IFcVAEGAN	Conditional Autoencoders with Adversarial Information Factorization	2017	11		https://arxiv.org/pdf/1711.05175	https://arxiv.org/abs/1711.05175	-	222
 84	Conditional cycleGAN	Conditional CycleGAN for Attribute Guided Face Image Generation?	2017	5	6	https://arxiv.org/abs/1705.09966	https://arxiv.org/abs/1705.09966	-	102	150
-85	CGAN	Conditional Generative Adversarial Nets (CGAN)?	2014	11	321	https://arxiv.org/pdf/1411.1784v1.pdf	https://arxiv.org/abs/1411.1784v1	-	2	6
+85	CGAN	Conditional Generative Adversarial Nets (CGAN)?	2014	11	321	https://arxiv.org/pdf/1411.1784v1.pdf	https://arxiv.org/abs/1411.1784v1	https://github.com/zhangqianhui/Conditional-Gans	2	6
 86		Conditional generative adversarial nets for convolutional face generation?	2014		67	https://pdfs.semanticscholar.org/42f6/f5454dda99d8989f9814989efd50fe807ee8.pdf	-	-		42
 87		Conditional Image Generation with PixelCNN Decoders?	2015		140	https://arxiv.org/pdf/1606.05328.pdf	https://arxiv.org/abs/1606.05328	-		19
-88	AC-GAN	Conditional Image Synthesis with Auxiliary Classifier GANs (AC-GAN)?	2016	10	86	https://arxiv.org/pdf/1610.09585.pdf	https://arxiv.org/abs/1610.09585	-	26	34
+88	AC-GAN	Conditional Image Synthesis with Auxiliary Classifier GANs (AC-GAN)?	2016	10	86	https://arxiv.org/pdf/1610.09585.pdf	https://arxiv.org/abs/1610.09585	https://github.com/buriburisuri/ac-gan	26	34
 89		Connecting Generative Adversarial Networks and Actor-Critic Methods?	2016		18	https://arxiv.org/pdf/1610.01945.pdf	https://arxiv.org/abs/1610.01945	-		83
-90		Context Encoders: Feature Learning by Inpainting?	2016		217	https://arxiv.org/pdf/1604.07379	https://arxiv.org/abs/1604.07379	-		12
+90		Context Encoders: Feature Learning by Inpainting?	2016		217	https://arxiv.org/pdf/1604.07379	https://arxiv.org/abs/1604.07379	https://github.com/jazzsaxmafia/Inpainting		12
 91	GAP	Context-Aware Generative Adversarial Privacy	2017	10		https://arxiv.org/pdf/1710.09549	https://arxiv.org/abs/1710.09549	-	191
 92	Context-RNN-GAN	Contextual RNN-GANs for Abstract Reasoning Diagram Generation (Context-RNN-GAN)?	2016	9	6	https://arxiv.org/pdf/1609.09444.pdf	https://arxiv.org/abs/1609.09444	-	18	142
 93		Continual Learning in Generative Adversarial Nets?	2017		1	https://arxiv.org/abs/1705.08395	https://arxiv.org/abs/1705.08395	-		241
 94	CGAN	Controllable Generative Adversarial Network?	2017	8	0	https://arxiv.org/pdf/1708.00598.pdf	https://arxiv.org/abs/1708.00598	-	164	279
 95		Cooperative Training of Descriptor and Generator Networks?	2016		10	https://arxiv.org/pdf/1609.09408.pdf	https://arxiv.org/abs/1609.09408	-		110
 96	Coulomb GAN	Coulomb GANs: Provably Optimal Nash Equilibria via Potential Fields	2017	8		https://arxiv.org/pdf/1708.08819	https://arxiv.org/abs/1708.08819	-	166
-97	CoGAN	Coupled Generative Adversarial Networks	2016	6		https://arxiv.org/pdf/1606.07536v2	https://arxiv.org/abs/1606.07536v2	-	13
+97	CoGAN	Coupled Generative Adversarial Networks	2016	6		https://arxiv.org/pdf/1606.07536v2	https://arxiv.org/abs/1606.07536v2	https://github.com/mingyuliutw/CoGAN	13
 98		Coupled Generative Adversarial Networks (CoGAN)?	2016		90	https://arxiv.org/pdf/1606.07536	https://arxiv.org/abs/1606.07536	-		33
 99		Creatism: A deep-learning photographer capable of creating professional work?	2017		1	https://arxiv.org/pdf/1707.03491.pdf	https://arxiv.org/abs/1707.03491	-		217
 100	C-RNN-GAN	C-RNN-GAN: Continuous recurrent neural networks with adversarial training?	2016	11	12	https://arxiv.org/pdf/1611.09904.pdf	https://arxiv.org/abs/1611.09904	https://github.com/olofmogren/c-rnn-gan/	30	96
@@ -112,7 +113,7 @@ Mnum	Abbr.	Title	Year	Month	Citations	pdf	Arxiv	Official_Code	No	SN	Medical
 111		Deep Generative Adversarial Neural Networks for Realistic Prostate Lesion MRI Synthesis?	2017		0	https://arxiv.org/pdf/1708.00129.pdf	https://arxiv.org/abs/1708.00129	-		281
 112	LAPGAN	Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks (LAPGAN)?	2015	6	405	https://arxiv.org/pdf/1506.05751.pdf	https://arxiv.org/abs/1506.05751	https://github.com/facebook/eyescream	3	4
 113		Deep MR to CT Synthesis using Unpaired Data?[arXiv]				https://arxiv.org/pdf/1708.01155	https://arxiv.org/abs/1708.01155	-			Synthersize
-114		Deep multi-scale video prediction beyond mean square error?	2015		200	https://arxiv.org/pdf/1511.05440.pdf	https://arxiv.org/abs/1511.05440	-		13
+114		Deep multi-scale video prediction beyond mean square error?	2015		200	https://arxiv.org/pdf/1511.05440.pdf	https://arxiv.org/abs/1511.05440	https://github.com/dyelax/Adversarial_Video_Generation		13
 115	MARTA-GAN	Deep Unsupervised Representation Learning for Remote Sensing Images (MARTA-GAN)?	2016	12	1	https://arxiv.org/pdf/1612.08879.pdf	https://arxiv.org/abs/1612.08879	-	46	229
 116	DeliGAN	DeLiGAN : Generative Adversarial Networks for Diverse and Limited Data?	2017	6	7	https://arxiv.org/abs/1706.02071	https://arxiv.org/abs/1706.02071	https://github.com/val-iisc/deligan	130	140
 117	DSP-GAN	Depth Structure Preserving Scene Image Generation?	2017	6	0	https://arxiv.org/abs/1706.00212	https://arxiv.org/abs/1706.00212	-	132	251
@@ -126,7 +127,7 @@ Mnum	Abbr.	Title	Year	Month	Citations	pdf	Arxiv	Official_Code	No	SN	Medical
 125	Dualing GAN	Dualing GANs?	2017	6	0	https://arxiv.org/pdf/1706.06216.pdf	https://arxiv.org/abs/1706.06216	-	133	258
 126	Dynamics Transfer GAN	Dynamics Transfer GAN: Generating Video by Transferring Arbitrary Temporal Dynamics from a Source Video to a Single Target Image	2017	12		https://arxiv.org/pdf/1712.03534	https://arxiv.org/abs/1712.03534	-	238
 127		End-to-end Adversarial Retinal Image Synthesis?[TMI]?(published vision of the above preprint)				http://ieeexplore.ieee.org/abstract/document/8055572/	http://ieeexplore.ieee.org/abstract/document/8055572/	-			Synthersize
-128	EBGAN	Energy-based Generative Adversarial Network (EBGAN)?	2016	9	158	https://arxiv.org/pdf/1609.03126.pdf	https://arxiv.org/abs/1609.03126v4	-	19	15
+128	EBGAN	Energy-based Generative Adversarial Network (EBGAN)?	2016	9	158	https://arxiv.org/pdf/1609.03126.pdf	https://arxiv.org/abs/1609.03126v4	https://github.com/buriburisuri/ebgan	19	15
 129	EnergyWGAN	Energy-relaxed Wassertein GANs (EnergyWGAN): Towards More Stable and High Resolution Image Generation	2017	12		https://arxiv.org/pdf/1712.01026	https://arxiv.org/abs/1712.01026	-	239
 130	EGAN	Enhanced Experience Replay Generation for Efficient Reinforcement Learning	2017	5		https://arxiv.org/pdf/1705.08245	https://arxiv.org/abs/1705.08245	-	106
 131		Ensembles of Generative Adversarial Networks?	2016		4	https://arxiv.org/pdf/1612.00991.pdf	https://arxiv.org/abs/1612.00991	-		167
@@ -172,6 +173,7 @@ Mnum	Abbr.	Title	Year	Month	Citations	pdf	Arxiv	Official_Code	No	SN	Medical
 171	ResGAN	Generative Adversarial Network based on Resnet for Conditional Image Restoration	2017	7	0	https://arxiv.org/pdf/1707.04881.pdf	https://arxiv.org/abs/1707.04881	-	155	285
 172	GAN-VFS	Generative Adversarial Network-based Synthesis of Visible Faces from Polarimetric Thermal Faces?	2017	8	1	https://arxiv.org/pdf/1708.02681.pdf	https://arxiv.org/abs/1708.02681	-	169	219
 173	GAN	Generative Adversarial Networks	2014	6		https://arxiv.org/pdf/1406.2661	https://arxiv.org/abs/1406.2661	https://github.com/goodfeli/adversarial	1
+	SequenceGAN	Generative adversarial networks (GAN) applied to sequential data via recurrent neural networks (RNN)				-	-	https://github.com/ofirnachum/sequence_gan
 174	VGAN	Generative Adversarial Networks as Variational Training of Energy Based Models	2016	11	3	https://arxiv.org/pdf/1611.01799	https://arxiv.org/abs/1611.01799	https://github.com/Shuangfei/vgan	43	185
 175		Generative adversarial networks for brain lesion detection?[JMI]				https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10133/1/Generative-adversarial-networks-for-brain-lesion-detection/10.1117/12.2254487.short	-	-			Detection
 176		Generative Adversarial Networks for Multimodal Representation Learning in Video Hyperlinking?	2017		1	https://arxiv.org/abs/1705.05103	https://arxiv.org/abs/1705.05103	-		240
@@ -183,8 +185,8 @@ Mnum	Abbr.	Title	Year	Month	Citations	pdf	Arxiv	Official_Code	No	SN	Medical
 182	GAN-CLS	Generative Adversarial Text to Image Synthesis?	2016	5	225	https://arxiv.org/pdf/1605.05396	https://arxiv.org/abs/1605.05396	https://github.com/reedscot/icml2016	11	11
 183		Generative Adversarial Trainer: Defense to Adversarial Perturbations with GAN?	2017		0	https://arxiv.org/pdf/1705.03387	https://arxiv.org/abs/1705.03387	-		250
 184		Generative Cooperative Net for Image Generation and Data Augmentation?	2017		0	https://arxiv.org/pdf/1705.02887.pdf	https://arxiv.org/abs/1705.02887	-		249
-185		Generative face completion?	2016		15	https://arxiv.org/pdf/1704.05838	https://arxiv.org/abs/1704.05838	-		89
-186	S^2GAN	Generative Image Modeling using Style and Structure Adversarial Networks (S^2GAN)?	2016	3	82	https://arxiv.org/pdf/1603.05631.pdf	https://arxiv.org/abs/1603.05631v2	-	8	36
+185		Generative face completion?	2016		15	https://arxiv.org/pdf/1704.05838	https://arxiv.org/abs/1704.05838	https://github.com/Yijunmaverick/GenerativeFaceCompletion		89
+186	S^2GAN	Generative Image Modeling using Style and Structure Adversarial Networks (S^2GAN)?	2016	3	82	https://arxiv.org/pdf/1603.05631.pdf	https://arxiv.org/abs/1603.05631v2	https://github.com/xiaolonw/ss-gan	8	36
 187		Generative Mixture of Networks?	2017		0	https://arxiv.org/pdf/1702.03307.pdf	https://arxiv.org/abs/1702.03307	-		245
 188		Generative Moment Matching Networks?	2015		120	https://arxiv.org/pdf/1502.02761.pdf	https://arxiv.org/abs/1502.02761	-		23
 189	GMAN	Generative Multi-Adversarial Networks?	2016	11	19	https://arxiv.org/pdf/1611.01673.pdf	http://arxiv.org/abs/1611.01673	-	33	79
@@ -209,13 +211,16 @@ Mnum	Abbr.	Title	Year	Month	Citations	pdf	Arxiv	Official_Code	No	SN	Medical
 208		How to Fool Radiologists with Generative Adversarial Networks? A Visual Turing Test for Lung Cancer Diagnosis?	2017		0	https://arxiv.org/pdf/1710.09762.pdf	https://arxiv.org/abs/1710.09762	-		287	Synthersize
 209	DRAGAN	How to Train Your DRAGAN?	2017	5	9	https://arxiv.org/pdf/1705.07215	https://arxiv.org/abs/1705.07215	https://github.com/kodalinaveen3/DRAGAN	104	125
 210	HP-GAN	HP-GAN: Probabilistic 3D human motion prediction via GAN	2017	11		https://arxiv.org/pdf/1711.09561	https://arxiv.org/abs/1711.09561	-	217
+		HyperGAN				-	-	https://github.com/255bits/HyperGAN
 211	ID-CGAN	Image De-raining Using a Conditional Generative Adversarial Network (ID-CGAN)	2017	1	11	https://arxiv.org/pdf/1701.05957	https://arxiv.org/abs/1701.05957v3	-	55	103
 212	ViGAN	Image Generation and Editing with Variational Info Generative Adversarial Networks (ViGAN)?	2017	1	1	https://arxiv.org/pdf/1701.04568.pdf	https://arxiv.org/abs/1701.04568v1	-	59	231
 213		Image Quality Assessment Techniques Show Improved Training and Evaluation of Autoencoder Generative Adversarial Networks?	2017		0	https://arxiv.org/pdf/1708.02237.pdf	https://arxiv.org/abs/1708.02237	-		261
+		Image super-resolution through deep learning				-	-	https://github.com/david-gpu/srez
 214	pix2pix	Image-to-Image Translation with Conditional Adversarial Networks (pix2pix)?	2016	11	320	https://arxiv.org/pdf/1611.07004.pdf	https://arxiv.org/abs/1611.07004	https://github.com/phillipi/pix2pix	44	7
 215		Imitating Driver Behavior with Generative Adversarial Networks?	2017		11	https://arxiv.org/pdf/1701.06699	https://arxiv.org/abs/1701.06699	-		102
 216	3D-IWGAN	Improved Adversarial Systems for 3D Object Generation and Reconstruction?	2017	7	0	https://arxiv.org/pdf/1707.09557.pdf	https://arxiv.org/abs/1707.09557	https://github.com/EdwardSmith1884/3D-IWGAN	145	290
 217		Improved generator objectives for GANs?	2017		10	https://arxiv.org/pdf/1612.02780.pdf	https://arxiv.org/abs/1612.02780	-		113
+		Improving Generative Adversarial Networks with Denoising Feature Matching				https://pdfs.semanticscholar.org/424a/f8e96c76de69153a0d528cf7d41d5c69a1a1.pdf	https://openreview.net/forum?id=S1X7nhsxl	https://github.com/hvy/chainer-gan-denoising-feature-matching
 218		Improved Semi-supervised Learning with GANs using Manifold Invariances?	2017		11	https://arxiv.org/abs/1705.08850	https://arxiv.org/abs/1705.08850	-		108
 219	Improved GAN	Improved Techniques for Training GANs?	2016	6	436	https://arxiv.org/pdf/1606.03498v1.pdf	https://arxiv.org/abs/1606.03498v1	https://github.com/openai/improved-gan	14	3
 220	WGAN-GP	Improved Training of Wasserstein GANs (WGAN-GP)?	2017	4	134	https://arxiv.org/pdf/1704.00028.pdf	https://arxiv.org/abs/1704.00028	https://github.com/igul222/improved_wgan_training	99	20
@@ -242,21 +247,21 @@ Mnum	Abbr.	Title	Year	Month	Citations	pdf	Arxiv	Official_Code	No	SN	Medical
 241	ConceptGAN	Learning Compositional Visual Concepts with Mutual Consistency	2017	11		https://arxiv.org/pdf/1711.06148	https://arxiv.org/abs/1711.06148	-	205
 242	SteinGAN	Learning Deep Energy Models: Contrastive Divergence vs. Amortized MLE	2017	7		https://arxiv.org/pdf/1707.00797	https://arxiv.org/abs/1707.00797	-	158
 243	DF-GAN	Learning Disentangling and Fusing Networks for Face Completion Under Structured Occlusions	2017	12		https://arxiv.org/pdf/1712.04646	https://arxiv.org/abs/1712.04646	-	237
-244	SimGAN	Learning from Simulated and Unsupervised Images through Adversarial Training (SimGAN) by Apple?	2016	12	80	https://arxiv.org/pdf/1612.07828v1.pdf	https://arxiv.org/abs/1612.07828v1	-	52	38
+244	SimGAN	Learning from Simulated and Unsupervised Images through Adversarial Training (SimGAN) by Apple?	2016	12	80	https://arxiv.org/pdf/1612.07828v1.pdf	https://arxiv.org/abs/1612.07828v1	https://github.com/carpedm20/simulated-unsupervised-tensorflow	52	38
 245		Learning in Implicit Generative Models?	2016		43	https://arxiv.org/pdf/1610.03483.pdf	https://arxiv.org/abs/1610.03483	-		56
 246	AEGAN	Learning Inverse Mapping by Autoencoder based Generative Adversarial Nets	2017	3		https://arxiv.org/pdf/1703.10094	https://arxiv.org/abs/1703.10094	-	70
 247		Learning Loss for Knowledge Distillation with Conditional Adversarial Networks?	2017		0	https://arxiv.org/pdf/1709.00513.pdf	https://arxiv.org/abs/1709.00513	-		263
 248	LAGAN	Learning Particle Physics by Example: Location-Aware Generative Adversarial Networks for Physics Synthesis	2017	1		https://arxiv.org/pdf/1701.05927	https://arxiv.org/abs/1701.05927	-	56
 249		Learning Representations of Emotional Speech with Deep Convolutional Generative Adversarial Networks?	2017		6	https://arxiv.org/pdf/1705.02394	https://arxiv.org/abs/1705.02394	-		147
 250	PSGAN	Learning Texture Manifolds with the Periodic Spatial GAN?	2017	5	2	https://arxiv.org/abs/1705.06566	https://arxiv.org/abs/1705.06566	-	113	207
-251	DiscoGAN	Learning to Discover Cross-Domain Relations with Generative Adversarial Networks (DiscoGAN)?	2017	3	54	https://arxiv.org/pdf/1703.05192.pdf	https://arxiv.org/abs/1703.05192v1	-	77	50
+251	DiscoGAN	Learning to Discover Cross-Domain Relations with Generative Adversarial Networks (DiscoGAN)?	2017	3	54	https://arxiv.org/pdf/1703.05192.pdf	https://arxiv.org/abs/1703.05192v1	https://github.com/carpedm20/DiscoGAN-pytorch	77	50
 252	FusionGAN	Learning to Fuse Music Genres with Generative Adversarial Dual Learning	2017	12		https://arxiv.org/pdf/1712.01456	https://arxiv.org/abs/1712.01456	-	242
 253		Learning to Generate Chairs with Generative Adversarial Nets?	2017		0	https://arxiv.org/pdf/1705.10413.pdf	https://arxiv.org/abs/1705.10413	-		293
 254	AL-CGAN	Learning to Generate Images of Outdoor Scenes from Attributes and Semantic Layouts (AL-CGAN)?	2016	12	7	https://arxiv.org/pdf/1612.00215.pdf	https://arxiv.org/abs/1612.00215	-	45	133
 255	MD-GAN	Learning to Generate Time-Lapse Videos Using Multi-Stage Dynamic Generative Adversarial Networks?	2017	9	0	https://arxiv.org/pdf/1709.07592.pdf	https://arxiv.org/abs/1709.07592	-	182	294
 256		Learning to Protect Communications with Adversarial Neural Cryptography?	2016		21	https://arxiv.org/pdf/1610.06918	https://arxiv.org/abs/1610.06918	-		76
 257	GAWWN	Learning What and Where to Draw (GAWWN)?	2016	10	49	https://arxiv.org/pdf/1610.02454v1.pdf	https://arxiv.org/abs/1610.02454v1	https://github.com/reedscot/nips2016	28	54
-258	LSGAN	Least Squares Generative Adversarial Networks (LSGAN)?	2016	11	58	https://arxiv.org/pdf/1611.04076.pdf	https://arxiv.org/abs/1611.04076v3	-	35	48
+258	LSGAN	Least Squares Generative Adversarial Networks (LSGAN)?	2016	11	58	https://arxiv.org/pdf/1611.04076.pdf	https://arxiv.org/abs/1611.04076v3	https://github.com/pfnet-research/chainer-LSGAN	35	48
 259	LeGAN	Likelihood Estimation for Generative Adversarial Networks	2017	7		https://arxiv.org/pdf/1707.07530	https://arxiv.org/abs/1707.07530	-	152
 260	LD-GAN	Linear Discriminant Generative Adversarial Networks	2017	7		https://arxiv.org/pdf/1707.07831	https://arxiv.org/abs/1707.07831	-	151
 261		Linking Generative Adversarial Learning and Binary Classification?	2017		0	https://arxiv.org/pdf/1709.01509.pdf	https://arxiv.org/abs/1709.01509	-		264
@@ -303,11 +308,11 @@ Mnum	Abbr.	Title	Year	Month	Citations	pdf	Arxiv	Official_Code	No	SN	Medical
 302	PassGAN	PassGAN: A Deep Learning Approach for Password Guessing	2017	9		https://arxiv.org/pdf/1709.00440	https://arxiv.org/abs/1709.00440	-	185
 303	PAN	Perceptual Adversarial Networks for Image-to-Image Transformation?	2017	6	4	https://arxiv.org/pdf/1706.09138	https://arxiv.org/abs/1706.09138	-	138	177
 304	Perceptual GAN	Perceptual Generative Adversarial Networks for Small Object Detection?	2017	6	10	https://arxiv.org/abs/1706.05274	https://arxiv.org/abs/1706.05274	-	139	116
-305	SRGAN	Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network (SRGAN)?	2016	9	281	https://arxiv.org/pdf/1609.04802.pdf	https://arxiv.org/abs/1609.04802	-	21	9
+305	SRGAN	Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network (SRGAN)?	2016	9	281	https://arxiv.org/pdf/1609.04802.pdf	https://arxiv.org/abs/1609.04802	https://github.com/leehomyc/Photo-Realistic-Super-Resoluton	21	9
 306	Pip-GAN	Pipeline Generative Adversarial Networks for Facial Images Generation with Multiple Attributes	2017	11		https://arxiv.org/pdf/1711.10742	https://arxiv.org/abs/1711.10742	-	229
 307	PixelGAN	PixelGAN Autoencoders?	2017	6	3	https://arxiv.org/pdf/1706.00531.pdf	https://arxiv.org/abs/1706.00531	-	140	179
-308		Pixel-Level Domain Transfer?	2016		30	https://arxiv.org/pdf/1603.07442	https://arxiv.org/abs/1603.07442	-		68
-309	PPGN	Plug & Play Generative Networks: Conditional Iterative Generation of Images in Latent Space (PPGN)?	2016	12	58	https://arxiv.org/pdf/1612.00005.pdf	https://arxiv.org/abs/1612.00005	-	49	47
+308		Pixel-Level Domain Transfer?	2016		30	https://arxiv.org/pdf/1603.07442	https://arxiv.org/abs/1603.07442	https://github.com/fxia22/PixelDTGAN		68
+309	PPGN	Plug & Play Generative Networks: Conditional Iterative Generation of Images in Latent Space (PPGN)?	2016	12	58	https://arxiv.org/pdf/1612.00005.pdf	https://arxiv.org/abs/1612.00005	https://github.com/Evolving-AI-Lab/ppgn	49	47
 310		Pose Guided Person Image Generation?	2017		7	https://arxiv.org/pdf/1705.09368.pdf	https://arxiv.org/abs/1705.09368	-		131
 311	PN-GAN	Pose-Normalized Image Generation for Person Re-identification	2017	12		https://arxiv.org/pdf/1712.02225	https://arxiv.org/abs/1712.02225	-	253
 312		Practical Black-Box Attacks against Deep Learning Systems using Adversarial Examples?	2016		103	https://arxiv.org/pdf/1602.02697.pdf	https://arxiv.org/abs/1602.02697	-		26
@@ -315,7 +320,7 @@ Mnum	Abbr.	Title	Year	Month	Citations	pdf	Arxiv	Official_Code	No	SN	Medical
 314	MGAN	Precomputed Real-Time Texture Synthesis with Markovian Generative Adversarial Networks (MGAN)?	2016	4	74	https://arxiv.org/pdf/1604.04382.pdf	https://arxiv.org/abs/1604.04382	https://github.com/chuanli11/MGANs	9	40
 315	PGAN	Probabilistic Generative Adversarial Networks	2017	8		https://arxiv.org/pdf/1708.01886	https://arxiv.org/abs/1708.01886	-	171
 316	RCGAN	Real-valued (Medical) Time Series Generation with Recurrent Conditional GANs	2017	6		https://arxiv.org/pdf/1706.02633	https://arxiv.org/abs/1706.02633	-	141
-317		Reconstruction of three-dimensional porous media using generative adversarial neural networks?	2017		6	https://arxiv.org/pdf/1704.03225	https://arxiv.org/abs/1704.03225	-		146
+317		Reconstruction of three-dimensional porous media using generative adversarial neural networks?	2017		6	https://arxiv.org/pdf/1704.03225	https://arxiv.org/abs/1704.03225	https://github.com/LukasMosser/PorousMediaGan		146
 318	RTT-GAN	Recurrent Topic-Transition GAN for Visual Paragraph Generation (RTT-GAN)?	2017	3	14	https://arxiv.org/pdf/1703.07022.pdf	https://arxiv.org/abs/1703.07022v2	-	82	91
 319		Recurrent Generative Adversarial Networks for Proximal Learning and Automated Compressive Image Recovery	2017	11		https://arxiv.org/pdf/1711.10046	https://arxiv.org/abs/1711.10046	-
 320	RWGAN	Relaxed Wasserstein with Applications to GANs (RWGAN )?	2017	5	4	https://arxiv.org/abs/1705.07164	https://arxiv.org/abs/1705.07164	-	117	172
@@ -356,7 +361,7 @@ Mnum	Abbr.	Title	Year	Month	Citations	pdf	Arxiv	Official_Code	No	SN	Medical
 355	ED//GAN	Stabilizing Training of Generative Adversarial Networks through Regularization?	2017	5	6	https://arxiv.org/abs/1705.09367	https://arxiv.org/abs/1705.09367	-	105	151
 356	ST-CGAN	Stacked Conditional Generative Adversarial Networks for Jointly Learning Shadow Detection and Shadow Removal	2017	12		https://arxiv.org/pdf/1712.02478	https://arxiv.org/abs/1712.02478	-	255
 357	SGAN	Stacked Generative Adversarial Networks (SGAN)?	2016	12	33	https://arxiv.org/pdf/1612.04357.pdf	https://arxiv.org/abs/1612.04357v4	https://github.com/xunhuang1995/SGAN	51	65
-358	StackGAN	StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks?	2016	12	99	https://arxiv.org/pdf/1612.03242.pdf	https://arxiv.org/abs/1612.03242v1	-	53	30
+358	StackGAN	StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks?	2016	12	99	https://arxiv.org/pdf/1612.03242.pdf	https://arxiv.org/abs/1612.03242v1	https://github.com/hanzhanggit/StackGAN	53	30
 359		StackGAN++: Realistic Image Synthesis with Stacked Generative Adversarial Networks?	2017		2	https://arxiv.org/pdf/1710.10916.pdf	https://arxiv.org/abs/1710.10916	-	199
 360	StarGAN	StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation	2017	11		https://arxiv.org/pdf/1711.09020	https://arxiv.org/abs/1711.09020	https://github.com/yunjey/StarGAN	231
 361		Statistics of Deep Generated Images?	2017		0	https://arxiv.org/pdf/1708.02688.pdf	https://arxiv.org/abs/1708.02688	-		266
@@ -369,7 +374,7 @@ Mnum	Abbr.	Title	Year	Month	Citations	pdf	Arxiv	Official_Code	No	SN	Medical
 368	SVSGAN	SVSGAN: Singing Voice Separation via Generative Adversarial Network	2017	10		https://arxiv.org/pdf/1710.11428	https://arxiv.org/abs/1710.11428	-	194
 369		Synthesis of Positron Emission Tomography (PET) Images via Multi-channel Generative Adversarial Networks (GANs)?[arXiv]				https://arxiv.org/abs/1707.09747	https://arxiv.org/abs/1707.09747	-			Synthersize
 370	Fila-GAN	Synthesizing Filamentary Structured Images with GANs?	2017	6	0	https://arxiv.org/abs/1706.02185	https://arxiv.org/abs/1706.02185	https://web.bii.a-star.edu.sg/archive/machine_learning/Projects/filaStructObjs/Synthesis/downloads.html	134	252	Synthersize
-371		Synthesizing the preferred inputs for neurons in neural networks via deep generator networks?	2016		64	https://arxiv.org/pdf/1605.09304	https://arxiv.org/abs/1605.09304	-		43
+371		Synthesizing the preferred inputs for neurons in neural networks via deep generator networks?	2016		64	https://arxiv.org/pdf/1605.09304	https://arxiv.org/abs/1605.09304	https://github.com/Evolving-AI-Lab/synthesizing		43
 372		Synthetic Medical Images from Dual Generative Adversarial Networks?[arXiv]				https://arxiv.org/abs/1709.01872	https://arxiv.org/abs/1709.01872	-			Synthersize
 373	TAC-GAN	TAC-GAN - Text Conditioned Auxiliary Classifier Generative Adversarial Network	2017	3	1	https://arxiv.org/pdf/1703.06412.pdf	https://arxiv.org/abs/1703.06412v2	https://github.com/dashayushman/TAC-GAN	86	230
 374	TGAN	Temporal Generative Adversarial Nets (TGAN)?	2016	11	12	https://arxiv.org/pdf/1611.06624.pdf	https://arxiv.org/abs/1611.06624v1	-	41	95
@@ -405,7 +410,7 @@ Mnum	Abbr.	Title	Year	Month	Citations	pdf	Arxiv	Official_Code	No	SN	Medical
 404		Unrolled Generative Adversarial Networks (Unrolled GAN)?	2016		75	https://arxiv.org/pdf/1611.02163.pdf	https://arxiv.org/abs/1611.02163	-		39
 405	CatGAN	Unsupervised and Semi-supervised Learning with Categorical Generative Adversarial Networks (CatGAN)?	2015	11	92	https://arxiv.org/pdf/1511.06390.pdf	https://arxiv.org/abs/1511.06390v2	-	4	32
 406	AnoGAN	Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery (AnoGAN)?	2017	3	6	https://arxiv.org/pdf/1703.05921.pdf	https://arxiv.org/abs/1703.05921v1	-	72	143
-407	DTN	Unsupervised Cross-Domain Image Generation (DTN)?	2016	11	62	https://arxiv.org/pdf/1611.02200.pdf	https://arxiv.org/abs/1611.02200	-	32	44
+407	DTN	Unsupervised Cross-Domain Image Generation (DTN)?	2016	11	62	https://arxiv.org/pdf/1611.02200.pdf	https://arxiv.org/abs/1611.02200	https://github.com/yunjey/domain-transfer-network	32	44
 408		Unsupervised Diverse Colorization via Generative Adversarial Networks?	2017		3	https://arxiv.org/pdf/1702.06674.pdf	https://arxiv.org/abs/1702.06674	-		182
 409	UGACH	Unsupervised Generative Adversarial Cross-modal Hashing	2017	12		https://arxiv.org/pdf/1712.00358	https://arxiv.org/abs/1712.00358	-	257
 410		Unsupervised Image-to-Image Translation with Generative Adversarial Networks	2017		10	https://arxiv.org/pdf/1701.02676.pdf	https://arxiv.org/abs/1701.02676	-		112
