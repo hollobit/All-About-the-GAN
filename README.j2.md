@@ -10,7 +10,8 @@ It provides a list that merged information from various GAN lists and repositori
 * [[GAN zoo]](https://github.com/hindupuravinash/the-gan-zoo) - A list of all named GANs!
 * Delving deep into Generative Adversarial Networks (GANs) [[Delving]](https://github.com/GKalliatakis/Delving-deep-into-GANs)
 * Awesome GAN for Medical Imaging [[Medical]](https://github.com/xinario/awesome-gan-for-medical-imaging/)
-* Collection of generative models in [[Pytorch version]](https://github.com/znxlwm/pytorch-generative-model-collections), [[Tensorflow version]](https://github.com/hwalsuklee/tensorflow-generative-model-collections)
+* [[Adversarial Nets Papers]](https://github.com/zhangqianhui/AdversarialNetsPapers/) The classic about Generative Adversarial Networks
+* Collection of generative models in [[Pytorch version]](https://github.com/znxlwm/pytorch-generative-model-collections), [[Tensorflow version]](https://github.com/hwalsuklee/tensorflow-generative-model-collections), [[Chainer version]](https://github.com/pfnet-research/chainer-gan-lib)
 
 ----
 
