@@ -35,9 +35,14 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   {% else %} {# space removed if no github repository #}
   {% endif %}
 
-  {%- if gan['Medical'] != None -%}
-  {#- #} - 'Medical:{{ gan['Medical'] }}'
+  {%- if gan['Medical'] != '-' -%}
+  {#- #} > __'Medical:{{ gan['Medical'] }}'__ <p></p>
+
+  {%- elif gan['Category'] != '-' -%}
+  {#- #} > '{{ gan['Category'] }}'  <p></p>
+
   {% else %} {# space removed if no github repository #}
+
   {% endif %}  
 {%- endfor %}
 
