@@ -23,7 +23,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
 {% set count = {'value': 1} %}
 {% for gan in gans %}
-{{count.value}}. {{ gan['Title'] }} ( {{ gan['Abbr.'] }} ) - ([PDF]({{ gan['pdf'] }}))
+ {{count.value}}. {{ gan['Title'] }} ( {{ gan['Abbr.'] }} ) - ([PDF]({{ gan['pdf'] }}))
   {% if count.update({'value': (count.value + 1)}) %} {% endif %}
   {%- if gan['Arxiv'] != '-' and gan['Arxiv'] != '' -%}
   {#- #} ([Arxiv]({{ gan['Arxiv'] }}))
@@ -36,14 +36,15 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   {% endif %}
 
   {%- if gan['Medical'] != '-' -%}
-  {#- #} > __'Medical:{{ gan['Medical'] }}'__ <p></p>
+  {#- #} > - __`Medical:{{ gan['Medical'] }}`__
 
-  {%- elif gan['Category'] != '-' -%}
-  {#- #} > '{{ gan['Category'] }}'  <p></p>
+  {% elif gan['Category'] != '-' %}
+  {#- #} > - `{{ gan['Category'] }}`  
 
   {% else %} {# space removed if no github repository #}
 
   {% endif %}  
+
 {%- endfor %}
 
 ----
