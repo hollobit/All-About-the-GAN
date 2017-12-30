@@ -26,7 +26,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
  {{count.value}}. {{ gan['Title'] }} ( {{ gan['Abbr.'] }} ) - ([PDF]({{ gan['pdf'] }}))
   {% if count.update({'value': (count.value + 1)}) %} {% endif %}
   {%- if gan['Arxiv'] != '-' and gan['Arxiv'] != '' -%}
-  {#- #} ([Arxiv]({{ gan['Arxiv'] }}))
+  {#- #} ([arXiv]({{ gan['Arxiv'] }}))
   {% else %} {# space removed if no arxiv repository #}
   {% endif %}
 
@@ -36,12 +36,13 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   {% endif %}
 
   {%- if gan['Medical'] != '-' -%}
-  {#- #} > - __`Medical:{{ gan['Medical'] }}`__
+  {#- #} > - `{{ gan['Year'] }}/{{ gan['Month'] }}` `Citation: {{ gan['Citations'] }}` __`Medical: {{ gan['Medical'] }}`__
 
   {% elif gan['Category'] != '-' %}
-  {#- #} > - `{{ gan['Category'] }}`  
+  {#- #} > - `{{ gan['Year'] }}/{{ gan['Month'] }}` `Citation: {{ gan['Citations'] }}` `{{ gan['Category'] }}`  
 
   {% else %} {# space removed if no github repository #}
+  {#- #} > - `{{ gan['Year'] }}/{{ gan['Month'] }}` `Citation: {{ gan['Citations'] }}`
 
   {% endif %}  
 
