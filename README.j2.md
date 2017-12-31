@@ -23,7 +23,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
 {% set count = {'value': 1} %}
 {% for gan in gans %}
- {{count.value}}. {{ gan['Title'] }} ( {{ gan['Abbr.'] }} ) - ([search](http://www.google.com//search?q="{{ gan['Title'] }}")) ([PDF]({{ gan['pdf'] }}))
+ {{count.value}}. {{ gan['Title'] }} ( {{ gan['Abbr.'] }} ) - ([search](http://www.google.com//search?q={{ gan['Title'] }})) ([PDF]({{ gan['pdf'] }}))
   {% if count.update({'value': (count.value + 1)}) %} {% endif %}
   {%- if gan['Arxiv'] != '-' and gan['Arxiv'] != '' -%}
   {#- #} ([arXiv]({{ gan['Arxiv'] }}))
