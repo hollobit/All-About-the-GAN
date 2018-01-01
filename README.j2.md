@@ -34,6 +34,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   {#- #} ([github]({{ gan['Official_Code'] }}))
   {% else %} {# space removed if no github repository #}
   {% endif %}
+  ([Search](http://www.google.com/search?q={{ gan['Title']|urlencode() }}))
 
   {%- if gan['Medical'] != '-' -%}
   {#- #} > - `{{ gan['Year'] }}/{{ gan['Month'] }}` `Citation: {{ gan['Citations'] }}` __`Medical: {{ gan['Medical'] }}`__
