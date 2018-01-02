@@ -36,7 +36,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  4. A Classification-Based Perspective on GAN Distributions? (  ) -   ([Search](http://www.google.com/search?q=A%20Classification-Based%20Perspective%20on%20GAN%20Distributions%3F)) ([PDF](https://arxiv.org/pdf/1711.00970.pdf))
  ([arXiv](https://arxiv.org/abs/1711.00970))
-   > - `2017/8` `Citation: 0`
+   > - `2017/11` `Citation: 0`
 
  5. A Connection between Generative Adversarial Networks, Inverse Reinforcement Learning, and Energy-Based Models? (  ) -   ([Search](http://www.google.com/search?q=A%20Connection%20between%20Generative%20Adversarial%20Networks%2C%20Inverse%20Reinforcement%20Learning%2C%20and%20Energy-Based%20Models%3F)) ([PDF](https://arxiv.org/pdf/1611.03852.pdf))
  ([arXiv](https://arxiv.org/abs/1611.03852))
@@ -60,7 +60,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  10. A-Fast-RCNN: Hard Positive Generation via Adversary for Object Detection? (  ) -   ([Search](http://www.google.com/search?q=A-Fast-RCNN%3A%20Hard%20Positive%20Generation%20via%20Adversary%20for%20Object%20Detection%3F)) ([PDF](https://arxiv.org/pdf/1704.03414.pdf))
  ([arXiv](https://arxiv.org/abs/1704.03414))
-  > - `2017/` `Citation: 12` `Object Detection`  
+  > - `2017/4` `Citation: 12` `Object Detection`  
 
  11. ABC-GAN: Adaptive Blur and Control for improved training stability of Generative Adversarial Networks ( ABC-GAN ) -   ([Search](http://www.google.com/search?q=ABC-GAN%3A%20Adaptive%20Blur%20and%20Control%20for%20improved%20training%20stability%20of%20Generative%20Adversarial%20Networks)) ([PDF](https://drive.google.com/file/d/0B3wEP_lEl0laVTdGcHE2VnRiMlE/view))
   ([github](https://github.com/IgorSusmelj/ABC-GAN))
@@ -96,12 +96,12 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  19. Adversarial Deep Structural Networks for Mammographic Mass Segmentation? (  ) -   ([Search](http://www.google.com/search?q=Adversarial%20Deep%20Structural%20Networks%20for%20Mammographic%20Mass%20Segmentation%3F)) ([PDF](https://arxiv.org/pdf/1612.05970.pdf))
  ([arXiv](https://arxiv.org/abs/1612.05970))
-  > - `2017/6` `Citation: 7` `Semantic Segmentation`  
+  > - `2016/12` `Citation: 7` `Semantic Segmentation`  
 
  20. Adversarial Deep Structured Nets for Mass Segmentation from Mammograms (  ) -   ([Search](http://www.google.com/search?q=Adversarial%20Deep%20Structured%20Nets%20for%20Mass%20Segmentation%20from%20Mammograms)) ([PDF](https://arxiv.org/pdf/1710.09288.pdf))
  ([arXiv](https://arxiv.org/abs/1710.09288))
  ([github](https://github.com/wentaozhu/adversarial-deep-structural-networks))
- > - `2017/12` `Citation: ` __`Medical: Segmentation`__
+ > - `2017/10` `Citation: ` __`Medical: Segmentation`__
 
  21. Adversarial Discriminative Domain Adaptation? (  ) -   ([Search](http://www.google.com/search?q=Adversarial%20Discriminative%20Domain%20Adaptation%3F)) ([PDF](https://arxiv.org/pdf/1702.05464.pdf))
  ([arXiv](https://arxiv.org/abs/1702.05464))
@@ -121,34 +121,34 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  25. Adversarial Generation of Training Examples for Vehicle License Plate Recognition? (  ) -   ([Search](http://www.google.com/search?q=Adversarial%20Generation%20of%20Training%20Examples%20for%20Vehicle%20License%20Plate%20Recognition%3F)) ([PDF](https://arxiv.org/pdf/1707.03124.pdf))
  ([arXiv](https://arxiv.org/abs/1707.03124))
-   > - `2017/` `Citation: 1`
+   > - `2017/7` `Citation: 1`
 
  26. Adversarial Generator-Encoder Networks? (  ) -   ([Search](http://www.google.com/search?q=Adversarial%20Generator-Encoder%20Networks%3F)) ([PDF](https://arxiv.org/pdf/1704.02304.pdf))
  ([arXiv](https://arxiv.org/abs/1704.02304))
-   > - `2017/` `Citation: 9`
+   > - `2017/4` `Citation: 9`
 
  27. Adversarial Image Perturbation for Privacy Protection--A Game Theory Perspective (  ) -   ([Search](http://www.google.com/search?q=Adversarial%20Image%20Perturbation%20for%20Privacy%20Protection--A%20Game%20Theory%20Perspective)) ([PDF](https://arxiv.org/pdf/1703.09471.pdf))
  ([arXiv](https://arxiv.org/abs/1703.09471))
-   > - `2017/` `Citation: 6`
+   > - `2017/3` `Citation: 6`
 
  28. Adversarial Image Synthesis for Unpaired Multi-Modal Cardiac Data?[SASHIMI 2017] (  ) -   ([Search](http://www.google.com/search?q=Adversarial%20Image%20Synthesis%20for%20Unpaired%20Multi-Modal%20Cardiac%20Data%3F%5BSASHIMI%202017%5D)) ([PDF](https://link.springer.com/chapter/10.1007/978-3-319-68127-6_1))
    > - `2017/9` `Citation: ` __`Medical: Synthersize`__
 
  29. Adversarial nets with perceptual losses for text-to-image synthesis? (  ) -   ([Search](http://www.google.com/search?q=Adversarial%20nets%20with%20perceptual%20losses%20for%20text-to-image%20synthesis%3F)) ([PDF](https://arxiv.org/pdf/1708.09321.pdf))
  ([arXiv](https://arxiv.org/abs/1708.09321))
-   > - `2017/` `Citation: 0`
+   > - `2017/8` `Citation: 0`
 
  30. Adversarial Networks for Spatial Context-Aware Spectral Image Reconstruction from RGB? (  ) -   ([Search](http://www.google.com/search?q=Adversarial%20Networks%20for%20Spatial%20Context-Aware%20Spectral%20Image%20Reconstruction%20from%20RGB%3F)) ([PDF](https://arxiv.org/pdf/1709.00265.pdf))
  ([arXiv](https://arxiv.org/abs/1709.00265))
-   > - `2017/` `Citation: 0`
+   > - `2017/9` `Citation: 0`
 
  31. Adversarial Networks for the Detection of Aggressive Prostate Cancer? (  ) -   ([Search](http://www.google.com/search?q=Adversarial%20Networks%20for%20the%20Detection%20of%20Aggressive%20Prostate%20Cancer%3F)) ([PDF](https://arxiv.org/pdf/1702.08014.pdf))
  ([arXiv](https://arxiv.org/abs/1702.08014))
-  > - `2017/` `Citation: 3` __`Medical: Detection`__
+  > - `2017/2` `Citation: 3` __`Medical: Detection`__
 
  32. Adversarial PoseNet: A Structure-aware Convolutional Network for Human Pose Estimation? (  ) -   ([Search](http://www.google.com/search?q=Adversarial%20PoseNet%3A%20A%20Structure-aware%20Convolutional%20Network%20for%20Human%20Pose%20Estimation%3F)) ([PDF](https://arxiv.org/pdf/1705.00389.pdf))
  ([arXiv](https://arxiv.org/abs/1705.00389))
-   > - `2017/` `Citation: 7`
+   > - `2017/5` `Citation: 7`
 
  33. Adversarial Ranking for Language Generation ( RankGAN ) -   ([Search](http://www.google.com/search?q=Adversarial%20Ranking%20for%20Language%20Generation)) ([PDF](https://arxiv.org/pdf/1705.11001.pdf))
  ([arXiv](https://arxiv.org/abs/1705.11001))
@@ -166,13 +166,13 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
  ([arXiv](https://arxiv.org/abs/1607.02748))
   > - `2016/7` `Citation: 4` `Unclassified`  
 
- 37. Adversarial Training Methods for Semi-Supervised Text Classification? (  ) -   ([Search](http://www.google.com/search?q=Adversarial%20Training%20Methods%20for%20Semi-Supervised%20Text%20Classification%3F)) ([PDF](https://arxiv.org/abs/1605.07725.pdf))
+ 37. Adversarial Training Methods for Semi-Supervised Text Classification? (  ) -   ([Search](http://www.google.com/search?q=Adversarial%20Training%20Methods%20for%20Semi-Supervised%20Text%20Classification%3F)) ([PDF](https://arxiv.org/pdf/1605.07725.pdf))
  ([arXiv](https://arxiv.org/abs/1605.07725))
-  > - `2016/` `Citation: 9` `Semi-supervised learning`  
+  > - `2016/5` `Citation: 9` `Semi-supervised learning`  
 
  38. Adversarial Transformation Networks: Learning to Generate Adversarial Examples (  ) -   ([Search](http://www.google.com/search?q=Adversarial%20Transformation%20Networks%3A%20Learning%20to%20Generate%20Adversarial%20Examples)) ([PDF](https://arxiv.org/pdf/1703.09387.pdf))
  ([arXiv](https://arxiv.org/abs/1703.09387))
-   > - `2017/` `Citation: 11`
+   > - `2017/3` `Citation: 11`
 
  39. Adversarially Learned Inference (ALI)? ( ALI ) -   ([Search](http://www.google.com/search?q=Adversarially%20Learned%20Inference%20%28ALI%29%3F)) ([PDF](https://arxiv.org/pdf/1606.00704.pdf))
  ([arXiv](https://arxiv.org/abs/1606.00704))
@@ -190,11 +190,11 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  42. Aesthetic-Driven Image Enhancement by Adversarial Learning? (  ) -   ([Search](http://www.google.com/search?q=Aesthetic-Driven%20Image%20Enhancement%20by%20Adversarial%20Learning%3F)) ([PDF](https://arxiv.org/pdf/1707.05251.pdf))
  ([arXiv](https://arxiv.org/abs/1707.05251))
-   > - `2017/` `Citation: 1`
+   > - `2017/7` `Citation: 1`
 
  43. Age Progression / Regression by Conditional Adversarial Autoencoder? (  ) -   ([Search](http://www.google.com/search?q=Age%20Progression%20/%20Regression%20by%20Conditional%20Adversarial%20Autoencoder%3F)) ([PDF](https://arxiv.org/pdf/1702.08423.pdf))
  ([arXiv](https://arxiv.org/abs/1702.08423))
-   > - `2017/` `Citation: 12`
+   > - `2017/2` `Citation: 12`
 
  44. ALICE: Towards Understanding Adversarial Learning for Joint Distribution Matching? (  ) -   ([Search](http://www.google.com/search?q=ALICE%3A%20Towards%20Understanding%20Adversarial%20Learning%20for%20Joint%20Distribution%20Matching%3F)) ([PDF](http://papers.nips.cc/paper/7133-alice-towards-understanding-adversarial-learning-for-joint-distribution-matching.pdf))
     > - `2017/` `Citation: 5`
@@ -209,7 +209,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  47. An Adversarial Regularisation for Semi-Supervised Training of Structured Output Neural Networks? (  ) -   ([Search](http://www.google.com/search?q=An%20Adversarial%20Regularisation%20for%20Semi-Supervised%20Training%20of%20Structured%20Output%20Neural%20Networks%3F)) ([PDF](https://arxiv.org/pdf/1702.02382.pdf))
  ([arXiv](https://arxiv.org/abs/1702.02382))
-   > - `2017/` `Citation: 0`
+   > - `2017/2` `Citation: 0`
 
  48. An Online Learning Approach to Generative Adversarial Networks ( Chekhov GAN ) -   ([Search](http://www.google.com/search?q=An%20Online%20Learning%20Approach%20to%20Generative%20Adversarial%20Networks)) ([PDF](https://arxiv.org/pdf/1706.03269.pdf))
  ([arXiv](https://arxiv.org/abs/1706.03269))
@@ -217,11 +217,11 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  49. Anti-Makeup: Learning A Bi-Level Adversarial Network for Makeup-Invariant Face Verification? (  ) -   ([Search](http://www.google.com/search?q=Anti-Makeup%3A%20Learning%20A%20Bi-Level%20Adversarial%20Network%20for%20Makeup-Invariant%20Face%20Verification%3F)) ([PDF](https://arxiv.org/pdf/1709.03654.pdf))
  ([arXiv](https://arxiv.org/abs/1709.03654))
-   > - `2017/` `Citation: 0`
+   > - `2017/9` `Citation: 0`
 
  50. APE-GAN: Adversarial Perturbation Elimination with GAN? (  ) -   ([Search](http://www.google.com/search?q=APE-GAN%3A%20Adversarial%20Perturbation%20Elimination%20with%20GAN%3F)) ([PDF](https://arxiv.org/pdf/1707.05474.pdf))
  ([arXiv](https://arxiv.org/abs/1707.05474))
-   > - `2017/` `Citation: 0`
+   > - `2017/7` `Citation: 0`
 
  51. Arbitrary Facial Attribute Editing: Only Change What You Want ( AttGAN ) -   ([Search](http://www.google.com/search?q=Arbitrary%20Facial%20Attribute%20Editing%3A%20Only%20Change%20What%20You%20Want)) ([PDF](https://arxiv.org/pdf/1711.10678.pdf))
  ([arXiv](https://arxiv.org/abs/1711.10678))
@@ -245,27 +245,27 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  56. Artificial Generation of Big Data for Improving Image Classification: A Generative Adversarial Network Approach on SAR Data? (  ) -   ([Search](http://www.google.com/search?q=Artificial%20Generation%20of%20Big%20Data%20for%20Improving%20Image%20Classification%3A%20A%20Generative%20Adversarial%20Network%20Approach%20on%20SAR%20Data%3F)) ([PDF](https://arxiv.org/pdf/1711.02010.pdf))
  ([arXiv](https://arxiv.org/abs/1711.02010))
-   > - `2017/` `Citation: 0`
+   > - `2017/11` `Citation: 0`
 
  57. Associative Adversarial Networks? (  ) -   ([Search](http://www.google.com/search?q=Associative%20Adversarial%20Networks%3F)) ([PDF](https://arxiv.org/pdf/1611.06953.pdf))
  ([arXiv](https://arxiv.org/abs/1611.06953))
-   > - `2017/` `Citation: 1`
+   > - `2016/11` `Citation: 1`
 
  58. Attend, infer, repeat: Fast scene understanding with generative models? (  ) -   ([Search](http://www.google.com/search?q=Attend%2C%20infer%2C%20repeat%3A%20Fast%20scene%20understanding%20with%20generative%20models%3F)) ([PDF](https://arxiv.org/pdf/1603.08575.pdf))
  ([arXiv](https://arxiv.org/abs/1603.08575))
-   > - `2016/` `Citation: 42`
+   > - `2016/3` `Citation: 42`
 
  59. AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks ( AttnGAN ) -   ([Search](http://www.google.com/search?q=AttnGAN%3A%20Fine-Grained%20Text%20to%20Image%20Generation%20with%20Attentional%20Generative%20Adversarial%20Networks)) ([PDF](https://arxiv.org/pdf/1711.10485.pdf))
  ([arXiv](https://arxiv.org/abs/1711.10485))
    > - `2017/11` `Citation: `
 
- 60. Auto-Encoder Guided GAN for Chinese Calligraphy Synthesis? (  ) -   ([Search](http://www.google.com/search?q=Auto-Encoder%20Guided%20GAN%20for%20Chinese%20Calligraphy%20Synthesis%3F)) ([PDF](https://arxiv.org/abs/1706.08789.pdf))
+ 60. Auto-Encoder Guided GAN for Chinese Calligraphy Synthesis? (  ) -   ([Search](http://www.google.com/search?q=Auto-Encoder%20Guided%20GAN%20for%20Chinese%20Calligraphy%20Synthesis%3F)) ([PDF](https://arxiv.org/pdf/1706.08789.pdf))
  ([arXiv](https://arxiv.org/abs/1706.08789))
-   > - `2017/` `Citation: 3`
+   > - `2017/6` `Citation: 3`
 
  61. Auto-painter: Cartoon Image Generation from Sketch by Using Conditional Generative Adversarial Networks? (  ) -   ([Search](http://www.google.com/search?q=Auto-painter%3A%20Cartoon%20Image%20Generation%20from%20Sketch%20by%20Using%20Conditional%20Generative%20Adversarial%20Networks%3F)) ([PDF](https://arxiv.org/pdf/1705.01908.pdf))
  ([arXiv](https://arxiv.org/abs/1705.01908))
-   > - `2017/` `Citation: 2`
+   > - `2017/5` `Citation: 2`
 
  62. Autoencoding beyond pixels using a learned similarity metric (VAE-GAN)? ( VAE-GAN ) -   ([Search](http://www.google.com/search?q=Autoencoding%20beyond%20pixels%20using%20a%20learned%20similarity%20metric%20%28VAE-GAN%29%3F)) ([PDF](https://arxiv.org/pdf/1512.09300.pdf))
  ([arXiv](https://arxiv.org/abs/1512.09300))
@@ -274,13 +274,13 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  63. Automatic Liver Segmentation Using an Adversarial Image-to-Image Network? (  ) -   ([Search](http://www.google.com/search?q=Automatic%20Liver%20Segmentation%20Using%20an%20Adversarial%20Image-to-Image%20Network%3F)) ([PDF](https://arxiv.org/pdf/1707.08037.pdf))
  ([arXiv](https://arxiv.org/abs/1707.08037))
-  > - `2017/` `Citation: 1` __`Medical: Segmentation`__
+  > - `2017/7` `Citation: 1` __`Medical: Segmentation`__
 
  64. Bayesian Conditional Generative Adverserial Networks? ( BCGAN ) -   ([Search](http://www.google.com/search?q=Bayesian%20Conditional%20Generative%20Adverserial%20Networks%3F)) ([PDF](https://arxiv.org/pdf/1706.05477.pdf))
  ([arXiv](https://arxiv.org/abs/1706.05477))
    > - `2017/6` `Citation: 0`
 
- 65. Bayesian GAN? ( Bayesian GAN ) -   ([Search](http://www.google.com/search?q=Bayesian%20GAN%3F)) ([PDF](https://arxiv.org/abs/1705.09558.pdf))
+ 65. Bayesian GAN? ( Bayesian GAN ) -   ([Search](http://www.google.com/search?q=Bayesian%20GAN%3F)) ([PDF](https://arxiv.org/pdf/1705.09558.pdf))
  ([arXiv](https://arxiv.org/abs/1705.09558))
    > - `2017/5` `Citation: 3`
 
@@ -366,13 +366,13 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  85. Conditional Adversarial Network for Semantic Segmentation of Brain Tumor? (  ) -   ([Search](http://www.google.com/search?q=Conditional%20Adversarial%20Network%20for%20Semantic%20Segmentation%20of%20Brain%20Tumor%3F)) ([PDF](https://arxiv.org/pdf/1708.05227.pdf))
  ([arXiv](https://arxiv.org/abs/1708.05227))
-   > - `2017/` `Citation: 0`
+   > - `2017/8` `Citation: 0`
 
  86. Conditional Autoencoders with Adversarial Information Factorization ( IFcVAEGAN ) -   ([Search](http://www.google.com/search?q=Conditional%20Autoencoders%20with%20Adversarial%20Information%20Factorization)) ([PDF](https://arxiv.org/pdf/1711.05175.pdf))
  ([arXiv](https://arxiv.org/abs/1711.05175))
    > - `2017/11` `Citation: `
 
- 87. Conditional CycleGAN for Attribute Guided Face Image Generation? ( Conditional cycleGAN ) -   ([Search](http://www.google.com/search?q=Conditional%20CycleGAN%20for%20Attribute%20Guided%20Face%20Image%20Generation%3F)) ([PDF](https://arxiv.org/abs/1705.09966.pdf))
+ 87. Conditional CycleGAN for Attribute Guided Face Image Generation? ( Conditional cycleGAN ) -   ([Search](http://www.google.com/search?q=Conditional%20CycleGAN%20for%20Attribute%20Guided%20Face%20Image%20Generation%3F)) ([PDF](https://arxiv.org/pdf/1705.09966.pdf))
  ([arXiv](https://arxiv.org/abs/1705.09966))
    > - `2017/5` `Citation: 6`
 
@@ -386,7 +386,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  90. Conditional Image Generation with PixelCNN Decoders? (  ) -   ([Search](http://www.google.com/search?q=Conditional%20Image%20Generation%20with%20PixelCNN%20Decoders%3F)) ([PDF](https://arxiv.org/pdf/1606.05328.pdf))
  ([arXiv](https://arxiv.org/abs/1606.05328))
-   > - `2015/` `Citation: 140`
+   > - `2016/6` `Citation: 140`
 
  91. Conditional Image Synthesis with Auxiliary Classifier GANs (AC-GAN)?(GoogleBrain ICLR 2017) ( AC-GAN ) -   ([Search](http://www.google.com/search?q=Conditional%20Image%20Synthesis%20with%20Auxiliary%20Classifier%20GANs%20%28AC-GAN%29%3F%28GoogleBrain%20ICLR%202017%29)) ([PDF](https://arxiv.org/pdf/1610.09585.pdf))
  ([arXiv](https://arxiv.org/abs/1610.09585))
@@ -395,12 +395,12 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  92. Connecting Generative Adversarial Networks and Actor-Critic Methods? (  ) -   ([Search](http://www.google.com/search?q=Connecting%20Generative%20Adversarial%20Networks%20and%20Actor-Critic%20Methods%3F)) ([PDF](https://arxiv.org/pdf/1610.01945.pdf))
  ([arXiv](https://arxiv.org/abs/1610.01945))
-   > - `2016/` `Citation: 18`
+   > - `2016/10` `Citation: 18`
 
  93. Context Encoders: Feature Learning by Inpainting? (  ) -   ([Search](http://www.google.com/search?q=Context%20Encoders%3A%20Feature%20Learning%20by%20Inpainting%3F)) ([PDF](https://arxiv.org/pdf/1604.07379.pdf))
  ([arXiv](https://arxiv.org/abs/1604.07379))
  ([github](https://github.com/jazzsaxmafia/Inpainting))
- > - `2016/` `Citation: 217` `Image Inpainting`  
+ > - `2016/4` `Citation: 217` `Image Inpainting`  
 
  94. Context-Aware Generative Adversarial Privacy ( GAP ) -   ([Search](http://www.google.com/search?q=Context-Aware%20Generative%20Adversarial%20Privacy)) ([PDF](https://arxiv.org/pdf/1710.09549.pdf))
  ([arXiv](https://arxiv.org/abs/1710.09549))
@@ -410,9 +410,9 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
  ([arXiv](https://arxiv.org/abs/1609.09444))
    > - `2016/9` `Citation: 6`
 
- 96. Continual Learning in Generative Adversarial Nets? (  ) -   ([Search](http://www.google.com/search?q=Continual%20Learning%20in%20Generative%20Adversarial%20Nets%3F)) ([PDF](https://arxiv.org/abs/1705.08395.pdf))
+ 96. Continual Learning in Generative Adversarial Nets? (  ) -   ([Search](http://www.google.com/search?q=Continual%20Learning%20in%20Generative%20Adversarial%20Nets%3F)) ([PDF](https://arxiv.org/pdf/1705.08395.pdf))
  ([arXiv](https://arxiv.org/abs/1705.08395))
-   > - `2017/` `Citation: 1`
+   > - `2017/5` `Citation: 1`
 
  97. Controllable Generative Adversarial Network? ( CGAN ) -   ([Search](http://www.google.com/search?q=Controllable%20Generative%20Adversarial%20Network%3F)) ([PDF](https://arxiv.org/pdf/1708.00598.pdf))
  ([arXiv](https://arxiv.org/abs/1708.00598))
@@ -425,7 +425,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  99. Cooperative Training of Descriptor and Generator Networks? (  ) -   ([Search](http://www.google.com/search?q=Cooperative%20Training%20of%20Descriptor%20and%20Generator%20Networks%3F)) ([PDF](https://arxiv.org/pdf/1609.09408.pdf))
  ([arXiv](https://arxiv.org/abs/1609.09408))
-   > - `2016/` `Citation: 10`
+   > - `2016/9` `Citation: 10`
 
  100. Coulomb GANs: Provably Optimal Nash Equilibria via Potential Fields ( Coulomb GAN ) -   ([Search](http://www.google.com/search?q=Coulomb%20GANs%3A%20Provably%20Optimal%20Nash%20Equilibria%20via%20Potential%20Fields)) ([PDF](https://arxiv.org/pdf/1708.08819.pdf))
  ([arXiv](https://arxiv.org/abs/1708.08819))
@@ -438,15 +438,15 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  102. Coupled Generative Adversarial Networks (CoGAN)? (  ) -   ([Search](http://www.google.com/search?q=Coupled%20Generative%20Adversarial%20Networks%20%28CoGAN%29%3F)) ([PDF](https://arxiv.org/pdf/1606.07536.pdf))
  ([arXiv](https://arxiv.org/abs/1606.07536))
-  > - `2016/` `Citation: 90` `Face Generative and Editing`  
+  > - `2016/6` `Citation: 90` `Face Generative and Editing`  
 
  103. Creatism: A deep-learning photographer capable of creating professional work? (  ) -   ([Search](http://www.google.com/search?q=Creatism%3A%20A%20deep-learning%20photographer%20capable%20of%20creating%20professional%20work%3F)) ([PDF](https://arxiv.org/pdf/1707.03491.pdf))
  ([arXiv](https://arxiv.org/abs/1707.03491))
-   > - `2017/` `Citation: 1`
+   > - `2017/7` `Citation: 1`
 
  104. Crossing Nets: Combining GANs and VAEs with a Shared Latent Space for Hand Pose Estimation? (  ) -   ([Search](http://www.google.com/search?q=Crossing%20Nets%3A%20Combining%20GANs%20and%20VAEs%20with%20a%20Shared%20Latent%20Space%20for%20Hand%20Pose%20Estimation%3F)) ([PDF](https://arxiv.org/pdf/1702.03431.pdf))
  ([arXiv](https://arxiv.org/abs/1702.03431))
-   > - `2017/` `Citation: 5`
+   > - `2017/2` `Citation: 5`
 
  105. CVAE-GAN: Fine-Grained Image Generation through Asymmetric Training? ( CVAE-GAN ) -   ([Search](http://www.google.com/search?q=CVAE-GAN%3A%20Fine-Grained%20Image%20Generation%20through%20Asymmetric%20Training%3F)) ([PDF](https://arxiv.org/pdf/1703.10155.pdf))
  ([arXiv](https://arxiv.org/abs/1703.10155))
@@ -458,11 +458,11 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  107. Data Augmentation in Classification using GAN? (  ) -   ([Search](http://www.google.com/search?q=Data%20Augmentation%20in%20Classification%20using%20GAN%3F)) ([PDF](https://arxiv.org/pdf/1711.00648.pdf))
  ([arXiv](https://arxiv.org/abs/1711.00648))
-   > - `2017/` `Citation: 0`
+   > - `2017/11` `Citation: 0`
 
  108. Data Augmentation in Emotion Classification Using Generative Adversarial Networks (  ) -   ([Search](http://www.google.com/search?q=Data%20Augmentation%20in%20Emotion%20Classification%20Using%20Generative%20Adversarial%20Networks)) ([PDF](https://arxiv.org/pdf/1711.00648.pdf))
  ([arXiv](https://arxiv.org/abs/1711.00648))
-   > - `2017/12` `Citation: `
+   > - `2017/11` `Citation: `
 
  109. DeblurGAN: Blind Motion Deblurring Using Conditional Adversarial Networks ( DeblurGAN ) -   ([Search](http://www.google.com/search?q=DeblurGAN%3A%20Blind%20Motion%20Deblurring%20Using%20Conditional%20Adversarial%20Networks)) ([PDF](https://arxiv.org/pdf/1711.07064.pdf))
  ([arXiv](https://arxiv.org/abs/1711.07064))
@@ -483,7 +483,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  113. Deep Generative Adversarial Compression Artifact Removal? (  ) -   ([Search](http://www.google.com/search?q=Deep%20Generative%20Adversarial%20Compression%20Artifact%20Removal%3F)) ([PDF](https://arxiv.org/pdf/1704.02518.pdf))
  ([arXiv](https://arxiv.org/abs/1704.02518))
-   > - `2017/` `Citation: 1`
+   > - `2017/4` `Citation: 1`
 
  114. Deep Generative Adversarial Networks for Compressed Sensing (GANCS) Automates MRI? ( GANCS ) -   ([Search](http://www.google.com/search?q=Deep%20Generative%20Adversarial%20Networks%20for%20Compressed%20Sensing%20%28GANCS%29%20Automates%20MRI%3F)) ([PDF](https://arxiv.org/pdf/1706.00051.pdf))
  ([arXiv](https://arxiv.org/abs/1706.00051))
@@ -491,7 +491,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  115. Deep Generative Adversarial Neural Networks for Realistic Prostate Lesion MRI Synthesis? (  ) -   ([Search](http://www.google.com/search?q=Deep%20Generative%20Adversarial%20Neural%20Networks%20for%20Realistic%20Prostate%20Lesion%20MRI%20Synthesis%3F)) ([PDF](https://arxiv.org/pdf/1708.00129.pdf))
  ([arXiv](https://arxiv.org/abs/1708.00129))
-   > - `2017/` `Citation: 0`
+   > - `2017/8` `Citation: 0`
 
  116. Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks (LAPGAN)? ( LAPGAN ) -   ([Search](http://www.google.com/search?q=Deep%20Generative%20Image%20Models%20using%20a%20Laplacian%20Pyramid%20of%20Adversarial%20Networks%20%28LAPGAN%29%3F)) ([PDF](https://arxiv.org/pdf/1506.05751.pdf))
  ([arXiv](https://arxiv.org/abs/1506.05751))
@@ -500,22 +500,22 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  117. Deep Models Under the GAN: Information Leakage from Collaborative Deep Learning (  ) -   ([Search](http://www.google.com/search?q=Deep%20Models%20Under%20the%20GAN%3A%20Information%20Leakage%20from%20Collaborative%20Deep%20Learning)) ([PDF](https://arxiv.org/pdf/1702.07464.pdf))
  ([arXiv](https://arxiv.org/abs/1702.07464))
-   > - `2017/9` `Citation: `
+   > - `2017/2` `Citation: `
 
  118. Deep MR to CT Synthesis using Unpaired Data?[arXiv] (  ) -   ([Search](http://www.google.com/search?q=Deep%20MR%20to%20CT%20Synthesis%20using%20Unpaired%20Data%3F%5BarXiv%5D)) ([PDF](https://arxiv.org/pdf/1708.01155.pdf))
  ([arXiv](https://arxiv.org/abs/1708.01155))
-  > - `2017/9` `Citation: ` __`Medical: Synthersize`__
+  > - `2017/8` `Citation: ` __`Medical: Synthersize`__
 
  119. Deep multi-scale video prediction beyond mean square error?(Yann LeCun's paper) (  ) -   ([Search](http://www.google.com/search?q=Deep%20multi-scale%20video%20prediction%20beyond%20mean%20square%20error%3F%28Yann%20LeCun%27s%20paper%29)) ([PDF](https://arxiv.org/pdf/1511.05440.pdf))
  ([arXiv](https://arxiv.org/abs/1511.05440))
  ([github](https://github.com/dyelax/Adversarial_Video_Generation))
- > - `2015/` `Citation: 200` `Video Prediction and Generation`  
+ > - `2015/11` `Citation: 200` `Video Prediction and Generation`  
 
  120. Deep Unsupervised Representation Learning for Remote Sensing Images (MARTA-GAN)? ( MARTA-GAN ) -   ([Search](http://www.google.com/search?q=Deep%20Unsupervised%20Representation%20Learning%20for%20Remote%20Sensing%20Images%20%28MARTA-GAN%29%3F)) ([PDF](https://arxiv.org/pdf/1612.08879.pdf))
  ([arXiv](https://arxiv.org/abs/1612.08879))
    > - `2016/12` `Citation: 1`
 
- 121. DeLiGAN : Generative Adversarial Networks for Diverse and Limited Data? ( DeliGAN ) -   ([Search](http://www.google.com/search?q=DeLiGAN%20%3A%20Generative%20Adversarial%20Networks%20for%20Diverse%20and%20Limited%20Data%3F)) ([PDF](https://arxiv.org/abs/1706.02071.pdf))
+ 121. DeLiGAN : Generative Adversarial Networks for Diverse and Limited Data? ( DeliGAN ) -   ([Search](http://www.google.com/search?q=DeLiGAN%20%3A%20Generative%20Adversarial%20Networks%20for%20Diverse%20and%20Limited%20Data%3F)) ([PDF](https://arxiv.org/pdf/1706.02071.pdf))
  ([arXiv](https://arxiv.org/abs/1706.02071))
  ([github](https://github.com/val-iisc/deligan))
   > - `2017/6` `Citation: 7`
@@ -524,7 +524,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
  ([arXiv](https://arxiv.org/abs/1711.09091))
    > - `2017/11` `Citation: `
 
- 123. Depth Structure Preserving Scene Image Generation? ( DSP-GAN ) -   ([Search](http://www.google.com/search?q=Depth%20Structure%20Preserving%20Scene%20Image%20Generation%3F)) ([PDF](https://arxiv.org/abs/1706.00212.pdf))
+ 123. Depth Structure Preserving Scene Image Generation? ( DSP-GAN ) -   ([Search](http://www.google.com/search?q=Depth%20Structure%20Preserving%20Scene%20Image%20Generation%3F)) ([PDF](https://arxiv.org/pdf/1706.00212.pdf))
  ([arXiv](https://arxiv.org/abs/1706.00212))
    > - `2017/6` `Citation: 0`
 
@@ -537,7 +537,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  126. Distributional Adversarial Networks ( DAN ) -   ([Search](http://www.google.com/search?q=Distributional%20Adversarial%20Networks)) ([PDF](https://arxiv.org/pdf/1706.09549.pdf))
  ([arXiv](https://arxiv.org/abs/1706.09549))
-   > - `2017/7` `Citation: `
+   > - `2017/6` `Citation: `
 
  127. DNA-GAN: Learning Disentangled Representations from Multi-Attribute Images ( DNA-GAN ) -   ([Search](http://www.google.com/search?q=DNA-GAN%3A%20Learning%20Disentangled%20Representations%20from%20Multi-Attribute%20Images)) ([PDF](https://arxiv.org/pdf/1711.05415.pdf))
  ([arXiv](https://arxiv.org/abs/1711.05415))
@@ -601,11 +601,11 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  142. Ensembles of Generative Adversarial Networks? (  ) -   ([Search](http://www.google.com/search?q=Ensembles%20of%20Generative%20Adversarial%20Networks%3F)) ([PDF](https://arxiv.org/pdf/1612.00991.pdf))
  ([arXiv](https://arxiv.org/abs/1612.00991))
-   > - `2016/` `Citation: 4`
+   > - `2016/12` `Citation: 4`
 
  143. Explaining and Harnessing Adversarial Examples? (  ) -   ([Search](http://www.google.com/search?q=Explaining%20and%20Harnessing%20Adversarial%20Examples%3F)) ([PDF](https://arxiv.org/pdf/1412.6572.pdf))
  ([arXiv](https://arxiv.org/abs/1412.6572))
-   > - `2014/` `Citation: 536`
+   > - `2014/12` `Citation: 536`
 
  144. Exploring Speech Enhancement with Generative Adversarial Networks for Robust Speech Recognition ( FSEGAN ) -   ([Search](http://www.google.com/search?q=Exploring%20Speech%20Enhancement%20with%20Generative%20Adversarial%20Networks%20for%20Robust%20Speech%20Recognition)) ([PDF](https://arxiv.org/pdf/1711.05747.pdf))
  ([arXiv](https://arxiv.org/abs/1711.05747))
@@ -629,11 +629,11 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  149. Face Super-Resolution Through Wasserstein GANs? (  ) -   ([Search](http://www.google.com/search?q=Face%20Super-Resolution%20Through%20Wasserstein%20GANs%3F)) ([PDF](https://arxiv.org/pdf/1705.02438.pdf))
  ([arXiv](https://arxiv.org/abs/1705.02438))
-   > - `2017/` `Citation: 1`
+   > - `2017/5` `Citation: 1`
 
  150. Face Transfer with Generative Adversarial Network? (  ) -   ([Search](http://www.google.com/search?q=Face%20Transfer%20with%20Generative%20Adversarial%20Network%3F)) ([PDF](https://arxiv.org/pdf/1710.06090.pdf))
  ([arXiv](https://arxiv.org/abs/1710.06090))
-   > - `2017/` `Citation: 0`
+   > - `2017/10` `Citation: 0`
 
  151. Face Translation between Images and Videos using Identity-aware CycleGAN ( IdCycleGAN ) -   ([Search](http://www.google.com/search?q=Face%20Translation%20between%20Images%20and%20Videos%20using%20Identity-aware%20CycleGAN)) ([PDF](https://arxiv.org/pdf/1712.00971.pdf))
  ([arXiv](https://arxiv.org/abs/1712.00971))
@@ -645,17 +645,17 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  153. Feature Squeezing: Detecting Adversarial Examples in Deep Neural Networks? (  ) -   ([Search](http://www.google.com/search?q=Feature%20Squeezing%3A%20Detecting%20Adversarial%20Examples%20in%20Deep%20Neural%20Networks%3F)) ([PDF](https://arxiv.org/pdf/1704.01155.pdf))
  ([arXiv](https://arxiv.org/abs/1704.01155))
-   > - `2017/` `Citation: 22`
+   > - `2017/4` `Citation: 22`
 
  154. Filmy Cloud Removal on Satellite Imagery with Multispectral Conditional Generative Adversarial Nets? (  ) -   ([Search](http://www.google.com/search?q=Filmy%20Cloud%20Removal%20on%20Satellite%20Imagery%20with%20Multispectral%20Conditional%20Generative%20Adversarial%20Nets%3F)) ([PDF](https://arxiv.org/pdf/1710.04835.pdf))
  ([arXiv](https://arxiv.org/abs/1710.04835))
-   > - `2017/` `Citation: 0`
+   > - `2017/10` `Citation: 0`
 
  155. Fisher GAN ( Fisher GAN ) -   ([Search](http://www.google.com/search?q=Fisher%20GAN)) ([PDF](https://arxiv.org/pdf/1705.09675.pdf))
  ([arXiv](https://arxiv.org/abs/1705.09675))
    > - `2017/5` `Citation: `
 
- 156. Flow-GAN: Bridging implicit and prescribed learning in generative models? ( Flow-GAN ) -   ([Search](http://www.google.com/search?q=Flow-GAN%3A%20Bridging%20implicit%20and%20prescribed%20learning%20in%20generative%20models%3F)) ([PDF](https://arxiv.org/abs/1705.08868.pdf))
+ 156. Flow-GAN: Bridging implicit and prescribed learning in generative models? ( Flow-GAN ) -   ([Search](http://www.google.com/search?q=Flow-GAN%3A%20Bridging%20implicit%20and%20prescribed%20learning%20in%20generative%20models%3F)) ([PDF](https://arxiv.org/pdf/1705.08868.pdf))
  ([arXiv](https://arxiv.org/abs/1705.08868))
    > - `2017/5` `Citation: 3`
 
@@ -665,15 +665,15 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  158. Freehand Ultrasound Image Simulation with Spatially-Conditioned Generative Adversarial Networks? (  ) -   ([Search](http://www.google.com/search?q=Freehand%20Ultrasound%20Image%20Simulation%20with%20Spatially-Conditioned%20Generative%20Adversarial%20Networks%3F)) ([PDF](https://arxiv.org/pdf/1707.05392.pdf))
  ([arXiv](https://arxiv.org/abs/1707.05392))
-  > - `2017/` `Citation: 0` __`Medical: Synthersize`__
+  > - `2017/7` `Citation: 0` __`Medical: Synthersize`__
 
- 159. From source to target and back: symmetric bi-directional adaptive GAN? ( SBADA-GAN ) -   ([Search](http://www.google.com/search?q=From%20source%20to%20target%20and%20back%3A%20symmetric%20bi-directional%20adaptive%20GAN%3F)) ([PDF](https://arxiv.org/abs/1705.08824.pdf))
+ 159. From source to target and back: symmetric bi-directional adaptive GAN? ( SBADA-GAN ) -   ([Search](http://www.google.com/search?q=From%20source%20to%20target%20and%20back%3A%20symmetric%20bi-directional%20adaptive%20GAN%3F)) ([PDF](https://arxiv.org/pdf/1705.08824.pdf))
  ([arXiv](https://arxiv.org/abs/1705.08824))
    > - `2017/5` `Citation: 5`
 
  160. Full Resolution Image Compression with Recurrent Neural Networks? (  ) -   ([Search](http://www.google.com/search?q=Full%20Resolution%20Image%20Compression%20with%20Recurrent%20Neural%20Networks%3F)) ([PDF](https://arxiv.org/pdf/1608.05148.pdf))
  ([arXiv](https://arxiv.org/abs/1608.05148))
-   > - `2016/` `Citation: 29`
+   > - `2016/8` `Citation: 29`
 
  161. GAGAN: Geometry-Aware Generative Adverserial Networks ( GAGAN ) -   ([Search](http://www.google.com/search?q=GAGAN%3A%20Geometry-Aware%20Generative%20Adverserial%20Networks)) ([PDF](https://arxiv.org/pdf/1712.00684.pdf))
  ([arXiv](https://arxiv.org/abs/1712.00684))
@@ -729,15 +729,15 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  173. Generalization of Deep Neural Networks for Chest Pathology Classification in X-Rays Using Generative Adversarial Networks?[arXiv] (  ) -   ([Search](http://www.google.com/search?q=Generalization%20of%20Deep%20Neural%20Networks%20for%20Chest%20Pathology%20Classification%20in%20X-Rays%20Using%20Generative%20Adversarial%20Networks%3F%5BarXiv%5D)) ([PDF](https://arxiv.org/pdf/1712.01636.pdf))
  ([arXiv](https://arxiv.org/abs/1712.01636))
-  > - `2017/11` `Citation: ` __`Medical: Classification`__
+  > - `2017/12` `Citation: ` __`Medical: Classification`__
 
- 174. Generate Identity-Preserving Faces by Generative Adversarial Networks? (  ) -   ([Search](http://www.google.com/search?q=Generate%20Identity-Preserving%20Faces%20by%20Generative%20Adversarial%20Networks%3F)) ([PDF](https://arxiv.org/abs/1706.03227.pdf))
+ 174. Generate Identity-Preserving Faces by Generative Adversarial Networks? (  ) -   ([Search](http://www.google.com/search?q=Generate%20Identity-Preserving%20Faces%20by%20Generative%20Adversarial%20Networks%3F)) ([PDF](https://arxiv.org/pdf/1706.03227.pdf))
  ([arXiv](https://arxiv.org/abs/1706.03227))
-   > - `2017/` `Citation: 2`
+   > - `2017/6` `Citation: 2`
 
  175. Generate To Adapt: Aligning Domains using Generative Adversarial Networks? (  ) -   ([Search](http://www.google.com/search?q=Generate%20To%20Adapt%3A%20Aligning%20Domains%20using%20Generative%20Adversarial%20Networks%3F)) ([PDF](https://arxiv.org/pdf/1704.01705.pdf))
  ([arXiv](https://arxiv.org/abs/1704.01705))
-   > - `2017/` `Citation: 7`
+   > - `2017/4` `Citation: 7`
 
  176. Generating Adversarial Malware Examples for Black-Box Attacks Based on GAN (MalGAN)? ( MalGAN ) -   ([Search](http://www.google.com/search?q=Generating%20Adversarial%20Malware%20Examples%20for%20Black-Box%20Attacks%20Based%20on%20GAN%20%28MalGAN%29%3F)) ([PDF](https://arxiv.org/pdf/1702.05983.pdf))
  ([arXiv](https://arxiv.org/abs/1702.05983v1))
@@ -745,7 +745,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  177. Generating Images with Perceptual Similarity Metrics based on Deep Networks? (  ) -   ([Search](http://www.google.com/search?q=Generating%20Images%20with%20Perceptual%20Similarity%20Metrics%20based%20on%20Deep%20Networks%3F)) ([PDF](https://arxiv.org/pdf/1602.02644.pdf))
  ([arXiv](https://arxiv.org/abs/1602.02644))
-  > - `2016/` `Citation: 96` `Unclassified`  
+  > - `2016/2` `Citation: 96` `Unclassified`  
 
  178. Generating images with recurrent adversarial networks? ( GRAN ) -   ([Search](http://www.google.com/search?q=Generating%20images%20with%20recurrent%20adversarial%20networks%3F)) ([PDF](https://arxiv.org/pdf/1602.05110.pdf))
  ([arXiv](https://arxiv.org/abs/1602.05110))
@@ -763,7 +763,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  181. Generative Adversarial Imitation Learning? (  ) -   ([Search](http://www.google.com/search?q=Generative%20Adversarial%20Imitation%20Learning%3F)) ([PDF](https://arxiv.org/pdf/1606.03476.pdf))
  ([arXiv](https://arxiv.org/abs/1606.03476))
-   > - `2016/` `Citation: 61`
+   > - `2016/6` `Citation: 61`
 
  182. Generative Adversarial Mapping Networks ( GAMN ) -   ([Search](http://www.google.com/search?q=Generative%20Adversarial%20Mapping%20Networks)) ([PDF](https://arxiv.org/pdf/1709.09820.pdf))
  ([arXiv](https://arxiv.org/abs/1709.09820))
@@ -771,7 +771,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  183. Generative Adversarial Models for People Attribute Recognition in Surveillance? (  ) -   ([Search](http://www.google.com/search?q=Generative%20Adversarial%20Models%20for%20People%20Attribute%20Recognition%20in%20Surveillance%3F)) ([PDF](https://arxiv.org/pdf/1707.02240.pdf))
  ([arXiv](https://arxiv.org/abs/1707.02240))
-   > - `2017/` `Citation: 1`
+   > - `2017/7` `Citation: 1`
 
  184. Generative Adversarial Nets from a Density Ratio Estimation Perspective ( b-GAN ) -   ([Search](http://www.google.com/search?q=Generative%20Adversarial%20Nets%20from%20a%20Density%20Ratio%20Estimation%20Perspective)) ([PDF](https://arxiv.org/pdf/1610.02920.pdf))
  ([arXiv](https://arxiv.org/abs/1610.02920))
@@ -779,7 +779,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  185. Generative Adversarial Nets with Labeled Data by Activation Maximization (AMGAN) (  ) -   ([Search](http://www.google.com/search?q=Generative%20Adversarial%20Nets%20with%20Labeled%20Data%20by%20Activation%20Maximization%20%28AMGAN%29)) ([PDF](https://arxiv.org/pdf/1703.02000.pdf))
  ([arXiv](https://arxiv.org/abs/1703.02000))
-   > - `2017/` `Citation: 2`
+   > - `2017/3` `Citation: 2`
 
  186. Generative Adversarial Nets?(the First paper of GAN) (  ) -   ([Search](http://www.google.com/search?q=Generative%20Adversarial%20Nets%3F%28the%20First%20paper%20of%20GAN%29)) ([PDF](https://arxiv.org/pdf/1406.2661.pdf))
  ([arXiv](https://arxiv.org/abs/1406.2661))
@@ -811,16 +811,16 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
  192. Generative adversarial networks for brain lesion detection?[JMI] (  ) -   ([Search](http://www.google.com/search?q=Generative%20adversarial%20networks%20for%20brain%20lesion%20detection%3F%5BJMI%5D)) ([PDF](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10133/1/Generative-adversarial-networks-for-brain-lesion-detection/10.1117/12.2254487.short))
    > - `2017/2` `Citation: ` __`Medical: Detection`__
 
- 193. Generative Adversarial Networks for Multimodal Representation Learning in Video Hyperlinking? (  ) -   ([Search](http://www.google.com/search?q=Generative%20Adversarial%20Networks%20for%20Multimodal%20Representation%20Learning%20in%20Video%20Hyperlinking%3F)) ([PDF](https://arxiv.org/abs/1705.05103.pdf))
+ 193. Generative Adversarial Networks for Multimodal Representation Learning in Video Hyperlinking? (  ) -   ([Search](http://www.google.com/search?q=Generative%20Adversarial%20Networks%20for%20Multimodal%20Representation%20Learning%20in%20Video%20Hyperlinking%3F)) ([PDF](https://arxiv.org/pdf/1705.05103.pdf))
  ([arXiv](https://arxiv.org/abs/1705.05103))
-   > - `2017/` `Citation: 1`
+   > - `2017/5` `Citation: 1`
 
  194. Generative Adversarial Networks for Noise Reduction in Low-Dose CT?[TMI] (  ) -   ([Search](http://www.google.com/search?q=Generative%20Adversarial%20Networks%20for%20Noise%20Reduction%20in%20Low-Dose%20CT%3F%5BTMI%5D)) ([PDF](http://ieeexplore.ieee.org/document/7934380/))
    > - `2017/5` `Citation: ` __`Medical: LD-CT`__
 
  195. Generative Adversarial Networks with Inverse Transformation Unit? (  ) -   ([Search](http://www.google.com/search?q=Generative%20Adversarial%20Networks%20with%20Inverse%20Transformation%20Unit%3F)) ([PDF](https://arxiv.org/pdf/1709.09354.pdf))
  ([arXiv](https://arxiv.org/abs/1709.09354))
-   > - `2017/` `Citation: 0`
+   > - `2017/9` `Citation: 0`
 
  196. Generative Adversarial Parallelization? (  ) -   ([Search](http://www.google.com/search?q=Generative%20Adversarial%20Parallelization%3F)) ([PDF](https://arxiv.org/pdf/1612.04021.pdf))
  ([arXiv](https://arxiv.org/abs/1612.04021))
@@ -828,7 +828,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  197. Generative Adversarial Residual Pairwise Networks for One Shot Learning? (  ) -   ([Search](http://www.google.com/search?q=Generative%20Adversarial%20Residual%20Pairwise%20Networks%20for%20One%20Shot%20Learning%3F)) ([PDF](https://arxiv.org/pdf/1703.08033.pdf))
  ([arXiv](https://arxiv.org/abs/1703.08033))
-   > - `2017/` `Citation: 6`
+   > - `2017/3` `Citation: 6`
 
  198. Generative Adversarial Structured Networks? (  ) -   ([Search](http://www.google.com/search?q=Generative%20Adversarial%20Structured%20Networks%3F)) ([PDF](https://sites.google.com/site/nips2016adversarial/WAT16_paper_14.pdf))
     > - `2017/` `Citation: 1`
@@ -844,12 +844,12 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  201. Generative Cooperative Net for Image Generation and Data Augmentation? (  ) -   ([Search](http://www.google.com/search?q=Generative%20Cooperative%20Net%20for%20Image%20Generation%20and%20Data%20Augmentation%3F)) ([PDF](https://arxiv.org/pdf/1705.02887.pdf))
  ([arXiv](https://arxiv.org/abs/1705.02887))
-   > - `2017/` `Citation: 0`
+   > - `2017/5` `Citation: 0`
 
  202. Generative face completion?(CVPR2017) (  ) -   ([Search](http://www.google.com/search?q=Generative%20face%20completion%3F%28CVPR2017%29)) ([PDF](https://arxiv.org/pdf/1704.05838.pdf))
  ([arXiv](https://arxiv.org/abs/1704.05838))
  ([github](https://github.com/Yijunmaverick/GenerativeFaceCompletion))
- > - `2016/` `Citation: 15` `Image Inpainting`  
+ > - `2017/4` `Citation: 15` `Image Inpainting`  
 
  203. Generative Image Modeling using Style and Structure Adversarial Networks (S^2GAN)? ( S^2GAN ) -   ([Search](http://www.google.com/search?q=Generative%20Image%20Modeling%20using%20Style%20and%20Structure%20Adversarial%20Networks%20%28S%5E2GAN%29%3F)) ([PDF](https://arxiv.org/pdf/1603.05631.pdf))
  ([arXiv](https://arxiv.org/abs/1603.05631v2))
@@ -858,11 +858,11 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  204. Generative Mixture of Networks? (  ) -   ([Search](http://www.google.com/search?q=Generative%20Mixture%20of%20Networks%3F)) ([PDF](https://arxiv.org/pdf/1702.03307.pdf))
  ([arXiv](https://arxiv.org/abs/1702.03307))
-   > - `2017/` `Citation: 0`
+   > - `2017/2` `Citation: 0`
 
  205. Generative Moment Matching Networks? (  ) -   ([Search](http://www.google.com/search?q=Generative%20Moment%20Matching%20Networks%3F)) ([PDF](https://arxiv.org/pdf/1502.02761.pdf))
  ([arXiv](https://arxiv.org/abs/1502.02761))
-   > - `2015/` `Citation: 120`
+   > - `2015/2` `Citation: 120`
 
  206. Generative Multi-Adversarial Networks? ( GMAN ) -   ([Search](http://www.google.com/search?q=Generative%20Multi-Adversarial%20Networks%3F)) ([PDF](https://arxiv.org/pdf/1611.01673.pdf))
  ([arXiv](http://arxiv.org/abs/1611.01673))
@@ -882,7 +882,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  210. Generative Temporal Models with Memory? (  ) -   ([Search](http://www.google.com/search?q=Generative%20Temporal%20Models%20with%20Memory%3F)) ([PDF](https://arxiv.org/pdf/1702.04649.pdf))
  ([arXiv](https://arxiv.org/abs/1702.04649))
-   > - `2017/` `Citation: 7`
+   > - `2017/2` `Citation: 7`
 
  211. Generative Visual Manipulation on the Natural Image Manifold (iGAN)? ( iGAN ) -   ([Search](http://www.google.com/search?q=Generative%20Visual%20Manipulation%20on%20the%20Natural%20Image%20Manifold%20%28iGAN%29%3F)) ([PDF](https://arxiv.org/pdf/1609.03552.pdf))
  ([arXiv](https://arxiv.org/abs/1609.03552v2))
@@ -906,9 +906,9 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
  ([github](http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/en/))
  > - `2017/7` `Citation: ` `Image Inpainting`  
 
- 216. Good Semi-supervised Learning that Requires a Bad GAN?(NIPS 2017) (  ) -   ([Search](http://www.google.com/search?q=Good%20Semi-supervised%20Learning%20that%20Requires%20a%20Bad%20GAN%3F%28NIPS%202017%29)) ([PDF](https://arxiv.org/abs/1705.09783.pdf))
+ 216. Good Semi-supervised Learning that Requires a Bad GAN?(NIPS 2017) (  ) -   ([Search](http://www.google.com/search?q=Good%20Semi-supervised%20Learning%20that%20Requires%20a%20Bad%20GAN%3F%28NIPS%202017%29)) ([PDF](https://arxiv.org/pdf/1705.09783.pdf))
  ([arXiv](https://arxiv.org/abs/1705.09783))
-  > - `2017/11` `Citation: 7` `Semi-supervised learning`  
+  > - `2017/5` `Citation: 7` `Semi-supervised learning`  
 
  217. GP-GAN: Gender Preserving GAN for Synthesizing Faces from Landmarks? ( GP-GAN ) -   ([Search](http://www.google.com/search?q=GP-GAN%3A%20Gender%20Preserving%20GAN%20for%20Synthesizing%20Faces%20from%20Landmarks%3F)) ([PDF](https://arxiv.org/pdf/1710.00962.pdf))
  ([arXiv](https://arxiv.org/abs/1710.00962))
@@ -919,9 +919,9 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
  ([github](https://github.com/wuhuikai/GP-GAN))
  > - `2017/3` `Citation: 3` `Image blending`  
 
- 219. Gradient descent GAN optimization is locally stable? (  ) -   ([Search](http://www.google.com/search?q=Gradient%20descent%20GAN%20optimization%20is%20locally%20stable%3F)) ([PDF](https://arxiv.org/abs/1706.04156.pdf))
+ 219. Gradient descent GAN optimization is locally stable? (  ) -   ([Search](http://www.google.com/search?q=Gradient%20descent%20GAN%20optimization%20is%20locally%20stable%3F)) ([PDF](https://arxiv.org/pdf/1706.04156.pdf))
  ([arXiv](https://arxiv.org/abs/1706.04156))
-   > - `2017/` `Citation: 1`
+   > - `2017/6` `Citation: 1`
 
  220. Guiding InfoGAN with Semi-Supervision? ( ss-InfoGAN ) -   ([Search](http://www.google.com/search?q=Guiding%20InfoGAN%20with%20Semi-Supervision%3F)) ([PDF](https://arxiv.org/pdf/1707.04487.pdf))
  ([arXiv](https://arxiv.org/abs/1707.04487))
@@ -933,7 +933,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  222. Hierarchical Detail Enhancing Mesh-Based Shape Generation with 3D Generative Adversarial Network? (  ) -   ([Search](http://www.google.com/search?q=Hierarchical%20Detail%20Enhancing%20Mesh-Based%20Shape%20Generation%20with%203D%20Generative%20Adversarial%20Network%3F)) ([PDF](https://arxiv.org/pdf/1709.07581.pdf))
  ([arXiv](https://arxiv.org/abs/1709.07581))
-   > - `2017/` `Citation: 0`
+   > - `2017/9` `Citation: 0`
 
  223. Hierarchical Video Generation from Orthogonal Information: Optical Flow and Texture ( FTGAN ) -   ([Search](http://www.google.com/search?q=Hierarchical%20Video%20Generation%20from%20Orthogonal%20Information%3A%20Optical%20Flow%20and%20Texture)) ([PDF](https://arxiv.org/pdf/1711.09618.pdf))
  ([arXiv](https://arxiv.org/abs/1711.09618))
@@ -941,7 +941,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  224. High-Quality Face Image SR Using Conditional Generative Adversarial Networks? (  ) -   ([Search](http://www.google.com/search?q=High-Quality%20Face%20Image%20SR%20Using%20Conditional%20Generative%20Adversarial%20Networks%3F)) ([PDF](https://arxiv.org/pdf/1707.00737.pdf))
  ([arXiv](https://arxiv.org/abs/1707.00737))
-   > - `2017/` `Citation: 0`
+   > - `2017/7` `Citation: 0`
 
  225. High-Quality Facial Photo-Sketch Synthesis Using Multi-Adversarial Networks? ( PS��-GAN ) -   ([Search](http://www.google.com/search?q=High-Quality%20Facial%20Photo-Sketch%20Synthesis%20Using%20Multi-Adversarial%20Networks%3F)) ([PDF](https://arxiv.org/pdf/1710.10182.pdf))
  ([arXiv](https://arxiv.org/abs/1710.10182))
@@ -962,7 +962,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  229. How to Fool Radiologists with Generative Adversarial Networks? A Visual Turing Test for Lung Cancer Diagnosis? (  ) -   ([Search](http://www.google.com/search?q=How%20to%20Fool%20Radiologists%20with%20Generative%20Adversarial%20Networks%3F%20A%20Visual%20Turing%20Test%20for%20Lung%20Cancer%20Diagnosis%3F)) ([PDF](https://arxiv.org/pdf/1710.09762.pdf))
  ([arXiv](https://arxiv.org/abs/1710.09762))
-  > - `2017/` `Citation: 0` __`Medical: Synthersize`__
+  > - `2017/10` `Citation: 0` __`Medical: Synthersize`__
 
  230. How to train Gans (  ) -   ([Search](http://www.google.com/search?q=How%20to%20train%20Gans)) ([PDF]())
  ([arXiv](https://github.com/soumith/ganhacks))
@@ -996,7 +996,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  237. Image Quality Assessment Techniques Show Improved Training and Evaluation of Autoencoder Generative Adversarial Networks? (  ) -   ([Search](http://www.google.com/search?q=Image%20Quality%20Assessment%20Techniques%20Show%20Improved%20Training%20and%20Evaluation%20of%20Autoencoder%20Generative%20Adversarial%20Networks%3F)) ([PDF](https://arxiv.org/pdf/1708.02237.pdf))
  ([arXiv](https://arxiv.org/abs/1708.02237))
-   > - `2017/` `Citation: 0`
+   > - `2017/8` `Citation: 0`
 
  238. Image super-resolution through deep learning (  ) -   ([Search](http://www.google.com/search?q=Image%20super-resolution%20through%20deep%20learning)) ([PDF](-))
   ([github](https://github.com/david-gpu/srez))
@@ -1009,7 +1009,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  240. Imitating Driver Behavior with Generative Adversarial Networks? (  ) -   ([Search](http://www.google.com/search?q=Imitating%20Driver%20Behavior%20with%20Generative%20Adversarial%20Networks%3F)) ([PDF](https://arxiv.org/pdf/1701.06699.pdf))
  ([arXiv](https://arxiv.org/abs/1701.06699))
-   > - `2017/` `Citation: 11`
+   > - `2017/1` `Citation: 11`
 
  241. Improved Adversarial Systems for 3D Object Generation and Reconstruction? ( 3D-IWGAN ) -   ([Search](http://www.google.com/search?q=Improved%20Adversarial%20Systems%20for%203D%20Object%20Generation%20and%20Reconstruction%3F)) ([PDF](https://arxiv.org/pdf/1707.09557.pdf))
  ([arXiv](https://arxiv.org/abs/1707.09557))
@@ -1018,11 +1018,11 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  242. Improved generator objectives for GANs? (  ) -   ([Search](http://www.google.com/search?q=Improved%20generator%20objectives%20for%20GANs%3F)) ([PDF](https://arxiv.org/pdf/1612.02780.pdf))
  ([arXiv](https://arxiv.org/abs/1612.02780))
-   > - `2017/` `Citation: 10`
+   > - `2016/12` `Citation: 10`
 
- 243. Improved Semi-supervised Learning with GANs using Manifold Invariances? (  ) -   ([Search](http://www.google.com/search?q=Improved%20Semi-supervised%20Learning%20with%20GANs%20using%20Manifold%20Invariances%3F)) ([PDF](https://arxiv.org/abs/1705.08850.pdf))
+ 243. Improved Semi-supervised Learning with GANs using Manifold Invariances? (  ) -   ([Search](http://www.google.com/search?q=Improved%20Semi-supervised%20Learning%20with%20GANs%20using%20Manifold%20Invariances%3F)) ([PDF](https://arxiv.org/pdf/1705.08850.pdf))
  ([arXiv](https://arxiv.org/abs/1705.08850))
-   > - `2017/` `Citation: 11`
+   > - `2017/5` `Citation: 11`
 
  244. Improved Techniques for Training GANs(Goodfellow's paper) (  ) -   ([Search](http://www.google.com/search?q=Improved%20Techniques%20for%20Training%20GANs%28Goodfellow%27s%20paper%29)) ([PDF](https://arxiv.org/pdf/1606.03498.pdf))
  ([arXiv](https://arxiv.org/abs/1606.03498))
@@ -1050,11 +1050,11 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  249. Improving Heterogeneous Face Recognition with Conditional Adversarial Networks (  ) -   ([Search](http://www.google.com/search?q=Improving%20Heterogeneous%20Face%20Recognition%20with%20Conditional%20Adversarial%20Networks)) ([PDF](https://arxiv.org/pdf/1709.02848.pdf))
  ([arXiv](https://arxiv.org/abs/1709.02848))
-   > - `2017/` `Citation: 1`
+   > - `2017/9` `Citation: 1`
 
  250. Improving image generative models with human interactions? (  ) -   ([Search](http://www.google.com/search?q=Improving%20image%20generative%20models%20with%20human%20interactions%3F)) ([PDF](https://arxiv.org/pdf/1709.10459.pdf))
  ([arXiv](https://arxiv.org/abs/1709.10459))
-   > - `2017/` `Citation: 0`
+   > - `2017/9` `Citation: 0`
 
  251. Improving Neural Machine Translation with Conditional Sequence Generative Adversarial Nets ( CS-GAN ) -   ([Search](http://www.google.com/search?q=Improving%20Neural%20Machine%20Translation%20with%20Conditional%20Sequence%20Generative%20Adversarial%20Nets)) ([PDF](https://arxiv.org/pdf/1703.04887.pdf))
  ([arXiv](https://arxiv.org/abs/1703.04887))
@@ -1062,7 +1062,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  252. Improving Variational Inference with Inverse Autoregressive Flow? (  ) -   ([Search](http://www.google.com/search?q=Improving%20Variational%20Inference%20with%20Inverse%20Autoregressive%20Flow%3F)) ([PDF](https://arxiv.org/pdf/1606.04934.pdf))
  ([arXiv](https://arxiv.org/abs/1606.04934))
-   > - `2016/` `Citation: 82`
+   > - `2016/6` `Citation: 82`
 
  253. In2I : Unsupervised Multi-Image-to-Image Translation Using Generative Adversarial Networks ( In2I ) -   ([Search](http://www.google.com/search?q=In2I%20%3A%20Unsupervised%20Multi-Image-to-Image%20Translation%20Using%20Generative%20Adversarial%20Networks)) ([PDF](https://arxiv.org/pdf/1711.09334.pdf))
  ([arXiv](https://arxiv.org/abs/1711.09334))
@@ -1073,13 +1073,13 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
  ([github](https://github.com/openai/InfoGAN))
  > - `2016/6` `Citation: 227` `Conditional adversarial`  
 
- 255. Interactive 3D Modeling with a Generative Adversarial Network? (  ) -   ([Search](http://www.google.com/search?q=Interactive%203D%20Modeling%20with%20a%20Generative%20Adversarial%20Network%3F)) ([PDF](https://arxiv.org/abs/1706.05170.pdf))
+ 255. Interactive 3D Modeling with a Generative Adversarial Network? (  ) -   ([Search](http://www.google.com/search?q=Interactive%203D%20Modeling%20with%20a%20Generative%20Adversarial%20Network%3F)) ([PDF](https://arxiv.org/pdf/1706.05170.pdf))
  ([arXiv](https://arxiv.org/abs/1706.05170))
-   > - `2017/` `Citation: 6`
+   > - `2017/6` `Citation: 6`
 
  256. Intraoperative Organ Motion Models with an Ensemble of Conditional Generative Adversarial Networks? (  ) -   ([Search](http://www.google.com/search?q=Intraoperative%20Organ%20Motion%20Models%20with%20an%20Ensemble%20of%20Conditional%20Generative%20Adversarial%20Networks%3F)) ([PDF](https://arxiv.org/pdf/1709.02255.pdf))
  ([arXiv](https://arxiv.org/abs/1709.02255))
-   > - `2017/` `Citation: 1`
+   > - `2017/9` `Citation: 1`
 
  257. Invertible Conditional GANs for image editing (IcGAN)? ( IcGAN ) -   ([Search](http://www.google.com/search?q=Invertible%20Conditional%20GANs%20for%20image%20editing%20%28IcGAN%29%3F)) ([PDF](https://arxiv.org/pdf/1611.06355.pdf))
  ([arXiv](https://arxiv.org/abs/1611.06355))
@@ -1088,7 +1088,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  258. Inverting The Generator Of A Generative Adversarial Network? (  ) -   ([Search](http://www.google.com/search?q=Inverting%20The%20Generator%20Of%20A%20Generative%20Adversarial%20Network%3F)) ([PDF](https://arxiv.org/pdf/1611.05644.pdf))
  ([arXiv](https://arxiv.org/abs/1611.05644))
-   > - `2016/` `Citation: 10`
+   > - `2016/11` `Citation: 10`
 
  259. IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval models ( IRGAN ) -   ([Search](http://www.google.com/search?q=IRGAN%3A%20A%20Minimax%20Game%20for%20Unifying%20Generative%20and%20Discriminative%20Information%20Retrieval%20models)) ([PDF](https://arxiv.org/pdf/1705.10513v1.pdf))
  ([arXiv](https://arxiv.org/abs/1705.10513v1))
@@ -1096,7 +1096,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  260. It Takes (Only) Two: Adversarial Generator-Encoder Networks? (  ) -   ([Search](http://www.google.com/search?q=It%20Takes%20%28Only%29%20Two%3A%20Adversarial%20Generator-Encoder%20Networks%3F)) ([PDF](https://arxiv.org/pdf/1704.02304.pdf))
  ([arXiv](https://arxiv.org/abs/1704.02304))
-   > - `2017/` `Citation: 9`
+   > - `2017/4` `Citation: 9`
 
  261. IVE-GAN: Invariant Encoding Generative Adversarial Networks ( IVE-GAN ) -   ([Search](http://www.google.com/search?q=IVE-GAN%3A%20Invariant%20Encoding%20Generative%20Adversarial%20Networks)) ([PDF](https://arxiv.org/pdf/1711.08646.pdf))
  ([arXiv](https://arxiv.org/abs/1711.08646))
@@ -1114,18 +1114,18 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
  ([arXiv](https://arxiv.org/abs/1709.01993))
    > - `2017/9` `Citation: 1`
 
- 265. Language Generation with Recurrent Generative Adversarial Networks without Pre-training? ( RNN-WGAN ) -   ([Search](http://www.google.com/search?q=Language%20Generation%20with%20Recurrent%20Generative%20Adversarial%20Networks%20without%20Pre-training%3F)) ([PDF](https://arxiv.org/abs/1706.01399.pdf))
+ 265. Language Generation with Recurrent Generative Adversarial Networks without Pre-training? ( RNN-WGAN ) -   ([Search](http://www.google.com/search?q=Language%20Generation%20with%20Recurrent%20Generative%20Adversarial%20Networks%20without%20Pre-training%3F)) ([PDF](https://arxiv.org/pdf/1706.01399.pdf))
  ([arXiv](https://arxiv.org/abs/1706.01399))
  ([github](https://github.com/amirbar/rnn.wgan))
   > - `2017/6` `Citation: 4`
 
  266. Learning a Driving Simulator? (  ) -   ([Search](http://www.google.com/search?q=Learning%20a%20Driving%20Simulator%3F)) ([PDF](https://arxiv.org/pdf/1608.01230.pdf))
  ([arXiv](https://arxiv.org/abs/1608.01230))
-   > - `2016/` `Citation: 25`
+   > - `2016/8` `Citation: 25`
 
  267. Learning a Generative Adversarial Network for High Resolution Artwork Synthesis? (  ) -   ([Search](http://www.google.com/search?q=Learning%20a%20Generative%20Adversarial%20Network%20for%20High%20Resolution%20Artwork%20Synthesis%3F)) ([PDF](https://arxiv.org/pdf/1708.09533.pdf))
  ([arXiv](https://arxiv.org/abs/1708.09533))
-   > - `2017/` `Citation: 0`
+   > - `2017/8` `Citation: 0`
 
  268. Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling (3D-GAN)? ( 3D-GAN ) -   ([Search](http://www.google.com/search?q=Learning%20a%20Probabilistic%20Latent%20Space%20of%20Object%20Shapes%20via%203D%20Generative-Adversarial%20Modeling%20%283D-GAN%29%3F)) ([PDF](https://arxiv.org/pdf/1610.07584.pdf))
  ([arXiv](https://arxiv.org/abs/1610.07584))
@@ -1155,7 +1155,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  274. Learning in Implicit Generative Models? (  ) -   ([Search](http://www.google.com/search?q=Learning%20in%20Implicit%20Generative%20Models%3F)) ([PDF](https://arxiv.org/pdf/1610.03483.pdf))
  ([arXiv](https://arxiv.org/abs/1610.03483))
-   > - `2016/` `Citation: 43`
+   > - `2016/10` `Citation: 43`
 
  275. Learning Inverse Mapping by Autoencoder based Generative Adversarial Nets ( AEGAN ) -   ([Search](http://www.google.com/search?q=Learning%20Inverse%20Mapping%20by%20Autoencoder%20based%20Generative%20Adversarial%20Nets)) ([PDF](https://arxiv.org/pdf/1703.10094.pdf))
  ([arXiv](https://arxiv.org/abs/1703.10094))
@@ -1163,7 +1163,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  276. Learning Loss for Knowledge Distillation with Conditional Adversarial Networks? (  ) -   ([Search](http://www.google.com/search?q=Learning%20Loss%20for%20Knowledge%20Distillation%20with%20Conditional%20Adversarial%20Networks%3F)) ([PDF](https://arxiv.org/pdf/1709.00513.pdf))
  ([arXiv](https://arxiv.org/abs/1709.00513))
-   > - `2017/` `Citation: 0`
+   > - `2017/9` `Citation: 0`
 
  277. Learning Particle Physics by Example: Location-Aware Generative Adversarial Networks for Physics Synthesis ( LAGAN ) -   ([Search](http://www.google.com/search?q=Learning%20Particle%20Physics%20by%20Example%3A%20Location-Aware%20Generative%20Adversarial%20Networks%20for%20Physics%20Synthesis)) ([PDF](https://arxiv.org/pdf/1701.05927.pdf))
  ([arXiv](https://arxiv.org/abs/1701.05927))
@@ -1171,14 +1171,14 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  278. Learning Representations of Emotional Speech with Deep Convolutional Generative Adversarial Networks? (  ) -   ([Search](http://www.google.com/search?q=Learning%20Representations%20of%20Emotional%20Speech%20with%20Deep%20Convolutional%20Generative%20Adversarial%20Networks%3F)) ([PDF](https://arxiv.org/pdf/1705.02394.pdf))
  ([arXiv](https://arxiv.org/abs/1705.02394))
-   > - `2017/` `Citation: 6`
+   > - `2017/5` `Citation: 6`
 
  279. Learning Residual Images for Face Attribute Manipulation(CVPR 2017) (  ) -   ([Search](http://www.google.com/search?q=Learning%20Residual%20Images%20for%20Face%20Attribute%20Manipulation%28CVPR%202017%29)) ([PDF](https://arxiv.org/pdf/1612.05363.pdf))
  ([arXiv](https://arxiv.org/abs/1612.05363))
  ([github](https://github.com/Zhongdao/FaceAttributeManipulation))
  > - `2017/4` `Citation: ` `Face Generative and Editing`  
 
- 280. Learning Texture Manifolds with the Periodic Spatial GAN? ( PSGAN ) -   ([Search](http://www.google.com/search?q=Learning%20Texture%20Manifolds%20with%20the%20Periodic%20Spatial%20GAN%3F)) ([PDF](https://arxiv.org/abs/1705.06566.pdf))
+ 280. Learning Texture Manifolds with the Periodic Spatial GAN? ( PSGAN ) -   ([Search](http://www.google.com/search?q=Learning%20Texture%20Manifolds%20with%20the%20Periodic%20Spatial%20GAN%3F)) ([PDF](https://arxiv.org/pdf/1705.06566.pdf))
  ([arXiv](https://arxiv.org/abs/1705.06566))
    > - `2017/5` `Citation: 2`
 
@@ -1197,7 +1197,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  284. Learning to Generate Chairs with Generative Adversarial Nets? (  ) -   ([Search](http://www.google.com/search?q=Learning%20to%20Generate%20Chairs%20with%20Generative%20Adversarial%20Nets%3F)) ([PDF](https://arxiv.org/pdf/1705.10413.pdf))
  ([arXiv](https://arxiv.org/abs/1705.10413))
-   > - `2017/` `Citation: 0`
+   > - `2017/5` `Citation: 0`
 
  285. Learning to Generate Images of Outdoor Scenes from Attributes and Semantic Layouts (AL-CGAN)? ( AL-CGAN ) -   ([Search](http://www.google.com/search?q=Learning%20to%20Generate%20Images%20of%20Outdoor%20Scenes%20from%20Attributes%20and%20Semantic%20Layouts%20%28AL-CGAN%29%3F)) ([PDF](https://arxiv.org/pdf/1612.00215.pdf))
  ([arXiv](https://arxiv.org/abs/1612.00215))
@@ -1209,7 +1209,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  287. Learning to Protect Communications with Adversarial Neural Cryptography? (  ) -   ([Search](http://www.google.com/search?q=Learning%20to%20Protect%20Communications%20with%20Adversarial%20Neural%20Cryptography%3F)) ([PDF](https://arxiv.org/pdf/1610.06918.pdf))
  ([arXiv](https://arxiv.org/abs/1610.06918))
-   > - `2016/` `Citation: 21`
+   > - `2016/10` `Citation: 21`
 
  288. Learning What and Where to Draw (GAWWN)? ( GAWWN ) -   ([Search](http://www.google.com/search?q=Learning%20What%20and%20Where%20to%20Draw%20%28GAWWN%29%3F)) ([PDF](https://arxiv.org/pdf/1610.02454v1.pdf))
  ([arXiv](https://arxiv.org/abs/1610.02454v1))
@@ -1231,7 +1231,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  292. Linking Generative Adversarial Learning and Binary Classification? (  ) -   ([Search](http://www.google.com/search?q=Linking%20Generative%20Adversarial%20Learning%20and%20Binary%20Classification%3F)) ([PDF](https://arxiv.org/pdf/1709.01509.pdf))
  ([arXiv](https://arxiv.org/abs/1709.01509))
-   > - `2017/` `Citation: 0`
+   > - `2017/9` `Citation: 0`
 
  293. Long Text Generation via Adversarial Training with Leaked Information ( LeakGAN ) -   ([Search](http://www.google.com/search?q=Long%20Text%20Generation%20via%20Adversarial%20Training%20with%20Leaked%20Information)) ([PDF](https://arxiv.org/pdf/1709.08624.pdf))
  ([arXiv](https://arxiv.org/abs/1709.08624))
@@ -1243,7 +1243,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  295. Low Dose CT Image Denoising Using a Generative Adversarial Network with Wasserstein Distance and Perceptual Loss? (  ) -   ([Search](http://www.google.com/search?q=Low%20Dose%20CT%20Image%20Denoising%20Using%20a%20Generative%20Adversarial%20Network%20with%20Wasserstein%20Distance%20and%20Perceptual%20Loss%3F)) ([PDF](https://arxiv.org/pdf/1708.00961.pdf))
  ([arXiv](https://arxiv.org/abs/1708.00961))
-  > - `2017/` `Citation: 1` __`Medical: LD-CT`__
+  > - `2017/8` `Citation: 1` __`Medical: LD-CT`__
 
  296. LR-GAN: Layered Recursive Generative Adversarial Networks for Image Generation ( LR-GAN ) -   ([Search](http://www.google.com/search?q=LR-GAN%3A%20Layered%20Recursive%20Generative%20Adversarial%20Networks%20for%20Image%20Generation)) ([PDF](https://arxiv.org/pdf/1703.01560.pdf))
  ([arXiv](https://arxiv.org/abs/1703.01560v1))
@@ -1263,7 +1263,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  300. MARTA GANs: Unsupervised Representation Learning for Remote Sensing Image Classification? (  ) -   ([Search](http://www.google.com/search?q=MARTA%20GANs%3A%20Unsupervised%20Representation%20Learning%20for%20Remote%20Sensing%20Image%20Classification%3F)) ([PDF](https://arxiv.org/pdf/1612.08879.pdf))
  ([arXiv](https://arxiv.org/abs/1612.08879))
-   > - `2017/` `Citation: 1`
+   > - `2016/12` `Citation: 1`
 
  301. Maximum-Likelihood Augmented Discrete Generative Adversarial Networks? ( MaliGAN ) -   ([Search](http://www.google.com/search?q=Maximum-Likelihood%20Augmented%20Discrete%20Generative%20Adversarial%20Networks%3F)) ([PDF](https://arxiv.org/pdf/1702.07983.pdf))
  ([arXiv](https://arxiv.org/abs/1702.07983))
@@ -1279,7 +1279,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  304. Megapixel Size Image Creation using Generative Adversarial Networks? (  ) -   ([Search](http://www.google.com/search?q=Megapixel%20Size%20Image%20Creation%20using%20Generative%20Adversarial%20Networks%3F)) ([PDF](https://arxiv.org/pdf/1706.00082.pdf))
  ([arXiv](https://arxiv.org/abs/1706.00082))
-   > - `2017/` `Citation: 3`
+   > - `2017/6` `Citation: 3`
 
  305. Message Passing Multi-Agent GANs (MPM-GAN)? ( MPM-GAN ) -   ([Search](http://www.google.com/search?q=Message%20Passing%20Multi-Agent%20GANs%20%28MPM-GAN%29%3F)) ([PDF](https://arxiv.org/pdf/1612.01294.pdf))
  ([arXiv](https://arxiv.org/abs/1612.01294))
@@ -1291,11 +1291,11 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  307. Microscopy Cell Segmentation via Adversarial Neural Networks? (  ) -   ([Search](http://www.google.com/search?q=Microscopy%20Cell%20Segmentation%20via%20Adversarial%20Neural%20Networks%3F)) ([PDF](https://arxiv.org/pdf/1709.05860.pdf))
  ([arXiv](https://arxiv.org/abs/1709.05860))
-   > - `2017/` `Citation: 0`
+   > - `2017/9` `Citation: 0`
 
  308. MidiNet: A Convolutional Generative Adversarial Network for Symbolic-domain Music Generation using 1D and 2D Conditions? (  ) -   ([Search](http://www.google.com/search?q=MidiNet%3A%20A%20Convolutional%20Generative%20Adversarial%20Network%20for%20Symbolic-domain%20Music%20Generation%20using%201D%20and%202D%20Conditions%3F)) ([PDF](https://arxiv.org/pdf/1703.10847.pdf))
  ([arXiv](https://arxiv.org/abs/1703.10847))
-  > - `2016/` `Citation: 2` `MUSIC`  
+  > - `2017/3` `Citation: 2` `MUSIC`  
 
  309. MMD GAN: Towards Deeper Understanding of Moment Matching Network? ( MMD-GAN ) -   ([Search](http://www.google.com/search?q=MMD%20GAN%3A%20Towards%20Deeper%20Understanding%20of%20Moment%20Matching%20Network%3F)) ([PDF](https://arxiv.org/pdf/1705.08584.pdf))
  ([arXiv](https://arxiv.org/abs/1705.08584))
@@ -1352,9 +1352,9 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
  ([arXiv](https://arxiv.org/abs/1709.06298))
    > - `2017/9` `Citation: `
 
- 322. Neural Face Editing with Intrinsic Image Disentangling? (  ) -   ([Search](http://www.google.com/search?q=Neural%20Face%20Editing%20with%20Intrinsic%20Image%20Disentangling%3F)) ([PDF](https://arxiv.org/abs/1704.04131.pdf))
+ 322. Neural Face Editing with Intrinsic Image Disentangling? (  ) -   ([Search](http://www.google.com/search?q=Neural%20Face%20Editing%20with%20Intrinsic%20Image%20Disentangling%3F)) ([PDF](https://arxiv.org/pdf/1704.04131.pdf))
  ([arXiv](https://arxiv.org/abs/1704.04131))
-  > - `2017/` `Citation: 11` `Face Generative and Editing`  
+  > - `2017/5` `Citation: 11` `Face Generative and Editing`  
 
  323. Neural Photo Editing with Introspective Adversarial Networks (IAN)? ( IAN ) -   ([Search](http://www.google.com/search?q=Neural%20Photo%20Editing%20with%20Introspective%20Adversarial%20Networks%20%28IAN%29%3F)) ([PDF](https://arxiv.org/pdf/1609.07093.pdf))
  ([arXiv](https://arxiv.org/abs/1609.07093))
@@ -1363,7 +1363,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  324. Neural Stain-Style Transfer Learning using GAN for Histopathological Images? (  ) -   ([Search](http://www.google.com/search?q=Neural%20Stain-Style%20Transfer%20Learning%20using%20GAN%20for%20Histopathological%20Images%3F)) ([PDF](https://arxiv.org/pdf/1710.08543.pdf))
  ([arXiv](https://arxiv.org/abs/1710.08543))
-   > - `2017/` `Citation: 0`
+   > - `2017/10` `Citation: 0`
 
  325. Objective-Reinforced Generative Adversarial Networks (ORGAN) for Sequence Generation Models? ( ORGAN ) -   ([Search](http://www.google.com/search?q=Objective-Reinforced%20Generative%20Adversarial%20Networks%20%28ORGAN%29%20for%20Sequence%20Generation%20Models%3F)) ([PDF](https://arxiv.org/pdf/1705.10843.pdf))
  ([arXiv](https://arxiv.org/abs/1705.10843))
@@ -1383,11 +1383,11 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  329. On the effect of Batch Normalization and Weight Normalization in Generative Adversarial Networks? (  ) -   ([Search](http://www.google.com/search?q=On%20the%20effect%20of%20Batch%20Normalization%20and%20Weight%20Normalization%20in%20Generative%20Adversarial%20Networks%3F)) ([PDF](https://arxiv.org/pdf/1704.03971.pdf))
  ([arXiv](https://arxiv.org/abs/1704.03971))
-   > - `2017/` `Citation: 0`
+   > - `2017/4` `Citation: 0`
 
  330. On the Quantitative Analysis of Decoder-Based Generative Models? (  ) -   ([Search](http://www.google.com/search?q=On%20the%20Quantitative%20Analysis%20of%20Decoder-Based%20Generative%20Models%3F)) ([PDF](https://arxiv.org/pdf/1611.04273.pdf))
  ([arXiv](https://arxiv.org/abs/1611.04273))
-   > - `2016/` `Citation: 36`
+   > - `2016/11` `Citation: 36`
 
  331. On the regularization of Wasserstein GANs (  ) -   ([Search](http://www.google.com/search?q=On%20the%20regularization%20of%20Wasserstein%20GANs)) ([PDF](https://arxiv.org/pdf/1709.08894.pdf))
  ([arXiv](https://arxiv.org/abs/1709.08894))
@@ -1403,7 +1403,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  334. Optimizing the Latent Space of Generative Networks? (  ) -   ([Search](http://www.google.com/search?q=Optimizing%20the%20Latent%20Space%20of%20Generative%20Networks%3F)) ([PDF](https://arxiv.org/pdf/1707.05776.pdf))
  ([arXiv](https://arxiv.org/abs/1707.05776))
-   > - `2017/` `Citation: 4`
+   > - `2017/7` `Citation: 4`
 
  335. OptionGAN: Learning Joint Reward-Policy Options using Generative Adversarial Inverse Reinforcement Learning ( OptionGAN ) -   ([Search](http://www.google.com/search?q=OptionGAN%3A%20Learning%20Joint%20Reward-Policy%20Options%20using%20Generative%20Adversarial%20Inverse%20Reinforcement%20Learning)) ([PDF](https://arxiv.org/pdf/1709.06683.pdf))
  ([arXiv](https://arxiv.org/abs/1709.06683))
@@ -1419,7 +1419,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  338. Parametrizing filters of a CNN with a GAN? (  ) -   ([Search](http://www.google.com/search?q=Parametrizing%20filters%20of%20a%20CNN%20with%20a%20GAN%3F)) ([PDF](https://arxiv.org/pdf/1710.11386.pdf))
  ([arXiv](https://arxiv.org/abs/1710.11386))
-   > - `2017/` `Citation: 0`
+   > - `2017/10` `Citation: 0`
 
  339. PassGAN: A Deep Learning Approach for Password Guessing ( PassGAN ) -   ([Search](http://www.google.com/search?q=PassGAN%3A%20A%20Deep%20Learning%20Approach%20for%20Password%20Guessing)) ([PDF](https://arxiv.org/pdf/1709.00440.pdf))
  ([arXiv](https://arxiv.org/abs/1709.00440))
@@ -1430,7 +1430,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
  ([arXiv](https://arxiv.org/abs/1706.09138))
    > - `2017/6` `Citation: 4`
 
- 341. Perceptual Generative Adversarial Networks for Small Object Detection? ( Perceptual GAN ) -   ([Search](http://www.google.com/search?q=Perceptual%20Generative%20Adversarial%20Networks%20for%20Small%20Object%20Detection%3F)) ([PDF](https://arxiv.org/abs/1706.05274.pdf))
+ 341. Perceptual Generative Adversarial Networks for Small Object Detection? ( Perceptual GAN ) -   ([Search](http://www.google.com/search?q=Perceptual%20Generative%20Adversarial%20Networks%20for%20Small%20Object%20Detection%3F)) ([PDF](https://arxiv.org/pdf/1706.05274.pdf))
  ([arXiv](https://arxiv.org/abs/1706.05274))
   > - `2017/6` `Citation: 10` `Object Detection`  
 
@@ -1446,7 +1446,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
  344. Pixel-Level Domain Transfer? (  ) -   ([Search](http://www.google.com/search?q=Pixel-Level%20Domain%20Transfer%3F)) ([PDF](https://arxiv.org/pdf/1603.07442.pdf))
  ([arXiv](https://arxiv.org/abs/1603.07442))
  ([github](https://github.com/fxia22/PixelDTGAN))
- > - `2016/` `Citation: 30` `Conditional adversarial`  
+ > - `2016/3` `Citation: 30` `Conditional adversarial`  
 
  345. PixelGAN Autoencoders? ( PixelGAN ) -   ([Search](http://www.google.com/search?q=PixelGAN%20Autoencoders%3F)) ([PDF](https://arxiv.org/pdf/1706.00531.pdf))
  ([arXiv](https://arxiv.org/abs/1706.00531))
@@ -1463,7 +1463,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  348. Pose Guided Person Image Generation? (  ) -   ([Search](http://www.google.com/search?q=Pose%20Guided%20Person%20Image%20Generation%3F)) ([PDF](https://arxiv.org/pdf/1705.09368.pdf))
  ([arXiv](https://arxiv.org/abs/1705.09368))
-   > - `2017/` `Citation: 7`
+   > - `2017/5` `Citation: 7`
 
  349. Pose-Normalized Image Generation for Person Re-identification ( PN-GAN ) -   ([Search](http://www.google.com/search?q=Pose-Normalized%20Image%20Generation%20for%20Person%20Re-identification)) ([PDF](https://arxiv.org/pdf/1712.02225.pdf))
  ([arXiv](https://arxiv.org/abs/1712.02225))
@@ -1471,11 +1471,11 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  350. Practical Black-Box Attacks against Deep Learning Systems using Adversarial Examples? (  ) -   ([Search](http://www.google.com/search?q=Practical%20Black-Box%20Attacks%20against%20Deep%20Learning%20Systems%20using%20Adversarial%20Examples%3F)) ([PDF](https://arxiv.org/pdf/1602.02697.pdf))
  ([arXiv](https://arxiv.org/abs/1602.02697))
-   > - `2016/` `Citation: 103`
+   > - `2016/2` `Citation: 103`
 
  351. Precise Recovery of Latent Vectors from Generative Adversarial Networks? (  ) -   ([Search](http://www.google.com/search?q=Precise%20Recovery%20of%20Latent%20Vectors%20from%20Generative%20Adversarial%20Networks%3F)) ([PDF](https://arxiv.org/pdf/1702.04782.pdf))
  ([arXiv](https://arxiv.org/abs/1702.04782))
-   > - `2016/` `Citation: 9`
+   > - `2017/2` `Citation: 9`
 
  352. Precomputed Real-Time Texture Synthesis with Markovian Generative Adversarial Networks (MGAN)? ( MGAN ) -   ([Search](http://www.google.com/search?q=Precomputed%20Real-Time%20Texture%20Synthesis%20with%20Markovian%20Generative%20Adversarial%20Networks%20%28MGAN%29%3F)) ([PDF](https://arxiv.org/pdf/1604.04382.pdf))
  ([arXiv](https://arxiv.org/abs/1604.04382))
@@ -1489,7 +1489,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
  354. Progressive Growing of GANs for Improved Quality, Stability, and Variation  (  ) -   ([Search](http://www.google.com/search?q=Progressive%20Growing%20of%20GANs%20for%20Improved%20Quality%2C%20Stability%2C%20and%20Variation%20)) ([PDF](https://arxiv.org/pdf/1710.10196.pdf))
  ([arXiv](http://research.nvidia.com/publication/2017-10_Progressive-Growing-of))
  ([github](https://github.com/tkarras/progressive_growing_of_gans))
- > - `2018/` `Citation: ` `Generation High-Quality Images`  
+ > - `2017/10` `Citation: ` `Generation High-Quality Images`  
 
  355. Real-valued (Medical) Time Series Generation with Recurrent Conditional GANs ( RCGAN ) -   ([Search](http://www.google.com/search?q=Real-valued%20%28Medical%29%20Time%20Series%20Generation%20with%20Recurrent%20Conditional%20GANs)) ([PDF](https://arxiv.org/pdf/1706.02633.pdf))
  ([arXiv](https://arxiv.org/abs/1706.02633))
@@ -1498,7 +1498,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
  356. Reconstruction of three-dimensional porous media using generative adversarial neural networks? (  ) -   ([Search](http://www.google.com/search?q=Reconstruction%20of%20three-dimensional%20porous%20media%20using%20generative%20adversarial%20neural%20networks%3F)) ([PDF](https://arxiv.org/pdf/1704.03225.pdf))
  ([arXiv](https://arxiv.org/abs/1704.03225))
  ([github](https://github.com/LukasMosser/PorousMediaGan))
-  > - `2017/` `Citation: 6`
+  > - `2017/4` `Citation: 6`
 
  357. Recurrent Generative Adversarial Networks for Proximal Learning and Automated Compressive Image Recovery (  ) -   ([Search](http://www.google.com/search?q=Recurrent%20Generative%20Adversarial%20Networks%20for%20Proximal%20Learning%20and%20Automated%20Compressive%20Image%20Recovery)) ([PDF](https://arxiv.org/pdf/1711.10046.pdf))
  ([arXiv](https://arxiv.org/abs/1711.10046))
@@ -1508,7 +1508,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
  ([arXiv](https://arxiv.org/abs/1703.07022v2))
    > - `2017/3` `Citation: 14`
 
- 359. Relaxed Wasserstein with Applications to GANs (RWGAN )? ( RWGAN ) -   ([Search](http://www.google.com/search?q=Relaxed%20Wasserstein%20with%20Applications%20to%20GANs%20%28RWGAN%20%29%3F)) ([PDF](https://arxiv.org/abs/1705.07164.pdf))
+ 359. Relaxed Wasserstein with Applications to GANs (RWGAN )? ( RWGAN ) -   ([Search](http://www.google.com/search?q=Relaxed%20Wasserstein%20with%20Applications%20to%20GANs%20%28RWGAN%20%29%3F)) ([PDF](https://arxiv.org/pdf/1705.07164.pdf))
  ([arXiv](https://arxiv.org/abs/1705.07164))
    > - `2017/5` `Citation: 4`
 
@@ -1526,15 +1526,15 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  363. Retinal Vasculature Segmentation Using Local Saliency Maps and Generative Adversarial Networks For Image Super Resolution? (  ) -   ([Search](http://www.google.com/search?q=Retinal%20Vasculature%20Segmentation%20Using%20Local%20Saliency%20Maps%20and%20Generative%20Adversarial%20Networks%20For%20Image%20Super%20Resolution%3F)) ([PDF](https://arxiv.org/pdf/1710.04783.pdf))
  ([arXiv](https://arxiv.org/abs/1710.04783))
-   > - `2017/` `Citation: 0`
+   > - `2017/10` `Citation: 0`
 
- 364. Retinal Vessel Segmentation in Fundoscopic Images with Generative Adversarial Networks? (  ) -   ([Search](http://www.google.com/search?q=Retinal%20Vessel%20Segmentation%20in%20Fundoscopic%20Images%20with%20Generative%20Adversarial%20Networks%3F)) ([PDF](https://arxiv.org/abs/1706.09318.pdf))
+ 364. Retinal Vessel Segmentation in Fundoscopic Images with Generative Adversarial Networks? (  ) -   ([Search](http://www.google.com/search?q=Retinal%20Vessel%20Segmentation%20in%20Fundoscopic%20Images%20with%20Generative%20Adversarial%20Networks%3F)) ([PDF](https://arxiv.org/pdf/1706.09318.pdf))
  ([arXiv](https://arxiv.org/abs/1706.09318))
-  > - `2017/` `Citation: 2` __`Medical: Segmentation`__
+  > - `2017/6` `Citation: 2` __`Medical: Segmentation`__
 
  365. Robust LSTM-Autoencoders for Face De-Occlusion in the Wild? (  ) -   ([Search](http://www.google.com/search?q=Robust%20LSTM-Autoencoders%20for%20Face%20De-Occlusion%20in%20the%20Wild%3F)) ([PDF](https://arxiv.org/pdf/1612.08534.pdf))
  ([arXiv](https://arxiv.org/abs/1612.08534))
-  > - `2016/` `Citation: 4` `Disocclusion`  
+  > - `2016/12` `Citation: 4` `Disocclusion`  
 
  366. SAD-GAN: Synthetic Autonomous Driving using Generative Adversarial Networks ( SAD-GAN ) -   ([Search](http://www.google.com/search?q=SAD-GAN%3A%20Synthetic%20Autonomous%20Driving%20using%20Generative%20Adversarial%20Networks)) ([PDF](https://arxiv.org/pdf/1611.08788.pdf))
  ([arXiv](https://arxiv.org/abs/1611.08788v1))
@@ -1552,9 +1552,9 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  369. SCAN: Structure Correcting Adversarial Network for Organ Segmentation in Chest X-rays? (  ) -   ([Search](http://www.google.com/search?q=SCAN%3A%20Structure%20Correcting%20Adversarial%20Network%20for%20Organ%20Segmentation%20in%20Chest%20X-rays%3F)) ([PDF](https://arxiv.org/pdf/1703.08770.pdf))
  ([arXiv](https://arxiv.org/abs/1703.08770))
-  > - `2017/` `Citation: 6` __`Medical: Segmentation`__
+  > - `2017/3` `Citation: 6` __`Medical: Segmentation`__
 
- 370. SegAN: Adversarial Network with Multi-scale L1 Loss for Medical Image Segmentation? ( SegAN ) -   ([Search](http://www.google.com/search?q=SegAN%3A%20Adversarial%20Network%20with%20Multi-scale%20L1%20Loss%20for%20Medical%20Image%20Segmentation%3F)) ([PDF](https://arxiv.org/abs/1706.01805.pdf))
+ 370. SegAN: Adversarial Network with Multi-scale L1 Loss for Medical Image Segmentation? ( SegAN ) -   ([Search](http://www.google.com/search?q=SegAN%3A%20Adversarial%20Network%20with%20Multi-scale%20L1%20Loss%20for%20Medical%20Image%20Segmentation%3F)) ([PDF](https://arxiv.org/pdf/1706.01805.pdf))
  ([arXiv](https://arxiv.org/abs/1706.01805))
    > - `2017/6` `Citation: 4`
 
@@ -1568,20 +1568,20 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  373. Semantic Image Inpainting with Deep Generative Models? (  ) -   ([Search](http://www.google.com/search?q=Semantic%20Image%20Inpainting%20with%20Deep%20Generative%20Models%3F)) ([PDF](https://arxiv.org/pdf/1607.07539.pdf))
  ([arXiv](https://arxiv.org/abs/1607.07539))
-   > - `2017/` `Citation: 11`
+   > - `2016/7` `Citation: 11`
 
  374. Semantic Image Inpainting with Perceptual and Contextual Losses? (  ) -   ([Search](http://www.google.com/search?q=Semantic%20Image%20Inpainting%20with%20Perceptual%20and%20Contextual%20Losses%3F)) ([PDF]())
    > - `2016/` `Citation: 48` `Image Inpainting`  
 
  375. Semantic Image Synthesis via Adversarial Learning? (  ) -   ([Search](http://www.google.com/search?q=Semantic%20Image%20Synthesis%20via%20Adversarial%20Learning%3F)) ([PDF](https://arxiv.org/pdf/1707.06873.pdf))
  ([arXiv](https://arxiv.org/abs/1707.06873))
-   > - `2017/` `Citation: 2`
+   > - `2017/7` `Citation: 2`
 
  376. Semantic Segmentation using Adversarial Networks? (  ) -   ([Search](http://www.google.com/search?q=Semantic%20Segmentation%20using%20Adversarial%20Networks%3F)) ([PDF](https://arxiv.org/pdf/1611.08408.pdf))
  ([arXiv](https://arxiv.org/abs/1611.08408))
-  > - `2016/` `Citation: 40` `Semantic Segmentation`  
+  > - `2016/11` `Citation: 40` `Semantic Segmentation`  
 
- 377. Semantically Decomposing the Latent Spaces of Generative Adversarial Networks (SD-GAN)? ( SD-GAN ) -   ([Search](http://www.google.com/search?q=Semantically%20Decomposing%20the%20Latent%20Spaces%20of%20Generative%20Adversarial%20Networks%20%28SD-GAN%29%3F)) ([PDF](https://arxiv.org/abs/1705.07904.pdf))
+ 377. Semantically Decomposing the Latent Spaces of Generative Adversarial Networks (SD-GAN)? ( SD-GAN ) -   ([Search](http://www.google.com/search?q=Semantically%20Decomposing%20the%20Latent%20Spaces%20of%20Generative%20Adversarial%20Networks%20%28SD-GAN%29%3F)) ([PDF](https://arxiv.org/pdf/1705.07904.pdf))
  ([arXiv](https://arxiv.org/abs/1705.07904))
    > - `2017/5` `Citation: 5`
 
@@ -1602,7 +1602,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  382. Semi-Supervised Learning with Deep Generative Models? (  ) -   ([Search](http://www.google.com/search?q=Semi-Supervised%20Learning%20with%20Deep%20Generative%20Models%3F)) ([PDF](https://arxiv.org/pdf/1406.5298v2.pdf))
  ([arXiv](https://arxiv.org/abs/1406.5298v2))
-   > - `2014/` `Citation: 367`
+   > - `2014/6` `Citation: 367`
 
  383. Semi-Supervised Learning with IPM-based GANs: an Empirical Study (  ) -   ([Search](http://www.google.com/search?q=Semi-Supervised%20Learning%20with%20IPM-based%20GANs%3A%20an%20Empirical%20Study)) ([PDF](https://arxiv.org/pdf/1712.02505.pdf))
  ([arXiv](https://arxiv.org/abs/1712.02505))
@@ -1628,11 +1628,11 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
  388. Sharpness-aware Low dose CT denoising using conditional generative adversarial network? ( SAGAN ) -   ([Search](http://www.google.com/search?q=Sharpness-aware%20Low%20dose%20CT%20denoising%20using%20conditional%20generative%20adversarial%20network%3F)) ([PDF](https://arxiv.org/pdf/1708.06453.pdf))
  ([arXiv](https://arxiv.org/abs/1708.06453))
  ([github](https://github.com/xinario/SAGAN))
- > - `2017/` `Citation: 0` __`Medical: LD-CT`__
+ > - `2017/8` `Citation: 0` __`Medical: LD-CT`__
 
  389. Simple Black-Box Adversarial Perturbations for Deep Networks? (  ) -   ([Search](http://www.google.com/search?q=Simple%20Black-Box%20Adversarial%20Perturbations%20for%20Deep%20Networks%3F)) ([PDF](https://arxiv.org/pdf/1612.06299.pdf))
  ([arXiv](https://arxiv.org/abs/1612.06299))
-   > - `2016/` `Citation: 10`
+   > - `2016/12` `Citation: 10`
 
  390. Simultaneously Color-Depth Super-Resolution with Conditional Generative Adversarial Network? ( CDcGAN ) -   ([Search](http://www.google.com/search?q=Simultaneously%20Color-Depth%20Super-Resolution%20with%20Conditional%20Generative%20Adversarial%20Network%3F)) ([PDF](https://arxiv.org/pdf/1708.09105.pdf))
  ([arXiv](https://arxiv.org/abs/1708.09105))
@@ -1644,7 +1644,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  392. Socially-compliant Navigation through Raw Depth Inputs with Generative Adversarial Imitation Learning? (  ) -   ([Search](http://www.google.com/search?q=Socially-compliant%20Navigation%20through%20Raw%20Depth%20Inputs%20with%20Generative%20Adversarial%20Imitation%20Learning%3F)) ([PDF](https://arxiv.org/pdf/1710.02543.pdf))
  ([arXiv](https://arxiv.org/abs/1710.02543))
-   > - `2017/` `Citation: 0`
+   > - `2017/10` `Citation: 0`
 
  393. Softmax GAN? ( Softmax-GAN ) -   ([Search](http://www.google.com/search?q=Softmax%20GAN%3F)) ([PDF](https://arxiv.org/pdf/1704.06191.pdf))
  ([arXiv](https://arxiv.org/abs/1704.06191))
@@ -1668,7 +1668,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
  ([github](https://github.com/ayanc/rpgan))
   > - `2017/5` `Citation: `
 
- 398. Stabilizing Training of Generative Adversarial Networks through Regularization? ( ED//GAN ) -   ([Search](http://www.google.com/search?q=Stabilizing%20Training%20of%20Generative%20Adversarial%20Networks%20through%20Regularization%3F)) ([PDF](https://arxiv.org/abs/1705.09367.pdf))
+ 398. Stabilizing Training of Generative Adversarial Networks through Regularization? ( ED//GAN ) -   ([Search](http://www.google.com/search?q=Stabilizing%20Training%20of%20Generative%20Adversarial%20Networks%20through%20Regularization%3F)) ([PDF](https://arxiv.org/pdf/1705.09367.pdf))
  ([arXiv](https://arxiv.org/abs/1705.09367))
    > - `2017/5` `Citation: 6`
 
@@ -1684,7 +1684,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
  401. StackGAN++: Realistic Image Synthesis with Stacked Generative Adversarial Networks? ( StackGAN-v2 ) -   ([Search](http://www.google.com/search?q=StackGAN%2B%2B%3A%20Realistic%20Image%20Synthesis%20with%20Stacked%20Generative%20Adversarial%20Networks%3F)) ([PDF](https://arxiv.org/pdf/1710.10916.pdf))
  ([arXiv](https://arxiv.org/abs/1710.10916))
  ([github](https://github.com/hanzhanggit/StackGAN-v2))
-  > - `2017/` `Citation: 2`
+  > - `2017/10` `Citation: 2`
 
  402. StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks? ( StackGAN ) -   ([Search](http://www.google.com/search?q=StackGAN%3A%20Text%20to%20Photo-realistic%20Image%20Synthesis%20with%20Stacked%20Generative%20Adversarial%20Networks%3F)) ([PDF](https://arxiv.org/pdf/1612.03242.pdf))
  ([arXiv](https://arxiv.org/abs/1612.03242v1))
@@ -1698,7 +1698,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  404. Statistics of Deep Generated Images? (  ) -   ([Search](http://www.google.com/search?q=Statistics%20of%20Deep%20Generated%20Images%3F)) ([PDF](https://arxiv.org/pdf/1708.02688.pdf))
  ([arXiv](https://arxiv.org/abs/1708.02688))
-   > - `2017/` `Citation: 0`
+   > - `2017/8` `Citation: 0`
 
  405. Steganographic Generative Adversarial Networks? ( SGAN ) -   ([Search](http://www.google.com/search?q=Steganographic%20Generative%20Adversarial%20Networks%3F)) ([PDF](https://arxiv.org/pdf/1703.05502.pdf))
  ([arXiv](https://arxiv.org/abs/1703.05502))
@@ -1711,9 +1711,9 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
  407. Structured Generative Adversarial Networks? (  ) -   ([Search](http://www.google.com/search?q=Structured%20Generative%20Adversarial%20Networks%3F)) ([PDF](http://papers.nips.cc/paper/6979-structured-generative-adversarial-networks.pdf))
     > - `2017/` `Citation: 0`
 
- 408. Style Transfer for Sketches with Enhanced Residual U-net and Auxiliary Classifier GAN? (  ) -   ([Search](http://www.google.com/search?q=Style%20Transfer%20for%20Sketches%20with%20Enhanced%20Residual%20U-net%20and%20Auxiliary%20Classifier%20GAN%3F)) ([PDF](https://arxiv.org/abs/1706.03319.pdf))
+ 408. Style Transfer for Sketches with Enhanced Residual U-net and Auxiliary Classifier GAN? (  ) -   ([Search](http://www.google.com/search?q=Style%20Transfer%20for%20Sketches%20with%20Enhanced%20Residual%20U-net%20and%20Auxiliary%20Classifier%20GAN%3F)) ([PDF](https://arxiv.org/pdf/1706.03319.pdf))
  ([arXiv](https://arxiv.org/abs/1706.03319))
-   > - `2017/` `Citation: 3`
+   > - `2017/6` `Citation: 3`
 
  409. Style Transfer Generative Adversarial Networks: Learning to Play Chess Differently ( ST-GAN ) -   ([Search](http://www.google.com/search?q=Style%20Transfer%20Generative%20Adversarial%20Networks%3A%20Learning%20to%20Play%20Chess%20Differently)) ([PDF](https://arxiv.org/pdf/1702.06762.pdf))
  ([arXiv](https://arxiv.org/abs/1702.06762))
@@ -1725,17 +1725,17 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  411. Supervised Adversarial Networks for Image Saliency Detection? (  ) -   ([Search](http://www.google.com/search?q=Supervised%20Adversarial%20Networks%20for%20Image%20Saliency%20Detection%3F)) ([PDF](https://arxiv.org/pdf/1704.07242.pdf))
  ([arXiv](https://arxiv.org/abs/1704.07242))
-   > - `2017/` `Citation: 1`
+   > - `2017/4` `Citation: 1`
 
  412. SVSGAN: Singing Voice Separation via Generative Adversarial Network ( SVSGAN ) -   ([Search](http://www.google.com/search?q=SVSGAN%3A%20Singing%20Voice%20Separation%20via%20Generative%20Adversarial%20Network)) ([PDF](https://arxiv.org/pdf/1710.11428.pdf))
  ([arXiv](https://arxiv.org/abs/1710.11428))
    > - `2017/10` `Citation: `
 
- 413. Synthesis of Positron Emission Tomography (PET) Images via Multi-channel Generative Adversarial Networks (GANs)?[arXiv] (  ) -   ([Search](http://www.google.com/search?q=Synthesis%20of%20Positron%20Emission%20Tomography%20%28PET%29%20Images%20via%20Multi-channel%20Generative%20Adversarial%20Networks%20%28GANs%29%3F%5BarXiv%5D)) ([PDF](https://arxiv.org/abs/1707.09747.pdf))
+ 413. Synthesis of Positron Emission Tomography (PET) Images via Multi-channel Generative Adversarial Networks (GANs)?[arXiv] (  ) -   ([Search](http://www.google.com/search?q=Synthesis%20of%20Positron%20Emission%20Tomography%20%28PET%29%20Images%20via%20Multi-channel%20Generative%20Adversarial%20Networks%20%28GANs%29%3F%5BarXiv%5D)) ([PDF](https://arxiv.org/pdf/1707.09747.pdf))
  ([arXiv](https://arxiv.org/abs/1707.09747))
   > - `2017/7` `Citation: ` __`Medical: Synthersize`__
 
- 414. Synthesizing Filamentary Structured Images with GANs? ( Fila-GAN ) -   ([Search](http://www.google.com/search?q=Synthesizing%20Filamentary%20Structured%20Images%20with%20GANs%3F)) ([PDF](https://arxiv.org/abs/1706.02185.pdf))
+ 414. Synthesizing Filamentary Structured Images with GANs? ( Fila-GAN ) -   ([Search](http://www.google.com/search?q=Synthesizing%20Filamentary%20Structured%20Images%20with%20GANs%3F)) ([PDF](https://arxiv.org/pdf/1706.02185.pdf))
  ([arXiv](https://arxiv.org/abs/1706.02185))
  ([github](https://web.bii.a-star.edu.sg/archive/machine_learning/Projects/filaStructObjs/Synthesis/downloads.html))
  > - `2017/6` `Citation: 0` __`Medical: Synthersize`__
@@ -1743,9 +1743,9 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
  415. Synthesizing the preferred inputs for neurons in neural networks via deep generator networks? (  ) -   ([Search](http://www.google.com/search?q=Synthesizing%20the%20preferred%20inputs%20for%20neurons%20in%20neural%20networks%20via%20deep%20generator%20networks%3F)) ([PDF](https://arxiv.org/pdf/1605.09304.pdf))
  ([arXiv](https://arxiv.org/abs/1605.09304))
  ([github](https://github.com/Evolving-AI-Lab/synthesizing))
- > - `2016/` `Citation: 64` `Unclassified`  
+ > - `2016/5` `Citation: 64` `Unclassified`  
 
- 416. Synthetic Medical Images from Dual Generative Adversarial Networks?[arXiv] (  ) -   ([Search](http://www.google.com/search?q=Synthetic%20Medical%20Images%20from%20Dual%20Generative%20Adversarial%20Networks%3F%5BarXiv%5D)) ([PDF](https://arxiv.org/abs/1709.01872.pdf))
+ 416. Synthetic Medical Images from Dual Generative Adversarial Networks?[arXiv] (  ) -   ([Search](http://www.google.com/search?q=Synthetic%20Medical%20Images%20from%20Dual%20Generative%20Adversarial%20Networks%3F%5BarXiv%5D)) ([PDF](https://arxiv.org/pdf/1709.01872.pdf))
  ([arXiv](https://arxiv.org/abs/1709.01872))
   > - `2017/9` `Citation: ` __`Medical: Synthersize`__
 
@@ -1792,7 +1792,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  427. The Space of Transferable Adversarial Examples? (  ) -   ([Search](http://www.google.com/search?q=The%20Space%20of%20Transferable%20Adversarial%20Examples%3F)) ([PDF](https://arxiv.org/pdf/1704.03453.pdf))
  ([arXiv](https://arxiv.org/abs/1704.03453))
-   > - `2017/` `Citation: 12`
+   > - `2017/4` `Citation: 12`
 
  428. Theoretical limitations of Encoder-Decoder GAN architectures (  ) -   ([Search](http://www.google.com/search?q=Theoretical%20limitations%20of%20Encoder-Decoder%20GAN%20architectures)) ([PDF](https://arxiv.org/pdf/1711.02651.pdf))
  ([arXiv](https://arxiv.org/abs/1711.02651))
@@ -1803,7 +1803,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
  ([github](https://github.com/junyanz/BicycleGAN))
   > - `2017/11` `Citation: `
 
- 430. Towards Adversarial Retinal Image Synthesis?[arXiv] (  ) -   ([Search](http://www.google.com/search?q=Towards%20Adversarial%20Retinal%20Image%20Synthesis%3F%5BarXiv%5D)) ([PDF](https://arxiv.org/abs/1701.08974.pdf))
+ 430. Towards Adversarial Retinal Image Synthesis?[arXiv] (  ) -   ([Search](http://www.google.com/search?q=Towards%20Adversarial%20Retinal%20Image%20Synthesis%3F%5BarXiv%5D)) ([PDF](https://arxiv.org/pdf/1701.08974.pdf))
  ([arXiv](https://arxiv.org/abs/1701.08974))
   > - `2017/1` `Citation: ` __`Medical: Synthersize`__
 
@@ -1814,7 +1814,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  432. Towards Diverse and Natural Image Descriptions via a Conditional GAN? (  ) -   ([Search](http://www.google.com/search?q=Towards%20Diverse%20and%20Natural%20Image%20Descriptions%20via%20a%20Conditional%20GAN%3F)) ([PDF](https://arxiv.org/pdf/1703.06029.pdf))
  ([arXiv](https://arxiv.org/abs/1703.06029))
-   > - `2017/` `Citation: 9`
+   > - `2017/3` `Citation: 9`
 
  433. Towards Large-Pose Face Frontalization in the Wild ( FF-GAN ) -   ([Search](http://www.google.com/search?q=Towards%20Large-Pose%20Face%20Frontalization%20in%20the%20Wild)) ([PDF](https://arxiv.org/pdf/1704.06244.pdf))
  ([arXiv](https://arxiv.org/abs/1704.06244))
@@ -1822,7 +1822,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  434. Towards Principled Methods for Training Generative Adversarial Networks? (  ) -   ([Search](http://www.google.com/search?q=Towards%20Principled%20Methods%20for%20Training%20Generative%20Adversarial%20Networks%3F)) ([PDF](https://arxiv.org/pdf/1701.04862.pdf))
  ([arXiv](https://arxiv.org/abs/1701.04862))
-  > - `2017/` `Citation: 121` `GAN Theory`  
+  > - `2017/1` `Citation: 121` `GAN Theory`  
 
  435. Towards Qualitative Advancement of Underwater Machine Vision with Generative Adversarial Networks ( GAN-RS ) -   ([Search](http://www.google.com/search?q=Towards%20Qualitative%20Advancement%20of%20Underwater%20Machine%20Vision%20with%20Generative%20Adversarial%20Networks)) ([PDF](https://arxiv.org/pdf/1712.00736.pdf))
  ([arXiv](https://arxiv.org/abs/1712.00736))
@@ -1841,11 +1841,11 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  439. Training generative neural networks via Maximum Mean Discrepancy optimization (  ) -   ([Search](http://www.google.com/search?q=Training%20generative%20neural%20networks%20via%20Maximum%20Mean%20Discrepancy%20optimization)) ([PDF](https://arxiv.org/pdf/1505.03906.pdf))
  ([arXiv](https://arxiv.org/abs/1505.03906))
-   > - `2015/` `Citation: 61`
+   > - `2015/5` `Citation: 61`
 
  440. Training Triplet Networks with GAN? (  ) -   ([Search](http://www.google.com/search?q=Training%20Triplet%20Networks%20with%20GAN%3F)) ([PDF](https://arxiv.org/pdf/1704.02227.pdf))
  ([arXiv](https://arxiv.org/abs/1704.02227))
-   > - `2017/` `Citation: 1`
+   > - `2017/4` `Citation: 1`
 
  441. Transformation-Grounded Image Generation Network for Novel 3D View Synthesis( CVPR 2017) (  ) -   ([Search](http://www.google.com/search?q=Transformation-Grounded%20Image%20Generation%20Network%20for%20Novel%203D%20View%20Synthesis%28%20CVPR%202017%29)) ([PDF](https://arxiv.org/pdf/1703.02921.pdf))
  ([arXiv](https://arxiv.org/abs/1703.02921))
@@ -1875,15 +1875,15 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  447. Understanding GANs: the LQG Setting (  ) -   ([Search](http://www.google.com/search?q=Understanding%20GANs%3A%20the%20LQG%20Setting)) ([PDF](https://arxiv.org/pdf/1710.10793.pdf))
  ([arXiv](https://arxiv.org/abs/1710.10793))
-   > - `2017/11` `Citation: `
+   > - `2017/10` `Citation: `
 
  448. Universal Adversarial Perturbations Against Semantic Image Segmentation? (  ) -   ([Search](http://www.google.com/search?q=Universal%20Adversarial%20Perturbations%20Against%20Semantic%20Image%20Segmentation%3F)) ([PDF](https://arxiv.org/pdf/1704.05712.pdf))
  ([arXiv](https://arxiv.org/abs/1704.05712))
-   > - `2017/` `Citation: 7`
+   > - `2017/4` `Citation: 7`
 
  449. Unlabeled Samples Generated by GAN Improve the Person Re-identification Baseline in vitro? (  ) -   ([Search](http://www.google.com/search?q=Unlabeled%20Samples%20Generated%20by%20GAN%20Improve%20the%20Person%20Re-identification%20Baseline%20in%20vitro%3F)) ([PDF](https://arxiv.org/pdf/1701.07717.pdf))
  ([arXiv](https://arxiv.org/abs/1701.07717))
-  > - `2017/8` `Citation: 35` `Improving Classification And Recong`  
+  > - `2017/1` `Citation: 35` `Improving Classification And Recong`  
 
  450. Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks (CycleGAN)? ( CycleGAN ) -   ([Search](http://www.google.com/search?q=Unpaired%20Image-to-Image%20Translation%20using%20Cycle-Consistent%20Adversarial%20Networks%20%28CycleGAN%29%3F)) ([PDF](https://arxiv.org/pdf/1703.10593.pdf))
  ([arXiv](https://arxiv.org/abs/1703.10593))
@@ -1897,7 +1897,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  452. Unrolled Generative Adversarial Networks (Unrolled GAN)? (  ) -   ([Search](http://www.google.com/search?q=Unrolled%20Generative%20Adversarial%20Networks%20%28Unrolled%20GAN%29%3F)) ([PDF](https://arxiv.org/pdf/1611.02163.pdf))
  ([arXiv](https://arxiv.org/abs/1611.02163))
-  > - `2016/` `Citation: 75` `GAN Theory`  
+  > - `2016/11` `Citation: 75` `GAN Theory`  
 
  453. Unsupervised and Semi-supervised Learning with Categorical Generative Adversarial Networks (CatGAN)? ( CatGAN ) -   ([Search](http://www.google.com/search?q=Unsupervised%20and%20Semi-supervised%20Learning%20with%20Categorical%20Generative%20Adversarial%20Networks%20%28CatGAN%29%3F)) ([PDF](https://arxiv.org/pdf/1511.06390.pdf))
  ([arXiv](https://arxiv.org/abs/1511.06390v2))
@@ -1918,7 +1918,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  457. Unsupervised Diverse Colorization via Generative Adversarial Networks? (  ) -   ([Search](http://www.google.com/search?q=Unsupervised%20Diverse%20Colorization%20via%20Generative%20Adversarial%20Networks%3F)) ([PDF](https://arxiv.org/pdf/1702.06674.pdf))
  ([arXiv](https://arxiv.org/abs/1702.06674))
-   > - `2017/` `Citation: 3`
+   > - `2017/2` `Citation: 3`
 
  458. Unsupervised Domain Adaptation for Semantic Segmentation with GANs (  ) -   ([Search](http://www.google.com/search?q=Unsupervised%20Domain%20Adaptation%20for%20Semantic%20Segmentation%20with%20GANs)) ([PDF](https://arxiv.org/pdf/1711.06969.pdf))
  ([arXiv](https://arxiv.org/abs/1711.06969))
@@ -1934,7 +1934,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  461. Unsupervised Image-to-Image Translation with Generative Adversarial Networks (  ) -   ([Search](http://www.google.com/search?q=Unsupervised%20Image-to-Image%20Translation%20with%20Generative%20Adversarial%20Networks)) ([PDF](https://arxiv.org/pdf/1701.02676.pdf))
  ([arXiv](https://arxiv.org/abs/1701.02676))
-  > - `2017/` `Citation: 10` `Image translation`  
+  > - `2017/1` `Citation: 10` `Image translation`  
 
  462. Unsupervised Learning for Cell-level Visual Representation in Histopathology Images with Generative Adversarial Networks  (  ) -   ([Search](http://www.google.com/search?q=Unsupervised%20Learning%20for%20Cell-level%20Visual%20Representation%20in%20Histopathology%20Images%20with%20Generative%20Adversarial%20Networks%20)) ([PDF](https://arxiv.org/pdf/1711.11317.pdf))
  ([arXiv](https://arxiv.org/abs/1711.11317))
@@ -1942,14 +1942,14 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  463. Unsupervised Learning for Physical Interaction through Video Prediction? (  ) -   ([Search](http://www.google.com/search?q=Unsupervised%20Learning%20for%20Physical%20Interaction%20through%20Video%20Prediction%3F)) ([PDF](https://arxiv.org/pdf/1605.07157.pdf))
  ([arXiv](https://arxiv.org/abs/1605.07157))
-   > - `2016/` `Citation: 99`
+   > - `2016/5` `Citation: 99`
 
  464. Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks (DCGANs)? ( DCGAN ) -   ([Search](http://www.google.com/search?q=Unsupervised%20Representation%20Learning%20with%20Deep%20Convolutional%20Generative%20Adversarial%20Networks%20%28DCGANs%29%3F)) ([PDF](https://arxiv.org/pdf/1511.06434v2.pdf))
  ([arXiv](https://arxiv.org/abs/1511.06434v2))
  ([github](https://github.com/Newmu/dcgan_code))
  > - `2015/11` `Citation: 901` `Generation High-Quality Images`  
 
- 465. Unsupervised Reverse Domain Adaptation for Synthetic Medical Images via Adversarial Training?[arXiv] (  ) -   ([Search](http://www.google.com/search?q=Unsupervised%20Reverse%20Domain%20Adaptation%20for%20Synthetic%20Medical%20Images%20via%20Adversarial%20Training%3F%5BarXiv%5D)) ([PDF](https://arxiv.org/abs/1711.06606.pdf))
+ 465. Unsupervised Reverse Domain Adaptation for Synthetic Medical Images via Adversarial Training?[arXiv] (  ) -   ([Search](http://www.google.com/search?q=Unsupervised%20Reverse%20Domain%20Adaptation%20for%20Synthetic%20Medical%20Images%20via%20Adversarial%20Training%3F%5BarXiv%5D)) ([PDF](https://arxiv.org/pdf/1711.06606.pdf))
  ([arXiv](https://arxiv.org/abs/1711.06606))
   > - `2017/11` `Citation: ` __`Medical: Synthersize`__
 
@@ -1962,7 +1962,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
  ([github](https://github.com/victor-shepardson/alpha-GAN))
   > - `2017/6` `Citation: `
 
- 468. VEEGAN: Reducing Mode Collapse in GANs using Implicit Variational Learning ()? ( VEEGAN ) -   ([Search](http://www.google.com/search?q=VEEGAN%3A%20Reducing%20Mode%20Collapse%20in%20GANs%20using%20Implicit%20Variational%20Learning%20%28%29%3F)) ([PDF](https://arxiv.org/abs/1705.07761.pdf))
+ 468. VEEGAN: Reducing Mode Collapse in GANs using Implicit Variational Learning ()? ( VEEGAN ) -   ([Search](http://www.google.com/search?q=VEEGAN%3A%20Reducing%20Mode%20Collapse%20in%20GANs%20using%20Implicit%20Variational%20Learning%20%28%29%3F)) ([PDF](https://arxiv.org/pdf/1705.07761.pdf))
  ([arXiv](https://arxiv.org/abs/1705.07761))
  ([github](https://github.com/akashgit/VEEGAN))
   > - `2017/5` `Citation: 4`
@@ -1973,13 +1973,13 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
  470. VIME: Variational Information Maximizing Exploration? (  ) -   ([Search](http://www.google.com/search?q=VIME%3A%20Variational%20Information%20Maximizing%20Exploration%3F)) ([PDF](https://arxiv.org/pdf/1605.09674.pdf))
  ([arXiv](https://arxiv.org/abs/1605.09674))
-   > - `2016/` `Citation: 37`
+   > - `2016/5` `Citation: 37`
 
- 471. Virtual PET Images from CT Data Using Deep Convolutional Networks: Initial Results?[arXiv] (  ) -   ([Search](http://www.google.com/search?q=Virtual%20PET%20Images%20from%20CT%20Data%20Using%20Deep%20Convolutional%20Networks%3A%20Initial%20Results%3F%5BarXiv%5D)) ([PDF](https://arxiv.org/abs/1707.09585.pdf))
+ 471. Virtual PET Images from CT Data Using Deep Convolutional Networks: Initial Results?[arXiv] (  ) -   ([Search](http://www.google.com/search?q=Virtual%20PET%20Images%20from%20CT%20Data%20Using%20Deep%20Convolutional%20Networks%3A%20Initial%20Results%3F%5BarXiv%5D)) ([PDF](https://arxiv.org/pdf/1707.09585.pdf))
  ([arXiv](https://arxiv.org/abs/1707.09585))
   > - `2017/7` `Citation: ` __`Medical: Synthersize`__
 
- 472. Visual Feature Attribution using Wasserstein GANs?[arXiv] (  ) -   ([Search](http://www.google.com/search?q=Visual%20Feature%20Attribution%20using%20Wasserstein%20GANs%3F%5BarXiv%5D)) ([PDF](https://arxiv.org/abs/1711.08998.pdf))
+ 472. Visual Feature Attribution using Wasserstein GANs?[arXiv] (  ) -   ([Search](http://www.google.com/search?q=Visual%20Feature%20Attribution%20using%20Wasserstein%20GANs%3F%5BarXiv%5D)) ([PDF](https://arxiv.org/pdf/1711.08998.pdf))
  ([arXiv](https://arxiv.org/abs/1711.08998))
   > - `2017/11` `Citation: ` __`Medical: Detection`__
 
@@ -1996,7 +1996,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
  ([arXiv](https://arxiv.org/abs/1702.07392v1))
    > - `2017/2` `Citation: 2`
 
- 476. Weakly Supervised Generative Adversarial Networks for 3D Reconstruction? ( WS-GAN ) -   ([Search](http://www.google.com/search?q=Weakly%20Supervised%20Generative%20Adversarial%20Networks%20for%203D%20Reconstruction%3F)) ([PDF](https://arxiv.org/abs/1705.10904.pdf))
+ 476. Weakly Supervised Generative Adversarial Networks for 3D Reconstruction? ( WS-GAN ) -   ([Search](http://www.google.com/search?q=Weakly%20Supervised%20Generative%20Adversarial%20Networks%20for%203D%20Reconstruction%3F)) ([PDF](https://arxiv.org/pdf/1705.10904.pdf))
  ([arXiv](https://arxiv.org/abs/1705.10904))
    > - `2017/5` `Citation: 3`
 
@@ -2013,6 +2013,6 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
 #### GAN counter: 478
 
-#### Modified: Tuesday, Jan 02 2018 / 13:51:17
+#### Modified: Tuesday, Jan 02 2018 / 17:10:34
 
 MIT (c) 2017 Jonathan Jeon
