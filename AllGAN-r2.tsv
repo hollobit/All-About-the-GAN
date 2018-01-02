@@ -1,7 +1,6 @@
 Mnum	Abbr.	Title	Year	Month	Citations	pdf	Arxiv	Official_Code	Web	No	SN	Medical	Category									
-174	GAN	Generative Adversarial Networks	2014	6		https://arxiv.org/pdf/1406.2661.pdf	https://arxiv.org/abs/1406.2661	https://github.com/goodfeli/adversarial		1		-	Theory & Machine Learning									
+174	GAN	Generative Adversarial Nets?(the First paper of GAN)	2014	6	1948	https://arxiv.org/pdf/1406.2661.pdf	https://arxiv.org/abs/1406.2661	https://github.com/goodfeli/adversarial		1		-	The First paper									
 347		Semi-Supervised Learning with Deep Generative Models?	2014	6	367	https://arxiv.org/pdf/1406.5298v2.pdf	https://arxiv.org/abs/1406.5298v2	-			5	-	-									
-435		Generative Adversarial Nets?(the First paper of GAN)	2014	6		https://arxiv.org/pdf/1406.2661.pdf	https://arxiv.org/abs/1406.2661	https://github.com/goodfeli/adversarial				-	The First paper									
 86	CGAN	Conditional Generative Adversarial Nets (CGAN)?	2014	11	321	https://arxiv.org/pdf/1411.1784v1.pdf	https://arxiv.org/abs/1411.1784v1	https://github.com/zhangqianhui/Conditional-Gans		2	6	-	Conditional adversarial									
 133		Explaining and Harnessing Adversarial Examples?	2014	12	536	https://arxiv.org/pdf/1412.6572.pdf	https://arxiv.org/abs/1412.6572	-			2	-	Theory & Machine Learning									
 87		Conditional generative adversarial nets for convolutional face generation?	2014		67	https://pdfs.semanticscholar.org/42f6/f5454dda99d8989f9814989efd50fe807ee8.pdf	-	-			42	-	Applied Vision									
@@ -30,19 +29,17 @@ Mnum	Abbr.	Title	Year	Month	Citations	pdf	Arxiv	Official_Code	Web	No	SN	Medical	
 423		VIME: Variational Information Maximizing Exploration?	2016	5	37	https://arxiv.org/pdf/1605.09674.pdf	https://arxiv.org/abs/1605.09674	-			59	-	-									
 38	ALI	Adversarially Learned Inference (ALI)?	2016	6	129	https://arxiv.org/pdf/1606.00704.pdf	https://arxiv.org/abs/1606.00704	https://github.com/IshmaelBelghazi/ALI		12	21	-	Joint Probability									
 88		Conditional Image Generation with PixelCNN Decoders?	2016	6	140	https://arxiv.org/pdf/1606.05328.pdf	https://arxiv.org/abs/1606.05328	-			19	-	-									
-98	CoGAN	Coupled Generative Adversarial Networks	2016	6		https://arxiv.org/pdf/1606.07536v2.pdf	https://arxiv.org/abs/1606.07536v2	https://github.com/mingyuliutw/CoGAN		13		-	Image translation									
-99		Coupled Generative Adversarial Networks (CoGAN)?	2016	6	90	https://arxiv.org/pdf/1606.07536.pdf	https://arxiv.org/abs/1606.07536	-			33	-	Face Generative and Editing									
+98	CoGAN	Coupled Generative Adversarial Networks	2016	6	90	https://arxiv.org/pdf/1606.07536v2.pdf	https://arxiv.org/abs/1606.07536v2	https://github.com/mingyuliutw/CoGAN		13	33	-	"Image translation, Face Generative and Editing"									
 143	f-GAN	f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization?	2016	6	114	https://arxiv.org/pdf/1606.00709.pdf	https://arxiv.org/abs/1606.00709	-		16	24	-	Theory & Machine Learning									
 167		Generative Adversarial Imitation Learning?	2016	6	61	https://arxiv.org/pdf/1606.03476.pdf	https://arxiv.org/abs/1606.03476	-			46	-	-									
 224	Improved GAN	Improved Techniques for Training GANs?	2016	6	436	https://arxiv.org/pdf/1606.03498v1.pdf	https://arxiv.org/abs/1606.03498v1	https://github.com/openai/improved-gan		14	3	-	-									
 229		Improving Variational Inference with Inverse Autoregressive Flow?	2016	6	82	https://arxiv.org/pdf/1606.04934.pdf	https://arxiv.org/abs/1606.04934	-			35	-	-									
 231	InfoGAN	InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets?	2016	6	227	https://arxiv.org/pdf/1606.03657.pdf	https://arxiv.org/abs/1606.03657v1	https://github.com/openai/InfoGAN		15	10	-	Conditional adversarial									
-432		Improved Techniques for Training GANs?	2016	6		https://arxiv.org/pdf/1606.03498.pdf	https://arxiv.org/abs/1606.03498	-				-	Theory & Machine Learning									
-436		Improved Techniques for Training GANs(Goodfellow's paper)	2016	6		https://arxiv.org/pdf/1606.03498.pdf	https://arxiv.org/abs/1606.03498	https://github.com/openai/improved-gan				-	Generation High-Quality Images									
+436		Improved Techniques for Training GANs (Goodfellow's paper)	2016	6	442	https://arxiv.org/pdf/1606.03498.pdf	https://arxiv.org/abs/1606.03498	https://github.com/openai/improved-gan				-	Generation High-Quality Images									
 35	SketchGAN	Adversarial Training For Sketch Retrieval (SketchGAN)?	2016	7	4	https://arxiv.org/pdf/1607.02748.pdf	https://arxiv.org/abs/1607.02748	-		17	168	-	Applied Vision									
 338		Semantic Image Inpainting with Deep Generative Models?	2016	7	11	https://arxiv.org/pdf/1607.07539.pdf	https://arxiv.org/abs/1607.07539	-			101	-	Applied Vision									
 150		Full Resolution Image Compression with Recurrent Neural Networks?	2016	8	29	https://arxiv.org/pdf/1608.05148.pdf	https://arxiv.org/abs/1608.05148	-			69	-	Applied Vision									
-217		Image super-resolution through deep learning	2016	8		-	-	https://github.com/david-gpu/srez				-	Super-Resolution									
+217		Image super-resolution through deep learning	2016	8	553	-	-	https://github.com/david-gpu/srez				-	Super-Resolution									
 243		Learning a Driving Simulator?	2016	8	25	https://arxiv.org/pdf/1608.01230.pdf	https://arxiv.org/abs/1608.01230	-			71	-	Applied Vision									
 93	Context-RNN-GAN	Contextual RNN-GANs for Abstract Reasoning Diagram Generation (Context-RNN-GAN)?	2016	9	6	https://arxiv.org/pdf/1609.09444.pdf	https://arxiv.org/abs/1609.09444	-		18	142	-	Applied Vision									
 96		Cooperative Training of Descriptor and Generator Networks?	2016	9	10	https://arxiv.org/pdf/1609.09408.pdf	https://arxiv.org/abs/1609.09408	-			110	-	Theory & Machine Learning									
@@ -52,7 +49,7 @@ Mnum	Abbr.	Title	Year	Month	Citations	pdf	Arxiv	Official_Code	Web	No	SN	Medical	
 294	IAN	Neural Photo Editing with Introspective Adversarial Networks (IAN)?	2016	9	37	https://arxiv.org/pdf/1609.07093.pdf	https://arxiv.org/abs/1609.07093	https://github.com/ajbrock/Neural-Photo-Editor		20	60	-	Face Generative and Editing									
 310	SRGAN	Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network (SRGAN)?	2016	9	281	https://arxiv.org/pdf/1609.04802.pdf	https://arxiv.org/abs/1609.04802	https://github.com/leehomyc/Photo-Realistic-Super-Resoluton		21	9	-	Applied Vision									
 348	SeqGAN	SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient?	2016	9	73	https://arxiv.org/pdf/1609.05473.pdf	https://arxiv.org/abs/1609.05473v5	https://github.com/LantaoYu/SeqGAN		22	41	-	Theory & Machine Learning									
-444		Sampling Generative Networks	2016	9		https://arxiv.org/pdf/1609.04468.pdf	https://arxiv.org/abs/1609.04468	https://github.com/dribnet/plat				-	GAN Theory									
+444		Sampling Generative Networks	2016	9	10	https://arxiv.org/pdf/1609.04468.pdf	https://arxiv.org/abs/1609.04468	https://github.com/dribnet/plat				-	GAN Theory									
 46	AffGAN	Amortised MAP Inference for Image Super-resolution (AffGAN)?	2016	10	52	https://arxiv.org/pdf/1610.04490.pdf	https://arxiv.org/abs/1610.04490	-		27	51	-	Applied Vision									
 89	AC-GAN	Conditional Image Synthesis with Auxiliary Classifier GANs (AC-GAN)?(GoogleBrain ICLR 2017)	2016	10	86	https://arxiv.org/pdf/1610.09585.pdf	https://arxiv.org/abs/1610.09585	https://github.com/buriburisuri/ac-gan		26	34	-	Conditional adversarial									
 90		Connecting Generative Adversarial Networks and Actor-Critic Methods?	2016	10	18	https://arxiv.org/pdf/1610.01945.pdf	https://arxiv.org/abs/1610.01945	-			83	-	Theory & Machine Learning									
