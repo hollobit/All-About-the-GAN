@@ -8,11 +8,13 @@ It provides a list that merged information from various GAN lists and repositori
 
 ### :link: Reference repositories
 * [[GAN zoo]](https://github.com/hindupuravinash/the-gan-zoo) - A list of all named GANs! by hindupuravinash
-* Delving deep into Generative Adversarial Networks (GANs) [[Delving]](https://github.com/GKalliatakis/Delving-deep-into-GANs)
-* Awesome GAN for Medical Imaging by GKalliatakis [[Medical]](https://github.com/xinario/awesome-gan-for-medical-imaging/) by xinario
+* Delving deep into Generative Adversarial Networks (GANs) [[Delving]](https://github.com/GKalliatakis/Delving-deep-into-GANs) by GKalliatakis
+* Awesome GAN for Medical Imaging  [[Medical]](https://github.com/xinario/awesome-gan-for-medical-imaging/) by xinario
 * [[Adversarial Nets Papers]](https://github.com/zhangqianhui/AdversarialNetsPapers/) The classic about Generative Adversarial Networks
 * [[Really Awesome GAN]](https://github.com/nightrome/really-awesome-gan) by nightrome
 * [[GANs Paper Collection]](https://github.com/shawnyuen/GANsPaperCollection) by shawnyuen
+* [[GAN awesome applications]](https://github.com/nashory/gans-awesome-applications) by nashory
+* [[GAN timeline]](https://github.com/dongb5/GAN-Timeline) by dongb5
 * Collection of generative models in [[Pytorch version]](https://github.com/znxlwm/pytorch-generative-model-collections), [[Tensorflow version]](https://github.com/hwalsuklee/tensorflow-generative-model-collections), [[Chainer version]](https://github.com/pfnet-research/chainer-gan-lib)
 
 ----
