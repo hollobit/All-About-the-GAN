@@ -356,7 +356,7 @@ Mnum	Abbr.	Title	Year	Month	Citations	pdf	Arxiv	Official_Code	Web	No	SN	Medical	
 266		Linking Generative Adversarial Learning and Binary Classification?	2017	9	0	https://arxiv.org/pdf/1709.01509.pdf	https://arxiv.org/abs/1709.01509	-			264	-	Theory & Machine Learning												
 267	LeakGAN	Long Text Generation via Adversarial Training with Leaked Information	2017	9		https://arxiv.org/pdf/1709.08624.pdf	https://arxiv.org/abs/1709.08624	-		181		-	Applied Other												
 280		Microscopy Cell Segmentation via Adversarial Neural Networks?	2017	9	0	https://arxiv.org/pdf/1709.05860.pdf	https://arxiv.org/abs/1709.05860	-			295	-	Applied Vision												
-292	MuseGAN	MuseGAN: Symbolic-domain Music Generation and Accompaniment with Multi-track Sequential Generative Adversarial Networks	2017	9		https://arxiv.org/pdf/1709.06298.pdf	https://arxiv.org/abs/1709.06298	-		183		-	Applied Other												
+292	MuseGAN	MuseGAN: Multi-track Sequential Generative Adversarial Networks for Symbolic Music Generation and Accompaniment	2017	9		https://arxiv.org/pdf/1709.06298.pdf	https://arxiv.org/abs/1709.06298	-		183		-	Applied Other												
 303	OptionGAN	OptionGAN: Learning Joint Reward-Policy Options using Generative Adversarial Inverse Reinforcement Learning	2017	9		https://arxiv.org/pdf/1709.06683.pdf	https://arxiv.org/abs/1709.06683	-		184		-	-												
 307	PassGAN	PassGAN: A Deep Learning Approach for Password Guessing	2017	9		https://arxiv.org/pdf/1709.00440.pdf	https://arxiv.org/abs/1709.00440	https://github.com/brannondorsey/PassGAN		185		-	-												
 344		Semi-supervised Assessment of Incomplete LV Coverage in Cardiac MRI Using Generative Adversarial Nets?[SASHIMI 2017]	2017	9		https://link.springer.com/chapter/10.1007/978-3-319-68127-6_7	-	-				Classification	-												
@@ -372,6 +372,7 @@ Mnum	Abbr.	Title	Year	Month	Citations	pdf	Arxiv	Official_Code	Web	No	SN	Medical	
 499		Exposure A White-Box Photo Post-Processing Framework?	2017	9		https://arxiv.org/pdf/1709.09602.pdf	https://arxiv.org/abs/1709.09602	-				-	-												
 500		A Study of Cross-domain Generative Models applied to Cartoon Series?	2017	9		https://arxiv.org/pdf/1710.00755.pdf	https://arxiv.org/abs/1710.00755	-				-	-												
 501		Addressing Challenging Place Recognition Tasks using Generative Adversarial Networks?	2017	9		https://arxiv.org/pdf/1709.08810.pdf	https://arxiv.org/abs/1709.08810	-				-	-												
+538		Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks	2017	9		https://arxiv.org/pdf/1709.08041.pdf	https://arxiv.org/abs/1709.08041	-				-	-												
 8	GAN-ATV	A Novel Approach to Artistic Textual Visualization via GAN?	2017	10	0	https://arxiv.org/pdf/1710.10553.pdf	https://arxiv.org/abs/1710.10553	-		190	274	-	Applied Vision												
 19		Adversarial Deep Structured Nets for Mass Segmentation from Mammograms	2017	10		https://arxiv.org/pdf/1710.09288.pdf	https://arxiv.org/abs/1710.09288	https://github.com/wentaozhu/adversarial-deep-structural-networks				Segmentation	-												
 69		Biomedical Data Augmentation Using Generative Adversarial Neural Networks?[ICANN 2017]	2017	10		https://link.springer.com/chapter/10.1007/978-3-319-68612-7_71	-	-				Synthersize	-												
@@ -396,6 +397,10 @@ Mnum	Abbr.	Title	Year	Month	Citations	pdf	Arxiv	Official_Code	Web	No	SN	Medical	
 479		Generative Adversarial Networks: An Overview?	2017	10		https://arxiv.org/pdf/1710.07035.pdf	https://arxiv.org/abs/1710.07035	-				-	Overview												
 480		Synthetic Iris Presentation Attack using iDCGAN?	2017	10		https://arxiv.org/pdf/1710.10565.pdf	https://arxiv.org/abs/1710.10565	-				-	Applied Vision												
 485		A Generative Model for Volume Rendering	2017	10		https://arxiv.org/pdf/1710.09545.pdf	https://arxiv.org/abs/1710.09545	-				-	Applied Other												
+534		Generative Adversarial Source Separation	2017	10		https://arxiv.org/pdf/1710.10779.pdf	https://arxiv.org/abs/1710.10779	-				-	-												
+535		PixelDefend: Leveraging Generative Models to Understand and Defend against Adversarial Examples	2017	10		https://arxiv.org/pdf/1710.10766.pdf	https://arxiv.org/abs/1710.10766	-				-	-												
+536		Deep Illumination: Approximating Dynamic Global Illumination with Generative Adversarial Network	2017	10		https://arxiv.org/pdf/1710.09834.pdf	https://arxiv.org/abs/1710.09834	-				-	-												
+537		Text2Action: Generative Adversarial Synthesis from Language to Action	2017	10		https://arxiv.org/pdf/1710.05298.pdf	https://arxiv.org/abs/1710.05298	-				-	-												
 2	ORGAN	3D Reconstruction of Incomplete Archaeological Objects Using a Generative Adversary Network	2017	11	0	https://arxiv.org/pdf/1711.06363.pdf	https://arxiv.org/abs/1711.06363	-		228		-	-												
 4		A Classification-Based Perspective on GAN Distributions?	2017	11	1	https://arxiv.org/pdf/1711.00970.pdf	https://arxiv.org/abs/1711.00970	-		253		-	Theory & Machine Learning												
 7	GPU	A generative adversarial framework for positive-unlabeled classification	2017	11	0	https://arxiv.org/pdf/1711.08054.pdf	https://arxiv.org/abs/1711.08054	-		215		-	-												
@@ -452,6 +457,19 @@ Mnum	Abbr.	Title	Year	Month	Citations	pdf	Arxiv	Official_Code	Web	No	SN	Medical	
 471		On the Discrimination-Generalization Tradeoff in GANs	2017	11		https://arxiv.org/pdf/1711.02771.pdf	https://arxiv.org/abs/1711.02771	-				-	-												
 472		Theoretical limitations of Encoder-Decoder GAN architectures	2017	11		https://arxiv.org/pdf/1711.02651.pdf	https://arxiv.org/abs/1711.02651	-				-	-												
 473		Training GANs with Optimism	2017	11		https://arxiv.org/pdf/1711.00141.pdf	https://arxiv.org/abs/1711.00141	-				-	-												
+521		Differential Generative Adversarial Networks: Synthesizing Non-linear Facial Variations with Limited Number of Training Data	2017	11		https://arxiv.org/pdf/1711.10267.pdf	https://arxiv.org/abs/1711.10267	-				-	-												
+522		Restricting Greed in Training of Generative Adversarial Network	2017	11		https://arxiv.org/pdf/1711.10152.pdf	https://arxiv.org/abs/1711.10152	-				-	-												
+523		End-to-end Adversarial Learning for Generative Conversational Agents	2017	11		https://arxiv.org/pdf/1711.10122.pdf	https://arxiv.org/abs/1711.10122	-				-	-												
+524		Attentive Generative Adversarial Network for Raindrop Removal from a Single Image	2017	11		https://arxiv.org/pdf/1711.10098.pdf	https://arxiv.org/abs/1711.10098	-				-	-												
+525		GazeGAN - Unpaired Adversarial Image Generation for Gaze Estimation	2017	11		https://arxiv.org/pdf/1711.09767.pdf	https://arxiv.org/abs/1711.09767	-				-	-												
+526		Personalized and Occupational-aware Age Progression by Generative Adversarial Networks	2017	11		https://arxiv.org/pdf/1711.09368.pdf	https://arxiv.org/abs/1711.09368	-				-	-												
+527		Generative Adversarial Network for Abstractive Text Summarization	2017	11		https://arxiv.org/pdf/1711.09357.pdf	https://arxiv.org/abs/1711.09357	-				-	-												
+528		GraphGAN: Graph Representation Learning with Generative Adversarial Nets	2017	11		https://arxiv.org/pdf/1711.08267.pdf	https://arxiv.org/abs/1711.08267	-				-	-												
+529		Object Discovery By Generative Adversarial & Ranking Networks	2017	11		https://arxiv.org/pdf/1711.08174.pdf	https://arxiv.org/abs/1711.08174	-				-	-												
+530		Improving Consistency and Correctness of Sequence Inpainting using Semantically Guided Generative Adversarial Network	2017	11		https://arxiv.org/pdf/1711.06106.pdf	https://arxiv.org/abs/1711.06106	-				-	-												
+531		Disease Prediction from Electronic Health Records Using Generative Adversarial Networks	2017	11		https://arxiv.org/pdf/1711.04126.pdf	https://arxiv.org/abs/1711.04126	-				EHRR	-												
+532		Deformable Deep Convolutional Generative Adversarial Network in Microwave Based Hand Gesture Recognition System	2017	11		https://arxiv.org/pdf/1711.01968.pdf	https://arxiv.org/abs/1711.01968	-				-	-												
+533		Robust Speech Recognition Using Generative Adversarial Networks	2017	11		https://arxiv.org/pdf/1711.01567.pdf	https://arxiv.org/abs/1711.01567	-				-	-												
 81	CA-GAN	Composition-aided Sketch-realistic Portrait Generation	2017	12		https://arxiv.org/pdf/1712.00899.pdf	https://arxiv.org/abs/1712.00899	-		236		-	-												
 127	Dynamics Transfer GAN	Dynamics Transfer GAN: Generating Video by Transferring Arbitrary Temporal Dynamics from a Source Video to a Single Target Image	2017	12		https://arxiv.org/pdf/1712.03534.pdf	https://arxiv.org/abs/1712.03534	-		238		-	-												
 130	EnergyWGAN	Energy-relaxed Wassertein GANs (EnergyWGAN): Towards More Stable and High Resolution Image Generation	2017	12		https://arxiv.org/pdf/1712.01026.pdf	https://arxiv.org/abs/1712.01026	-		239		-	-												
@@ -484,6 +502,25 @@ Mnum	Abbr.	Title	Year	Month	Citations	pdf	Arxiv	Official_Code	Web	No	SN	Medical	
 465		Semi-Supervised Learning with IPM-based GANs: an Empirical Study	2017	12		https://arxiv.org/pdf/1712.02505.pdf	https://arxiv.org/abs/1712.02505	-				-	-												
 466		Energy-relaxed Wasserstein GANs(EnergyWGAN): Towards More Stable and High Resolution Image Generation	2017	12		https://arxiv.org/pdf/1712.01026.pdf	https://arxiv.org/abs/1712.01026	-				-	-												
 467		Multi-Content GAN for Few-Shot Font Style Transfer	2017	12		https://arxiv.org/pdf/1712.00516.pdf	https://arxiv.org/abs/1712.00516	-				-	-												
+502	TFGAN	TFGAN: A Lightweight Library for Generative Adversarial Networks	2017	12		-	https://research.googleblog.com/2017/12/tfgan-lightweight-library-for.html	-				-	-												
+503	LNT-SEGAN	Language and Noise Transfer in Speech Enhancement Generative Adversarial Network	2017	12		https://arxiv.org/pdf/1712.06340.pdf	https://arxiv.org/abs/1712.06340	-				-	-												
+504		Adversarial Synthesis Learning Enables Segmentation Without Target Modality Ground Truth	2017	12		https://arxiv.org/pdf/1712.07695.pdf	https://arxiv.org/abs/1712.07695	-				Segmentation	-												
+505		The Robust Manifold Defense: Adversarial Training using Generative Models	2017	12		https://arxiv.org/pdf/1712.09196.pdf	https://arxiv.org/abs/1712.09196	-				-	-												
+506		Generative Adversarial Nets for Multiple Text Corpora	2017	12		https://arxiv.org/pdf/1712.09127.pdf	https://arxiv.org/abs/1712.09127	-				-	-												
+507		Use of Generative Adversarial Network for Cross-Domain Change Detection	2017	12		https://arxiv.org/pdf/1712.08868.pdf	https://arxiv.org/abs/1712.08868	-				-	-												
+508		Coverless Information Hiding Based on Generative adversarial networks	2017	12		https://arxiv.org/pdf/1712.06951.pdf	https://arxiv.org/abs/1712.06951	-				-	-												
+509		On the Effectiveness of Least Squares Generative Adversarial Networks	2017	12		https://arxiv.org/pdf/1712.06391.pdf	https://arxiv.org/abs/1712.06391	-				-	-												
+510		SRPGAN: Perceptual Generative Adversarial Network for Single Image Super Resolution	2017	12		https://arxiv.org/pdf/1712.05927.pdf	https://arxiv.org/abs/1712.05927	-				-	-												
+511		DANCin SEQ2SEQ: Fooling Text Classifiers with Adversarial Text Example Generation	2017	12		https://arxiv.org/pdf/1712.05419.pdf	https://arxiv.org/abs/1712.05419	-				-	-												
+512		Conditional Generative Adversarial Networks for Emoji Synthesis with Word Embedding Manipulation	2017	12		https://arxiv.org/pdf/1712.04421.pdf	https://arxiv.org/abs/1712.04421	-				-	-												
+513		Logo Synthesis and Manipulation with Clustered Generative Adversarial Networks	2017	12		https://arxiv.org/pdf/1712.04407.pdf	https://arxiv.org/abs/1712.04407	-				-	-												
+514		NAG: Network for Adversary Generation	2017	12		https://arxiv.org/pdf/1712.03390.pdf	https://arxiv.org/abs/1712.03390	-				-	-												
+515		Stochastic reconstruction of an oolitic limestone by generative adversarial networks	2017	12		https://arxiv.org/pdf/1712.02854.pdf	https://arxiv.org/abs/1712.02854	-				-	-												
+516		Towards Recovery of Conditional Vectors from Conditional Generative Adversarial Networks	2017	12		https://arxiv.org/pdf/1712.01833.pdf	https://arxiv.org/abs/1712.01833	-				-	-												
+517		Imagine it for me: Generative Adversarial Approach for Zero-Shot Learning from Noisy Texts	2017	12		https://arxiv.org/pdf/1712.01381.pdf	https://arxiv.org/abs/1712.01381	-				-	-												
+518		Towards Quality Advancement of Underwater Machine Vision with Generative Adversarial Networks	2017	12		https://arxiv.org/pdf/1712.00736.pdf	https://arxiv.org/abs/1712.00736	-				-	-												
+519		Splenomegaly Segmentation using Global Convolutional Kernels and Conditional Generative Adversarial Networks	2017	12		https://arxiv.org/pdf/1712.00542.pdf	https://arxiv.org/abs/1712.00542	-				-	-												
+520		Generative Adversarial Networks for Electronic Health Records: A Framework for Exploring and Evaluating Methods for Predicting Drug-Induced Laboratory Test Trajectories	2017	12		https://arxiv.org/pdf/1712.00164.pdf	https://arxiv.org/abs/1712.00164	-				-	-												
 78	CleverHANS	cleverhans: A library for benchmarking vulnerability to adversarial examples	2017			-	-	https://github.com/openai/cleverhans				-	-												
 120		Disentangled Representation Learning GAN for Pose-Invariant Face Recognition	2017		31	http://cvlab.cse.msu.edu/pdfs/Tran_Yin_Liu_CVPR2017.pdf	-	-			67	-	-												
 175	SequenceGAN	Generative adversarial networks (GAN) applied to sequential data via recurrent neural networks (RNN)	2017			-	-	https://github.com/ofirnachum/sequence_gan				-	-												
@@ -497,51 +534,6 @@ Mnum	Abbr.	Title	Year	Month	Citations	pdf	Arxiv	Official_Code	Web	No	SN	Medical	
 453		GAN Playground	2017			-	https://reiinakano.github.io/gan-playground	https://github.com/reiinakano/gan-playground				-	-												
 488		3D Medical Image Synthesis using Generative Adversarial Networks	2017			https://womencourage.acm.org/wp-content/uploads/2017/07/womENcourage_2017_paper_58.pdf?189db0		-				-	-												
 458		Unsupervised Cipher Cracking Using Discrete GANs	2018			https://openreview.net/pdf?id=BkeqO7x0-	https://openreview.net/forum?id=BkeqO7x0-	-				-	-												
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
-																									
 																									
 																									
 																									
