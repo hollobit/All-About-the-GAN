@@ -36,7 +36,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   {%- if gan['KERAS'] != '-' and gan['KERAS'] != '' -%} ([KERAS]({{ gan['KERAS'] }})) {% endif %}
   {%- if gan['Web'] != '-' and gan['Web'] != '' -%} ([Web]({{ gan['Web'] }})) {% endif %}
 
-  - {%- if gan['Citations'] | int > 50  %} :dart: {% endif %}
+    - {%- if gan['Citations'] | int > 50  %} :dart: {% endif %}
   {%- if gan['Stars'] | int > 50 %} :octocat: {% endif %} `{{ gan['Year'] }}/{{ gan['Month'] }}` {# #}
   {%- if gan['Medical'] != '-' -%} __`Medical: {{ gan['Medical'] }}`__ {% endif %}
   {%- if gan['Category'] != '-' -%} `{{ gan['Category'] }}` {% endif %}  
