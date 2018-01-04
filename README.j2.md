@@ -31,8 +31,10 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   {%- if count.update({'value': (count.value + 1)}) -%} {% endif %}
   {%- if gan['Arxiv'] != '-' and gan['Arxiv'] != '' -%} ([arXiv]({{ gan['Arxiv'] }})) {% endif %}
   {%- if gan['Official_Code'] != '-' and gan['Official_Code'] != '' -%} ([github]({{ gan['Official_Code'] }})) {% endif %}
-  {%- if gan['Tensorflow'] != '-' and gan['Tensorflow'] != '' -%} ([TF]({{ gan['Tensorflow'] }})) {% endif %}
-  {%- if gan['PyTorch'] != '-' and gan['PyTorch'] != '' -%} ([PT]({{ gan['PyTorch'] }})) {% endif %}
+  {%- if gan['Tensorflow'] != '-' and gan['Tensorflow'] != '' -%} ([TensorFlow]({{ gan['Tensorflow'] }})) {% endif %}
+  {%- if gan['PyTorch'] != '-' and gan['PyTorch'] != '' -%} ([PyTorch]({{ gan['PyTorch'] }})) {% endif %}
+  {%- if gan['KERAS'] != '-' and gan['KERAS'] != '' -%} ([KERAS]({{ gan['KERAS'] }})) {% endif %}
+  {%- if gan['Web'] != '-' and gan['Web'] != '' -%} ([Web]({{ gan['Web'] }})) {% endif %}
 
   > - `{{ gan['Year'] }}/{{ gan['Month'] }}` {# #}
   {%- if gan['Medical'] != '-' -%} __`Medical: {{ gan['Medical'] }}`__ {% endif %}
