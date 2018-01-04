@@ -27,30 +27,22 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
 {% set count = {'value': 1} %}
 {% for gan in gans %}
- {{count.value}}. {{ gan['Title'] }} ( {{ gan['Abbr.'] }} ) -   ([Search](http://www.google.com/search?q={{ gan['Title']|urlencode() }}))  ([Scholar](http://scholar.google.com/scholar?q={{ gan['Title']|urlencode() }}))   ([PDF]({{ gan['pdf'] }}))
-  {% if count.update({'value': (count.value + 1)}) %} {% endif %}
-  {%- if gan['Arxiv'] != '-' and gan['Arxiv'] != '' -%}
-  {#- #} ([arXiv]({{ gan['Arxiv'] }}))
-  {% else %} {# space removed if no arxiv repository #}
-  {% endif %}
+ {{count.value}}. {{ gan['Title'] }} -   ([Search](http://www.google.com/search?q={{ gan['Title']|urlencode() }}))  ([Scholar](http://scholar.google.com/scholar?q={{ gan['Title']|urlencode() }}))   ([PDF]({{ gan['pdf'] }}))
+  {%- if count.update({'value': (count.value + 1)}) -%} {% endif %}
+  {%- if gan['Arxiv'] != '-' and gan['Arxiv'] != '' -%} ([arXiv]({{ gan['Arxiv'] }})) {% endif %}
+  {%- if gan['Official_Code'] != '-' and gan['Official_Code'] != '' -%} ([github]({{ gan['Official_Code'] }})) {% endif %}
+  {%- if gan['Tensorflow'] != '-' and gan['Tensorflow'] != '' -%} ([TF]({{ gan['Tensorflow'] }})) {% endif %}
+  {%- if gan['PyTorch'] != '-' and gan['PyTorch'] != '' -%} ([PT]({{ gan['PyTorch'] }})) {% endif %}
 
-  {%- if gan['Official_Code'] != '-' and gan['Official_Code'] != '' -%}
-  {#- #} ([github]({{ gan['Official_Code'] }}))
-  {% else %} {# space removed if no github repository #}
-  {% endif %}
+  > - `{{ gan['Year'] }}/{{ gan['Month'] }}` {# #}
+  {%- if gan['Medical'] != '-' -%} __`Medical: {{ gan['Medical'] }}`__ {% endif %}
+  {%- if gan['Category'] != '-' -%} `{{ gan['Category'] }}` {% endif %}  
+  {%- if gan['Abbr.'] != '-' and gan['Abbr.'] != '' %} __`{{ gan['Abbr.'] }}`__  {% endif %}
+  {%- if gan['Citations'] != '0' and gan['Citations'] != '' %} `Citation: {{ gan['Citations'] }}` {% endif %}
+  {%- if gan['Stars'] != '0' and gan['Stars'] != '' %} `Stars: {{ gan['Stars'] }}` {% endif %}
 
-  {%- if gan['Medical'] != '-' -%}
-  {#- #} > - `{{ gan['Year'] }}/{{ gan['Month'] }}` `Citation: {{ gan['Citations'] }}` __`Medical: {{ gan['Medical'] }}`__
 
-  {% elif gan['Category'] != '-' %}
-  {#- #} > - `{{ gan['Year'] }}/{{ gan['Month'] }}` `Citation: {{ gan['Citations'] }}` `{{ gan['Category'] }}`  
-
-  {% else %} {# space removed if no github repository #}
-  {#- #} > - `{{ gan['Year'] }}/{{ gan['Month'] }}` `Citation: {{ gan['Citations'] }}`
-
-  {% endif %}  
-
-{%- endfor %}
+{% endfor %}
 
 ----
 
