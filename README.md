@@ -89,7 +89,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   - `2017/2`  `Citation: 21` 
 
  22. __Adversarial Autoencoders?__ -   ([Search](http://www.google.com/search?q=Adversarial%20Autoencoders%3F))  ([Scholar](http://scholar.google.com/scholar?q=Adversarial%20Autoencoders%3F))   ([PDF](https://arxiv.org/pdf/1511.05644.pdf))([arXiv](https://arxiv.org/abs/1511.05644)) ([github](https://github.com/musyoku/adversarial-autoencoder)) 
-  - :dart:  `2015/11` `Theory & Machine Learning`  __`AAE`__   `Citation: 163`  `Stars: 130` 
+  - :dart:  :octocat:  `2015/11` `Theory & Machine Learning`  __`AAE`__   `Citation: 163`  `Stars: 130` 
 
  23. __Adversarial Deep Structural Networks for Mammographic Mass Segmentation?__ -   ([Search](http://www.google.com/search?q=Adversarial%20Deep%20Structural%20Networks%20for%20Mammographic%20Mass%20Segmentation%3F))  ([Scholar](http://scholar.google.com/scholar?q=Adversarial%20Deep%20Structural%20Networks%20for%20Mammographic%20Mass%20Segmentation%3F))   ([PDF](https://arxiv.org/pdf/1612.05970.pdf))([arXiv](https://arxiv.org/abs/1612.05970)) 
   - `2016/12` `Semantic Segmentation`  `Citation: 7` 
@@ -164,10 +164,10 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   - `2017/3`  `Citation: 11` 
 
  47. __Adversarially Learned Inference__ -   ([Search](http://www.google.com/search?q=Adversarially%20Learned%20Inference))  ([Scholar](http://scholar.google.com/scholar?q=Adversarially%20Learned%20Inference))   ([PDF](https://arxiv.org/pdf/1606.00704.pdf))([arXiv](https://arxiv.org/abs/1606.00704)) ([github](https://github.com/IshmaelBelghazi/ALI)) 
-  - :dart:  `2016/6` `Joint Probability`  __`ALI`__   `Citation: 129`  `Stars: 233` 
+  - :dart:  :octocat:  `2016/6` `Joint Probability`  __`ALI`__   `Citation: 129`  `Stars: 233` 
 
  48. __Adversarially Regularized Autoencoders for Generating Discrete Structures__ -   ([Search](http://www.google.com/search?q=Adversarially%20Regularized%20Autoencoders%20for%20Generating%20Discrete%20Structures))  ([Scholar](http://scholar.google.com/scholar?q=Adversarially%20Regularized%20Autoencoders%20for%20Generating%20Discrete%20Structures))   ([PDF](https://arxiv.org/pdf/1706.04223.pdf))([arXiv](https://arxiv.org/abs/1706.04223)) ([github](https://github.com/jakezhaojb/ARAE)) 
-  - `2017/6`  __`ARAE`__   `Stars: 131` 
+  - :octocat:  `2017/6`  __`ARAE`__   `Stars: 131` 
 
  49. __AE-GAN: adversarial eliminating with GAN__ -   ([Search](http://www.google.com/search?q=AE-GAN%3A%20adversarial%20eliminating%20with%20GAN))  ([Scholar](http://scholar.google.com/scholar?q=AE-GAN%3A%20adversarial%20eliminating%20with%20GAN))   ([PDF](https://arxiv.org/pdf/1707.05474.pdf))([arXiv](https://arxiv.org/abs/1707.05474)) 
   - `2017/7` `Theory & Machine Learning`  __`AE-GAN`__  
@@ -236,7 +236,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   - `2017/5` `Applied Vision`  `Citation: 2` 
 
  71. __Autoencoding beyond pixels using a learned similarity metric__ -   ([Search](http://www.google.com/search?q=Autoencoding%20beyond%20pixels%20using%20a%20learned%20similarity%20metric))  ([Scholar](http://scholar.google.com/scholar?q=Autoencoding%20beyond%20pixels%20using%20a%20learned%20similarity%20metric))   ([PDF](https://arxiv.org/pdf/1512.09300.pdf))([arXiv](https://arxiv.org/abs/1512.09300)) ([github](https://github.com/andersbll/autoencoding_beyond_pixels)) ([TensorFlow](https://github.com/timsainb/Tensorflow-MultiGPU-VAE-GAN)) 
-  - :dart:  `2015/12` `Face Generative and Editing`  __`VAE-GAN`__   `Citation: 155`  `Stars: 281` 
+  - :dart:  :octocat:  `2015/12` `Face Generative and Editing`  __`VAE-GAN`__   `Citation: 155`  `Stars: 281` 
 
  72. __Automatic Liver Segmentation Using an Adversarial Image-to-Image Network?__ -   ([Search](http://www.google.com/search?q=Automatic%20Liver%20Segmentation%20Using%20an%20Adversarial%20Image-to-Image%20Network%3F))  ([Scholar](http://scholar.google.com/scholar?q=Automatic%20Liver%20Segmentation%20Using%20an%20Adversarial%20Image-to-Image%20Network%3F))   ([PDF](https://arxiv.org/pdf/1707.08037.pdf))([arXiv](https://arxiv.org/abs/1707.08037)) 
   - `2017/7` __`Medical: Segmentation`__ `Applied Vision`  `Citation: 1` 
@@ -245,13 +245,13 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   - `2017/6` `Theory & Machine Learning`  __`BCGAN`__  
 
  74. __Bayesian GAN?__ -   ([Search](http://www.google.com/search?q=Bayesian%20GAN%3F))  ([Scholar](http://scholar.google.com/scholar?q=Bayesian%20GAN%3F))   ([PDF](https://arxiv.org/pdf/1705.09558.pdf))([arXiv](https://arxiv.org/abs/1705.09558)) ([github](https://github.com/andrewgordonwilson/bayesgan)) 
-  - `2017/5` `Theory & Machine Learning`  __`Bayesian GAN`__   `Citation: 3`  `Stars: 804` 
+  - :octocat:  `2017/5` `Theory & Machine Learning`  __`Bayesian GAN`__   `Citation: 3`  `Stars: 804` 
 
  75. __Be Your Own Prada: Fashion Synthesis with Structural Coherence__ -   ([Search](http://www.google.com/search?q=Be%20Your%20Own%20Prada%3A%20Fashion%20Synthesis%20with%20Structural%20Coherence))  ([Scholar](http://scholar.google.com/scholar?q=Be%20Your%20Own%20Prada%3A%20Fashion%20Synthesis%20with%20Structural%20Coherence))   ([PDF](https://arxiv.org/pdf/1710.07346.pdf))([arXiv](https://arxiv.org/abs/1710.07346)) ([github](https://github.com/zhusz/ICCV17-fashionGAN)) 
-  - `2017/10`  __`FashionGAN`__   `Stars: 95` 
+  - :octocat:  `2017/10`  __`FashionGAN`__   `Stars: 95` 
 
  76. __BEGAN: Boundary Equilibrium Generative Adversarial Networks?__ -   ([Search](http://www.google.com/search?q=BEGAN%3A%20Boundary%20Equilibrium%20Generative%20Adversarial%20Networks%3F))  ([Scholar](http://scholar.google.com/scholar?q=BEGAN%3A%20Boundary%20Equilibrium%20Generative%20Adversarial%20Networks%3F))   ([PDF](https://arxiv.org/pdf/1703.10717.pdf))([arXiv](https://arxiv.org/abs/1703.10717)) ([github](https://github.com/artcg/BEGAN)) ([TensorFlow](https://github.com/carpedm20/BEGAN-tensorflow)) 
-  - :dart:  `2017/3` `Theory & Machine Learning`  __`BEGAN`__   `Citation: 82`  `Stars: 553` 
+  - :dart:  :octocat:  `2017/3` `Theory & Machine Learning`  __`BEGAN`__   `Citation: 82`  `Stars: 553` 
 
  77. __Beyond Face Rotation: Global and Local Perception GAN for Photorealistic and Identity Preserving Frontal View Synthesis__ -   ([Search](http://www.google.com/search?q=Beyond%20Face%20Rotation%3A%20Global%20and%20Local%20Perception%20GAN%20for%20Photorealistic%20and%20Identity%20Preserving%20Frontal%20View%20Synthesis))  ([Scholar](http://scholar.google.com/scholar?q=Beyond%20Face%20Rotation%3A%20Global%20and%20Local%20Perception%20GAN%20for%20Photorealistic%20and%20Identity%20Preserving%20Frontal%20View%20Synthesis))   ([PDF](https://arxiv.org/pdf/1704.04086.pdf))([arXiv](https://arxiv.org/abs/1704.04086)) 
   - `2017/4` `Face Generative and Editing`  __`TP-GAN`__   `Citation: 26` 
@@ -269,10 +269,10 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   - `2017/2` `For discrete distributions`  __`BS-GAN`__   `Citation: 18` 
 
  82. __C-RNN-GAN: Continuous recurrent neural networks with adversarial training?__ -   ([Search](http://www.google.com/search?q=C-RNN-GAN%3A%20Continuous%20recurrent%20neural%20networks%20with%20adversarial%20training%3F))  ([Scholar](http://scholar.google.com/scholar?q=C-RNN-GAN%3A%20Continuous%20recurrent%20neural%20networks%20with%20adversarial%20training%3F))   ([PDF](https://arxiv.org/pdf/1611.09904.pdf))([arXiv](https://arxiv.org/abs/1611.09904)) ([github](https://github.com/olofmogren/c-rnn-gan/)) 
-  - `2016/11` `RNN`  __`C-RNN-GAN`__   `Citation: 12`  `Stars: 108` 
+  - :octocat:  `2016/11` `RNN`  __`C-RNN-GAN`__   `Citation: 12`  `Stars: 108` 
 
  83. __CaloGAN: Simulating 3D High Energy Particle Showers in Multi-Layer Electromagnetic Calorimeters with Generative Adversarial Networks?__ -   ([Search](http://www.google.com/search?q=CaloGAN%3A%20Simulating%203D%20High%20Energy%20Particle%20Showers%20in%20Multi-Layer%20Electromagnetic%20Calorimeters%20with%20Generative%20Adversarial%20Networks%3F))  ([Scholar](http://scholar.google.com/scholar?q=CaloGAN%3A%20Simulating%203D%20High%20Energy%20Particle%20Showers%20in%20Multi-Layer%20Electromagnetic%20Calorimeters%20with%20Generative%20Adversarial%20Networks%3F))   ([PDF](https://arxiv.org/pdf/1705.02355.pdf))([arXiv](https://arxiv.org/abs/1705.02355)) ([github](https://github.com/hep-lbdl/CaloGAN)) 
-  - `2017/5`  __`CaloGAN`__   `Citation: 11`  `Stars: 51` 
+  - :octocat:  `2017/5`  __`CaloGAN`__   `Citation: 11`  `Stars: 51` 
 
  84. __CAN: Creative Adversarial Networks Generating ��Art�� by Learning About Styles and Deviating from Style Norms?__ -   ([Search](http://www.google.com/search?q=CAN%3A%20Creative%20Adversarial%20Networks%20Generating%20%EF%BF%BD%EF%BF%BDArt%EF%BF%BD%EF%BF%BD%20by%20Learning%20About%20Styles%20and%20Deviating%20from%20Style%20Norms%3F))  ([Scholar](http://scholar.google.com/scholar?q=CAN%3A%20Creative%20Adversarial%20Networks%20Generating%20%EF%BF%BD%EF%BF%BDArt%EF%BF%BD%EF%BF%BD%20by%20Learning%20About%20Styles%20and%20Deviating%20from%20Style%20Norms%3F))   ([PDF](https://arxiv.org/pdf/1706.07068.pdf))([arXiv](https://arxiv.org/abs/1706.07068)) 
   - `2017/6` `Face Aging`  __`CAN`__   `Citation: 1` 
@@ -296,7 +296,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   - `2017/9` `Theory & Machine Learning`  __`Splitting GAN`__   `Citation: 1` 
 
  91. __cleverhans: A library for benchmarking vulnerability to adversarial examples__ -   ([Search](http://www.google.com/search?q=cleverhans%3A%20A%20library%20for%20benchmarking%20vulnerability%20to%20adversarial%20examples))  ([Scholar](http://scholar.google.com/scholar?q=cleverhans%3A%20A%20library%20for%20benchmarking%20vulnerability%20to%20adversarial%20examples))   ([PDF](-))([github](https://github.com/openai/cleverhans)) 
-  - `2017/`  __`CleverHANS`__   `Stars: 1509` 
+  - :octocat:  `2017/`  __`CleverHANS`__   `Stars: 1509` 
 
  92. __CM-GANs: Cross-modal Generative Adversarial Networks for Common Representation Learning?__ -   ([Search](http://www.google.com/search?q=CM-GANs%3A%20Cross-modal%20Generative%20Adversarial%20Networks%20for%20Common%20Representation%20Learning%3F))  ([Scholar](http://scholar.google.com/scholar?q=CM-GANs%3A%20Cross-modal%20Generative%20Adversarial%20Networks%20for%20Common%20Representation%20Learning%3F))   ([PDF](https://arxiv.org/pdf/1710.05106.pdf))([arXiv](https://arxiv.org/abs/1710.05106)) 
   - `2017/10` `Theory & Machine Learning`  __`CM-GAN`__  
@@ -320,7 +320,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   - `2017/5` `Theory & Machine Learning`  __`Conditional cycleGAN`__   `Citation: 6` 
 
  99. __Conditional Generative Adversarial Nets__ -   ([Search](http://www.google.com/search?q=Conditional%20Generative%20Adversarial%20Nets))  ([Scholar](http://scholar.google.com/scholar?q=Conditional%20Generative%20Adversarial%20Nets))   ([PDF](https://arxiv.org/pdf/1411.1784v1.pdf))([arXiv](https://arxiv.org/abs/1411.1784v1)) ([github](https://github.com/zhangqianhui/Conditional-Gans)) 
-  - :dart:  `2014/11` `Conditional adversarial`  __`CGAN`__   `Citation: 321`  `Stars: 70` 
+  - :dart:  :octocat:  `2014/11` `Conditional adversarial`  __`CGAN`__   `Citation: 321`  `Stars: 70` 
 
  100. __Conditional generative adversarial nets for convolutional face generation?__ -   ([Search](http://www.google.com/search?q=Conditional%20generative%20adversarial%20nets%20for%20convolutional%20face%20generation%3F))  ([Scholar](http://scholar.google.com/scholar?q=Conditional%20generative%20adversarial%20nets%20for%20convolutional%20face%20generation%3F))   ([PDF](https://pdfs.semanticscholar.org/42f6/f5454dda99d8989f9814989efd50fe807ee8.pdf))
   - :dart:  `2014/` `Applied Vision`  `Citation: 67` 
@@ -335,7 +335,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   - :dart:  `2016/6`  `Citation: 140` 
 
  104. __Conditional Image Synthesis with Auxiliary Classifier GANs __ -   ([Search](http://www.google.com/search?q=Conditional%20Image%20Synthesis%20with%20Auxiliary%20Classifier%20GANs%20))  ([Scholar](http://scholar.google.com/scholar?q=Conditional%20Image%20Synthesis%20with%20Auxiliary%20Classifier%20GANs%20))   ([PDF](https://arxiv.org/pdf/1610.09585.pdf))([arXiv](https://arxiv.org/abs/1610.09585)) ([github](https://github.com/buriburisuri/ac-gan)) 
-  - :dart:  `2016/10` `Conditional adversarial`  __`AC-GAN`__   `Citation: 86`  `Stars: 287` 
+  - :dart:  :octocat:  `2016/10` `Conditional adversarial`  __`AC-GAN`__   `Citation: 86`  `Stars: 287` 
 
  105. __Connecting Generative Adversarial Networks and Actor-Critic Methods?__ -   ([Search](http://www.google.com/search?q=Connecting%20Generative%20Adversarial%20Networks%20and%20Actor-Critic%20Methods%3F))  ([Scholar](http://scholar.google.com/scholar?q=Connecting%20Generative%20Adversarial%20Networks%20and%20Actor-Critic%20Methods%3F))   ([PDF](https://arxiv.org/pdf/1610.01945.pdf))([arXiv](https://arxiv.org/abs/1610.01945)) 
   - `2016/10` `Theory & Machine Learning`  `Citation: 18` 
@@ -365,7 +365,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   - `2017/8`  __`Coulomb GAN`__  
 
  114. __Coupled Generative Adversarial Networks__ -   ([Search](http://www.google.com/search?q=Coupled%20Generative%20Adversarial%20Networks))  ([Scholar](http://scholar.google.com/scholar?q=Coupled%20Generative%20Adversarial%20Networks))   ([PDF](https://arxiv.org/pdf/1606.07536v2.pdf))([arXiv](https://arxiv.org/abs/1606.07536v2)) ([github](https://github.com/mingyuliutw/CoGAN)) 
-  - :dart:  `2016/6` `Image translation, Face Generative and Editing`  __`CoGAN`__   `Citation: 90`  `Stars: 100` 
+  - :dart:  :octocat:  `2016/6` `Image translation, Face Generative and Editing`  __`CoGAN`__   `Citation: 90`  `Stars: 100` 
 
  115. __Coverless Information Hiding Based on Generative adversarial networks__ -   ([Search](http://www.google.com/search?q=Coverless%20Information%20Hiding%20Based%20on%20Generative%20adversarial%20networks))  ([Scholar](http://scholar.google.com/scholar?q=Coverless%20Information%20Hiding%20Based%20on%20Generative%20adversarial%20networks))   ([PDF](https://arxiv.org/pdf/1712.06951.pdf))([arXiv](https://arxiv.org/abs/1712.06951)) 
   - `2017/12` 
@@ -392,13 +392,13 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   - `2017/11` 
 
  123. __DeblurGAN: Blind Motion Deblurring Using Conditional Adversarial Networks__ -   ([Search](http://www.google.com/search?q=DeblurGAN%3A%20Blind%20Motion%20Deblurring%20Using%20Conditional%20Adversarial%20Networks))  ([Scholar](http://scholar.google.com/scholar?q=DeblurGAN%3A%20Blind%20Motion%20Deblurring%20Using%20Conditional%20Adversarial%20Networks))   ([PDF](https://arxiv.org/pdf/1711.07064.pdf))([arXiv](https://arxiv.org/abs/1711.07064)) ([github](https://github.com/KupynOrest/DeblurGAN)) 
-  - `2017/11`  __`DeblurGAN`__   `Stars: 613` 
+  - :octocat:  `2017/11`  __`DeblurGAN`__   `Stars: 613` 
 
  124. __Deep Adversarial Networks for Biomedical Image Segmentation Utilizing Unannotated Images__ -   ([Search](http://www.google.com/search?q=Deep%20Adversarial%20Networks%20for%20Biomedical%20Image%20Segmentation%20Utilizing%20Unannotated%20Images))  ([Scholar](http://scholar.google.com/scholar?q=Deep%20Adversarial%20Networks%20for%20Biomedical%20Image%20Segmentation%20Utilizing%20Unannotated%20Images))   ([PDF](https://link.springer.com/chapter/10.1007/978-3-319-66179-7_47))
   - `2017/9` __`Medical: Segmentation`__ 
 
  125. __Deep and Hierarchical Implicit Models__ -   ([Search](http://www.google.com/search?q=Deep%20and%20Hierarchical%20Implicit%20Models))  ([Scholar](http://scholar.google.com/scholar?q=Deep%20and%20Hierarchical%20Implicit%20Models))   ([PDF](https://arxiv.org/pdf/1702.08896.pdf))([arXiv](https://arxiv.org/abs/1702.08896)) ([github](https://github.com/andrewgordonwilson/bayesgan/)) 
-  - `2017/2` `Theory & Machine Learning`  __`Bayesian GAN`__   `Citation: 24`  `Stars: 804` 
+  - :octocat:  `2017/2` `Theory & Machine Learning`  __`Bayesian GAN`__   `Citation: 24`  `Stars: 804` 
 
  126. __Deep De-Aliasing for Fast Compressive Sensing MRI__ -   ([Search](http://www.google.com/search?q=Deep%20De-Aliasing%20for%20Fast%20Compressive%20Sensing%20MRI))  ([Scholar](http://scholar.google.com/scholar?q=Deep%20De-Aliasing%20for%20Fast%20Compressive%20Sensing%20MRI))   ([PDF](https://arxiv.org/pdf/1705.07137.pdf))([arXiv](https://arxiv.org/abs/1705.07137)) 
   - `2017/5` __`Medical: Reconstruction`__ 
@@ -416,7 +416,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   - `2017/9`  __`DGF-MD`__  
 
  131. __Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks __ -   ([Search](http://www.google.com/search?q=Deep%20Generative%20Image%20Models%20using%20a%20Laplacian%20Pyramid%20of%20Adversarial%20Networks%20))  ([Scholar](http://scholar.google.com/scholar?q=Deep%20Generative%20Image%20Models%20using%20a%20Laplacian%20Pyramid%20of%20Adversarial%20Networks%20))   ([PDF](https://arxiv.org/pdf/1506.05751.pdf))([arXiv](https://arxiv.org/abs/1506.05751)) ([github](https://github.com/facebook/eyescream)) 
-  - :dart:  `2015/6` `Applied Vision`  __`LAPGAN`__   `Citation: 405`  `Stars: 547` 
+  - :dart:  :octocat:  `2015/6` `Applied Vision`  __`LAPGAN`__   `Citation: 405`  `Stars: 547` 
 
  132. __Deep Illumination: Approximating Dynamic Global Illumination with Generative Adversarial Network__ -   ([Search](http://www.google.com/search?q=Deep%20Illumination%3A%20Approximating%20Dynamic%20Global%20Illumination%20with%20Generative%20Adversarial%20Network))  ([Scholar](http://scholar.google.com/scholar?q=Deep%20Illumination%3A%20Approximating%20Dynamic%20Global%20Illumination%20with%20Generative%20Adversarial%20Network))   ([PDF](https://arxiv.org/pdf/1710.09834.pdf))([arXiv](https://arxiv.org/abs/1710.09834)) 
   - `2017/10` 
@@ -428,7 +428,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   - `2017/8` __`Medical: Synthersize`__ 
 
  135. __Deep multi-scale video prediction beyond mean square error__ -   ([Search](http://www.google.com/search?q=Deep%20multi-scale%20video%20prediction%20beyond%20mean%20square%20error))  ([Scholar](http://scholar.google.com/scholar?q=Deep%20multi-scale%20video%20prediction%20beyond%20mean%20square%20error))   ([PDF](https://arxiv.org/pdf/1511.05440.pdf))([arXiv](https://arxiv.org/abs/1511.05440)) ([github](https://github.com/dyelax/Adversarial_Video_Generation)) 
-  - :dart:  `2015/11` `Video Prediction and Generation`  `Citation: 200`  `Stars: 382` 
+  - :dart:  :octocat:  `2015/11` `Video Prediction and Generation`  `Citation: 200`  `Stars: 382` 
 
  136. __Deep Photo Style Transfer__ -   ([Search](http://www.google.com/search?q=Deep%20Photo%20Style%20Transfer))  ([Scholar](http://scholar.google.com/scholar?q=Deep%20Photo%20Style%20Transfer))   ([PDF](https://arxiv.org/pdf/1703.07511.pdf))([arXiv](https://arxiv.org/abs/1703.07511)) ([github](https://github.com/luanfujun/deep-photo-styletransfer)) 
   - `2017/` `Domain-transfer` 
@@ -437,7 +437,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   - `2017/11` 
 
  138. __DeLiGAN : Generative Adversarial Networks for Diverse and Limited Data?__ -   ([Search](http://www.google.com/search?q=DeLiGAN%20%3A%20Generative%20Adversarial%20Networks%20for%20Diverse%20and%20Limited%20Data%3F))  ([Scholar](http://scholar.google.com/scholar?q=DeLiGAN%20%3A%20Generative%20Adversarial%20Networks%20for%20Diverse%20and%20Limited%20Data%3F))   ([PDF](https://arxiv.org/pdf/1706.02071.pdf))([arXiv](https://arxiv.org/abs/1706.02071)) ([github](https://github.com/val-iisc/deligan)) 
-  - `2017/6` `Applied Vision`  __`DeliGAN`__   `Citation: 7`  `Stars: 53` 
+  - :octocat:  `2017/6` `Applied Vision`  __`DeliGAN`__   `Citation: 7`  `Stars: 53` 
 
  139. __Demystifying AlphaGo Zero as AlphaGo GAN__ -   ([Search](http://www.google.com/search?q=Demystifying%20AlphaGo%20Zero%20as%20AlphaGo%20GAN))  ([Scholar](http://scholar.google.com/scholar?q=Demystifying%20AlphaGo%20Zero%20as%20AlphaGo%20GAN))   ([PDF](https://arxiv.org/pdf/1711.09091.pdf))([arXiv](https://arxiv.org/abs/1711.09091)) 
   - `2017/11`  __`AlphagoGAN`__  
@@ -473,7 +473,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   - `2017/8` `Applied Vision`  __`DM-GAN`__   `Citation: 5` 
 
  150. __DualGAN: Unsupervised Dual Learning for Image-to-Image Translation?__ -   ([Search](http://www.google.com/search?q=DualGAN%3A%20Unsupervised%20Dual%20Learning%20for%20Image-to-Image%20Translation%3F))  ([Scholar](http://scholar.google.com/scholar?q=DualGAN%3A%20Unsupervised%20Dual%20Learning%20for%20Image-to-Image%20Translation%3F))   ([PDF](https://arxiv.org/pdf/1704.02510.pdf))([arXiv](https://arxiv.org/abs/1704.02510v1)) ([github](https://github.com/duxingren14/DualGAN)) 
-  - `2017/4` `Applied Vision`  __`DualGAN`__   `Citation: 32`  `Stars: 102` 
+  - :octocat:  `2017/4` `Applied Vision`  __`DualGAN`__   `Citation: 32`  `Stars: 102` 
 
  151. __Dualing GANs?__ -   ([Search](http://www.google.com/search?q=Dualing%20GANs%3F))  ([Scholar](http://scholar.google.com/scholar?q=Dualing%20GANs%3F))   ([PDF](https://arxiv.org/pdf/1706.06216.pdf))([arXiv](https://arxiv.org/abs/1706.06216)) 
   - `2017/6` `Theory & Machine Learning`  __`Dualing GAN`__  
@@ -494,7 +494,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   - `2016/12` 
 
  157. __Energy-based Generative Adversarial Network__ -   ([Search](http://www.google.com/search?q=Energy-based%20Generative%20Adversarial%20Network))  ([Scholar](http://scholar.google.com/scholar?q=Energy-based%20Generative%20Adversarial%20Network))   ([PDF](https://arxiv.org/pdf/1609.03126.pdf))([arXiv](https://arxiv.org/abs/1609.03126v4)) ([github](https://github.com/buriburisuri/ebgan)) 
-  - :dart:  `2016/9` `GAN Theory`  __`EBGAN`__   `Citation: 158`  `Stars: 195` 
+  - :dart:  :octocat:  `2016/9` `GAN Theory`  __`EBGAN`__   `Citation: 158`  `Stars: 195` 
 
  158. __Energy-relaxed Wasserstein GANs(EnergyWGAN): Towards More Stable and High Resolution Image Generation__ -   ([Search](http://www.google.com/search?q=Energy-relaxed%20Wasserstein%20GANs%28EnergyWGAN%29%3A%20Towards%20More%20Stable%20and%20High%20Resolution%20Image%20Generation))  ([Scholar](http://scholar.google.com/scholar?q=Energy-relaxed%20Wasserstein%20GANs%28EnergyWGAN%29%3A%20Towards%20More%20Stable%20and%20High%20Resolution%20Image%20Generation))   ([PDF](https://arxiv.org/pdf/1712.01026.pdf))([arXiv](https://arxiv.org/abs/1712.01026)) 
   - `2017/12` 
@@ -578,7 +578,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   - `2017/12`  __`GAGAN`__  
 
  185. __GAN Playground__ -   ([Search](http://www.google.com/search?q=GAN%20Playground))  ([Scholar](http://scholar.google.com/scholar?q=GAN%20Playground))   ([PDF](-))([arXiv](https://reiinakano.github.io/gan-playground)) ([github](https://github.com/reiinakano/gan-playground)) 
-  - `2017/`  `Stars: 235` 
+  - :octocat:  `2017/`  `Stars: 235` 
 
  186. __Gang of GANs: Generative Adversarial Networks with Maximum Margin Ranking__ -   ([Search](http://www.google.com/search?q=Gang%20of%20GANs%3A%20Generative%20Adversarial%20Networks%20with%20Maximum%20Margin%20Ranking))  ([Scholar](http://scholar.google.com/scholar?q=Gang%20of%20GANs%3A%20Generative%20Adversarial%20Networks%20with%20Maximum%20Margin%20Ranking))   ([PDF](https://arxiv.org/pdf/1704.04865.pdf))([arXiv](https://arxiv.org/abs/1704.04865)) 
   - `2017/4` `Theory & Machine Learning`  __`GoGAN`__   `Citation: 5` 
@@ -590,10 +590,10 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   - `2017/12`  __`GANosaic`__  
 
  189. __GANs comparison without cherry-picking__ -   ([Search](http://www.google.com/search?q=GANs%20comparison%20without%20cherry-picking))  ([Scholar](http://scholar.google.com/scholar?q=GANs%20comparison%20without%20cherry-picking))   ([PDF](-))([arXiv](https://github.com/khanrc/tf.gans-comparison)) ([github](https://github.com/khanrc/tf.gans-comparison)) 
-  - `2017/9`  `Stars: 362` 
+  - :octocat:  `2017/9`  `Stars: 362` 
 
  190. __GANs for Biological Image Synthesis?__ -   ([Search](http://www.google.com/search?q=GANs%20for%20Biological%20Image%20Synthesis%3F))  ([Scholar](http://scholar.google.com/scholar?q=GANs%20for%20Biological%20Image%20Synthesis%3F))   ([PDF](https://arxiv.org/pdf/1708.04692.pdf))([arXiv](https://arxiv.org/abs/1708.04692)) ([github](https://github.com/aosokin/biogans)) 
-  - `2017/8` `Applied Vision`  __`GAN-sep`__   `Citation: 3`  `Stars: 70` 
+  - :octocat:  `2017/8` `Applied Vision`  __`GAN-sep`__   `Citation: 3`  `Stars: 70` 
 
  191. __GANs for LIFE: Generative Adversarial Networks for Likelihood Free Inference__ -   ([Search](http://www.google.com/search?q=GANs%20for%20LIFE%3A%20Generative%20Adversarial%20Networks%20for%20Likelihood%20Free%20Inference))  ([Scholar](http://scholar.google.com/scholar?q=GANs%20for%20LIFE%3A%20Generative%20Adversarial%20Networks%20for%20Likelihood%20Free%20Inference))   ([PDF](https://arxiv.org/pdf/1711.11139.pdf))([arXiv](https://arxiv.org/abs/1711.11139)) 
   - `2017/11`  __`ABC-GAN`__  
@@ -608,7 +608,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   - `2017/11` 
 
  195. __GeneGAN: Learning Object Transfiguration and Attribute Subspace from Unpaired Data__ -   ([Search](http://www.google.com/search?q=GeneGAN%3A%20Learning%20Object%20Transfiguration%20and%20Attribute%20Subspace%20from%20Unpaired%20Data))  ([Scholar](http://scholar.google.com/scholar?q=GeneGAN%3A%20Learning%20Object%20Transfiguration%20and%20Attribute%20Subspace%20from%20Unpaired%20Data))   ([PDF](https://arxiv.org/pdf/1705.04932.pdf))([arXiv](https://arxiv.org/abs/1705.04932)) ([github](https://github.com/Prinsphield/GeneGAN)) 
-  - `2017/5` `Face Generative and Editing`  __`GeneGAN`__   `Citation: 4`  `Stars: 67` 
+  - :octocat:  `2017/5` `Face Generative and Editing`  __`GeneGAN`__   `Citation: 4`  `Stars: 67` 
 
  196. __Generalization and Equilibrium in Generative Adversarial Nets__ -   ([Search](http://www.google.com/search?q=Generalization%20and%20Equilibrium%20in%20Generative%20Adversarial%20Nets))  ([Scholar](http://scholar.google.com/scholar?q=Generalization%20and%20Equilibrium%20in%20Generative%20Adversarial%20Nets))   ([PDF](https://arxiv.org/pdf/1703.00573.pdf))([arXiv](https://arxiv.org/abs/1703.00573v3)) 
   - `2017/3` `GAN Theory`  __`MIX+GAN`__   `Citation: 35` 
@@ -629,7 +629,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   - :dart:  `2016/2` `Unclassified`  `Citation: 96` 
 
  202. __Generating images with recurrent adversarial networks?__ -   ([Search](http://www.google.com/search?q=Generating%20images%20with%20recurrent%20adversarial%20networks%3F))  ([Scholar](http://scholar.google.com/scholar?q=Generating%20images%20with%20recurrent%20adversarial%20networks%3F))   ([PDF](https://arxiv.org/pdf/1602.05110.pdf))([arXiv](https://arxiv.org/abs/1602.05110)) ([github](https://github.com/jiwoongim/GRAN)) 
-  - :dart:  `2016/2` `Theory & Machine Learning`  __`GRAN`__   `Citation: 56`  `Stars: 99` 
+  - :dart:  :octocat:  `2016/2` `Theory & Machine Learning`  __`GRAN`__   `Citation: 56`  `Stars: 99` 
 
  203. __Generating Large Images from Latent Vectors__ -   ([Search](http://www.google.com/search?q=Generating%20Large%20Images%20from%20Latent%20Vectors))  ([Scholar](http://scholar.google.com/scholar?q=Generating%20Large%20Images%20from%20Latent%20Vectors))   ([PDF](-))([arXiv](http://blog.otoro.net/2016/04/01/generating-large-images-from-latent-vectors/)) ([github](https://github.com/hardmaru/cppn-gan-vae-tensorflow)) 
   - `2017/` `High-resolution image generation (large-scale image)` 
@@ -638,10 +638,10 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   - `2017/3` __`Medical: EHRR`__ `Applied Other`  __`MedGAN`__   `Citation: 5` 
 
  205. __Generating Pokemon with a Generative Adversarial Network__ -   ([Search](http://www.google.com/search?q=Generating%20Pokemon%20with%20a%20Generative%20Adversarial%20Network))  ([Scholar](http://scholar.google.com/scholar?q=Generating%20Pokemon%20with%20a%20Generative%20Adversarial%20Network))   ([PDF](-))([arXiv](https://www.youtube.com/watch?v=yz6dNf7X7SA&feature=youtu.be)) ([github](https://github.com/llSourcell/Pokemon_GAN)) 
-  - `2017/11`  __`PokeGAN`__   `Stars: 121` 
+  - :octocat:  `2017/11`  __`PokeGAN`__   `Stars: 121` 
 
  206. __Generating Videos with Scene Dynamics__ -   ([Search](http://www.google.com/search?q=Generating%20Videos%20with%20Scene%20Dynamics))  ([Scholar](http://scholar.google.com/scholar?q=Generating%20Videos%20with%20Scene%20Dynamics))   ([PDF](http://web.mit.edu/vondrick/tinyvideo/paper.pdf))([arXiv](https://arxiv.org/abs/1609.02612)) ([github](https://github.com/cvondrick/videogan)) ([Web](http://web.mit.edu/vondrick/tinyvideo/)) 
-  - :dart:  `2016/9` `Video Prediction and Generation`  __`VGAN`__   `Citation: 114`  `Stars: 504` 
+  - :dart:  :octocat:  `2016/9` `Video Prediction and Generation`  __`VGAN`__   `Citation: 114`  `Stars: 504` 
 
  207. __Generative Adversarial Imitation Learning?__ -   ([Search](http://www.google.com/search?q=Generative%20Adversarial%20Imitation%20Learning%3F))  ([Scholar](http://scholar.google.com/scholar?q=Generative%20Adversarial%20Imitation%20Learning%3F))   ([PDF](https://arxiv.org/pdf/1606.03476.pdf))([arXiv](https://arxiv.org/abs/1606.03476)) 
   - :dart:  `2016/6`  `Citation: 61` 
@@ -653,7 +653,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   - `2017/7` `Applied Vision`  `Citation: 1` 
 
  210. __Generative Adversarial Nets__ -   ([Search](http://www.google.com/search?q=Generative%20Adversarial%20Nets))  ([Scholar](http://scholar.google.com/scholar?q=Generative%20Adversarial%20Nets))   ([PDF](https://arxiv.org/pdf/1406.2661.pdf))([arXiv](https://arxiv.org/abs/1406.2661)) ([github](https://github.com/goodfeli/adversarial)) 
-  - :dart:  `2014/6` `The First paper`  __`GAN`__   `Citation: 1948`  `Stars: 1230` 
+  - :dart:  :octocat:  `2014/6` `The First paper`  __`GAN`__   `Citation: 1948`  `Stars: 1230` 
 
  211. __Generative Adversarial Nets for Multiple Text Corpora__ -   ([Search](http://www.google.com/search?q=Generative%20Adversarial%20Nets%20for%20Multiple%20Text%20Corpora))  ([Scholar](http://scholar.google.com/scholar?q=Generative%20Adversarial%20Nets%20for%20Multiple%20Text%20Corpora))   ([PDF](https://arxiv.org/pdf/1712.09127.pdf))([arXiv](https://arxiv.org/abs/1712.09127)) 
   - `2017/12` 
@@ -674,7 +674,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   - `2017/8` `Applied Vision`  __`GAN-VFS`__   `Citation: 1` 
 
  217. __Generative adversarial networks (GAN) applied to sequential data via recurrent neural networks (RNN)__ -   ([Search](http://www.google.com/search?q=Generative%20adversarial%20networks%20%28GAN%29%20applied%20to%20sequential%20data%20via%20recurrent%20neural%20networks%20%28RNN%29))  ([Scholar](http://scholar.google.com/scholar?q=Generative%20adversarial%20networks%20%28GAN%29%20applied%20to%20sequential%20data%20via%20recurrent%20neural%20networks%20%28RNN%29))   ([PDF](-))([github](https://github.com/ofirnachum/sequence_gan)) 
-  - `2017/`  __`SequenceGAN`__   `Stars: 264` 
+  - :octocat:  `2017/`  __`SequenceGAN`__   `Stars: 264` 
 
  218. __Generative Adversarial Networks as Variational Training of Energy Based Models__ -   ([Search](http://www.google.com/search?q=Generative%20Adversarial%20Networks%20as%20Variational%20Training%20of%20Energy%20Based%20Models))  ([Scholar](http://scholar.google.com/scholar?q=Generative%20Adversarial%20Networks%20as%20Variational%20Training%20of%20Energy%20Based%20Models))   ([PDF](https://arxiv.org/pdf/1611.01799.pdf))([arXiv](https://arxiv.org/abs/1611.01799)) ([github](https://github.com/Shuangfei/vgan)) 
   - `2016/11` `Theory & Machine Learning`  __`VGAN`__   `Citation: 3`  `Stars: 14` 
@@ -710,7 +710,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   - `2017/` `Theory & Machine Learning`  __`GASN`__   `Citation: 1` 
 
  229. __Generative Adversarial Text to Image Synthesis?__ -   ([Search](http://www.google.com/search?q=Generative%20Adversarial%20Text%20to%20Image%20Synthesis%3F))  ([Scholar](http://scholar.google.com/scholar?q=Generative%20Adversarial%20Text%20to%20Image%20Synthesis%3F))   ([PDF](https://arxiv.org/pdf/1605.05396.pdf))([arXiv](https://arxiv.org/abs/1605.05396)) ([github](https://github.com/reedscot/icml2016)) 
-  - :dart:  `2016/5` `Generation High-Quality Images`  __`GAN-CLS`__   `Citation: 225`  `Stars: 579` 
+  - :dart:  :octocat:  `2016/5` `Generation High-Quality Images`  __`GAN-CLS`__   `Citation: 225`  `Stars: 579` 
 
  230. __Generative Adversarial Trainer: Defense to Adversarial Perturbations with GAN?__ -   ([Search](http://www.google.com/search?q=Generative%20Adversarial%20Trainer%3A%20Defense%20to%20Adversarial%20Perturbations%20with%20GAN%3F))  ([Scholar](http://scholar.google.com/scholar?q=Generative%20Adversarial%20Trainer%3A%20Defense%20to%20Adversarial%20Perturbations%20with%20GAN%3F))   ([PDF](https://arxiv.org/pdf/1705.03387.pdf))([arXiv](https://arxiv.org/abs/1705.03387)) 
   - `2017/5` 
@@ -719,10 +719,10 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   - `2017/5` `Theory & Machine Learning` 
 
  232. __Generative face completion?__ -   ([Search](http://www.google.com/search?q=Generative%20face%20completion%3F))  ([Scholar](http://scholar.google.com/scholar?q=Generative%20face%20completion%3F))   ([PDF](https://arxiv.org/pdf/1704.05838.pdf))([arXiv](https://arxiv.org/abs/1704.05838)) ([github](https://github.com/Yijunmaverick/GenerativeFaceCompletion)) 
-  - `2017/4` `Image Inpainting`  `Citation: 15`  `Stars: 111` 
+  - :octocat:  `2017/4` `Image Inpainting`  `Citation: 15`  `Stars: 111` 
 
  233. __Generative Image Modeling using Style and Structure Adversarial Networks__ -   ([Search](http://www.google.com/search?q=Generative%20Image%20Modeling%20using%20Style%20and%20Structure%20Adversarial%20Networks))  ([Scholar](http://scholar.google.com/scholar?q=Generative%20Image%20Modeling%20using%20Style%20and%20Structure%20Adversarial%20Networks))   ([PDF](https://arxiv.org/pdf/1603.05631.pdf))([arXiv](https://arxiv.org/abs/1603.05631v2)) ([github](https://github.com/xiaolonw/ss-gan)) 
-  - :dart:  `2016/3` `Unclassified`  __`S^2GAN`__   `Citation: 82`  `Stars: 95` 
+  - :dart:  :octocat:  `2016/3` `Unclassified`  __`S^2GAN`__   `Citation: 82`  `Stars: 95` 
 
  234. __Generative Mixture of Networks?__ -   ([Search](http://www.google.com/search?q=Generative%20Mixture%20of%20Networks%3F))  ([Scholar](http://scholar.google.com/scholar?q=Generative%20Mixture%20of%20Networks%3F))   ([PDF](https://arxiv.org/pdf/1702.03307.pdf))([arXiv](https://arxiv.org/abs/1702.03307)) 
   - `2017/2` 
@@ -746,7 +746,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   - `2017/2`  `Citation: 7` 
 
  241. __Generative Visual Manipulation on the Natural Image Manifold__ -   ([Search](http://www.google.com/search?q=Generative%20Visual%20Manipulation%20on%20the%20Natural%20Image%20Manifold))  ([Scholar](http://scholar.google.com/scholar?q=Generative%20Visual%20Manipulation%20on%20the%20Natural%20Image%20Manifold))   ([PDF](https://arxiv.org/pdf/1609.03552.pdf))([arXiv](https://arxiv.org/abs/1609.03552v2)) ([github](https://github.com/junyanz/iGAN)) 
-  - :dart:  `2016/9` `Interactive Image generation`  __`iGAN`__   `Citation: 102`  `Stars: 2364` 
+  - :dart:  :octocat:  `2016/9` `Interactive Image generation`  __`iGAN`__   `Citation: 102`  `Stars: 2364` 
 
  242. __Geometric GAN?__ -   ([Search](http://www.google.com/search?q=Geometric%20GAN%3F))  ([Scholar](http://scholar.google.com/scholar?q=Geometric%20GAN%3F))   ([PDF](https://arxiv.org/pdf/1705.02894.pdf))([arXiv](https://arxiv.org/abs/1705.02894)) 
   - `2017/5` `Theory & Machine Learning`  __`Geometric GAN`__   `Citation: 1` 
@@ -767,7 +767,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   - `2017/10` `Applied Vision`  __`GP-GAN`__  
 
  248. __GP-GAN: Towards Realistic High-Resolution Image Blending?__ -   ([Search](http://www.google.com/search?q=GP-GAN%3A%20Towards%20Realistic%20High-Resolution%20Image%20Blending%3F))  ([Scholar](http://scholar.google.com/scholar?q=GP-GAN%3A%20Towards%20Realistic%20High-Resolution%20Image%20Blending%3F))   ([PDF](https://arxiv.org/pdf/1703.07195.pdf))([arXiv](https://arxiv.org/abs/1703.07195)) ([github](https://github.com/wuhuikai/GP-GAN)) 
-  - `2017/3` `Image blending`  __`GP-GAN`__   `Citation: 3`  `Stars: 80` 
+  - :octocat:  `2017/3` `Image blending`  __`GP-GAN`__   `Citation: 3`  `Stars: 80` 
 
  249. __Gradient descent GAN optimization is locally stable?__ -   ([Search](http://www.google.com/search?q=Gradient%20descent%20GAN%20optimization%20is%20locally%20stable%3F))  ([Scholar](http://scholar.google.com/scholar?q=Gradient%20descent%20GAN%20optimization%20is%20locally%20stable%3F))   ([PDF](https://arxiv.org/pdf/1706.04156.pdf))([arXiv](https://arxiv.org/abs/1706.04156)) 
   - `2017/6` `Theory & Machine Learning`  `Citation: 1` 
@@ -797,7 +797,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   - `2017/11`  __`HR-DCGAN`__  
 
  258. __High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs__ -   ([Search](http://www.google.com/search?q=High-Resolution%20Image%20Synthesis%20and%20Semantic%20Manipulation%20with%20Conditional%20GANs))  ([Scholar](http://scholar.google.com/scholar?q=High-Resolution%20Image%20Synthesis%20and%20Semantic%20Manipulation%20with%20Conditional%20GANs))   ([PDF](https://arxiv.org/pdf/1711.11585.pdf))([arXiv](https://arxiv.org/abs/1711.11585)) ([github](https://github.com/NVIDIA/pix2pixHD)) 
-  - `2017/11` `Image translation`  __`pix2pixHD`__   `Stars: 1254` 
+  - :octocat:  `2017/11` `Image translation`  __`pix2pixHD`__   `Stars: 1254` 
 
  259. __How Generative Adversarial Networks and its variants Work: An Overview of GAN__ -   ([Search](http://www.google.com/search?q=How%20Generative%20Adversarial%20Networks%20and%20its%20variants%20Work%3A%20An%20Overview%20of%20GAN))  ([Scholar](http://scholar.google.com/scholar?q=How%20Generative%20Adversarial%20Networks%20and%20its%20variants%20Work%3A%20An%20Overview%20of%20GAN))   ([PDF](https://arxiv.org/pdf/1711.05914.pdf))([arXiv](https://arxiv.org/abs/1711.05914)) 
   - `2017/11` `Overview` 
@@ -806,10 +806,10 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   - `2017/10` __`Medical: Synthersize`__ `Applied Vision` 
 
  261. __How to train Gans__ -   ([Search](http://www.google.com/search?q=How%20to%20train%20Gans))  ([Scholar](http://scholar.google.com/scholar?q=How%20to%20train%20Gans))   ([PDF](-))([arXiv](https://github.com/soumith/ganhacks)) ([github](https://github.com/soumith/ganhacks)) 
-  - `2017/` `GAN Theory`  `Stars: 2961` 
+  - :octocat:  `2017/` `GAN Theory`  `Stars: 2961` 
 
  262. __How to Train Your DRAGAN?__ -   ([Search](http://www.google.com/search?q=How%20to%20Train%20Your%20DRAGAN%3F))  ([Scholar](http://scholar.google.com/scholar?q=How%20to%20Train%20Your%20DRAGAN%3F))   ([PDF](https://arxiv.org/pdf/1705.07215.pdf))([arXiv](https://arxiv.org/abs/1705.07215)) ([github](https://github.com/kodalinaveen3/DRAGAN)) 
-  - `2017/5` `Theory & Machine Learning`  __`DRAGAN`__   `Citation: 9`  `Stars: 101` 
+  - :octocat:  `2017/5` `Theory & Machine Learning`  __`DRAGAN`__   `Citation: 9`  `Stars: 101` 
 
  263. __How Well Can Generative Adversarial Networks (GAN) Learn Densities: A Nonparametric View__ -   ([Search](http://www.google.com/search?q=How%20Well%20Can%20Generative%20Adversarial%20Networks%20%28GAN%29%20Learn%20Densities%3A%20A%20Nonparametric%20View))  ([Scholar](http://scholar.google.com/scholar?q=How%20Well%20Can%20Generative%20Adversarial%20Networks%20%28GAN%29%20Learn%20Densities%3A%20A%20Nonparametric%20View))   ([PDF](https://arxiv.org/pdf/1712.08244.pdf))([arXiv](https://arxiv.org/abs/1712.08244)) 
   - `2017/12` 
@@ -818,10 +818,10 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   - `2017/11`  __`HP-GAN`__  
 
  265. __HyperGAN__ -   ([Search](http://www.google.com/search?q=HyperGAN))  ([Scholar](http://scholar.google.com/scholar?q=HyperGAN))   ([PDF](-))([github](https://github.com/255bits/HyperGAN)) 
-  - `2017/`  __`HyperGAN`__   `Stars: 688` 
+  - :octocat:  `2017/`  __`HyperGAN`__   `Stars: 688` 
 
  266. __Image De-raining Using a Conditional Generative Adversarial Network__ -   ([Search](http://www.google.com/search?q=Image%20De-raining%20Using%20a%20Conditional%20Generative%20Adversarial%20Network))  ([Scholar](http://scholar.google.com/scholar?q=Image%20De-raining%20Using%20a%20Conditional%20Generative%20Adversarial%20Network))   ([PDF](https://arxiv.org/pdf/1701.05957.pdf))([arXiv](https://arxiv.org/abs/1701.05957v3)) ([github](https://github.com/hezhangsprinter/ID-CGAN)) 
-  - `2017/1` `Image Editing`  __`ID-CGAN`__   `Citation: 11`  `Stars: 77` 
+  - :octocat:  `2017/1` `Image Editing`  __`ID-CGAN`__   `Citation: 11`  `Stars: 77` 
 
  267. __Image Generation and Editing with Variational Info Generative Adversarial Networks__ -   ([Search](http://www.google.com/search?q=Image%20Generation%20and%20Editing%20with%20Variational%20Info%20Generative%20Adversarial%20Networks))  ([Scholar](http://scholar.google.com/scholar?q=Image%20Generation%20and%20Editing%20with%20Variational%20Info%20Generative%20Adversarial%20Networks))   ([PDF](https://arxiv.org/pdf/1701.04568.pdf))([arXiv](https://arxiv.org/abs/1701.04568v1)) 
   - `2017/1` `Applied Vision`  __`ViGAN`__   `Citation: 1` 
@@ -833,7 +833,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   - :dart:  `2016/8` `Super-Resolution`  `Citation: 553` 
 
  270. __Image-to-Image Translation with Conditional Adversarial Networks__ -   ([Search](http://www.google.com/search?q=Image-to-Image%20Translation%20with%20Conditional%20Adversarial%20Networks))  ([Scholar](http://scholar.google.com/scholar?q=Image-to-Image%20Translation%20with%20Conditional%20Adversarial%20Networks))   ([PDF](https://arxiv.org/pdf/1611.07004.pdf))([arXiv](https://arxiv.org/abs/1611.07004)) ([github](https://github.com/phillipi/pix2pix)) 
-  - :dart:  `2016/11` `Image translation`  __`pix2pix`__   `Citation: 320`  `Stars: 4233` 
+  - :dart:  :octocat:  `2016/11` `Image translation`  __`pix2pix`__   `Citation: 320`  `Stars: 4233` 
 
  271. __Imagine it for me: Generative Adversarial Approach for Zero-Shot Learning from Noisy Texts__ -   ([Search](http://www.google.com/search?q=Imagine%20it%20for%20me%3A%20Generative%20Adversarial%20Approach%20for%20Zero-Shot%20Learning%20from%20Noisy%20Texts))  ([Scholar](http://scholar.google.com/scholar?q=Imagine%20it%20for%20me%3A%20Generative%20Adversarial%20Approach%20for%20Zero-Shot%20Learning%20from%20Noisy%20Texts))   ([PDF](https://arxiv.org/pdf/1712.01381.pdf))([arXiv](https://arxiv.org/abs/1712.01381)) 
   - `2017/12` 
@@ -851,13 +851,13 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   - `2017/5` `Theory & Machine Learning`  `Citation: 11` 
 
  276. __Improved Techniques for Training GANs__ -   ([Search](http://www.google.com/search?q=Improved%20Techniques%20for%20Training%20GANs))  ([Scholar](http://scholar.google.com/scholar?q=Improved%20Techniques%20for%20Training%20GANs))   ([PDF](https://arxiv.org/pdf/1606.03498.pdf))([arXiv](https://arxiv.org/abs/1606.03498)) ([github](https://github.com/openai/improved-gan)) 
-  - :dart:  `2016/6` `Generation High-Quality Images`  `Citation: 442`  `Stars: 1150` 
+  - :dart:  :octocat:  `2016/6` `Generation High-Quality Images`  `Citation: 442`  `Stars: 1150` 
 
  277. __Improved Techniques for Training GANs?__ -   ([Search](http://www.google.com/search?q=Improved%20Techniques%20for%20Training%20GANs%3F))  ([Scholar](http://scholar.google.com/scholar?q=Improved%20Techniques%20for%20Training%20GANs%3F))   ([PDF](https://arxiv.org/pdf/1606.03498v1.pdf))([arXiv](https://arxiv.org/abs/1606.03498v1)) ([github](https://github.com/openai/improved-gan)) ([TensorFlow](https://github.com/gitlimlab/SSGAN-Tensorflow)) 
-  - :dart:  `2016/6`  __`Improved GAN`__   `Citation: 436`  `Stars: 1149` 
+  - :dart:  :octocat:  `2016/6`  __`Improved GAN`__   `Citation: 436`  `Stars: 1149` 
 
  278. __Improved Training of Wasserstein GANs__ -   ([Search](http://www.google.com/search?q=Improved%20Training%20of%20Wasserstein%20GANs))  ([Scholar](http://scholar.google.com/scholar?q=Improved%20Training%20of%20Wasserstein%20GANs))   ([PDF](https://arxiv.org/pdf/1704.00028.pdf))([arXiv](https://arxiv.org/abs/1704.00028)) ([github](https://github.com/igul222/improved_wgan_training)) ([PyTorch](https://github.com/caogang/wgan-gp)) 
-  - :dart:  `2017/4` `Generation High-Quality Images`  __`WGAN-GP`__   `Citation: 134`  `Stars: 856` 
+  - :dart:  :octocat:  `2017/4` `Generation High-Quality Images`  __`WGAN-GP`__   `Citation: 134`  `Stars: 856` 
 
  279. __Improving Consistency and Correctness of Sequence Inpainting using Semantically Guided Generative Adversarial Network__ -   ([Search](http://www.google.com/search?q=Improving%20Consistency%20and%20Correctness%20of%20Sequence%20Inpainting%20using%20Semantically%20Guided%20Generative%20Adversarial%20Network))  ([Scholar](http://scholar.google.com/scholar?q=Improving%20Consistency%20and%20Correctness%20of%20Sequence%20Inpainting%20using%20Semantically%20Guided%20Generative%20Adversarial%20Network))   ([PDF](https://arxiv.org/pdf/1711.06106.pdf))([arXiv](https://arxiv.org/abs/1711.06106)) 
   - `2017/11` 
@@ -881,7 +881,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   - `2017/11`  __`In2I`__  
 
  286. __InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets?__ -   ([Search](http://www.google.com/search?q=InfoGAN%3A%20Interpretable%20Representation%20Learning%20by%20Information%20Maximizing%20Generative%20Adversarial%20Nets%3F))  ([Scholar](http://scholar.google.com/scholar?q=InfoGAN%3A%20Interpretable%20Representation%20Learning%20by%20Information%20Maximizing%20Generative%20Adversarial%20Nets%3F))   ([PDF](https://arxiv.org/pdf/1606.03657.pdf))([arXiv](https://arxiv.org/abs/1606.03657v1)) ([github](https://github.com/openai/InfoGAN)) ([TensorFlow](https://github.com/buriburisuri/timeseries_gan)) 
-  - :dart:  `2016/6` `Conditional adversarial`  __`InfoGAN`__   `Citation: 227`  `Stars: 544` 
+  - :dart:  :octocat:  `2016/6` `Conditional adversarial`  __`InfoGAN`__   `Citation: 227`  `Stars: 544` 
 
  287. __Interactive 3D Modeling with a Generative Adversarial Network?__ -   ([Search](http://www.google.com/search?q=Interactive%203D%20Modeling%20with%20a%20Generative%20Adversarial%20Network%3F))  ([Scholar](http://scholar.google.com/scholar?q=Interactive%203D%20Modeling%20with%20a%20Generative%20Adversarial%20Network%3F))   ([PDF](https://arxiv.org/pdf/1706.05170.pdf))([arXiv](https://arxiv.org/abs/1706.05170)) 
   - `2017/6` `Applied Vision`  `Citation: 6` 
@@ -890,7 +890,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   - `2017/9` `Applied Vision`  `Citation: 1` 
 
  289. __Invertible Conditional GANs for image editing__ -   ([Search](http://www.google.com/search?q=Invertible%20Conditional%20GANs%20for%20image%20editing))  ([Scholar](http://scholar.google.com/scholar?q=Invertible%20Conditional%20GANs%20for%20image%20editing))   ([PDF](https://arxiv.org/pdf/1611.06355.pdf))([arXiv](https://arxiv.org/abs/1611.06355)) ([github](https://github.com/Guim3/IcGAN)) 
-  - `2016/11` `Image Editing`  __`IcGAN`__   `Citation: 25`  `Stars: 160` 
+  - :octocat:  `2016/11` `Image Editing`  __`IcGAN`__   `Citation: 25`  `Stars: 160` 
 
  290. __Inverting The Generator Of A Generative Adversarial Network?__ -   ([Search](http://www.google.com/search?q=Inverting%20The%20Generator%20Of%20A%20Generative%20Adversarial%20Network%3F))  ([Scholar](http://scholar.google.com/scholar?q=Inverting%20The%20Generator%20Of%20A%20Generative%20Adversarial%20Network%3F))   ([PDF](https://arxiv.org/pdf/1611.05644.pdf))([arXiv](https://arxiv.org/abs/1611.05644)) 
   - `2016/11` `Theory & Machine Learning`  `Citation: 10` 
@@ -917,7 +917,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   - `2017/12`  __`LNT-SEGAN`__  
 
  298. __Language Generation with Recurrent Generative Adversarial Networks without Pre-training?__ -   ([Search](http://www.google.com/search?q=Language%20Generation%20with%20Recurrent%20Generative%20Adversarial%20Networks%20without%20Pre-training%3F))  ([Scholar](http://scholar.google.com/scholar?q=Language%20Generation%20with%20Recurrent%20Generative%20Adversarial%20Networks%20without%20Pre-training%3F))   ([PDF](https://arxiv.org/pdf/1706.01399.pdf))([arXiv](https://arxiv.org/abs/1706.01399)) ([github](https://github.com/amirbar/rnn.wgan)) 
-  - `2017/6` `Applied Other`  __`RNN-WGAN`__   `Citation: 4`  `Stars: 153` 
+  - :octocat:  `2017/6` `Applied Other`  __`RNN-WGAN`__   `Citation: 4`  `Stars: 153` 
 
  299. __Learning a Driving Simulator?__ -   ([Search](http://www.google.com/search?q=Learning%20a%20Driving%20Simulator%3F))  ([Scholar](http://scholar.google.com/scholar?q=Learning%20a%20Driving%20Simulator%3F))   ([PDF](https://arxiv.org/pdf/1608.01230.pdf))([arXiv](https://arxiv.org/abs/1608.01230)) 
   - `2016/8` `Applied Vision`  `Citation: 25` 
@@ -926,7 +926,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   - `2017/8` `Applied Vision` 
 
  301. __Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling__ -   ([Search](http://www.google.com/search?q=Learning%20a%20Probabilistic%20Latent%20Space%20of%20Object%20Shapes%20via%203D%20Generative-Adversarial%20Modeling))  ([Scholar](http://scholar.google.com/scholar?q=Learning%20a%20Probabilistic%20Latent%20Space%20of%20Object%20Shapes%20via%203D%20Generative-Adversarial%20Modeling))   ([PDF](https://arxiv.org/pdf/1610.07584.pdf))([arXiv](https://arxiv.org/abs/1610.07584)) ([github](https://github.com/zck119/3dgan-release)) 
-  - :dart:  `2016/10` `3D`  __`3D-GAN`__   `Citation: 99`  `Stars: 281` 
+  - :dart:  :octocat:  `2016/10` `3D`  __`3D-GAN`__   `Citation: 99`  `Stars: 281` 
 
  302. __Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling__ -   ([Search](http://www.google.com/search?q=Learning%20a%20Probabilistic%20Latent%20Space%20of%20Object%20Shapes%20via%203D%20Generative-Adversarial%20Modeling))  ([Scholar](http://scholar.google.com/scholar?q=Learning%20a%20Probabilistic%20Latent%20Space%20of%20Object%20Shapes%20via%203D%20Generative-Adversarial%20Modeling))   ([PDF](http://papers.nips.cc/paper/6096-learning-a-probabilistic-latent-space-of-object-shapes-via-3d-generative-adversarial-modeling.pdf))([github](https://github.com/zck119/3dgan-release)) ([Web](https://www.youtube.com/watch?v=HO1LYJb818Q)) 
   - `2017/` `3D Object generation` 
@@ -941,7 +941,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   - `2017/12`  __`DF-GAN`__  
 
  306. __Learning from Simulated and Unsupervised Images through Adversarial Training__ -   ([Search](http://www.google.com/search?q=Learning%20from%20Simulated%20and%20Unsupervised%20Images%20through%20Adversarial%20Training))  ([Scholar](http://scholar.google.com/scholar?q=Learning%20from%20Simulated%20and%20Unsupervised%20Images%20through%20Adversarial%20Training))   ([PDF](https://arxiv.org/pdf/1612.07828v1.pdf))([arXiv](https://arxiv.org/abs/1612.07828v1)) ([github](https://github.com/wayaai/SimGAN)) ([TensorFlow](https://github.com/carpedm20/simulated-unsupervised-tensorflow)) 
-  - :dart:  `2016/12` `Synthetic Data Generation`  __`SimGAN`__   `Citation: 80`  `Stars: 264` 
+  - :dart:  :octocat:  `2016/12` `Synthetic Data Generation`  __`SimGAN`__   `Citation: 80`  `Stars: 264` 
 
  307. __Learning Graph Topological Features via GAN__ -   ([Search](http://www.google.com/search?q=Learning%20Graph%20Topological%20Features%20via%20GAN))  ([Scholar](http://scholar.google.com/scholar?q=Learning%20Graph%20Topological%20Features%20via%20GAN))   ([PDF](https://arxiv.org/pdf/1709.03545.pdf))([arXiv](https://arxiv.org/abs/1709.03545)) 
   - `2017/9` 
@@ -974,7 +974,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   - `2017/7` 
 
  317. __Learning to Discover Cross-Domain Relations with Generative Adversarial Networks__ -   ([Search](http://www.google.com/search?q=Learning%20to%20Discover%20Cross-Domain%20Relations%20with%20Generative%20Adversarial%20Networks))  ([Scholar](http://scholar.google.com/scholar?q=Learning%20to%20Discover%20Cross-Domain%20Relations%20with%20Generative%20Adversarial%20Networks))   ([PDF](https://arxiv.org/pdf/1703.05192.pdf))([arXiv](https://arxiv.org/abs/1703.05192v1)) ([github](https://github.com/SKTBrain/DiscoGAN)) ([PyTorch](https://github.com/carpedm20/DiscoGAN-pytorch)) 
-  - :dart:  `2017/3` `Image translation`  __`DiscoGAN`__   `Citation: 54`  `Stars: 601` 
+  - :dart:  :octocat:  `2017/3` `Image translation`  __`DiscoGAN`__   `Citation: 54`  `Stars: 601` 
 
  318. __Learning to Fuse Music Genres with Generative Adversarial Dual Learning__ -   ([Search](http://www.google.com/search?q=Learning%20to%20Fuse%20Music%20Genres%20with%20Generative%20Adversarial%20Dual%20Learning))  ([Scholar](http://scholar.google.com/scholar?q=Learning%20to%20Fuse%20Music%20Genres%20with%20Generative%20Adversarial%20Dual%20Learning))   ([PDF](https://arxiv.org/pdf/1712.01456.pdf))([arXiv](https://arxiv.org/abs/1712.01456)) 
   - `2017/12`  __`FusionGAN`__  
@@ -992,7 +992,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   - `2016/10` `Applied Other`  `Citation: 21` 
 
  323. __Learning What and Where to Draw__ -   ([Search](http://www.google.com/search?q=Learning%20What%20and%20Where%20to%20Draw))  ([Scholar](http://scholar.google.com/scholar?q=Learning%20What%20and%20Where%20to%20Draw))   ([PDF](https://arxiv.org/pdf/1610.02454v1.pdf))([arXiv](https://arxiv.org/abs/1610.02454v1)) ([github](https://github.com/reedscot/nips2016)) 
-  - `2016/10` `Text2Image`  __`GAWWN`__   `Citation: 49`  `Stars: 277` 
+  - :octocat:  `2016/10` `Text2Image`  __`GAWWN`__   `Citation: 49`  `Stars: 277` 
 
  324. __Least Squares Generative Adversarial Networks__ -   ([Search](http://www.google.com/search?q=Least%20Squares%20Generative%20Adversarial%20Networks))  ([Scholar](http://scholar.google.com/scholar?q=Least%20Squares%20Generative%20Adversarial%20Networks))   ([PDF](https://arxiv.org/pdf/1611.04076.pdf))([arXiv](https://arxiv.org/abs/1611.04076v3)) ([github](https://github.com/pfnet-research/chainer-LSGAN)) ([Web](http://musyoku.github.io/2017/03/06/Least-Squares-Generative-Adversarial-Networks/)) 
   - :dart:  `2016/11` `GAN Theory`  __`LSGAN`__   `Citation: 58`  `Stars: 8` 
@@ -1010,10 +1010,10 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   - `2017/12` 
 
  329. __Long Text Generation via Adversarial Training with Leaked Information__ -   ([Search](http://www.google.com/search?q=Long%20Text%20Generation%20via%20Adversarial%20Training%20with%20Leaked%20Information))  ([Scholar](http://scholar.google.com/scholar?q=Long%20Text%20Generation%20via%20Adversarial%20Training%20with%20Leaked%20Information))   ([PDF](https://arxiv.org/pdf/1709.08624.pdf))([arXiv](https://arxiv.org/abs/1709.08624)) ([github](https://github.com/CR-Gjx/LeakGAN)) 
-  - `2017/9` `Applied Other`  __`LeakGAN`__   `Stars: 105` 
+  - :octocat:  `2017/9` `Applied Other`  __`LeakGAN`__   `Stars: 105` 
 
  330. __Loss-Sensitive Generative Adversarial Networks on Lipschitz Densities__ -   ([Search](http://www.google.com/search?q=Loss-Sensitive%20Generative%20Adversarial%20Networks%20on%20Lipschitz%20Densities))  ([Scholar](http://scholar.google.com/scholar?q=Loss-Sensitive%20Generative%20Adversarial%20Networks%20on%20Lipschitz%20Densities))   ([PDF](https://arxiv.org/pdf/1701.06264.pdf))([arXiv](https://arxiv.org/abs/1701.06264)) ([github](https://github.com/guojunq/lsgan)) ([TensorFlow](https://github.com/guojunq/glsgan)) 
-  - `2017/1` `Theory & Machine Learning`  __`LS-GAN`__   `Citation: 24`  `Stars: 181` 
+  - :octocat:  `2017/1` `Theory & Machine Learning`  __`LS-GAN`__   `Citation: 24`  `Stars: 181` 
 
  331. __Low Dose CT Image Denoising Using a Generative Adversarial Network with Wasserstein Distance and Perceptual Loss?__ -   ([Search](http://www.google.com/search?q=Low%20Dose%20CT%20Image%20Denoising%20Using%20a%20Generative%20Adversarial%20Network%20with%20Wasserstein%20Distance%20and%20Perceptual%20Loss%3F))  ([Scholar](http://scholar.google.com/scholar?q=Low%20Dose%20CT%20Image%20Denoising%20Using%20a%20Generative%20Adversarial%20Network%20with%20Wasserstein%20Distance%20and%20Perceptual%20Loss%3F))   ([PDF](https://arxiv.org/pdf/1708.00961.pdf))([arXiv](https://arxiv.org/abs/1708.00961)) 
   - `2017/8` __`Medical: LD-CT`__ `Applied Vision`  `Citation: 1` 
@@ -1061,13 +1061,13 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   - `2017/3` `MUSIC`  `Citation: 2` 
 
  346. __MMD GAN: Towards Deeper Understanding of Moment Matching Network?__ -   ([Search](http://www.google.com/search?q=MMD%20GAN%3A%20Towards%20Deeper%20Understanding%20of%20Moment%20Matching%20Network%3F))  ([Scholar](http://scholar.google.com/scholar?q=MMD%20GAN%3A%20Towards%20Deeper%20Understanding%20of%20Moment%20Matching%20Network%3F))   ([PDF](https://arxiv.org/pdf/1705.08584.pdf))([arXiv](https://arxiv.org/abs/1705.08584)) ([github](https://github.com/dougalsutherland/opt-mmd)) 
-  - `2017/5` `Theory & Machine Learning`  __`MMD-GAN`__   `Citation: 19`  `Stars: 72` 
+  - :octocat:  `2017/5` `Theory & Machine Learning`  __`MMD-GAN`__   `Citation: 19`  `Stars: 72` 
 
  347. __MMGAN: Manifold Matching Generative Adversarial Network for Generating Images__ -   ([Search](http://www.google.com/search?q=MMGAN%3A%20Manifold%20Matching%20Generative%20Adversarial%20Network%20for%20Generating%20Images))  ([Scholar](http://scholar.google.com/scholar?q=MMGAN%3A%20Manifold%20Matching%20Generative%20Adversarial%20Network%20for%20Generating%20Images))   ([PDF](https://arxiv.org/pdf/1707.08273.pdf))([arXiv](https://arxiv.org/abs/1707.08273)) 
   - `2017/7`  __`MMGAN`__  
 
  348. __MoCoGAN: Decomposing Motion and Content for Video Generation?__ -   ([Search](http://www.google.com/search?q=MoCoGAN%3A%20Decomposing%20Motion%20and%20Content%20for%20Video%20Generation%3F))  ([Scholar](http://scholar.google.com/scholar?q=MoCoGAN%3A%20Decomposing%20Motion%20and%20Content%20for%20Video%20Generation%3F))   ([PDF](https://arxiv.org/pdf/1707.04993.pdf))([arXiv](https://arxiv.org/abs/1707.04993)) ([github](https://github.com/sergeytulyakov/mocogan)) 
-  - `2017/7` `Video Prediction and Generation`  __`MoCoGAN`__   `Citation: 11`  `Stars: 103` 
+  - :octocat:  `2017/7` `Video Prediction and Generation`  __`MoCoGAN`__   `Citation: 11`  `Stars: 103` 
 
  349. __Mode Regularized Generative Adversarial Networks__ -   ([Search](http://www.google.com/search?q=Mode%20Regularized%20Generative%20Adversarial%20Networks))  ([Scholar](http://scholar.google.com/scholar?q=Mode%20Regularized%20Generative%20Adversarial%20Networks))   ([PDF](https://arxiv.org/pdf/1612.02136.pdf))([arXiv](https://arxiv.org/abs/1612.02136)) 
   - `2017/3` `GAN Theory` 
@@ -1106,7 +1106,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   - `2017/5` `Face Generative and Editing`  `Citation: 11` 
 
  361. __Neural Photo Editing with Introspective Adversarial Networks__ -   ([Search](http://www.google.com/search?q=Neural%20Photo%20Editing%20with%20Introspective%20Adversarial%20Networks))  ([Scholar](http://scholar.google.com/scholar?q=Neural%20Photo%20Editing%20with%20Introspective%20Adversarial%20Networks))   ([PDF](https://arxiv.org/pdf/1609.07093.pdf))([arXiv](https://arxiv.org/abs/1609.07093)) ([github](https://github.com/ajbrock/Neural-Photo-Editor)) 
-  - `2016/9` `Face Generative and Editing`  __`IAN`__   `Citation: 37`  `Stars: 1608` 
+  - :octocat:  `2016/9` `Face Generative and Editing`  __`IAN`__   `Citation: 37`  `Stars: 1608` 
 
  362. __Neural Stain-Style Transfer Learning using GAN for Histopathological Images?__ -   ([Search](http://www.google.com/search?q=Neural%20Stain-Style%20Transfer%20Learning%20using%20GAN%20for%20Histopathological%20Images%3F))  ([Scholar](http://scholar.google.com/scholar?q=Neural%20Stain-Style%20Transfer%20Learning%20using%20GAN%20for%20Histopathological%20Images%3F))   ([PDF](https://arxiv.org/pdf/1710.08543.pdf))([arXiv](https://arxiv.org/abs/1710.08543)) 
   - `2017/10` `Applied Vision` 
@@ -1127,7 +1127,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   - `2017/11` 
 
  368. __On the effect of Batch Normalization and Weight Normalization in Generative Adversarial Networks?__ -   ([Search](http://www.google.com/search?q=On%20the%20effect%20of%20Batch%20Normalization%20and%20Weight%20Normalization%20in%20Generative%20Adversarial%20Networks%3F))  ([Scholar](http://scholar.google.com/scholar?q=On%20the%20effect%20of%20Batch%20Normalization%20and%20Weight%20Normalization%20in%20Generative%20Adversarial%20Networks%3F))   ([PDF](https://arxiv.org/pdf/1704.03971.pdf))([arXiv](https://arxiv.org/abs/1704.03971)) ([github](https://github.com/stormraiser/GAN-weight-norm)) 
-  - `2017/4` `Theory & Machine Learning`  `Stars: 156` 
+  - :octocat:  `2017/4` `Theory & Machine Learning`  `Stars: 156` 
 
  369. __On the Effectiveness of Least Squares Generative Adversarial Networks__ -   ([Search](http://www.google.com/search?q=On%20the%20Effectiveness%20of%20Least%20Squares%20Generative%20Adversarial%20Networks))  ([Scholar](http://scholar.google.com/scholar?q=On%20the%20Effectiveness%20of%20Least%20Squares%20Generative%20Adversarial%20Networks))   ([PDF](https://arxiv.org/pdf/1712.06391.pdf))([arXiv](https://arxiv.org/abs/1712.06391)) 
   - `2017/12` 
@@ -1166,7 +1166,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   - `2017/10` `Theory & Machine Learning` 
 
  381. __PassGAN: A Deep Learning Approach for Password Guessing__ -   ([Search](http://www.google.com/search?q=PassGAN%3A%20A%20Deep%20Learning%20Approach%20for%20Password%20Guessing))  ([Scholar](http://scholar.google.com/scholar?q=PassGAN%3A%20A%20Deep%20Learning%20Approach%20for%20Password%20Guessing))   ([PDF](https://arxiv.org/pdf/1709.00440.pdf))([arXiv](https://arxiv.org/abs/1709.00440)) ([github](https://github.com/brannondorsey/PassGAN)) 
-  - `2017/9`  __`PassGAN`__   `Stars: 281` 
+  - :octocat:  `2017/9`  __`PassGAN`__   `Stars: 281` 
 
  382. __Perceptual Adversarial Networks for Image-to-Image Transformation?__ -   ([Search](http://www.google.com/search?q=Perceptual%20Adversarial%20Networks%20for%20Image-to-Image%20Transformation%3F))  ([Scholar](http://scholar.google.com/scholar?q=Perceptual%20Adversarial%20Networks%20for%20Image-to-Image%20Transformation%3F))   ([PDF](https://arxiv.org/pdf/1706.09138.pdf))([arXiv](https://arxiv.org/abs/1706.09138)) 
   - `2017/6` `Applied Vision`  __`PAN`__   `Citation: 4` 
@@ -1178,13 +1178,13 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   - `2017/11` 
 
  385. __Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network__ -   ([Search](http://www.google.com/search?q=Photo-Realistic%20Single%20Image%20Super-Resolution%20Using%20a%20Generative%20Adversarial%20Network))  ([Scholar](http://scholar.google.com/scholar?q=Photo-Realistic%20Single%20Image%20Super-Resolution%20Using%20a%20Generative%20Adversarial%20Network))   ([PDF](https://arxiv.org/pdf/1609.04802.pdf))([arXiv](https://arxiv.org/abs/1609.04802)) ([github](https://github.com/leehomyc/Photo-Realistic-Super-Resoluton)) ([TensorFlow](https://github.com/tensorlayer/SRGAN)) 
-  - :dart:  `2016/9` `Super-resolution`  __`SRGAN`__   `Citation: 281`  `Stars: 486` 
+  - :dart:  :octocat:  `2016/9` `Super-resolution`  __`SRGAN`__   `Citation: 281`  `Stars: 486` 
 
  386. __Pipeline Generative Adversarial Networks for Facial Images Generation with Multiple Attributes__ -   ([Search](http://www.google.com/search?q=Pipeline%20Generative%20Adversarial%20Networks%20for%20Facial%20Images%20Generation%20with%20Multiple%20Attributes))  ([Scholar](http://scholar.google.com/scholar?q=Pipeline%20Generative%20Adversarial%20Networks%20for%20Facial%20Images%20Generation%20with%20Multiple%20Attributes))   ([PDF](https://arxiv.org/pdf/1711.10742.pdf))([arXiv](https://arxiv.org/abs/1711.10742)) 
   - `2017/11`  __`Pip-GAN`__  
 
  387. __Pixel-Level Domain Transfer?__ -   ([Search](http://www.google.com/search?q=Pixel-Level%20Domain%20Transfer%3F))  ([Scholar](http://scholar.google.com/scholar?q=Pixel-Level%20Domain%20Transfer%3F))   ([PDF](https://arxiv.org/pdf/1603.07442.pdf))([arXiv](https://arxiv.org/abs/1603.07442)) ([github](https://github.com/fxia22/PixelDTGAN)) 
-  - `2016/3` `Conditional adversarial`  __`PixelDTGAN`__   `Citation: 30`  `Stars: 162` 
+  - :octocat:  `2016/3` `Conditional adversarial`  __`PixelDTGAN`__   `Citation: 30`  `Stars: 162` 
 
  388. __PixelDefend: Leveraging Generative Models to Understand and Defend against Adversarial Examples__ -   ([Search](http://www.google.com/search?q=PixelDefend%3A%20Leveraging%20Generative%20Models%20to%20Understand%20and%20Defend%20against%20Adversarial%20Examples))  ([Scholar](http://scholar.google.com/scholar?q=PixelDefend%3A%20Leveraging%20Generative%20Models%20to%20Understand%20and%20Defend%20against%20Adversarial%20Examples))   ([PDF](https://arxiv.org/pdf/1710.10766.pdf))([arXiv](https://arxiv.org/abs/1710.10766)) 
   - `2017/10` 
@@ -1196,7 +1196,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   - `2017/12`  __`PixelSNAIL`__  
 
  391. __Plug & Play Generative Networks: Conditional Iterative Generation of Images in Latent Space__ -   ([Search](http://www.google.com/search?q=Plug%20%26%20Play%20Generative%20Networks%3A%20Conditional%20Iterative%20Generation%20of%20Images%20in%20Latent%20Space))  ([Scholar](http://scholar.google.com/scholar?q=Plug%20%26%20Play%20Generative%20Networks%3A%20Conditional%20Iterative%20Generation%20of%20Images%20in%20Latent%20Space))   ([PDF](https://arxiv.org/pdf/1612.00005.pdf))([arXiv](https://arxiv.org/abs/1612.00005)) ([github](https://github.com/Evolving-AI-Lab/ppgn)) 
-  - :dart:  `2016/12`  __`PPGN`__   `Citation: 58`  `Stars: 423` 
+  - :dart:  :octocat:  `2016/12`  __`PPGN`__   `Citation: 58`  `Stars: 423` 
 
  392. __Pose Guided Person Image Generation?__ -   ([Search](http://www.google.com/search?q=Pose%20Guided%20Person%20Image%20Generation%3F))  ([Scholar](http://scholar.google.com/scholar?q=Pose%20Guided%20Person%20Image%20Generation%3F))   ([PDF](https://arxiv.org/pdf/1705.09368.pdf))([arXiv](https://arxiv.org/abs/1705.09368)) 
   - `2017/5` `Human Pose Estimation`  `Citation: 7` 
@@ -1217,7 +1217,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   - `2017/8`  __`PGAN`__  
 
  398. __Progressive Growing of GANs for Improved Quality, Stability, and Variation __ -   ([Search](http://www.google.com/search?q=Progressive%20Growing%20of%20GANs%20for%20Improved%20Quality%2C%20Stability%2C%20and%20Variation%20))  ([Scholar](http://scholar.google.com/scholar?q=Progressive%20Growing%20of%20GANs%20for%20Improved%20Quality%2C%20Stability%2C%20and%20Variation%20))   ([PDF](https://arxiv.org/pdf/1710.10196.pdf))([arXiv](http://research.nvidia.com/publication/2017-10_Progressive-Growing-of)) ([github](https://github.com/tkarras/progressive_growing_of_gans)) 
-  - `2017/10` `Generation High-Quality Images`  __`PGoGAN`__   `Stars: 1745` 
+  - :octocat:  `2017/10` `Generation High-Quality Images`  __`PGoGAN`__   `Stars: 1745` 
 
  399. __Real-Time Adaptive Image Compression?__ -   ([Search](http://www.google.com/search?q=Real-Time%20Adaptive%20Image%20Compression%3F))  ([Scholar](http://scholar.google.com/scholar?q=Real-Time%20Adaptive%20Image%20Compression%3F))   ([PDF](https://arxiv.org/pdf/1705.05823.pdf))([arXiv](https://arxiv.org/abs/1705.05823)) 
   - `2017/5` 
@@ -1268,10 +1268,10 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   - `2017/4` `Adversarial Examples (Defense vs Attack)` 
 
  415. __SalGAN: Visual Saliency Prediction with Generative Adversarial Networks?__ -   ([Search](http://www.google.com/search?q=SalGAN%3A%20Visual%20Saliency%20Prediction%20with%20Generative%20Adversarial%20Networks%3F))  ([Scholar](http://scholar.google.com/scholar?q=SalGAN%3A%20Visual%20Saliency%20Prediction%20with%20Generative%20Adversarial%20Networks%3F))   ([PDF](https://arxiv.org/pdf/1701.01081.pdf))([arXiv](https://arxiv.org/abs/1701.01081)) ([github](https://github.com/imatge-upc/saliency-salgan-2017)) ([Web](https://imatge-upc.github.io/saliency-salgan-2017/)) 
-  - `2017/1` `Visual Saliency Prediction (attention prediction)`  __`SalGAN`__   `Citation: 11`  `Stars: 131` 
+  - :octocat:  `2017/1` `Visual Saliency Prediction (attention prediction)`  __`SalGAN`__   `Citation: 11`  `Stars: 131` 
 
  416. __Sampling Generative Networks__ -   ([Search](http://www.google.com/search?q=Sampling%20Generative%20Networks))  ([Scholar](http://scholar.google.com/scholar?q=Sampling%20Generative%20Networks))   ([PDF](https://arxiv.org/pdf/1609.04468.pdf))([arXiv](https://arxiv.org/abs/1609.04468)) ([github](https://github.com/dribnet/plat)) 
-  - `2016/9` `GAN Theory`  `Citation: 10`  `Stars: 176` 
+  - :octocat:  `2016/9` `GAN Theory`  `Citation: 10`  `Stars: 176` 
 
  417. __SCAN: Structure Correcting Adversarial Network for Organ Segmentation in Chest X-rays?__ -   ([Search](http://www.google.com/search?q=SCAN%3A%20Structure%20Correcting%20Adversarial%20Network%20for%20Organ%20Segmentation%20in%20Chest%20X-rays%3F))  ([Scholar](http://scholar.google.com/scholar?q=SCAN%3A%20Structure%20Correcting%20Adversarial%20Network%20for%20Organ%20Segmentation%20in%20Chest%20X-rays%3F))   ([PDF](https://arxiv.org/pdf/1703.08770.pdf))([arXiv](https://arxiv.org/abs/1703.08770)) 
   - `2017/3` __`Medical: Segmentation`__  `Citation: 6` 
@@ -1283,7 +1283,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   - `2017/3` `Applied Vision`  __`SeGAN`__   `Citation: 2` 
 
  420. __SEGAN: Speech Enhancement Generative Adversarial Network?__ -   ([Search](http://www.google.com/search?q=SEGAN%3A%20Speech%20Enhancement%20Generative%20Adversarial%20Network%3F))  ([Scholar](http://scholar.google.com/scholar?q=SEGAN%3A%20Speech%20Enhancement%20Generative%20Adversarial%20Network%3F))   ([PDF](https://arxiv.org/pdf/1703.09452.pdf))([arXiv](https://arxiv.org/abs/1703.09452v1)) ([github](https://github.com/santi-pdp/segan)) 
-  - `2017/3` `Applied Other`  __`SEGAN`__   `Citation: 20`  `Stars: 192` 
+  - :octocat:  `2017/3` `Applied Other`  __`SEGAN`__   `Citation: 20`  `Stars: 192` 
 
  421. __Self Adversarial Training for Human Pose Estimation?__ -   ([Search](http://www.google.com/search?q=Self%20Adversarial%20Training%20for%20Human%20Pose%20Estimation%3F))  ([Scholar](http://scholar.google.com/scholar?q=Self%20Adversarial%20Training%20for%20Human%20Pose%20Estimation%3F))   ([PDF](https://arxiv.org/pdf/1707.02439.pdf))([arXiv](https://arxiv.org/abs/1707.02439)) 
   - `2017/7` 
@@ -1325,7 +1325,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   - `2017/4` `Semi-supervised learning` 
 
  434. __SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient?__ -   ([Search](http://www.google.com/search?q=SeqGAN%3A%20Sequence%20Generative%20Adversarial%20Nets%20with%20Policy%20Gradient%3F))  ([Scholar](http://scholar.google.com/scholar?q=SeqGAN%3A%20Sequence%20Generative%20Adversarial%20Nets%20with%20Policy%20Gradient%3F))   ([PDF](https://arxiv.org/pdf/1609.05473.pdf))([arXiv](https://arxiv.org/abs/1609.05473v5)) ([github](https://github.com/LantaoYu/SeqGAN)) 
-  - :dart:  `2016/9` `Theory & Machine Learning`  __`SeqGAN`__   `Citation: 73`  `Stars: 858` 
+  - :dart:  :octocat:  `2016/9` `Theory & Machine Learning`  __`SeqGAN`__   `Citation: 73`  `Stars: 858` 
 
  435. __SGAN: An Alternative Training of Generative Adversarial Networks__ -   ([Search](http://www.google.com/search?q=SGAN%3A%20An%20Alternative%20Training%20of%20Generative%20Adversarial%20Networks))  ([Scholar](http://scholar.google.com/scholar?q=SGAN%3A%20An%20Alternative%20Training%20of%20Generative%20Adversarial%20Networks))   ([PDF](https://arxiv.org/pdf/1712.02330.pdf))([arXiv](https://arxiv.org/abs/1712.02330)) 
   - `2017/12`  __`SGAN`__  
@@ -1352,7 +1352,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   - `2017/4` `Theory & Machine Learning`  __`Softmax-GAN`__   `Citation: 2` 
 
  443. __Spectral Normalization for Generative Adversarial Networks__ -   ([Search](http://www.google.com/search?q=Spectral%20Normalization%20for%20Generative%20Adversarial%20Networks))  ([Scholar](http://scholar.google.com/scholar?q=Spectral%20Normalization%20for%20Generative%20Adversarial%20Networks))   ([PDF](-))([arXiv](https://drive.google.com/file/d/0B8HZ50DPgR3eSVV6YlF3XzQxSjQ/view)) ([github](https://github.com/pfnet-research/chainer-gan-lib)) ([TensorFlow](https://github.com/minhnhat93/tf-SNDCGAN)) 
-  - `2017/8` `Normalization`  __`SN-GAN`__   `Stars: 197` 
+  - :octocat:  `2017/8` `Normalization`  __`SN-GAN`__   `Stars: 197` 
 
  444. __Splenomegaly Segmentation using Global Convolutional Kernels and Conditional Generative Adversarial Networks__ -   ([Search](http://www.google.com/search?q=Splenomegaly%20Segmentation%20using%20Global%20Convolutional%20Kernels%20and%20Conditional%20Generative%20Adversarial%20Networks))  ([Scholar](http://scholar.google.com/scholar?q=Splenomegaly%20Segmentation%20using%20Global%20Convolutional%20Kernels%20and%20Conditional%20Generative%20Adversarial%20Networks))   ([PDF](https://arxiv.org/pdf/1712.00542.pdf))([arXiv](https://arxiv.org/abs/1712.00542)) 
   - `2017/12` 
@@ -1376,16 +1376,16 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   - `2017/12`  __`ST-CGAN`__  
 
  451. __Stacked Generative Adversarial Networks__ -   ([Search](http://www.google.com/search?q=Stacked%20Generative%20Adversarial%20Networks))  ([Scholar](http://scholar.google.com/scholar?q=Stacked%20Generative%20Adversarial%20Networks))   ([PDF](https://arxiv.org/pdf/1612.04357.pdf))([arXiv](https://arxiv.org/abs/1612.04357v4)) ([github](https://github.com/xunhuang1995/SGAN)) 
-  - `2016/12` `Theory & Machine Learning`  __`SGAN`__   `Citation: 33`  `Stars: 171` 
+  - :octocat:  `2016/12` `Theory & Machine Learning`  __`SGAN`__   `Citation: 33`  `Stars: 171` 
 
  452. __StackGAN++: Realistic Image Synthesis with Stacked Generative Adversarial Networks?__ -   ([Search](http://www.google.com/search?q=StackGAN%2B%2B%3A%20Realistic%20Image%20Synthesis%20with%20Stacked%20Generative%20Adversarial%20Networks%3F))  ([Scholar](http://scholar.google.com/scholar?q=StackGAN%2B%2B%3A%20Realistic%20Image%20Synthesis%20with%20Stacked%20Generative%20Adversarial%20Networks%3F))   ([PDF](https://arxiv.org/pdf/1710.10916.pdf))([arXiv](https://arxiv.org/abs/1710.10916)) ([github](https://github.com/hanzhanggit/StackGAN-v2)) 
-  - `2017/10` `Applied Vision`  __`StackGAN-v2`__   `Citation: 2`  `Stars: 270` 
+  - :octocat:  `2017/10` `Applied Vision`  __`StackGAN-v2`__   `Citation: 2`  `Stars: 270` 
 
  453. __StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks?__ -   ([Search](http://www.google.com/search?q=StackGAN%3A%20Text%20to%20Photo-realistic%20Image%20Synthesis%20with%20Stacked%20Generative%20Adversarial%20Networks%3F))  ([Scholar](http://scholar.google.com/scholar?q=StackGAN%3A%20Text%20to%20Photo-realistic%20Image%20Synthesis%20with%20Stacked%20Generative%20Adversarial%20Networks%3F))   ([PDF](https://arxiv.org/pdf/1612.03242.pdf))([arXiv](https://arxiv.org/abs/1612.03242v1)) ([github](https://github.com/hanzhanggit/StackGAN)) 
-  - :dart:  `2016/12` `Generation High-Quality Images`  __`StackGAN`__   `Citation: 99`  `Stars: 956` 
+  - :dart:  :octocat:  `2016/12` `Generation High-Quality Images`  __`StackGAN`__   `Citation: 99`  `Stars: 956` 
 
  454. __StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation__ -   ([Search](http://www.google.com/search?q=StarGAN%3A%20Unified%20Generative%20Adversarial%20Networks%20for%20Multi-Domain%20Image-to-Image%20Translation))  ([Scholar](http://scholar.google.com/scholar?q=StarGAN%3A%20Unified%20Generative%20Adversarial%20Networks%20for%20Multi-Domain%20Image-to-Image%20Translation))   ([PDF](https://arxiv.org/pdf/1711.09020.pdf))([arXiv](https://arxiv.org/abs/1711.09020)) ([github](https://github.com/yunjey/StarGAN)) 
-  - `2017/11` `Face Generative and Editing`  __`StarGAN`__   `Stars: 1934` 
+  - :octocat:  `2017/11` `Face Generative and Editing`  __`StarGAN`__   `Stars: 1934` 
 
  455. __Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks__ -   ([Search](http://www.google.com/search?q=Statistical%20Parametric%20Speech%20Synthesis%20Incorporating%20Generative%20Adversarial%20Networks))  ([Scholar](http://scholar.google.com/scholar?q=Statistical%20Parametric%20Speech%20Synthesis%20Incorporating%20Generative%20Adversarial%20Networks))   ([PDF](https://arxiv.org/pdf/1709.08041.pdf))([arXiv](https://arxiv.org/abs/1709.08041)) 
   - `2017/9` 
@@ -1427,7 +1427,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   - `2017/6` __`Medical: Synthersize`__ `Applied Vision`  __`Fila-GAN`__  
 
  468. __Synthesizing the preferred inputs for neurons in neural networks via deep generator networks?__ -   ([Search](http://www.google.com/search?q=Synthesizing%20the%20preferred%20inputs%20for%20neurons%20in%20neural%20networks%20via%20deep%20generator%20networks%3F))  ([Scholar](http://scholar.google.com/scholar?q=Synthesizing%20the%20preferred%20inputs%20for%20neurons%20in%20neural%20networks%20via%20deep%20generator%20networks%3F))   ([PDF](https://arxiv.org/pdf/1605.09304.pdf))([arXiv](https://arxiv.org/abs/1605.09304)) ([github](https://github.com/Evolving-AI-Lab/synthesizing)) 
-  - :dart:  `2016/5` `Unclassified`  `Citation: 64`  `Stars: 405` 
+  - :dart:  :octocat:  `2016/5` `Unclassified`  `Citation: 64`  `Stars: 405` 
 
  469. __Synthetic Iris Presentation Attack using iDCGAN?__ -   ([Search](http://www.google.com/search?q=Synthetic%20Iris%20Presentation%20Attack%20using%20iDCGAN%3F))  ([Scholar](http://scholar.google.com/scholar?q=Synthetic%20Iris%20Presentation%20Attack%20using%20iDCGAN%3F))   ([PDF](https://arxiv.org/pdf/1710.10565.pdf))([arXiv](https://arxiv.org/abs/1710.10565)) 
   - `2017/10` `Applied Vision` 
@@ -1484,13 +1484,13 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   - `2017/11` 
 
  487. __Toward Multimodal Image-to-Image Translation__ -   ([Search](http://www.google.com/search?q=Toward%20Multimodal%20Image-to-Image%20Translation))  ([Scholar](http://scholar.google.com/scholar?q=Toward%20Multimodal%20Image-to-Image%20Translation))   ([PDF](https://arxiv.org/pdf/1711.11586.pdf))([arXiv](https://arxiv.org/abs/1711.11586)) ([github](https://github.com/junyanz/BicycleGAN)) 
-  - `2017/11`  __`BicycleGAN`__   `Stars: 290` 
+  - :octocat:  `2017/11`  __`BicycleGAN`__   `Stars: 290` 
 
  488. __Towards Adversarial Retinal Image Synthesis__ -   ([Search](http://www.google.com/search?q=Towards%20Adversarial%20Retinal%20Image%20Synthesis))  ([Scholar](http://scholar.google.com/scholar?q=Towards%20Adversarial%20Retinal%20Image%20Synthesis))   ([PDF](https://arxiv.org/pdf/1701.08974.pdf))([arXiv](https://arxiv.org/abs/1701.08974)) 
   - `2017/1` __`Medical: Synthersize`__ `Applied Vision` 
 
  489. __Towards an Understanding of Our World by GANing Videos in the Wild__ -   ([Search](http://www.google.com/search?q=Towards%20an%20Understanding%20of%20Our%20World%20by%20GANing%20Videos%20in%20the%20Wild))  ([Scholar](http://scholar.google.com/scholar?q=Towards%20an%20Understanding%20of%20Our%20World%20by%20GANing%20Videos%20in%20the%20Wild))   ([PDF](https://arxiv.org/pdf/1711.11453.pdf))([arXiv](https://arxiv.org/abs/1711.11453)) ([github](https://github.com/bernhard2202/improved-video-gan)) 
-  - `2017/11`  __`iVGAN`__   `Stars: 267` 
+  - :octocat:  `2017/11`  __`iVGAN`__   `Stars: 267` 
 
  490. __Towards Diverse and Natural Image Descriptions via a Conditional GAN?__ -   ([Search](http://www.google.com/search?q=Towards%20Diverse%20and%20Natural%20Image%20Descriptions%20via%20a%20Conditional%20GAN%3F))  ([Scholar](http://scholar.google.com/scholar?q=Towards%20Diverse%20and%20Natural%20Image%20Descriptions%20via%20a%20Conditional%20GAN%3F))   ([PDF](https://arxiv.org/pdf/1703.06029.pdf))([arXiv](https://arxiv.org/abs/1703.06029)) 
   - `2017/3` `Applied Vision`  `Citation: 9` 
@@ -1514,7 +1514,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   - `2017/12` 
 
  497. __Towards the Automatic Anime Characters Creation with Generative Adversarial Networks?__ -   ([Search](http://www.google.com/search?q=Towards%20the%20Automatic%20Anime%20Characters%20Creation%20with%20Generative%20Adversarial%20Networks%3F))  ([Scholar](http://scholar.google.com/scholar?q=Towards%20the%20Automatic%20Anime%20Characters%20Creation%20with%20Generative%20Adversarial%20Networks%3F))   ([PDF](https://arxiv.org/pdf/1708.05509.pdf))([arXiv](https://arxiv.org/abs/1708.05509)) ([github](https://github.com/jayleicn/animeGAN)) 
-  - `2017/8` `Anime character generation`  __`AnimeGAN`__   `Stars: 258` 
+  - :octocat:  `2017/8` `Anime character generation`  __`AnimeGAN`__   `Stars: 258` 
 
  498. __Towards Understanding Adversarial Learning for Joint Distribution Matching?__ -   ([Search](http://www.google.com/search?q=Towards%20Understanding%20Adversarial%20Learning%20for%20Joint%20Distribution%20Matching%3F))  ([Scholar](http://scholar.google.com/scholar?q=Towards%20Understanding%20Adversarial%20Learning%20for%20Joint%20Distribution%20Matching%3F))   ([PDF](https://arxiv.org/pdf/1709.01215.pdf))([arXiv](https://arxiv.org/abs/1709.01215)) 
   - `2017/9` 
@@ -1541,7 +1541,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   - `2017/9` `Image translation`  __`��-GAN`__  
 
  506. __Triple Generative Adversarial Nets__ -   ([Search](http://www.google.com/search?q=Triple%20Generative%20Adversarial%20Nets))  ([Scholar](http://scholar.google.com/scholar?q=Triple%20Generative%20Adversarial%20Nets))   ([PDF](https://arxiv.org/pdf/1703.02291.pdf))([arXiv](https://arxiv.org/abs/1703.02291v2)) ([github](https://github.com/zhenxuan00/triple-gan)) 
-  - `2017/3` `Theory & Machine Learning`  __`Triple-GAN`__   `Citation: 19`  `Stars: 89` 
+  - :octocat:  `2017/3` `Theory & Machine Learning`  __`Triple-GAN`__   `Citation: 19`  `Stars: 89` 
 
  507. __TripletGAN: Training Generative Model with Triplet Loss__ -   ([Search](http://www.google.com/search?q=TripletGAN%3A%20Training%20Generative%20Model%20with%20Triplet%20Loss))  ([Scholar](http://scholar.google.com/scholar?q=TripletGAN%3A%20Training%20Generative%20Model%20with%20Triplet%20Loss))   ([PDF](https://arxiv.org/pdf/1711.05084.pdf))([arXiv](https://arxiv.org/abs/1711.05084)) 
   - `2017/11`  __`tripletGAN`__  
@@ -1559,13 +1559,13 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   - `2017/4`  `Citation: 7` 
 
  512. __Unlabeled Samples Generated by GAN Improve the Person Re-identification Baseline in vitro?__ -   ([Search](http://www.google.com/search?q=Unlabeled%20Samples%20Generated%20by%20GAN%20Improve%20the%20Person%20Re-identification%20Baseline%20in%20vitro%3F))  ([Scholar](http://scholar.google.com/scholar?q=Unlabeled%20Samples%20Generated%20by%20GAN%20Improve%20the%20Person%20Re-identification%20Baseline%20in%20vitro%3F))   ([PDF](https://arxiv.org/pdf/1701.07717.pdf))([arXiv](https://arxiv.org/abs/1701.07717)) ([github](https://github.com/layumi/Person-reID_GAN)) 
-  - `2017/1` `Improving Classification And Recong`  __`Person-reID_GAN`__   `Citation: 35`  `Stars: 89` 
+  - :octocat:  `2017/1` `Improving Classification And Recong`  __`Person-reID_GAN`__   `Citation: 35`  `Stars: 89` 
 
  513. __Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks__ -   ([Search](http://www.google.com/search?q=Unpaired%20Image-to-Image%20Translation%20using%20Cycle-Consistent%20Adversarial%20Networks))  ([Scholar](http://scholar.google.com/scholar?q=Unpaired%20Image-to-Image%20Translation%20using%20Cycle-Consistent%20Adversarial%20Networks))   ([PDF](https://arxiv.org/pdf/1703.10593.pdf))([arXiv](https://arxiv.org/abs/1703.10593)) ([github](https://github.com/junyanz/CycleGAN)) ([TensorFlow](https://github.com/vanhuyz/CycleGAN-TensorFlow)) ([PyTorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)) 
-  - :dart:  `2017/3` `Image translation`  __`CycleGAN`__   `Citation: 153`  `Stars: 5438` 
+  - :dart:  :octocat:  `2017/3` `Image translation`  __`CycleGAN`__   `Citation: 153`  `Stars: 5438` 
 
  514. __Unrolled Generative Adversarial Networks__ -   ([Search](http://www.google.com/search?q=Unrolled%20Generative%20Adversarial%20Networks))  ([Scholar](http://scholar.google.com/scholar?q=Unrolled%20Generative%20Adversarial%20Networks))   ([PDF](https://arxiv.org/pdf/1611.02163.pdf))([arXiv](https://arxiv.org/abs/1611.02163)) ([github](https://github.com/poolio/unrolled_gan)) 
-  - :dart:  `2016/11` `GAN Theory`  __`Unrolled GAN`__   `Citation: 75`  `Stars: 209` 
+  - :dart:  :octocat:  `2016/11` `GAN Theory`  __`Unrolled GAN`__   `Citation: 75`  `Stars: 209` 
 
  515. __Unsupervised and Semi-supervised Learning with Categorical Generative Adversarial Networks__ -   ([Search](http://www.google.com/search?q=Unsupervised%20and%20Semi-supervised%20Learning%20with%20Categorical%20Generative%20Adversarial%20Networks))  ([Scholar](http://scholar.google.com/scholar?q=Unsupervised%20and%20Semi-supervised%20Learning%20with%20Categorical%20Generative%20Adversarial%20Networks))   ([PDF](https://arxiv.org/pdf/1511.06390.pdf))([arXiv](https://arxiv.org/abs/1511.06390v2)) 
   - :dart:  `2015/11` `Semi-supervised learning`  __`CatGAN`__   `Citation: 92` 
@@ -1580,7 +1580,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   - `2017/4` `Domain-transfer` 
 
  519. __Unsupervised Cross-Domain Image Generation__ -   ([Search](http://www.google.com/search?q=Unsupervised%20Cross-Domain%20Image%20Generation))  ([Scholar](http://scholar.google.com/scholar?q=Unsupervised%20Cross-Domain%20Image%20Generation))   ([PDF](https://arxiv.org/pdf/1611.02200.pdf))([arXiv](https://arxiv.org/abs/1611.02200)) ([github](https://github.com/yunjey/domain-transfer-network)) 
-  - :dart:  `2016/11` `Image translation`  __`DTN`__   `Citation: 62`  `Stars: 605` 
+  - :dart:  :octocat:  `2016/11` `Image translation`  __`DTN`__   `Citation: 62`  `Stars: 605` 
 
  520. __Unsupervised Diverse Colorization via Generative Adversarial Networks?__ -   ([Search](http://www.google.com/search?q=Unsupervised%20Diverse%20Colorization%20via%20Generative%20Adversarial%20Networks%3F))  ([Scholar](http://scholar.google.com/scholar?q=Unsupervised%20Diverse%20Colorization%20via%20Generative%20Adversarial%20Networks%3F))   ([PDF](https://arxiv.org/pdf/1702.06674.pdf))([arXiv](https://arxiv.org/abs/1702.06674)) 
   - `2017/2` `Applied Vision`  `Citation: 3` 
@@ -1595,7 +1595,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   - `2017/12` __`Medical: Synthersize`__ `Image Synthersize` 
 
  524. __Unsupervised Image-to-Image Translation Networks__ -   ([Search](http://www.google.com/search?q=Unsupervised%20Image-to-Image%20Translation%20Networks))  ([Scholar](http://scholar.google.com/scholar?q=Unsupervised%20Image-to-Image%20Translation%20Networks))   ([PDF](https://arxiv.org/pdf/1703.00848.pdf))([arXiv](https://arxiv.org/abs/1703.00848)) ([github](https://github.com/mingyuliutw/UNIT)) 
-  - `2017/3`  __`CoupledGAN`__   `Stars: 713` 
+  - :octocat:  `2017/3`  __`CoupledGAN`__   `Stars: 713` 
 
  525. __Unsupervised Image-to-Image Translation with Generative Adversarial Networks__ -   ([Search](http://www.google.com/search?q=Unsupervised%20Image-to-Image%20Translation%20with%20Generative%20Adversarial%20Networks))  ([Scholar](http://scholar.google.com/scholar?q=Unsupervised%20Image-to-Image%20Translation%20with%20Generative%20Adversarial%20Networks))   ([PDF](https://arxiv.org/pdf/1701.02676.pdf))([arXiv](https://arxiv.org/abs/1701.02676)) 
   - `2017/1` `Image translation`  `Citation: 10` 
@@ -1613,7 +1613,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   - `2016/12` `Robotics` 
 
  530. __Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks__ -   ([Search](http://www.google.com/search?q=Unsupervised%20Representation%20Learning%20with%20Deep%20Convolutional%20Generative%20Adversarial%20Networks))  ([Scholar](http://scholar.google.com/scholar?q=Unsupervised%20Representation%20Learning%20with%20Deep%20Convolutional%20Generative%20Adversarial%20Networks))   ([PDF](https://arxiv.org/pdf/1511.06434v2.pdf))([arXiv](https://arxiv.org/abs/1511.06434v2)) ([github](https://github.com/Newmu/dcgan_code)) ([TensorFlow](https://github.com/carpedm20/DCGAN-tensorflow)) ([PyTorch](https://github.com/soumith/dcgan.torch)) ([KERAS](https://github.com/jacobgil/keras-dcgan)) 
-  - :dart:  `2015/11` `Generation High-Quality Images`  __`DCGAN`__   `Citation: 901`  `Stars: 3400` 
+  - :dart:  :octocat:  `2015/11` `Generation High-Quality Images`  __`DCGAN`__   `Citation: 901`  `Stars: 3400` 
 
  531. __Unsupervised Reverse Domain Adaptation for Synthetic Medical Images via Adversarial Training__ -   ([Search](http://www.google.com/search?q=Unsupervised%20Reverse%20Domain%20Adaptation%20for%20Synthetic%20Medical%20Images%20via%20Adversarial%20Training))  ([Scholar](http://scholar.google.com/scholar?q=Unsupervised%20Reverse%20Domain%20Adaptation%20for%20Synthetic%20Medical%20Images%20via%20Adversarial%20Training))   ([PDF](https://arxiv.org/pdf/1711.06606.pdf))([arXiv](https://arxiv.org/abs/1711.06606)) 
   - `2017/11` __`Medical: Synthersize`__ 
@@ -1652,7 +1652,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   - `2017/4`  __`VAW-GAN`__   `Citation: 8` 
 
  543. __Wasserstein GAN (WGAN)?__ -   ([Search](http://www.google.com/search?q=Wasserstein%20GAN%20%28WGAN%29%3F))  ([Scholar](http://scholar.google.com/scholar?q=Wasserstein%20GAN%20%28WGAN%29%3F))   ([PDF](https://arxiv.org/pdf/1701.07875.pdf))([arXiv](https://arxiv.org/abs/1701.07875v2)) ([github](https://github.com/martinarjovsky/WassersteinGAN)) ([TensorFlow](https://github.com/Zardinality/WGAN-tensorflow)) 
-  - :dart:  `2017/1` `GAN Theory`  __`WGAN`__   `Citation: 314`  `Stars: 1539` 
+  - :dart:  :octocat:  `2017/1` `GAN Theory`  __`WGAN`__   `Citation: 314`  `Stars: 1539` 
 
  544. __WaterGAN: Unsupervised Generative Network to Enable Real-time Color Correction of Monocular Underwater Images?__ -   ([Search](http://www.google.com/search?q=WaterGAN%3A%20Unsupervised%20Generative%20Network%20to%20Enable%20Real-time%20Color%20Correction%20of%20Monocular%20Underwater%20Images%3F))  ([Scholar](http://scholar.google.com/scholar?q=WaterGAN%3A%20Unsupervised%20Generative%20Network%20to%20Enable%20Real-time%20Color%20Correction%20of%20Monocular%20Underwater%20Images%3F))   ([PDF](https://arxiv.org/pdf/1702.07392.pdf))([arXiv](https://arxiv.org/abs/1702.07392v1)) 
   - `2017/2` `Applied Vision`  __`WaterGAN`__   `Citation: 2` 
@@ -1664,7 +1664,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   - `2017/11`  __`XGAN`__  
 
  547. __zi2zi: Master Chinese Calligraphy with Conditional Adversarial Networks__ -   ([Search](http://www.google.com/search?q=zi2zi%3A%20Master%20Chinese%20Calligraphy%20with%20Conditional%20Adversarial%20Networks))  ([Scholar](http://scholar.google.com/scholar?q=zi2zi%3A%20Master%20Chinese%20Calligraphy%20with%20Conditional%20Adversarial%20Networks))   ([PDF](-))([arXiv](https://kaonashi-tyc.github.io/2017/04/06/zi2zi.html)) ([github](https://github.com/kaonashi-tyc/zi2zi)) 
-  - `2017/4` `Font Generation`  `Stars: 760` 
+  - :octocat:  `2017/4` `Font Generation`  `Stars: 760` 
 
  548. __ZipNet-GAN: Inferring Fine-grained Mobile Traffic Patterns via a Generative Adversarial Neural Network__ -   ([Search](http://www.google.com/search?q=ZipNet-GAN%3A%20Inferring%20Fine-grained%20Mobile%20Traffic%20Patterns%20via%20a%20Generative%20Adversarial%20Neural%20Network))  ([Scholar](http://scholar.google.com/scholar?q=ZipNet-GAN%3A%20Inferring%20Fine-grained%20Mobile%20Traffic%20Patterns%20via%20a%20Generative%20Adversarial%20Neural%20Network))   ([PDF](https://arxiv.org/pdf/1711.02413.pdf))([arXiv](https://arxiv.org/abs/1711.02413)) 
   - `2017/11`  __`ZipNet-GAN`__  
@@ -1674,6 +1674,6 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
 #### GAN counter: 548
 
-#### Modified: Thursday, Jan 04 2018 / 17:12:20
+#### Modified: Thursday, Jan 04 2018 / 17:18:56
 
 MIT (c) 2017, 2018 Jonathan Jeon
