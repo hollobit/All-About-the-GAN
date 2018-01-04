@@ -2,7 +2,7 @@
 
 ### GAN(Generative Adversarial Networks) are the models that used in unsupervised machine learning, implemented by a system of two neural networks competing against each other in a zero-sum game framework. It was introduced by Ian Goodfellow et al. in 2014.
 
-The purpose of this repository is providing the summarized list of the state-of-the-art works on the field of Generative Adversarial Networks since their introduction in 2014.
+The purpose of this repository is providing the curated list of the state-of-the-art works on the field of Generative Adversarial Networks since their introduction in 2014.
 
 It provides a list that merged information from various GAN lists and repositories as below:
 
@@ -36,7 +36,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   {%- if gan['KERAS'] != '-' and gan['KERAS'] != '' -%} ([KERAS]({{ gan['KERAS'] }})) {% endif %}
   {%- if gan['Web'] != '-' and gan['Web'] != '' -%} ([Web]({{ gan['Web'] }})) {% endif %}
 
-  > - `{{ gan['Year'] }}/{{ gan['Month'] }}` {# #}
+  - {%- if gan['Citations'] | int > 50  %} :dart: {% endif %} `{{ gan['Year'] }}/{{ gan['Month'] }}` {# #}
   {%- if gan['Medical'] != '-' -%} __`Medical: {{ gan['Medical'] }}`__ {% endif %}
   {%- if gan['Category'] != '-' -%} `{{ gan['Category'] }}` {% endif %}  
   {%- if gan['Abbr.'] != '-' and gan['Abbr.'] != '' %} __`{{ gan['Abbr.'] }}`__  {% endif %}
