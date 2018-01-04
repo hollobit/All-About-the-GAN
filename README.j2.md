@@ -39,7 +39,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   {%- if gan['Category'] != '-' -%} `{{ gan['Category'] }}` {% endif %}  
   {%- if gan['Abbr.'] != '-' and gan['Abbr.'] != '' %} __`{{ gan['Abbr.'] }}`__  {% endif %}
   {%- if gan['Citations'] != '0' and gan['Citations'] != '' %} `Citation: {{ gan['Citations'] }}` {% endif %}
-  {%- if gan['Stars'] != '0' and gan['Stars'] != '' %} `Stars: {{ gan['Stars'] }}` {% endif %}
+  {%- if gan['Stars'] != '-' and gan['Stars'] != '' %} `Stars: {{ gan['Stars'] }}` {% endif %}
 
 
 {% endfor %}
