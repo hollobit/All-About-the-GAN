@@ -609,7 +609,7 @@ Mnum	Abbr.	Title	Year	Month	Citations	pdf	Arxiv	Official_Code	Tensorflow	PyTorch
 614	-	Task-Aware Compressed Sensing with Generative Adversarial Networks	2018	2	0	https://arxiv.org/pdf/1802.01284.pdf	https://arxiv.org/abs/1802.01284	-	-	-	-	-				-	-												
 615	-	Incremental Classifier Learning with Generative Adversarial Networks	2018	2	0	https://arxiv.org/pdf/1802.00853.pdf	https://arxiv.org/abs/1802.00853	-	-	-	-	-				-	-												
 616	-	Face Aging with Contextual Generative Adversarial Nets	2018	2	0	https://arxiv.org/pdf/1802.00237.pdf	https://arxiv.org/abs/1802.00237	-	-	-	-	-				-	-												
-617	-	AmbientGAN: Generative models from lossy measurements	2018	2	0	https://openreview.net/pdf?id=Hy7fDog0b	-	-	-	-	-	-	https://openreview.net/forum?id=Hy7fDog0b			-	ICLR2018												
+617	-	AmbientGAN: Generative models from lossy measurements	2018	2	0	https://openreview.net/pdf?id=Hy7fDog0b	-	-	-	-	-	-	https://openreview.net/forum?id=Hy7fDog0b			-	ICLR2018 Top100												
 618	-	Discrete Wasserstein Generative Adversarial Networks (DWGAN)	2018	2	0	https://openreview.net/pdf?id=Bkv76ilDz	-	-	-	-	-	-	https://openreview.net/forum?id=Bkv76ilDz			-	ICLR2018												
 619	-	Semi-Supervised Learning With GANs: Revisiting Manifold Regularization	2018	2	0	https://openreview.net/pdf?id=Hy5QRt1wz	-	-	-	-	-	-	https://openreview.net/forum?id=Hy5QRt1wz			-	ICLR2018												
 620	-	Selecting the Best in GANs Family: a Post Selection Inference Framework	2018	2	0	https://openreview.net/pdf?id=SkpC5K1vG	-	-	-	-	-	-	https://openreview.net/forum?id=SkpC5K1vG			-	ICLR2018												
@@ -664,7 +664,7 @@ Mnum	Abbr.	Title	Year	Month	Citations	pdf	Arxiv	Official_Code	Tensorflow	PyTorch
 669	-	Coulomb GANs: Provably Optimal Nash Equilibria via Potential Fields	2018	1	0	https://openreview.net/pdf?id=SkVqXOxCb	-	-	-	-	-	-	https://openreview.net/forum?id=SkVqXOxCb&noteId=Sy66QJTrG			-	ICLR2018												
 670	-	Activation Maximization Generative Adversarial Nets	2018	1	0	https://openreview.net/pdf?id=HyyP33gAZ	-	-	-	-	-	-	https://openreview.net/forum?id=HyyP33gAZ&noteId=Bk3pXJTrG			-	ICLR2018												
 671	-	TRAINING GENERATIVE ADVERSARIAL NETWORKS VIA PRIMAL-DUAL SUBGRADIENT METHODS: A LAGRANGIAN PERSPECTIVE ON GAN	2018	1	0	https://openreview.net/pdf?id=BJNRFNlRW	-	-	-	-	-	-	https://openreview.net/forum?id=BJNRFNlRW&noteId=S1oaXyTrM			-	ICLR2018												
-672	-	CausalGAN: Learning Causal Implicit Generative Models with Adversarial Training	2018	1	0	https://openreview.net/pdf?id=BJE-4xW0W	-	-	-	-	-	-	https://openreview.net/forum?id=BJE-4xW0W&noteId=BJ_amkTSf			-	ICLR2018												
+672	-	CausalGAN: Learning Causal Implicit Generative Models with Adversarial Training	2018	1	0	https://openreview.net/pdf?id=BJE-4xW0W	-	-	-	-	-	-	https://openreview.net/forum?id=BJE-4xW0W&noteId=BJ_amkTSf			-	ICLR2018 Top100												
 673	-	Do GANs learn the distribution? Some Theory and Empirics	2018	1	0	https://openreview.net/pdf?id=BJehNfW0-	-	-	-	-	-	-	https://openreview.net/forum?id=BJehNfW0-&noteId=rkUc7kpSG			-	ICLR2018												
 674	-	Semantically Decomposing the Latent Spaces of Generative Adversarial Networks	2018	1	0	https://openreview.net/pdf?id=S1nQvfgA-	-	-	-	-	-	-	https://openreview.net/forum?id=S1nQvfgA-&noteId=rJuKQJ6BG			-	ICLR2018												
 675	-	Quantitatively Evaluating GANs With Divergences Proposed for Training	2018	1	0	https://openreview.net/pdf?id=SJQHjzZ0-	-	-	-	-	-	-	https://openreview.net/forum?id=SJQHjzZ0-&noteId=rk4um1TBf			-	ICLR2018												
@@ -674,9 +674,51 @@ Mnum	Abbr.	Title	Year	Month	Citations	pdf	Arxiv	Official_Code	Tensorflow	PyTorch
 679	-	Demystifying MMD GANs	2018	1	0	https://openreview.net/pdf?id=r1lUOzWCW	-	-	-	-	-	-	https://openreview.net/forum?id=r1lUOzWCW&noteId=Bk0bQ1TrG			-	ICLR2018												
 680	-	cGANs with Projection Discriminator	2018	1	0	https://openreview.net/pdf?id=ByS1VpgRZ	-	-	-	-	-	-	https://openreview.net/forum?id=ByS1VpgRZ&noteId=r14W7yTrf			-	ICLR2018												
 681	-	MGAN: Training Generative Adversarial Nets with Multiple Generators	2018	1	0	https://openreview.net/pdf?id=rkmu5b0a-	-	-	-	-	-	-	https://openreview.net/forum?id=rkmu5b0a-&noteId=B12lQyarz			-	ICLR2018												
-682	-	MaskGAN: Better Text Generation via Filling in the _______	2018	1	0	https://openreview.net/pdf?id=ByOExmWAb	-	-	-	-	-	-	https://openreview.net/forum?id=ByOExmWAb&noteId=HJbx71pBM			-	ICLR2018												
+682	-	MaskGAN: Better Text Generation via Filling in the _______	2018	1	0	https://openreview.net/pdf?id=ByOExmWAb	-	-	-	-	-	-	https://openreview.net/forum?id=ByOExmWAb&noteId=HJbx71pBM			-	ICLR2018 Top100												
 683	-	Improving GANs Using Optimal Transport	2018	1	0	https://openreview.net/pdf?id=rkQkBnJAb	-	-	-	-	-	-	https://openreview.net/forum?id=rkQkBnJAb&noteId=H1ikQJTBz			-	ICLR2018												
 684	-	Stabilizing Adversarial Nets with Prediction Methods	2018	1	0	https://openreview.net/pdf?id=Skj8Kag0Z	-	-	-	-	-	-	https://openreview.net/forum?id=Skj8Kag0Z&noteId=rkLymJTSf			-	ICLR2018												
 685	-	"Progressive Growing of GANs for Improved Quality, Stability, and Variation"	2018	1	0	https://openreview.net/pdf?id=Hk99zCeAb	-	-	-	-	-	-	https://openreview.net/forum?id=Hk99zCeAb&noteId=ryOnMk6rM			-	ICLR2018												
-686	-	Spectral Normalization for Generative Adversarial Networks	2018	1	0	https://openreview.net/pdf?id=B1QRgziT-	-	-	-	-	-	-	https://openreview.net/forum?id=B1QRgziT-&noteId=BkxnM1TrM			-	ICLR2018												
+686	-	Spectral Normalization for Generative Adversarial Networks	2018	1	0	https://openreview.net/pdf?id=B1QRgziT-	-	-	-	-	-	-	https://openreview.net/forum?id=B1QRgziT-&noteId=BkxnM1TrM			-	ICLR2018 Top100												
 687	-	Automatic Goal Generation for Reinforcement Learning Agents	2018	1	0	https://openreview.net/pdf?id=SyhRVm-Rb	-	-	-	-	-	-	https://openreview.net/forum?id=SyhRVm-Rb&noteId=rJ3IIW4Sz			-	ICLR2018												
+688	-	Spatially Transformed Adversarial Examples	2018	2	0	https://openreview.net/pdf?id=HyydRMZC-	-	-	-	-	-	-	https://openreview.net/forum?id=HyydRMZC-			-	"ICLR2018 Top100, New"												
+689	-	PixelDefend: Leveraging Generative Models to Understand and Defend against Adversarial Examples	2018	2	0	https://openreview.net/pdf?id=rJUYGxbCW	-	-	-	-	-	-	https://openreview.net/forum?id=rJUYGxbCW			-	"ICLR2018 Top100, New"												
+690	-	Hallucinating Very Low-Resolution Unaligned and Noisy Face Images by Transformative Discriminative Autoencoders	2017		0	http://openaccess.thecvf.com/content_cvpr_2017/papers/Yu_Hallucinating_Very_Low-Resolution_CVPR_2017_paper.pdf	http://openaccess.thecvf.com/content_cvpr_2017/html/Yu_Hallucinating_Very_Low-Resolution_CVPR_2017_paper.html	-	-	-	-	-				-	New												
+691	-	Deep Future Gaze Gaze Anticipation on Egocentric Videos Using Adversarial Networks	2017		0	http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhang_Deep_Future_Gaze_CVPR_2017_paper.pdf	-	-	-	-	-	-				-	New												
+692	-	MARTA GANs Unsupervised Representation Learning for Remote Sensing Image Classification?	2017		0	-	http://ieeexplore.ieee.org/document/8059820/	-	-	-	-	-				-	New												
+693	-	Adversarial Variational Bayes Unifying Variational Autoencoders and Generative Adversarial Networks	2017	1	0	https://arxiv.org/pdf/1701.04722.pdf	https://arxiv.org/abs/1701.04722	-	-	-	-	-				-	New												
+694	-	Adversarial Stain Transfer for Histopathology Image Analysis	2017		0	-	http://ieeexplore.ieee.org/document/8170242/	-	-	-	-	-				-	New												
+695	-	Coupled generative adversarial stacked Auto-encoder: CoGASA	2018		0	-	https://www.sciencedirect.com/science/article/pii/S0893608018300029	-	-	-	-	-				-	New												
+696	-	Cross-Modality Synthesis from CT to PET using FCN and GAN Networks for Improved Automated Lesion Detection	2018	2	0	https://arxiv.org/pdf/1802.07846.pdf	https://arxiv.org/abs/1802.07846	-	-	-	-	-				-	New												
+697	-	Load Balanced GANs for Multi-view Face Image Synthesis	2018	2	0	https://arxiv.org/pdf/1802.07447	https://arxiv.org/abs/1802.07447	-	-	-	-	-				-	New												
+698	-	A Study into the similarity in generator and discriminator in GAN architecture	2018	2	0	https://arxiv.org/pdf/1802.07401	https://arxiv.org/abs/1802.07401	-	-	-	-	-				-	New												
+699	-	Voice Impersonation using Generative Adversarial Networks	2018	2	0	https://arxiv.org/pdf/1802.06840	https://arxiv.org/abs/1802.06840	-	-	-	-	-				-	New												
+700	-	Differentially Private Generative Adversarial Network	2018	2	0	https://arxiv.org/pdf/1802.06739	https://arxiv.org/abs/1802.06739	-	-	-	-	-				-	New												
+701	-	Are Generative Classifiers More Robust to Adversarial Attacks?	2018	2	0	https://arxiv.org/pdf/1802.06552	https://arxiv.org/abs/1802.06552	-	-	-	-	-				-	New												
+702	-	DA-GAN: Instance-level Image Translation by Deep Attention Generative Adversarial Networks (with Supplementary Materials)	2018	2	0	https://arxiv.org/pdf/1802.06454	https://arxiv.org/abs/1802.06454	-	-	-	-	-				-	New												
+703	-	RadialGAN: Leveraging multiple datasets to improve target-specific predictive models using Generative Adversarial Networks	2018	2	0	https://arxiv.org/pdf/1802.06403	https://arxiv.org/abs/1802.06403	-	-	-	-	-				-	New												
+704	-	Efficient GAN-Based Anomaly Detection	2018	2	0	https://arxiv.org/pdf/1802.06222	https://arxiv.org/abs/1802.06222	-	-	-	-	-				-	New												
+705	-	CapsuleGAN: Generative Adversarial Capsule Network	2018	2	0	https://arxiv.org/pdf/1802.06167	https://arxiv.org/abs/1802.06167	-	-	-	-	-				-	New												
+706	-	Interaction Matters: A Note on Non-asymptotic Local Convergence of Generative Adversarial Networks	2018	2	0	https://arxiv.org/pdf/1802.06132	https://arxiv.org/abs/1802.06132	-	-	-	-	-				-	New												
+707	-	Spectral Normalization for Generative Adversarial Networks	2018	2	0	https://arxiv.org/pdf/1802.05957	https://arxiv.org/abs/1802.05957	-	-	-	-	-				-	New												
+708	-	ASP:A Fast Adversarial Attack Example Generation Framework based on Adversarial Saliency Prediction	2018	2	0	https://arxiv.org/pdf/1802.05763	https://arxiv.org/abs/1802.05763	-	-	-	-	-				-	New												
+709	-	Inverting The Generator Of A Generative Adversarial Network (II)	2018	2	0	https://arxiv.org/pdf/1802.05701	https://arxiv.org/abs/1802.05701	-	-	-	-	-				-	New												
+710	-	Conditioning of three-dimensional generative adversarial networks for pore and reservoir-scale models	2018	2	0	https://arxiv.org/pdf/1802.05622	https://arxiv.org/abs/1802.05622	-	-	-	-	-				-	New												
+711	-	Selecting the Best in GANs Family: a Post Selection Inference Framework	2018	2	0	https://arxiv.org/pdf/1802.05411	https://arxiv.org/abs/1802.05411	-	-	-	-	-				-	New												
+712	-	Satellite Image Forgery Detection and Localization Using GAN and One-Class Classifier<Framework	2018	2	0	https://arxiv.org/pdf/1802.04881	https://arxiv.org/abs/1802.04881	-	-	-	-	-				-	New												
+713	-	Joint Demosaicing and Denoising with Perceptual Optimization on a Generative Adversarial Network	2018	2	0	https://arxiv.org/pdf/1802.04723	https://arxiv.org/abs/1802.04723	-	-	-	-	-				-	New												
+714	-	First Order Generative Adversarial Networks	2018	2	0	https://arxiv.org/pdf/1802.04591	https://arxiv.org/abs/1802.04591	-	-	-	-	-				-	New												
+715	-	Pros and Cons of GAN Evaluation Measures	2018	2	0	https://arxiv.org/pdf/1802.03446	https://arxiv.org/abs/1802.03446	-	-	-	-	-				-	New												
+716	-	Generating and refining particle detector simulations using the Wasserstein distance in adversarial networks	2018	2	0	https://arxiv.org/pdf/1802.03325	https://arxiv.org/abs/1802.03325	-	-	-	-	-				-	New												
+717	-	Generating Realistic Geology Conditioned on Physical Measurements with Generative Adversarial Networks	2018	2	0	https://arxiv.org/pdf/1802.03065	https://arxiv.org/abs/1802.03065	-	-	-	-	-				-	New												
+718	-	Generating Triples with Adversarial Networks for Scene Graph Construction	2018	2	0	https://arxiv.org/pdf/1802.02598	https://arxiv.org/abs/1802.02598	-	-	-	-	-				-	New												
+719	-	Bitewing Radiography Semantic Segmentation Base on Conditional Generative Adversarial Nets	2018	2	0	https://arxiv.org/pdf/1802.02571	https://arxiv.org/abs/1802.02571	-	-	-	-	-				-	New												
+720	-	DeepRoad: GAN-based Metamorphic Autonomous Driving System Testing	2018	2	0	https://arxiv.org/pdf/1802.02295	https://arxiv.org/abs/1802.02295	-	-	-	-	-				-	New												
+721	-	Selective Sampling and Mixture Models in Generative Adversarial Networks	2018	2	0	https://arxiv.org/pdf/1802.01568	https://arxiv.org/abs/1802.01568	-	-	-	-	-				-	New												
+722	-	Image Synthesis in Multi-Contrast MRI with Conditional Generative Adversarial Networks	2018	2	0	https://arxiv.org/pdf/1802.01221	https://arxiv.org/abs/1802.01221	-	-	-	-	-				-	New												
+723	-	No Modes left behind: Capturing the data distribution effectively using GANs	2018	2	0	https://arxiv.org/pdf/1802.00771	https://arxiv.org/abs/1802.00771	-	-	-	-	-				-	New												
+724	-	Face Synthesis with Landmark Points from Generative Adversarial Networks and Inverse Latent Space Mapping	2018	2	0	https://arxiv.org/pdf/1802.00390	https://arxiv.org/abs/1802.00390	-	-	-	-	-				-	New												
+725	-	Predicting Rapid Fire Growth (Flashover) Using Conditional Generative Adversarial Networks	2018	1	0	https://arxiv.org/pdf/1801.09804	https://arxiv.org/abs/1801.09804	-	-	-	-	-				-	New												
+726	-	Interactive Generative Adversarial Networks for Facial Expression Generation in Dyadic Interactions	2018	1	0	https://arxiv.org/pdf/1801.09092	https://arxiv.org/abs/1801.09092	-	-	-	-	-				-	New												
+727	-	Generating Instance Segmentation Annotation by Geometry-guided GAN	2018	1	0	https://arxiv.org/pdf/1801.08839	https://arxiv.org/abs/1801.08839	-	-	-	-	-				-	New												
+728	-	Black-box Generation of Adversarial Text Sequences to Evade Deep Learning Classifiers	2018	1	0	https://arxiv.org/pdf/1801.04354	https://arxiv.org/abs/1801.04354	-	-	-	-	-				-	New												
+729	-	A Deep Generative Adversarial Architecture for Network-Wide Spatial-Temporal Traffic State Estimation	2018	1	0	https://arxiv.org/pdf/1801.03818	https://arxiv.org/abs/1801.03818	-	-	-	-	-				-	New												
