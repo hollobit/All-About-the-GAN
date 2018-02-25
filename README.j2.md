@@ -15,8 +15,10 @@ It provides a list that merged information from various GAN lists and repositori
 * [[GANs Paper Collection]](https://github.com/shawnyuen/GANsPaperCollection) by shawnyuen
 * [[GAN awesome applications]](https://github.com/nashory/gans-awesome-applications) by nashory
 * [[GAN timeline]](https://github.com/dongb5/GAN-Timeline) by dongb5
-* Collection of generative models in [[Pytorch version]](https://github.com/znxlwm/pytorch-generative-model-collections), [[Tensorflow version]](https://github.com/hwalsuklee/tensorflow-generative-model-collections), [[Chainer version]](https://github.com/pfnet-research/chainer-gan-lib)
-
+* [[GAN comparison without cherry-picking]](https://github.com/khanrc/tf.gans-comparison) by khanrc
+* Collection of generative models in [[Keras]](https://github.com/eriklindernoren/Keras-GAN), [[Pytorch version]](https://github.com/znxlwm/pytorch-generative-model-collections), [[Tensorflow version]](https://github.com/hwalsuklee/tensorflow-generative-model-collections), [[Chainer version]](https://github.com/pfnet-research/chainer-gan-lib)
+* [[Tensor layer]](https://github.com/tensorlayer/tensorlayer)
+* [[Tensor pack]](https://github.com/ppwwyyxx/tensorpack)
 ----
 
 You can also check out the same data in a tabular format with functionality to filter by year or do a quick search by title [here](https://github.com/hollobit/All-About-the-GAN/blob/master/AllGAN-r2.tsv).
@@ -36,7 +38,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
   {%- if gan['KERAS'] != '-' and gan['KERAS'] != '' -%} ([KERAS]({{ gan['KERAS'] }})) {% endif %}
   {%- if gan['Web'] != '-' and gan['Web'] != '' -%} ([Web]({{ gan['Web'] }})) {% endif %}
 
-  - {%- if gan['Citations'] | int > 50  %} :dart: {% endif %}
+    - {%- if gan['Citations'] | int > 50  %} :dart: {% endif %}
   {%- if gan['Stars'] | int > 10 %} :octocat: {% endif %} `{{ gan['Year'] }}/{{ gan['Month'] }}` {# #}
   {%- if gan['Medical'] != '-' -%} __`Medical: {{ gan['Medical'] }}`__ {% endif %}
   {%- if gan['Category'] != '-' -%} `{{ gan['Category'] }}` {% endif %}  
