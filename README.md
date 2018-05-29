@@ -351,7 +351,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
  108. __Attentive Generative Adversarial Network for Raindrop Removal from a Single Image__ -   ([Search](http://www.google.com/search?q=Attentive%20Generative%20Adversarial%20Network%20for%20Raindrop%20Removal%20from%20a%20Single%20Image))  ([Scholar](http://scholar.google.com/scholar?q=Attentive%20Generative%20Adversarial%20Network%20for%20Raindrop%20Removal%20from%20a%20Single%20Image))   ([PDF](https://arxiv.org/pdf/1711.10098.pdf))([arXiv](https://arxiv.org/abs/1711.10098)) 
     - `2017/11` 
 
- 109. __AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks__ -   ([Search](http://www.google.com/search?q=AttnGAN%3A%20Fine-Grained%20Text%20to%20Image%20Generation%20with%20Attentional%20Generative%20Adversarial%20Networks))  ([Scholar](http://scholar.google.com/scholar?q=AttnGAN%3A%20Fine-Grained%20Text%20to%20Image%20Generation%20with%20Attentional%20Generative%20Adversarial%20Networks))   ([PDF](https://arxiv.org/pdf/1711.10485.pdf))([arXiv](https://arxiv.org/abs/1711.10485)) 
+ 109. __AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks__ -   ([Search](http://www.google.com/search?q=AttnGAN%3A%20Fine-Grained%20Text%20to%20Image%20Generation%20with%20Attentional%20Generative%20Adversarial%20Networks))  ([Scholar](http://scholar.google.com/scholar?q=AttnGAN%3A%20Fine-Grained%20Text%20to%20Image%20Generation%20with%20Attentional%20Generative%20Adversarial%20Networks))   ([PDF](https://arxiv.org/pdf/1711.10485.pdf))([arXiv](https://arxiv.org/abs/1711.10485)) ([TensorFlow](https://github.com/LynnHo/AttGAN-Tensorflow)) 
     - `2017/11`  __`AttnGAN`__  
 
  110. __Auto-Encoder Guided GAN for Chinese Calligraphy Synthesis?__ -   ([Search](http://www.google.com/search?q=Auto-Encoder%20Guided%20GAN%20for%20Chinese%20Calligraphy%20Synthesis%3F))  ([Scholar](http://scholar.google.com/scholar?q=Auto-Encoder%20Guided%20GAN%20for%20Chinese%20Calligraphy%20Synthesis%3F))   ([PDF](https://arxiv.org/pdf/1706.08789.pdf))([arXiv](https://arxiv.org/abs/1706.08789)) 
@@ -2849,6 +2849,6 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
 #### GAN counter: 939
 
-#### Modified: Tuesday, May 29 2018 / 08:54:42
+#### Modified: Tuesday, May 29 2018 / 09:07:34
 
 MIT (c) 2017, 2018 Jonathan Jeon
