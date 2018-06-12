@@ -44,7 +44,7 @@
     <h1 id="whats-gans">What is GANs?</h1>
     <p>GANs(Generative Adversarial Networks) are the models that used in unsupervised machine learning, implemented by a system of two neural networks competing against each other in a zero-sum game framework. It was introduced by <a href="https://scholar.google.ca/citations?user=iYN86KEAAAAJ&hl=en">Ian Goodfellow</a> et al. in 2014.</p>
 
-    <P><img src="https://deeplearning4j.org/img/gan_schema.png" ALT="concept diagram of GAN model. Credit: O’Reilly"> (Credit: O’Reilly)</p>
+    <P><img src="https://deeplearning4j.org/img/gan_schema.png" ALT="concept diagram of GAN model. Credit: O’Reilly" width="100%"> (Credit: O’Reilly)</p>
 
     <code>
     "The most important one, in my opinion, is adversarial training (also called GAN for Generative Adversarial Networks). This is an idea that was originally proposed by Ian Goodfellow when he was a student with Yoshua Bengio at the University of Montreal (he since moved to Google Brain and recently to OpenAI).
