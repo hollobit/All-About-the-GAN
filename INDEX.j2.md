@@ -13,7 +13,7 @@
 </head>
 <body>
 <!-- Github banner -->
-<a href="https://github.com/hollobit/All-About-the-GAN"><img style="position: fixed; top: 0; right: 0; border: 0;" src="png/forkme.png" alt="Fork me on GitHub" data-canonical-src="png/forkme_right_darkblue_121621.png"></a>
+<a href="https://github.com/hollobit/All-About-the-GAN"><img style="position: fixed; top: 0; right: 0; border: 0;" src="png/forkme.png" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png"></a>
 
 <!-- Menu -->
 <input type="checkbox" id="menu"><label for="menu" id="open">☰</label>
