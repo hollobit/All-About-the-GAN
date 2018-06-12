@@ -27,5 +27,5 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
 ----
 ## You can access by two way
-### 1.[[simple web style - http://https://hollobit.github.io/All-About-the-GAN/]](https://hollobit.github.io/All-About-the-GAN/)
-### 2. [[Readme style]](https://github.com/hollobit/All-About-the-GAN/README-one.md)
+### 1. [simple web style - http://https://hollobit.github.io/All-About-the-GAN/](https://hollobit.github.io/All-About-the-GAN/)
+### 2. [Readme style](https://github.com/hollobit/All-About-the-GAN/README-one.md)
