@@ -26,6 +26,6 @@ You can also check out the same data in a tabular format with functionality to f
 Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pull request. You can have to add links through pull requests or create an issue which something I missed or need to start a discussion.
 
 ----
-## You can access by two way
+## You can access the whole list by two way
 ### 1. [simple web style - http://https://hollobit.github.io/All-About-the-GAN/](https://hollobit.github.io/All-About-the-GAN/)
-### 2. [Readme style](https://github.com/hollobit/All-About-the-GAN/README-one.md)
+### 2. [Readme style](https://github.com/hollobit/All-About-the-GAN/blob/master/README-one.md)
