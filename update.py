@@ -29,8 +29,25 @@ def update_readme(gans):
 
     j2_env.globals['nowts'] = datetime.datetime.now()
 
-    with open('README.md', 'w') as fid:
+    with open('README-one.md', 'w') as fid:
         print(j2_env.get_template('README.j2.md').render(gans=gans), file=fid)
+
+def update_index(gans):
+    """ Update the index.html text file from a Jinja2 template """
+    import jinja2 as j2
+
+    try:
+        gans.sort(key=lambda v: ((int(v['Year']) if v['Year'].isdigit() else v['Year'])
+        , (int(v['Month']) if v['Month'].isdigit() else v['Month'])), reverse=True)
+    except:
+        pass
+    j2_env = j2.Environment(loader=j2.FileSystemLoader('.'),
+                            trim_blocks=True, lstrip_blocks=True)
+
+    j2_env.globals['nowts'] = datetime.datetime.now()
+
+    with open('docs/index.html', 'w') as fid:
+        print(j2_env.get_template('INDEX.j2.md').render(gans=gans), file=fid)
 
 
 def update_figure(gans):
@@ -56,4 +73,5 @@ if __name__ == '__main__':
 
     GANS = load_data()
     update_readme(GANS)
+    update_index(GANS)
 #    update_figure(GANS)
