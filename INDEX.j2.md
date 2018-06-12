@@ -6,8 +6,8 @@
     <link href="https://fonts.googleapis.com/css?family=Montserrat:200,400,700" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="wp.min.css">
     <link rel="stylesheet"
-          href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css">
-    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+          href="default.min.css">
+    <script src="highlight.min.js"></script>
     <script>hljs.initHighlightingOnLoad();</script>
     <title>All about the GANs(Generative Adversarial Networks) - Summarized lists for GAN</title>
 </head>
