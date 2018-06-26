@@ -6,6 +6,8 @@ The purpose of this repository is providing the curated list of the state-of-the
 
 <p align="center"><img width="80%" src="wordcloud_title.png" /></p>
 
+<p align="center"><img width="80%" src="wordcloud_category.png" /></p>
+
 It provides a list that merged information from various GAN lists and repositories as below:
 
 ### :link: Reference repositories
@@ -3181,6 +3183,6 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
 #### GAN counter: 1049
 
-#### Modified: Wednesday, Jun 27 2018 / 08:29:39
+#### Modified: Wednesday, Jun 27 2018 / 08:36:34
 
 MIT (c) 2017, 2018 Jonathan Jeon

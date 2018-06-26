@@ -6,6 +6,8 @@ The purpose of this repository is providing the curated list of the state-of-the
 
 <p align="center"><img width="80%" src="wordcloud_title.png" /></p>
 
+<p align="center"><img width="80%" src="wordcloud_category.png" /></p>
+
 It provides a list that merged information from various GAN lists and repositories as below:
 
 ### :link: Reference repositories
