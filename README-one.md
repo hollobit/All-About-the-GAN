@@ -4,9 +4,9 @@
 
 The purpose of this repository is providing the curated list of the state-of-the-art works on the field of Generative Adversarial Networks since their introduction in 2014.
 
-<p align="center"><img width="80%" src="wordcloud_title.png" /></p>
+<p align="center"><img width="80%" src="wordcloud_title.png" /><br>(Word Cloud of Title)</p>
 
-<p align="center"><img width="80%" src="wordcloud_category.png" /></p>
+<p align="center"><img width="80%" src="wordcloud_category.png" /><br>(Word Cloud of Title)</p>
 
 It provides a list that merged information from various GAN lists and repositories as below:
 
@@ -224,7 +224,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
     - `2017/2` __`Medical: Detection`__ `Applied Vision`  `Citation: 3` 
 
  65. __Adversarial neural networks for basal membrane segmentation of microinvasive cervix carcinoma in histopathology images__ -   ([Search](http://www.google.com/search?q=Adversarial%20neural%20networks%20for%20basal%20membrane%20segmentation%20of%20microinvasive%20cervix%20carcinoma%20in%20histopathology%20images))  ([Scholar](http://scholar.google.com/scholar?q=Adversarial%20neural%20networks%20for%20basal%20membrane%20segmentation%20of%20microinvasive%20cervix%20carcinoma%20in%20histopathology%20images))   ([PDF](-))([arXiv](https://ieeexplore.ieee.org/abstract/document/8108952/)) 
-    - `2017/7` __`Medical: Segmentation`__ `New, ICMLC` 
+    - `2017/7` __`Medical: Segmentation`__ `ICMLC` 
 
  66. __Adversarial PoseNet: A Structure-aware Convolutional Network for Human Pose Estimation?__ -   ([Search](http://www.google.com/search?q=Adversarial%20PoseNet%3A%20A%20Structure-aware%20Convolutional%20Network%20for%20Human%20Pose%20Estimation%3F))  ([Scholar](http://scholar.google.com/scholar?q=Adversarial%20PoseNet%3A%20A%20Structure-aware%20Convolutional%20Network%20for%20Human%20Pose%20Estimation%3F))   ([PDF](https://arxiv.org/pdf/1705.00389.pdf))([arXiv](https://arxiv.org/abs/1705.00389)) 
     - `2017/5` `Applied Vision`  `Citation: 7` 
@@ -596,7 +596,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
     - `2017/5` `Theory & Machine Learning`  __`Conditional cycleGAN`__   `Citation: 6` 
 
  189. __Conditional Generative Adversarial and Convolutional Networks for X-ray Breast Mass Segmentation and Shape Classification__ -   ([Search](http://www.google.com/search?q=Conditional%20Generative%20Adversarial%20and%20Convolutional%20Networks%20for%20X-ray%20Breast%20Mass%20Segmentation%20and%20Shape%20Classification))  ([Scholar](http://scholar.google.com/scholar?q=Conditional%20Generative%20Adversarial%20and%20Convolutional%20Networks%20for%20X-ray%20Breast%20Mass%20Segmentation%20and%20Shape%20Classification))   ([PDF](https://arxiv.org/pdf/1805.10207))([arXiv](https://arxiv.org/abs/1805.10207)) 
-    - `2018/5` `New, MICCAI 2018` 
+    - `2018/5` `MICCAI 2018` 
 
  190. __Conditional Generative Adversarial Nets__ -   ([Search](http://www.google.com/search?q=Conditional%20Generative%20Adversarial%20Nets))  ([Scholar](http://scholar.google.com/scholar?q=Conditional%20Generative%20Adversarial%20Nets))   ([PDF](https://arxiv.org/pdf/1411.1784v1.pdf))([arXiv](https://arxiv.org/abs/1411.1784v1)) ([github](https://github.com/zhangqianhui/Conditional-Gans)) 
     - :dart:  :octocat:  `2014/11` `Conditional adversarial`  __`CGAN`__   `Citation: 321`  `Stars: 70` 
@@ -803,7 +803,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
     - `2018/1` 
 
  258. __DeepEM: Deep 3D ConvNets With EM For Weakly Supervised Pulmonary Nodule Detection__ -   ([Search](http://www.google.com/search?q=DeepEM%3A%20Deep%203D%20ConvNets%20With%20EM%20For%20Weakly%20Supervised%20Pulmonary%20Nodule%20Detection))  ([Scholar](http://scholar.google.com/scholar?q=DeepEM%3A%20Deep%203D%20ConvNets%20With%20EM%20For%20Weakly%20Supervised%20Pulmonary%20Nodule%20Detection))   ([PDF](https://www.biorxiv.org/content/early/2018/05/14/322370.full.pdf))([arXiv](https://www.biorxiv.org/content/early/2018/05/14/322370)) 
-    - `2018/5` `New, Bio, 3D`  __`DeepEM`__  
+    - `2018/5` `Bio, 3D`  __`DeepEM`__  
 
  259. __DeepRoad: GAN-based Metamorphic Autonomous Driving System Testing__ -   ([Search](http://www.google.com/search?q=DeepRoad%3A%20GAN-based%20Metamorphic%20Autonomous%20Driving%20System%20Testing))  ([Scholar](http://scholar.google.com/scholar?q=DeepRoad%3A%20GAN-based%20Metamorphic%20Autonomous%20Driving%20System%20Testing))   ([PDF](https://arxiv.org/pdf/1802.02295.pdf))([arXiv](https://arxiv.org/abs/1802.02295)) 
     - `2018/2` 
@@ -884,7 +884,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
     - `2017/`  `Citation: 31` 
 
  285. __Disentangling Multiple Conditional Inputs in?GANs__ -   ([Search](http://www.google.com/search?q=Disentangling%20Multiple%20Conditional%20Inputs%20in%3FGANs))  ([Scholar](http://scholar.google.com/scholar?q=Disentangling%20Multiple%20Conditional%20Inputs%20in%3FGANs))   ([PDF](https://arxiv.org/pdf/1806.07819))([arXiv](https://arxiv.org/abs/1806.07819)) 
-    - `2018/6` `KDD2018, New` 
+    - `2018/6` `New, KDD2018` 
 
  286. __Distributional Adversarial Networks__ -   ([Search](http://www.google.com/search?q=Distributional%20Adversarial%20Networks))  ([Scholar](http://scholar.google.com/scholar?q=Distributional%20Adversarial%20Networks))   ([PDF](https://arxiv.org/pdf/1706.09549.pdf))([arXiv](https://arxiv.org/abs/1706.09549)) 
     - `2017/6`  __`DAN`__  
@@ -1157,7 +1157,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
     - `2016/8` `Applied Vision`  `Citation: 29` 
 
  376. __Fully Connected?Networks?and?Generative?Neural?Networks?Applied to Sclera Segmentation__ -   ([Search](http://www.google.com/search?q=Fully%20Connected%3FNetworks%3Fand%3FGenerative%3FNeural%3FNetworks%3FApplied%20to%20Sclera%20Segmentation))  ([Scholar](http://scholar.google.com/scholar?q=Fully%20Connected%3FNetworks%3Fand%3FGenerative%3FNeural%3FNetworks%3FApplied%20to%20Sclera%20Segmentation))   ([PDF](https://arxiv.org/pdf/1806.08722))([arXiv](https://arxiv.org/abs/1806.08722)) 
-    - `2018/6` `Segmentation, BAT2018, New` 
+    - `2018/6` `New, Segmentation, BAT2018` 
 
  377. __Fully Convolutional Refined Auto-Encoding Generative Adversarial Networks for 3D Multi Object Scenes__ -   ([Search](http://www.google.com/search?q=Fully%20Convolutional%20Refined%20Auto-Encoding%20Generative%20Adversarial%20Networks%20for%203D%20Multi%20Object%20Scenes))  ([Scholar](http://scholar.google.com/scholar?q=Fully%20Convolutional%20Refined%20Auto-Encoding%20Generative%20Adversarial%20Networks%20for%203D%20Multi%20Object%20Scenes))   ([PDF](-))([arXiv](https://becominghuman.ai/3d-multi-object-gan-7b7cee4abf80?gi=e97b8327ed41)) ([github](https://github.com/yunishi3/3D-FCR-alphaGAN)) ([Web](https://www.youtube.com/watch?v=HO1LYJb818Q)) 
     - `2017/` `3D Object generation` 
@@ -1499,10 +1499,10 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
     - :dart:  :octocat:  `2016/9` `Interactive Image generation`  __`iGAN`__   `Citation: 102`  `Stars: 2364` 
 
  490. __Generative?Adversarial?Nets for Information Retrieval: Fundamentals and Advances__ -   ([Search](http://www.google.com/search?q=Generative%3FAdversarial%3FNets%20for%20Information%20Retrieval%3A%20Fundamentals%20and%20Advances))  ([Scholar](http://scholar.google.com/scholar?q=Generative%3FAdversarial%3FNets%20for%20Information%20Retrieval%3A%20Fundamentals%20and%20Advances))   ([PDF](https://arxiv.org/pdf/1806.03577))([arXiv](https://arxiv.org/abs/1806.03577)) 
-    - `2018/6` `SIGIR2018, New` 
+    - `2018/6` `New, SIGIR2018` 
 
  491. __Generative?Adversarial?Network?Architectures For Image Synthesis Using Capsule?Networks__ -   ([Search](http://www.google.com/search?q=Generative%3FAdversarial%3FNetwork%3FArchitectures%20For%20Image%20Synthesis%20Using%20Capsule%3FNetworks))  ([Scholar](http://scholar.google.com/scholar?q=Generative%3FAdversarial%3FNetwork%3FArchitectures%20For%20Image%20Synthesis%20Using%20Capsule%3FNetworks))   ([PDF](https://arxiv.org/pdf/1806.03796))([arXiv](https://arxiv.org/abs/1806.03796)) 
-    - `2018/6` `NIPS2018, New` 
+    - `2018/6` `New, NIPS2018` 
 
  492. __Generative?adversarial?network?based telecom fraud detection at the receiving bank__ -   ([Search](http://www.google.com/search?q=Generative%3Fadversarial%3Fnetwork%3Fbased%20telecom%20fraud%20detection%20at%20the%20receiving%20bank))  ([Scholar](http://scholar.google.com/scholar?q=Generative%3Fadversarial%3Fnetwork%3Fbased%20telecom%20fraud%20detection%20at%20the%20receiving%20bank))   ([PDF](-))([arXiv](https://linkinghub.elsevier.com/retrieve/pii/S0893-6080(18)30069-8)) ([Web](https://www.ncbi.nlm.nih.gov/pubmed/29558653)) 
     - `2018/6` 
@@ -1514,7 +1514,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
     - `2018/6` __`Medical: Translation`__ `New` 
 
  495. __Generative?Adversarial?Networks?for Realistic Synthesis of Hyperspectral Samples__ -   ([Search](http://www.google.com/search?q=Generative%3FAdversarial%3FNetworks%3Ffor%20Realistic%20Synthesis%20of%20Hyperspectral%20Samples))  ([Scholar](http://scholar.google.com/scholar?q=Generative%3FAdversarial%3FNetworks%3Ffor%20Realistic%20Synthesis%20of%20Hyperspectral%20Samples))   ([PDF](https://arxiv.org/pdf/1806.02583))([arXiv](https://arxiv.org/abs/1806.02583)) 
-    - `2018/6` `IGARSS 2018, New` 
+    - `2018/6` `New, IGARSS 2018` 
 
  496. __Generative?Model for Heterogeneous Inference__ -   ([Search](http://www.google.com/search?q=Generative%3FModel%20for%20Heterogeneous%20Inference))  ([Scholar](http://scholar.google.com/scholar?q=Generative%3FModel%20for%20Heterogeneous%20Inference))   ([PDF](https://arxiv.org/pdf/1804.09858))([arXiv](https://arxiv.org/abs/1804.09858)) 
     - `2018/4` 
@@ -1835,7 +1835,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
     - `2018/2` 
 
  602. __JointGAN: Multi-Domain Joint Distribution Learning with?Generative?Adversarial?Nets__ -   ([Search](http://www.google.com/search?q=JointGAN%3A%20Multi-Domain%20Joint%20Distribution%20Learning%20with%3FGenerative%3FAdversarial%3FNets))  ([Scholar](http://scholar.google.com/scholar?q=JointGAN%3A%20Multi-Domain%20Joint%20Distribution%20Learning%20with%3FGenerative%3FAdversarial%3FNets))   ([PDF](https://arxiv.org/pdf/1806.02978))([arXiv](https://arxiv.org/abs/1806.02978)) 
-    - `2018/6` `ICML2018,  New`  __`JointGAN`__  
+    - `2018/6` `New, ICML2018`  __`JointGAN`__  
 
  603. __JR-GAN: Jacobian Regularization for?Generative?Adversarial?Networks__ -   ([Search](http://www.google.com/search?q=JR-GAN%3A%20Jacobian%20Regularization%20for%3FGenerative%3FAdversarial%3FNetworks))  ([Scholar](http://scholar.google.com/scholar?q=JR-GAN%3A%20Jacobian%20Regularization%20for%3FGenerative%3FAdversarial%3FNetworks))   ([PDF](https://arxiv.org/pdf/1806.09235))([arXiv](https://arxiv.org/abs/1806.09235)) 
     - `2018/6` `New`  __`JR-GAN`__  
@@ -2039,7 +2039,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
     - `2017/2` `Theory & Machine Learning`  __`McGAN`__   `Citation: 14` 
 
  670. __Measuring human sensitivity to perturbations within the manifold of natural images__ -   ([Search](http://www.google.com/search?q=Measuring%20human%20sensitivity%20to%20perturbations%20within%20the%20manifold%20of%20natural%20images))  ([Scholar](http://scholar.google.com/scholar?q=Measuring%20human%20sensitivity%20to%20perturbations%20within%20the%20manifold%20of%20natural%20images))   ([PDF](https://www.biorxiv.org/content/early/2018/05/11/320531.full.pdf))([arXiv](https://www.biorxiv.org/content/early/2018/05/11/320531)) 
-    - `2018/5` `New, Bio` 
+    - `2018/5` `Bio` 
 
  671. __MedGAN: Medical Image Translation using?GANs__ -   ([Search](http://www.google.com/search?q=MedGAN%3A%20Medical%20Image%20Translation%20using%3FGANs))  ([Scholar](http://scholar.google.com/scholar?q=MedGAN%3A%20Medical%20Image%20Translation%20using%3FGANs))   ([PDF](https://arxiv.org/pdf/1806.06397))([arXiv](https://arxiv.org/abs/1806.06397)) 
     - `2018/6` __`Medical: Translation`__ `New`  __`MedGAN`__  
@@ -2081,7 +2081,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
     - `2017/3` `MUSIC`  `Citation: 2` 
 
  684. __Mixed batches and symmetric discriminators for?GAN?training__ -   ([Search](http://www.google.com/search?q=Mixed%20batches%20and%20symmetric%20discriminators%20for%3FGAN%3Ftraining))  ([Scholar](http://scholar.google.com/scholar?q=Mixed%20batches%20and%20symmetric%20discriminators%20for%3FGAN%3Ftraining))   ([PDF](https://arxiv.org/pdf/1806.07185))([arXiv](https://arxiv.org/abs/1806.07185)) 
-    - `2018/6` `ICML2018, New` 
+    - `2018/6` `New, ICML2018` 
 
  685. __MMD GAN: Towards Deeper Understanding of Moment Matching Network?__ -   ([Search](http://www.google.com/search?q=MMD%20GAN%3A%20Towards%20Deeper%20Understanding%20of%20Moment%20Matching%20Network%3F))  ([Scholar](http://scholar.google.com/scholar?q=MMD%20GAN%3A%20Towards%20Deeper%20Understanding%20of%20Moment%20Matching%20Network%3F))   ([PDF](https://arxiv.org/pdf/1705.08584.pdf))([arXiv](https://arxiv.org/abs/1705.08584)) ([github](https://github.com/dougalsutherland/opt-mmd)) 
     - :octocat:  `2017/5` `Theory & Machine Learning`  __`MMD-GAN`__   `Citation: 19`  `Stars: 72` 
@@ -2111,7 +2111,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
     - `2017/` __`Medical: Synthesize`__ `Medical` 
 
  694. __MRI Image-to-Image Translation for Cross-Modality Image Registration and Segmentation__ -   ([Search](http://www.google.com/search?q=MRI%20Image-to-Image%20Translation%20for%20Cross-Modality%20Image%20Registration%20and%20Segmentation))  ([Scholar](http://scholar.google.com/scholar?q=MRI%20Image-to-Image%20Translation%20for%20Cross-Modality%20Image%20Registration%20and%20Segmentation))   ([PDF](https://arxiv.org/pdf/1801.06940))([arXiv](https://arxiv.org/abs/1801.06940)) 
-    - `2018/1` __`Medical: Segmentation`__ `New, Medical` 
+    - `2018/1` __`Medical: Segmentation`__ `Medical` 
 
  695. __MRI2MRI: A deep convolutional network that accurately transforms between brain MRI contrasts__ -   ([Search](http://www.google.com/search?q=MRI2MRI%3A%20A%20deep%20convolutional%20network%20that%20accurately%20transforms%20between%20brain%20MRI%20contrasts))  ([Scholar](http://scholar.google.com/scholar?q=MRI2MRI%3A%20A%20deep%20convolutional%20network%20that%20accurately%20transforms%20between%20brain%20MRI%20contrasts))   ([PDF](https://www.biorxiv.org/content/early/2018/03/27/289926.full.pdf))([arXiv](https://www.biorxiv.org/content/early/2018/03/27/289926)) 
     - `2018/3` __`Medical: Translation`__ `Bio, MRI`  __`MRI2MRI`__  
@@ -2162,7 +2162,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
     - `2018/5` 
 
  711. __Neural Networks for Efficient Bayesian Decoding of Natural Images from Retinal Neurons__ -   ([Search](http://www.google.com/search?q=Neural%20Networks%20for%20Efficient%20Bayesian%20Decoding%20of%20Natural%20Images%20from%20Retinal%20Neurons))  ([Scholar](http://scholar.google.com/scholar?q=Neural%20Networks%20for%20Efficient%20Bayesian%20Decoding%20of%20Natural%20Images%20from%20Retinal%20Neurons))   ([PDF](https://www.biorxiv.org/content/early/2018/05/28/153759.full.pdf))([arXiv](https://www.biorxiv.org/content/early/2018/05/28/153759)) 
-    - `2018/5` `New, Bio` 
+    - `2018/5` `Bio` 
 
  712. __Neural Photo Editing with Introspective Adversarial Networks__ -   ([Search](http://www.google.com/search?q=Neural%20Photo%20Editing%20with%20Introspective%20Adversarial%20Networks))  ([Scholar](http://scholar.google.com/scholar?q=Neural%20Photo%20Editing%20with%20Introspective%20Adversarial%20Networks))   ([PDF](https://arxiv.org/pdf/1609.07093.pdf))([arXiv](https://arxiv.org/abs/1609.07093)) ([github](https://github.com/ajbrock/Neural-Photo-Editor)) 
     - :octocat:  `2016/9` `Face Generative and Editing`  __`IAN`__   `Citation: 37`  `Stars: 1608` 
@@ -2324,7 +2324,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
     - `2017/10` 
 
  765. __PixelDefend: Leveraging Generative Models to Understand and Defend against Adversarial Examples__ -   ([Search](http://www.google.com/search?q=PixelDefend%3A%20Leveraging%20Generative%20Models%20to%20Understand%20and%20Defend%20against%20Adversarial%20Examples))  ([Scholar](http://scholar.google.com/scholar?q=PixelDefend%3A%20Leveraging%20Generative%20Models%20to%20Understand%20and%20Defend%20against%20Adversarial%20Examples))   ([PDF](https://openreview.net/pdf?id=rJUYGxbCW))([Web](https://openreview.net/forum?id=rJUYGxbCW)) 
-    - `2018/2` `ICLR2018 Top100, New` 
+    - `2018/2` `ICLR2018 Top100` 
 
  766. __PixelGAN Autoencoders?__ -   ([Search](http://www.google.com/search?q=PixelGAN%20Autoencoders%3F))  ([Scholar](http://scholar.google.com/scholar?q=PixelGAN%20Autoencoders%3F))   ([PDF](https://arxiv.org/pdf/1706.00531.pdf))([arXiv](https://arxiv.org/abs/1706.00531)) 
     - `2017/6` `Theory & Machine Learning`  __`PixelGAN`__   `Citation: 3` 
@@ -2495,7 +2495,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
     - `2018/2`  __`SCH-GAN`__  
 
  822. __scVAE: Variational auto-encoders for single-cell gene expression data__ -   ([Search](http://www.google.com/search?q=scVAE%3A%20Variational%20auto-encoders%20for%20single-cell%20gene%20expression%20data))  ([Scholar](http://scholar.google.com/scholar?q=scVAE%3A%20Variational%20auto-encoders%20for%20single-cell%20gene%20expression%20data))   ([PDF](https://www.biorxiv.org/content/early/2018/05/16/318295.full.pdf))([arXiv](https://www.biorxiv.org/content/early/2018/05/16/318295)) 
-    - `2018/5` `New, Bio`  __`scVAE`__  
+    - `2018/5` `Bio`  __`scVAE`__  
 
  823. __SegAN: Adversarial Network with Multi-scale L1 Loss for Medical Image Segmentation?__ -   ([Search](http://www.google.com/search?q=SegAN%3A%20Adversarial%20Network%20with%20Multi-scale%20L1%20Loss%20for%20Medical%20Image%20Segmentation%3F))  ([Scholar](http://scholar.google.com/scholar?q=SegAN%3A%20Adversarial%20Network%20with%20Multi-scale%20L1%20Loss%20for%20Medical%20Image%20Segmentation%3F))   ([PDF](https://arxiv.org/pdf/1706.01805.pdf))([arXiv](https://arxiv.org/abs/1706.01805)) 
     - `2017/6` __`Medical: Segmentation`__ `Theory & Machine Learning`  __`SegAN`__   `Citation: 4` 
@@ -2654,7 +2654,7 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
     - `2018/4` 
 
  875. __Spatially Transformed Adversarial Examples__ -   ([Search](http://www.google.com/search?q=Spatially%20Transformed%20Adversarial%20Examples))  ([Scholar](http://scholar.google.com/scholar?q=Spatially%20Transformed%20Adversarial%20Examples))   ([PDF](https://openreview.net/pdf?id=HyydRMZC-))([Web](https://openreview.net/forum?id=HyydRMZC-)) 
-    - `2018/2` `ICLR2018 Top100, New` 
+    - `2018/2` `ICLR2018 Top100` 
 
  876. __Spectral Image Visualization Using Generative Adversarial Networks__ -   ([Search](http://www.google.com/search?q=Spectral%20Image%20Visualization%20Using%20Generative%20Adversarial%20Networks))  ([Scholar](http://scholar.google.com/scholar?q=Spectral%20Image%20Visualization%20Using%20Generative%20Adversarial%20Networks))   ([PDF](https://arxiv.org/pdf/1802.02290.pdf))([arXiv](https://arxiv.org/abs/1802.02290)) 
     - `2018/2` 
@@ -3183,6 +3183,6 @@ Contributions are welcome. Please contact me at hollobit@etri.re.kr or send a pu
 
 #### GAN counter: 1049
 
-#### Modified: Wednesday, Jun 27 2018 / 08:36:34
+#### Modified: Wednesday, Jun 27 2018 / 08:51:30
 
 MIT (c) 2017, 2018 Jonathan Jeon

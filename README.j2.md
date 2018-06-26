@@ -4,9 +4,9 @@
 
 The purpose of this repository is providing the curated list of the state-of-the-art works on the field of Generative Adversarial Networks since their introduction in 2014.
 
-<p align="center"><img width="80%" src="wordcloud_title.png" /></p>
+<p align="center"><img width="80%" src="wordcloud_title.png" /><br>(Word Cloud of Title)</p>
 
-<p align="center"><img width="80%" src="wordcloud_category.png" /></p>
+<p align="center"><img width="80%" src="wordcloud_category.png" /><br>(Word Cloud of Title)</p>
 
 It provides a list that merged information from various GAN lists and repositories as below:
 
