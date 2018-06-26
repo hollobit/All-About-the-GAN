@@ -556,7 +556,7 @@ Mnum	Abbr.	Title	Year	Month	Citations	pdf	Arxiv	Official_Code	Tensorflow	PyTorch
 561	-	DiscrimNet: Semi-Supervised Action Recognition from Videos using Generative Adversarial Networks	2018	1	0	https://arxiv.org/pdf/1801.07230.pdf	https://arxiv.org/abs/1801.07230	-	-	-	-	-				-	-
 562	-	Composite Functional Gradient Learning of Generative Adversarial Models	2018	1	0	https://arxiv.org/pdf/1801.06309.pdf	https://arxiv.org/abs/1801.06309	-	-	-	-	-				-	-
 563	-	Comparative Study on Generative Adversarial Networks	2018	1	0	https://arxiv.org/pdf/1801.04271.pdf	https://arxiv.org/abs/1801.04271	-	-	-	-	-				-	-
-564	-	Enhancing Underwater Imagery using Generative Adversarial Networks	2018	1	0	https://arxiv.org/pdf/1801.04011.pdf	https://arxiv.org/abs/1801.04011	-	-	-	-	-				-	-
+564	UGAN	Enhancing Underwater Imagery using Generative Adversarial Networks	2018	1	0	https://arxiv.org/pdf/1801.04011.pdf	https://arxiv.org/abs/1801.04011	-	-	-	-	-				-	-
 565	-	Generative Models for Stochastic Processes Using Convolutional Neural Networks	2018	1	0	https://arxiv.org/pdf/1801.03523.pdf	https://arxiv.org/abs/1801.03523	-	-	-	-	-				-	-
 566	-	Instance Map based Image Synthesis with a Denoising Generative Adversarial Network	2018	1	0	https://arxiv.org/pdf/1801.03252.pdf	https://arxiv.org/abs/1801.03252	-	-	-	-	-				-	-
 567	eCommerceGAN	eCommerceGAN : A Generative Adversarial Network for E-commerce	2018	1	0	https://arxiv.org/pdf/1801.03244.pdf	https://arxiv.org/abs/1801.03244	-	-	-	-	-				-	-
@@ -580,7 +580,7 @@ Mnum	Abbr.	Title	Year	Month	Citations	pdf	Arxiv	Official_Code	Tensorflow	PyTorch
 585	-	Unsupervised Cipher Cracking Using Discrete GANs	2018	1	0	https://openreview.net/pdf?id=BkeqO7x0-	https://openreview.net/forum?id=BkeqO7x0-	-	-	-	-	-				-	-
 586	tempoGAN	"tempoGAN: A Temporally Coherent, Volumetric GAN for Super-resolution Fluid Flow"	2018	1	0	https://arxiv.org/pdf/1801.09710v1.pdf	https://arxiv.org/abs/1801.09710v1	-	-	-	-	-				-	-
 587	-	Video Super-Resolution using Temporal Fusion Generative Adversarial Network	2016		0	http://jimxingyf.com/pdf/16824.pdf	-	-	-	-	-	-				-	-
-588	-	MR-to-CT Synthesis using Cycle-Consistent Generative Adversarial Networks	2017		0	https://www.doc.ic.ac.uk/~bglocker/public/mednips2017/med-nips_2017_paper_8.pdf	-	-	-	-	-	-				-	Medical
+588	-	MR-to-CT Synthesis using Cycle-Consistent Generative Adversarial Networks	2017		0	https://www.doc.ic.ac.uk/~bglocker/public/mednips2017/med-nips_2017_paper_8.pdf	-	-	-	-	-	-				Synthesize	Medical
 589	CytoGAN	CytoGAN: Generative Modeling of Cell Images	2017	12	0	https://www.biorxiv.org/content/early/2017/12/02/227645.full.pdf	https://www.biorxiv.org/content/early/2017/12/02/227645	-	-	-	-	-				-	BioarXiv
 590	-	Generative adversarial networks for reconstructing natural images from brain activity	2017	12	0	https://www.biorxiv.org/content/early/2017/12/08/226688.full.pdf	https://www.biorxiv.org/content/early/2017/12/08/226688	-	-	-	-	-				-	BioarXiv
 591	-	Generative adversarial networks uncover epidermal regulators and predict single cell perturbations	2018	2	0	https://www.biorxiv.org/content/early/2018/02/08/262501.full.pdf	https://www.biorxiv.org/content/early/2018/02/08/262501	-	-	-	-	-				-	BioarXiv
@@ -682,317 +682,369 @@ Mnum	Abbr.	Title	Year	Month	Citations	pdf	Arxiv	Official_Code	Tensorflow	PyTorch
 687	-	Automatic Goal Generation for Reinforcement Learning Agents	2018	1	0	https://openreview.net/pdf?id=SyhRVm-Rb	-	-	-	-	-	-	https://openreview.net/forum?id=SyhRVm-Rb&noteId=rJ3IIW4Sz			-	ICLR2018
 688	-	Spatially Transformed Adversarial Examples	2018	2	0	https://openreview.net/pdf?id=HyydRMZC-	-	-	-	-	-	-	https://openreview.net/forum?id=HyydRMZC-			-	"ICLR2018 Top100, New"
 689	-	PixelDefend: Leveraging Generative Models to Understand and Defend against Adversarial Examples	2018	2	0	https://openreview.net/pdf?id=rJUYGxbCW	-	-	-	-	-	-	https://openreview.net/forum?id=rJUYGxbCW			-	"ICLR2018 Top100, New"
-690	-	Hallucinating Very Low-Resolution Unaligned and Noisy Face Images by Transformative Discriminative Autoencoders	2017		0	http://openaccess.thecvf.com/content_cvpr_2017/papers/Yu_Hallucinating_Very_Low-Resolution_CVPR_2017_paper.pdf	http://openaccess.thecvf.com/content_cvpr_2017/html/Yu_Hallucinating_Very_Low-Resolution_CVPR_2017_paper.html	-	-	-	-	-				-
-691	-	Deep Future Gaze Gaze Anticipation on Egocentric Videos Using Adversarial Networks	2017		0	http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhang_Deep_Future_Gaze_CVPR_2017_paper.pdf	-	-	-	-	-	-				-
-692	-	MARTA GANs Unsupervised Representation Learning for Remote Sensing Image Classification?	2017		0	-	http://ieeexplore.ieee.org/document/8059820/	-	-	-	-	-				-
-693	-	Adversarial Variational Bayes Unifying Variational Autoencoders and Generative Adversarial Networks	2017	1	0	https://arxiv.org/pdf/1701.04722.pdf	https://arxiv.org/abs/1701.04722	-	-	-	-	-				-
-694	-	Adversarial Stain Transfer for Histopathology Image Analysis	2017		0	-	http://ieeexplore.ieee.org/document/8170242/	-	-	-	-	-				-
-695	CoGASA	Coupled generative adversarial stacked Auto-encoder: CoGASA	2018		0	-	https://www.sciencedirect.com/science/article/pii/S0893608018300029	-	-	-	-	-	https://www.ncbi.nlm.nih.gov/pubmed/29428433			-
+690	-	Hallucinating Very Low-Resolution Unaligned and Noisy Face Images by Transformative Discriminative Autoencoders	2017		0	http://openaccess.thecvf.com/content_cvpr_2017/papers/Yu_Hallucinating_Very_Low-Resolution_CVPR_2017_paper.pdf	http://openaccess.thecvf.com/content_cvpr_2017/html/Yu_Hallucinating_Very_Low-Resolution_CVPR_2017_paper.html	-	-	-	-	-				-	-
+691	-	Deep Future Gaze Gaze Anticipation on Egocentric Videos Using Adversarial Networks	2017		0	http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhang_Deep_Future_Gaze_CVPR_2017_paper.pdf	-	-	-	-	-	-				-	-
+692	-	MARTA GANs Unsupervised Representation Learning for Remote Sensing Image Classification?	2017		0	-	http://ieeexplore.ieee.org/document/8059820/	-	-	-	-	-				-	-
+693	-	Adversarial Variational Bayes Unifying Variational Autoencoders and Generative Adversarial Networks	2017	1	0	https://arxiv.org/pdf/1701.04722.pdf	https://arxiv.org/abs/1701.04722	-	-	-	-	-				-	-
+694	-	Adversarial Stain Transfer for Histopathology Image Analysis	2017		0	-	http://ieeexplore.ieee.org/document/8170242/	-	-	-	-	-				-	-
+695	CoGASA	Coupled generative adversarial stacked Auto-encoder: CoGASA	2018		0	-	https://www.sciencedirect.com/science/article/pii/S0893608018300029	-	-	-	-	-	https://www.ncbi.nlm.nih.gov/pubmed/29428433			-	-
 696	-	Cross-Modality Synthesis from CT to PET using FCN and GAN Networks for Improved Automated Lesion Detection	2018	2	0	https://arxiv.org/pdf/1802.07846.pdf	https://arxiv.org/abs/1802.07846	-	-	-	-	-				Detection	Medical
-697	-	Load Balanced GANs for Multi-view Face Image Synthesis	2018	2	0	https://arxiv.org/pdf/1802.07447.pdf	https://arxiv.org/abs/1802.07447	-	-	-	-	-				-
-698	-	A Study into the similarity in generator and discriminator in GAN architecture	2018	2	0	https://arxiv.org/pdf/1802.07401.pdf	https://arxiv.org/abs/1802.07401	-	-	-	-	-				-
-699	-	Voice Impersonation using Generative Adversarial Networks	2018	2	0	https://arxiv.org/pdf/1802.06840.pdf	https://arxiv.org/abs/1802.06840	-	-	-	-	-				-
-700	-	Differentially Private Generative Adversarial Network	2018	2	0	https://arxiv.org/pdf/1802.06739.pdf	https://arxiv.org/abs/1802.06739	-	-	-	-	-				-
-701	-	Are Generative Classifiers More Robust to Adversarial Attacks?	2018	2	0	https://arxiv.org/pdf/1802.06552.pdf	https://arxiv.org/abs/1802.06552	-	-	-	-	-				-
-702	DA-GAN	DA-GAN: Instance-level Image Translation by Deep Attention Generative Adversarial Networks (with Supplementary Materials)	2018	2	0	https://arxiv.org/pdf/1802.06454.pdf	https://arxiv.org/abs/1802.06454	-	-	-	-	-				-
-703	RadialGAN	RadialGAN: Leveraging multiple datasets to improve target-specific predictive models using Generative Adversarial Networks	2018	2	0	https://arxiv.org/pdf/1802.06403.pdf	https://arxiv.org/abs/1802.06403	-	-	-	-	-				-
-704	-	Efficient GAN-Based Anomaly Detection	2018	2	0	https://arxiv.org/pdf/1802.06222.pdf	https://arxiv.org/abs/1802.06222	-	-	-	-	-				-
-705	CapsuleGAN	CapsuleGAN: Generative Adversarial Capsule Network	2018	2	0	https://arxiv.org/pdf/1802.06167.pdf	https://arxiv.org/abs/1802.06167	-	-	-	-	-				-
-706	-	Interaction Matters: A Note on Non-asymptotic Local Convergence of Generative Adversarial Networks	2018	2	0	https://arxiv.org/pdf/1802.06132.pdf	https://arxiv.org/abs/1802.06132	-	-	-	-	-				-
-707	-	Spectral Normalization for Generative Adversarial Networks	2018	2	0	https://arxiv.org/pdf/1802.05957.pdf	https://arxiv.org/abs/1802.05957	-	-	-	-	-				-
-708	-	ASP:A Fast Adversarial Attack Example Generation Framework based on Adversarial Saliency Prediction	2018	2	0	https://arxiv.org/pdf/1802.05763.pdf	https://arxiv.org/abs/1802.05763	-	-	-	-	-				-
-709	-	Inverting The Generator Of A Generative Adversarial Network (II)	2018	2	0	https://arxiv.org/pdf/1802.05701.pdf	https://arxiv.org/abs/1802.05701	-	-	-	-	-				-
-710	-	Conditioning of three-dimensional generative adversarial networks for pore and reservoir-scale models	2018	2	0	https://arxiv.org/pdf/1802.05622.pdf	https://arxiv.org/abs/1802.05622	-	-	-	-	-				-
-711	-	Selecting the Best in GANs Family: a Post Selection Inference Framework	2018	2	0	https://arxiv.org/pdf/1802.05411.pdf	https://arxiv.org/abs/1802.05411	-	-	-	-	-				-
-712	-	Satellite Image Forgery Detection and Localization Using GAN and One-Class Classifier<Framework	2018	2	0	https://arxiv.org/pdf/1802.04881.pdf	https://arxiv.org/abs/1802.04881	-	-	-	-	-				-
-713	-	Joint Demosaicing and Denoising with Perceptual Optimization on a Generative Adversarial Network	2018	2	0	https://arxiv.org/pdf/1802.04723.pdf	https://arxiv.org/abs/1802.04723	-	-	-	-	-				-
-714	-	First Order Generative Adversarial Networks	2018	2	0	https://arxiv.org/pdf/1802.04591.pdf	https://arxiv.org/abs/1802.04591	-	-	-	-	-				-
-715	-	Pros and Cons of GAN Evaluation Measures	2018	2	0	https://arxiv.org/pdf/1802.03446.pdf	https://arxiv.org/abs/1802.03446	-	-	-	-	-				-
-716	-	Generating and refining particle detector simulations using the Wasserstein distance in adversarial networks	2018	2	0	https://arxiv.org/pdf/1802.03325.pdf	https://arxiv.org/abs/1802.03325	-	-	-	-	-				-
-717	-	Generating Realistic Geology Conditioned on Physical Measurements with Generative Adversarial Networks	2018	2	0	https://arxiv.org/pdf/1802.03065.pdf	https://arxiv.org/abs/1802.03065	-	-	-	-	-				-
-718	-	Generating Triples with Adversarial Networks for Scene Graph Construction	2018	2	0	https://arxiv.org/pdf/1802.02598.pdf	https://arxiv.org/abs/1802.02598	-	-	-	-	-				-
-719	-	Bitewing Radiography Semantic Segmentation Base on Conditional Generative Adversarial Nets	2018	2	0	https://arxiv.org/pdf/1802.02571.pdf	https://arxiv.org/abs/1802.02571	-	-	-	-	-				-
-720	-	DeepRoad: GAN-based Metamorphic Autonomous Driving System Testing	2018	2	0	https://arxiv.org/pdf/1802.02295.pdf	https://arxiv.org/abs/1802.02295	-	-	-	-	-				-
-721	-	Selective Sampling and Mixture Models in Generative Adversarial Networks	2018	2	0	https://arxiv.org/pdf/1802.01568.pdf	https://arxiv.org/abs/1802.01568	-	-	-	-	-				-
-722	-	Image Synthesis in Multi-Contrast MRI with Conditional Generative Adversarial Networks	2018	2	0	https://arxiv.org/pdf/1802.01221.pdf	https://arxiv.org/abs/1802.01221	-	-	-	-	-				-	Medical
-723	-	No Modes left behind: Capturing the data distribution effectively using GANs	2018	2	0	https://arxiv.org/pdf/1802.00771.pdf	https://arxiv.org/abs/1802.00771	-	-	-	-	-				-
-724	-	Face Synthesis with Landmark Points from Generative Adversarial Networks and Inverse Latent Space Mapping	2018	2	0	https://arxiv.org/pdf/1802.00390.pdf	https://arxiv.org/abs/1802.00390	-	-	-	-	-				-
-725	-	Predicting Rapid Fire Growth (Flashover) Using Conditional Generative Adversarial Networks	2018	1	0	https://arxiv.org/pdf/1801.09804.pdf	https://arxiv.org/abs/1801.09804	-	-	-	-	-				-
-726	-	Interactive Generative Adversarial Networks for Facial Expression Generation in Dyadic Interactions	2018	1	0	https://arxiv.org/pdf/1801.09092.pdf	https://arxiv.org/abs/1801.09092	-	-	-	-	-				-
-727	-	Generating Instance Segmentation Annotation by Geometry-guided GAN	2018	1	0	https://arxiv.org/pdf/1801.08839.pdf	https://arxiv.org/abs/1801.08839	-	-	-	-	-				-
-728	-	Black-box Generation of Adversarial Text Sequences to Evade Deep Learning Classifiers	2018	1	0	https://arxiv.org/pdf/1801.04354.pdf	https://arxiv.org/abs/1801.04354	-	-	-	-	-				-
-729	-	A Deep Generative Adversarial Architecture for Network-Wide Spatial-Temporal Traffic State Estimation	2018	1	0	https://arxiv.org/pdf/1801.03818.pdf	https://arxiv.org/abs/1801.03818	-	-	-	-	-				-
-730	-	Novelty Detection with GAN	2018	2	0	https://arxiv.org/pdf/1802.10560.pdf	https://arxiv.org/abs/1802.10560	-	-	-	-	-				-
-731	-	Single-View Food Portion Estimation: Learning Image-to-Energy Mappings Using Generative Adversarial Networks	2018	2	0	https://arxiv.org/pdf/1802.09670.pdf	https://arxiv.org/abs/1802.09670	-	-	-	-	-				-
-732	-	Translating and Segmenting Multimodal Medical Volumes with Cycle- and Shape-Consistency Generative Adversarial Network	2018	2	0	https://arxiv.org/pdf/1802.09655.pdf	https://arxiv.org/abs/1802.09655	-	-	-	-	-				-	Medical
-733	-	Photographic Text-to-Image Synthesis with a Hierarchically-nested Adversarial Network	2018	2	0	https://arxiv.org/pdf/1802.09178.pdf	https://arxiv.org/abs/1802.09178	-	-	-	-	-				-
-734	-	PBGAN: Partial Binarization of Deconvolution Based Generators	2018	2	0	https://arxiv.org/pdf/1802.09153.pdf	https://arxiv.org/abs/1802.09153	-	-	-	-	-				-
-735	ATA-GANs	Attention-Aware Generative Adversarial Networks (ATA-GANs)	2018	2	0	https://arxiv.org/pdf/1802.09070.pdf	https://arxiv.org/abs/1802.09070	-	-	-	-	-				-
-736	-	Is Generator Conditioning Causally Related to GAN Performance?	2018	2	0	https://arxiv.org/pdf/1802.08768.pdf	https://arxiv.org/abs/1802.08768	-	-	-	-	-				-
-737	-	"GANs for Simulation, Representation and Inference"	2018	2	0	-	-	-	-	-	-	-	https://becominghuman.ai/gans-for-simulation-representation-and-inference-d215c251ed12?source=linkShare-63b654a4067b-1519863657			-
-738	-	Compositional Pattern Producing GAN 	2017		0	https://papers.nips.cc/paper/7109-triangle-generative-adversarial-networks.pdf		-	-	-	-	-				-
-739	-	Cross-View Image Synthesis using Conditional GANs	2018	3	0	https://arxiv.org/pdf/1803.03396.pdf	https://arxiv.org/abs/1803.03396	-	-	-	-	-				-
-740	-	Task Specific Visual Saliency Prediction with Memory Augmented Conditional Generative Adversarial Networks	2018	3	0	https://arxiv.org/pdf/1803.03354.pdf	https://arxiv.org/abs/1803.03354	-	-	-	-	-				-
-741	-	Generating Differentially Private Datasets Using GANs	2018	3	0	https://arxiv.org/pdf/1803.03148.pdf	https://arxiv.org/abs/1803.03148	-	-	-	-	-				-
-742	ST-GAN	ST-GAN: Spatial Transformer Generative Adversarial Networks for Image Compositing	2018	3	0	https://arxiv.org/pdf/1803.01837.pdf	https://arxiv.org/abs/1803.01837	-	-	-	-	-				-
-743	-	One-Class Adversarial Nets for Fraud Detection	2018	3	0	https://arxiv.org/pdf/1803.01798.pdf	https://arxiv.org/abs/1803.01798	-	-	-	-	-				-
-744	-	Improving the Improved Training of Wasserstein GANs: A Consistency Term and Its Dual Effect	2018	3	0	https://arxiv.org/pdf/1803.01541.pdf	https://arxiv.org/abs/1803.01541	-	-	-	-	-				-
-745	-	Memorization Precedes Generation: Learning Unsupervised GANs with Memory Networks	2018	3	0	https://arxiv.org/pdf/1803.01500.pdf	https://arxiv.org/abs/1803.01500	-	-	-	-	-				-
-746	-	Efficient and Accurate MRI Super-Resolution using a Generative Adversarial Network and 3D Multi-Level Densely Connected Network	2018	3	0	https://arxiv.org/pdf/1803.01417.pdf	https://arxiv.org/abs/1803.01417	-	-	-	-	-				-	Medical
-747	-	GAN-based Synthetic Medical Image Augmentation for increased CNN Performance in Liver Lesion Classification	2018	3	0	https://arxiv.org/pdf/1803.01229.pdf	https://arxiv.org/abs/1803.01229	-	-	-	-	-				-
-748	-	Quantitatively Evaluating GANs With Divergences Proposed for Training	2018	3	0	https://arxiv.org/pdf/1803.01045.pdf	https://arxiv.org/abs/1803.01045	-	-	-	-	-				-
-749	-	"Can we steal your vocal identity from the Internet?: Initial investigation of cloning Obama's voice using GAN, WaveNet and low-quality found data"	2018	3	0	https://arxiv.org/pdf/1803.00860.pdf	https://arxiv.org/abs/1803.00860	-	-	-	-	-				-
-750	NetGAN	NetGAN: Generating Graphs via Random Walks	2018	3	0	https://arxiv.org/pdf/1803.00816.pdf	https://arxiv.org/abs/1803.00816	-	-	-	-	-				-
-751	-	Evolutionary Generative Adversarial Networks	2018	3	0	https://arxiv.org/pdf/1803.00657.pdf	https://arxiv.org/abs/1803.00657	-	-	-	-	-				-
-752	MAGAN	MAGAN: Aligning Biological Manifolds	2018	3	0	https://arxiv.org/pdf/1803.00385.pdf	https://arxiv.org/abs/1803.00385	-	-	-	-	-				-
-753	-	Synthesizing realistic neural population activity patterns using Generative Adversarial Networks	2018	3	0	https://arxiv.org/pdf/1803.00338.pdf	https://arxiv.org/abs/1803.00338	-	-	-	-	-				-
-754	-	A Variational Inequality Perspective on Generative Adversarial Nets	2018	2	0	https://arxiv.org/pdf/1802.10551.pdf	https://arxiv.org/abs/1802.10551	-	-	-	-	-				-
-755	-	Robust GANs against Dishonest Adversaries	2018	2	0	https://arxiv.org/pdf/1802.09700.pdf	https://arxiv.org/abs/1802.09700	-	-	-	-	-				-
-756	-	Solving Linear Inverse Problems Using GAN Priors: An Algorithm with Provable Guarantees	2018	2	0	https://arxiv.org/pdf/1802.08406.pdf	https://arxiv.org/abs/1802.08406	-	-	-	-	-				-
-757	-	Solving Approximate Wasserstein GANs to Stationarity	2018	2	0	https://arxiv.org/pdf/1802.08249.pdf	https://arxiv.org/abs/1802.08249	-	-	-	-	-				-
-758	-	Generative adversarial networks as a tool to recover structural information from cryo-electron microscopy data	2018	2	0	https://www.biorxiv.org/content/early/2018/02/12/256792.full.pdf	https://www.biorxiv.org/content/early/2018/02/12/256792	-	-	-	-	-				-
-759	-	Varying k-Lipschitz Constraint for Generative Adversarial Networks	2018	3	0	https://arxiv.org/abs/1803.06107	https://arxiv.org/abs/1803.06107	-	-	-	-	-				-	New
-760	-	On Generation of Adversarial Examples using Convex Programming	2018	3	0	https://arxiv.org/pdf/1803.03607	https://arxiv.org/abs/1803.03607	-	-	-	-	-				-	New
-761	-	Learning the Base Distribution in Implicit Generative Models	2018	3	0	https://arxiv.org/pdf/1803.04357	https://arxiv.org/abs/1803.04357	-	-	-	-	-				-	New
-762	-	An Introduction to Image Synthesis with Generative Adversarial Nets	2018	3	0	https://arxiv.org/pdf/1803.04469	https://arxiv.org/abs/1803.04469	-	-	-	-	-				-	New
-763	-	Correction by Projection: Denoising Images with Generative Adversarial Networks	2018	3	0	https://arxiv.org/pdf/1803.04477	https://arxiv.org/abs/1803.04477	-	-	-	-	-				-	New
-764	-	Adversarial Data Programming: Using GANs to Relax the Bottleneck of Curated Labeled Data	2018	3	0	https://arxiv.org/pdf/1803.05137	https://arxiv.org/abs/1803.05137	-	-	-	-	-				-	New
-765	-	Image Colorization with Generative Adversarial Networks	2018	3	0	https://arxiv.org/pdf/1803.05400	https://arxiv.org/abs/1803.05400	-	-	-	-	-				-	New
-766	-	Improving GANs Using Optimal Transport	2018	3	0	https://arxiv.org/pdf/1803.05573	https://arxiv.org/abs/1803.05573	-	-	-	-	-				-	New
-767	-	Improved Part Segmentation Performance by Optimising Realism of Synthetic Images using Cycle Generative Adversarial Networks	2018	3	0	https://arxiv.org/pdf/1803.06301	https://arxiv.org/abs/1803.06301	-	-	-	-	-				-	New
-768	-	Attention-GAN for Object Transfiguration in Wild Images	2018	3	0	https://arxiv.org/pdf/1803.06798	https://arxiv.org/abs/1803.06798	-	-	-	-	-				-	New
-769	-	Adversarial Generalized Method of Moments	2018	3	0	https://arxiv.org/pdf/1803.07164	https://arxiv.org/abs/1803.07164	-	-	-	-	-				-	New
-770	-	Patch-Based Image Inpainting with Generative Adversarial Networks	2018	3	0	https://arxiv.org/pdf/1803.07422	https://arxiv.org/abs/1803.07422	-	-	-	-	-				-	New
-771	-	Speech-Driven Facial Reenactment Using Conditional Generative Adversarial Networks	2018	3	0	https://arxiv.org/pdf/1803.07461	https://arxiv.org/abs/1803.07461	-	-	-	-	-				-	New
-772	-	An Improved Evaluation Framework for Generative Adversarial Networks	2018	3	0	https://arxiv.org/pdf/1803.07474	https://arxiv.org/abs/1803.07474	-	-	-	-	-				-	New
-773	-	Generative Multi-Agent Behavioral Cloning	2018	3	0	https://arxiv.org/pdf/1803.07612	https://arxiv.org/abs/1803.07612	-	-	-	-	-				-	New
-774	-	Generative Adversarial Talking Head: Bringing Portraits to Life with a Weakly Supervised Neural Network	2018	3	0	https://arxiv.org/pdf/1803.07716	https://arxiv.org/abs/1803.07716	-	-	-	-	-				-	New
-775	-	Some Theoretical Properties of GANs	2018	3	0	https://arxiv.org/pdf/1803.07819	https://arxiv.org/abs/1803.07819	-	-	-	-	-				-	New
-776	-	Enforcing constraints for interpolation and extrapolation in Generative Adversarial Networks	2018	3	0	https://arxiv.org/pdf/1803.08182	https://arxiv.org/abs/1803.08182	-	-	-	-	-				-	New
-777	-	Branched Generative Adversarial Networks for Multi-Scale Image Manifold Learning	2018	3	0	https://arxiv.org/pdf/1803.08467	https://arxiv.org/abs/1803.08467	-	-	-	-	-				-	New
-778	-	Generalized Scene Reconstruction	2018	3	0	https://arxiv.org/pdf/1803.08496	https://arxiv.org/abs/1803.08496	-	-	-	-	-				-	New
-779	-	Fictitious GAN: Training GANs with Historical Models	2018	3	0	https://arxiv.org/pdf/1803.08647	https://arxiv.org/abs/1803.08647	-	-	-	-	-				-	New
-780	-	Generative Adversarial Autoencoder Networks	2018	3	0	https://arxiv.org/pdf/1803.08887	https://arxiv.org/abs/1803.08887	-	-	-	-	-				-	New
-781	-	MTGAN: Speaker Verification through Multitasking Triplet Generative Adversarial Networks	2018	3	0	https://arxiv.org/pdf/1803.09059	https://arxiv.org/abs/1803.09059	-	-	-	-	-				-	New
-782	-	Comparing Generative Adversarial Network Techniques for Image Creation and Modification	2018	3	0	https://arxiv.org/pdf/1803.09093	https://arxiv.org/abs/1803.09093	-	-	-	-	-				-	New
-783	-	SUNLayer: Stable denoising with generative networks	2018	3	0	https://arxiv.org/pdf/1803.09319	https://arxiv.org/abs/1803.09319	-	-	-	-	-				-	New
-784	-	Correcting differences in multi-site neuroimaging data using Generative Adversarial Networks	2018	3	0	https://arxiv.org/pdf/1803.09375	https://arxiv.org/abs/1803.09375	-	-	-	-	-				-	New
-785	-	Regularizing Deep Hashing Networks Using GAN Generated Fake Images	2018	3	0	https://arxiv.org/pdf/1803.09466	https://arxiv.org/abs/1803.09466	-	-	-	-	-				-	New
-786	-	Fr?chet ChemblNet Distance: A metric for generative models for molecules	2018	3	0	https://arxiv.org/pdf/1803.09518	https://arxiv.org/abs/1803.09518	-	-	-	-	-				-	New
-787	-	BAGAN: Data Augmentation with Balancing GAN	2018	3	0	https://arxiv.org/pdf/1803.09655	https://arxiv.org/abs/1803.09655	-	-	-	-	-				-	New
-788	-	Investigating Generative Adversarial Networks based Speech Dereverberation for Robust Speech Recognition	2018	3	0	https://arxiv.org/pdf/1803.10132	https://arxiv.org/abs/1803.10132	-	-	-	-	-				-	New
-789	-	Graphite: Iterative Generative Modeling of Graphs	2018	3	0	https://arxiv.org/pdf/1803.10459	https://arxiv.org/abs/1803.10459	-	-	-	-	-				-	New
-790	-	ELEGANT: Exchanging Latent Encodings with GAN for Transferring Multiple Face Attributes	2018	3	0	https://arxiv.org/pdf/1803.10562	https://arxiv.org/abs/1803.10562	-	-	-	-	-				-	New
-791	-	Social GAN: Socially Acceptable Trajectories with Generative Adversarial Networks	2018	3	0	https://arxiv.org/pdf/1803.10892	https://arxiv.org/abs/1803.10892	-	-	-	-	-				-	New
-792	-	Dihedral angle prediction using generative adversarial networks	2018	3	0	https://arxiv.org/pdf/1803.10996	https://arxiv.org/abs/1803.10996	-	-	-	-	-				-	New
-793	-	3D Consistent Biventricular Myocardial Segmentation Using Deep Learning for Mesh Generation	2018	3	0	https://arxiv.org/pdf/1803.11080	https://arxiv.org/abs/1803.11080	-	-	-	-	-				-	"New, 3D"
-794	-	Generative Modeling using the Sliced Wasserstein Distance	2018	3	0	https://arxiv.org/pdf/1803.11188	https://arxiv.org/abs/1803.11188	-	-	-	-	-				-	New
-795	-	Deep Genomic Signature for early metastasis prediction in prostate cancer	2018	3	0	https://www.biorxiv.org/content/early/2018/03/04/276055.full.pdf	https://www.biorxiv.org/content/early/2018/03/04/276055	-	-	-	-	-				-	"New, Bio"
-796	-	A Deep Predictive Coding Network for Learning Latent Representations	2018	3	0	https://www.biorxiv.org/content/early/2018/03/26/278218.full.pdf	https://www.biorxiv.org/content/early/2018/03/26/278218	-	-	-	-	-				-	"New, Bio"
-797	-	MRI2MRI: A deep convolutional network that accurately transforms between brain MRI contrasts	2018	3	0	https://www.biorxiv.org/content/early/2018/03/27/289926.full.pdf	https://www.biorxiv.org/content/early/2018/03/27/289926	-	-	-	-	-				-	"New, Bio"
-798	-	Can AI reproduce observed chemical diversity?	2018	3	0	https://www.biorxiv.org/content/early/2018/03/30/292177.full.pdf	https://www.biorxiv.org/content/early/2018/03/30/292177	-	-	-	-	-				-	"New, Bio"
-799	-	Learning Beyond Human Expertise with Generative Models for Dental Restorations	2018	4	0	https://arxiv.org/pdf/1804.00064	https://arxiv.org/abs/1804.00064	-	-	-	-	-				-	New
-800	-	Generative Adversarial Networks (GANs): What it can generate and What it cannot?	2018	4	0	https://arxiv.org/pdf/1804.00140	https://arxiv.org/abs/1804.00140	-	-	-	-	-				-	New
-801	-	I-vector Transformation Using Conditional Generative Adversarial Networks for Short Utterance Speaker Verification	2018	4	0	https://arxiv.org/pdf/1804.00290	https://arxiv.org/abs/1804.00290	-	-	-	-	-				-	New
-802	-	Completely Unsupervised Phoneme Recognition by?Adversarially?Learning Mapping Relationships from Audio Embeddings	2018	4	0	https://arxiv.org/pdf/1804.00316	https://arxiv.org/abs/1804.00316	-	-	-	-	-				-	New
-803	-	SyncGAN: Synchronize the Latent Space of Cross-modal Generative Adversarial Networks	2018	4	0	https://arxiv.org/pdf/1804.00410	https://arxiv.org/abs/1804.00410	-	-	-	-	-				-	New
-804	-	A Multi-Discriminator CycleGAN for Unsupervised Non-Parallel Speech Domain Adaptation	2018	4	0	https://arxiv.org/pdf/1804.00522v2	https://arxiv.org/abs/1804.00522v2	-	-	-	-	-				-	New
-805	-	Generative Adversarial Learning for Spectrum Sensing	2018	4	0	https://arxiv.org/pdf/1804.00709	https://arxiv.org/abs/1804.00709	-	-	-	-	-				-	New
-806	-	Generating Diverse and Accurate Visual Captions by Comparative Adversarial Learning	2018	4	0	https://arxiv.org/pdf/1804.00861	https://arxiv.org/abs/1804.00861	-	-	-	-	-				-	New
-807	-	Speech waveform synthesis from MFCC sequences with generative adversarial networks	2018	4	0	https://arxiv.org/pdf/1804.00920	https://arxiv.org/abs/1804.00920	-	-	-	-	-				-	New
-808	-	DeSIGN: Design Inspiration from Generative Networks	2018	4	0	https://arxiv.org/pdf/1804.00921	https://arxiv.org/abs/1804.00921	-	-	-	-	-				-	New
-809	-	Correlated discrete data generation using adversarial training	2018	4	0	https://arxiv.org/pdf/1804.00925	https://arxiv.org/abs/1804.00925	-	-	-	-	-				-	New
-810	-	Synthesizing Programs for Images using Reinforced?Adversarial?Learning	2018	4	0	https://arxiv.org/pdf/1804.01118	https://arxiv.org/abs/1804.01118	-	-	-	-	-				-	New
-811	-	Feedback GAN (FBGAN) for DNA: a Novel Feedback-Loop Architecture for Optimizing Protein Functions	2018	4	0	https://arxiv.org/pdf/1804.01694	https://arxiv.org/abs/1804.01694	-	-	-	-	-				-	New
-812	-	Sliced-Wasserstein Autoencoder: An Embarrassingly Simple Generative Model	2018	4	0	https://arxiv.org/pdf/1804.01947	https://arxiv.org/abs/1804.01947	-	-	-	-	-				-	New
-813	-	Pedestrian-Synthesis-GAN: Generating Pedestrian Data in Real Scene and Beyond	2018	4	0	https://arxiv.org/pdf/1804.02047	https://arxiv.org/abs/1804.02047	-	-	-	-	-				-	New
-814	-	Generative adversarial network-based approach to signal reconstruction from magnitude spectrograms	2018	4	0	https://arxiv.org/pdf/1804.02181	https://arxiv.org/abs/1804.02181	-	-	-	-	-				-	New
-815	-	Language Modeling with Generative AdversarialNetworks	2018	4	0	https://arxiv.org/pdf/1804.02617	https://arxiv.org/abs/1804.02617	-	-	-	-	-				-	New
-816	-	Facial Aging and Rejuvenation by Conditional Multi-Adversarial?Autoencoder with Ordinal Regression	2018	4	0	https://arxiv.org/pdf/1804.02740	https://arxiv.org/abs/1804.02740	-	-	-	-	-				-	New
-817	-	Generative Adversarial Networks for Extreme Learned Image Compression	2018	4	0	https://arxiv.org/pdf/1804.02958	https://arxiv.org/abs/1804.02958	-	-	-	-	-				-	New
-818	-	Understanding Humans in Crowded Scenes: Deep Nested?Adversarial?Learning and A New Benchmark for Multi-Human Parsing	2018	4	0	https://arxiv.org/pdf/1804.03287	https://arxiv.org/abs/1804.03287	-	-	-	-	-				-	New
-819	-	Modular Generative Adversarial Networks	2018	4	0	https://arxiv.org/pdf/1804.03343	https://arxiv.org/abs/1804.03343	-	-	-	-	-				-	New
-820	-	Graphical Generative Adversarial Networks	2018	4	0	https://arxiv.org/pdf/1804.03429	https://arxiv.org/abs/1804.03429	-	-	-	-	-				-	New
-821	-	Semi-supervised Adversarial Learning to Generate Photorealistic Face Images of New Identities from 3D Morphable Model	2018	4	0	https://arxiv.org/pdf/1804.03675	https://arxiv.org/abs/1804.03675	-	-	-	-	-				-	"New, 3D"
-822	-	Unsupervised and semi-supervised learning with Categorical Generative Adversarial Networks assisted by Wasserstein distance for dermoscopy image Classification	2018	4	0	https://arxiv.org/pdf/1804.03700	https://arxiv.org/abs/1804.03700	-	-	-	-	-				Classification	New
-823	-	CoT: Cooperative Training for Generative Modeling	2018	4	0	https://arxiv.org/pdf/1804.03782	https://arxiv.org/abs/1804.03782	-	-	-	-	-				-	New
-824	-	Ranking Generative Adversarial Networks: Subjective Control over Semantic Image Attributes	2018	4	0	https://arxiv.org/pdf/1804.04082	https://arxiv.org/abs/1804.04082	-	-	-	-	-				-	New
-825	-	Causal Generative Domain Adaptation Networks	2018	4	0	https://arxiv.org/pdf/1804.04333	https://arxiv.org/abs/1804.04333	-	-	-	-	-				-	New
-826	-	MelanoGANs: High Resolution Skin Lesion Synthesis with GANs	2018	4	0	https://arxiv.org/pdf/1804.04338	https://arxiv.org/abs/1804.04338	-	-	-	-	-				Synthersize	New
-827	-	Generative Adversarial Training for MRA Image Synthesis Using Multi-Contrast MRI	2018	4	0	https://arxiv.org/pdf/1804.04366	https://arxiv.org/abs/1804.04366	-	-	-	-	-				-	New
-828	-	Blood Vessel Geometry Synthesis using Generative Adversarial Networks	2018	4	0	https://arxiv.org/pdf/1804.04381	https://arxiv.org/abs/1804.04381	-	-	-	-	-				Synthersize	New
-829	-	MGGAN: Solving Mode Collapse using Manifold Guided Training	2018	4	0	https://arxiv.org/pdf/1804.04391	https://arxiv.org/abs/1804.04391	-	-	-	-	-				-	New
-830	-	Generative models for local network community detection	2018	4	0	https://arxiv.org/pdf/1804.04469	https://arxiv.org/abs/1804.04469	-	-	-	-	-				-	New
-831	-	A Hybrid Model for Identity Obfuscation by Face Replacement	2018	4	0	https://arxiv.org/pdf/1804.04779	https://arxiv.org/abs/1804.04779	-	-	-	-	-				-	New
-832	-	Talking Face Generation by Conditional Recurrent Adversarial Network	2018	4	0	https://arxiv.org/pdf/1804.04786	https://arxiv.org/abs/1804.04786	-	-	-	-	-				-	New
-833	-	Group Anomaly Detection using Deep Generative Models	2018	4	0	https://arxiv.org/pdf/1804.04876	https://arxiv.org/abs/1804.04876	-	-	-	-	-				-	New
-834	-	Generative Adversarial Network based Autoencoder: Application to fault detection problem for closed loop dynamical systems	2018	4	0	https://arxiv.org/pdf/1804.05320	https://arxiv.org/abs/1804.05320	-	-	-	-	-				-	New
-835	-	AF-DCGAN: Amplitude Feature Deep Convolutional GAN for Fingerprint Construction in Indoor Localization System	2018	4	0	https://arxiv.org/pdf/1804.05347	https://arxiv.org/abs/1804.05347	-	-	-	-	-				-	New
-836	-	IterGANs: Iterative GANs to Learn and Control 3D Object Transformation	2018	4	0	https://arxiv.org/pdf/1804.05651	https://arxiv.org/abs/1804.05651	-	-	-	-	-				-	"New, 3D"
-837	-	Defo-Net: Learning Body Deformation using Generative Adversarial Networks	2018	4	0	https://arxiv.org/pdf/1804.05928	https://arxiv.org/abs/1804.05928	-	-	-	-	-				-	New
-838	-	Adversarial?Example?Generation?with Syntactically Controlled Paraphrase?Networks	2018	4	0	https://arxiv.org/pdf/1804.06059	https://arxiv.org/abs/1804.06059	-	-	-	-	-				-	New
-839	-	PM-GANs: Discriminative Representation Learning for Action Recognition Using Partial-modalities	2018	4	0	https://arxiv.org/pdf/1804.06248	https://arxiv.org/abs/1804.06248	-	-	-	-	-				-	New
-840	-	DGPose: Disentangled Semi-supervised Deep Generative Models for Human Body Analysis	2018	4	0	https://arxiv.org/pdf/1804.06364	https://arxiv.org/abs/1804.06364	-	-	-	-	-				-	New
-841	-	Deep Generative Networks For Sequence Prediction	2018	4	0	https://arxiv.org/pdf/1804.06546	https://arxiv.org/abs/1804.06546	-	-	-	-	-				-	New
-842	-	Adversarial?Complementary Learning for Weakly Supervised Object Localization	2018	4	0	https://arxiv.org/pdf/1804.06962	https://arxiv.org/abs/1804.06962	-	-	-	-	-				-	New
-843	-	Estimation of Tissue Oxygen Saturation from RGB Images based on Pixel-level Image Translation	2018	4	0	https://arxiv.org/pdf/1804.07116	https://arxiv.org/abs/1804.07116	-	-	-	-	-				-	New
-844	-	Functional Generative Design: An Evolutionary Approach to 3D-Printing	2018	4	0	https://arxiv.org/pdf/1804.07284	https://arxiv.org/abs/1804.07284	-	-	-	-	-				-	"New, 3DP"
-845	-	Unsupervised Representation Adversarial Learning Network: from Reconstruction to Generation	2018	4	0	https://arxiv.org/pdf/1804.07353	https://arxiv.org/abs/1804.07353	-	-	-	-	-				-	New
-846	-	Generating?a Fusion Image: One's Identity and Another's Shape	2018	4	0	https://arxiv.org/pdf/1804.07455	https://arxiv.org/abs/1804.07455	-	-	-	-	-				-	New
-847	-	Synthesizing Images of Humans in Unseen Poses	2018	4	0	https://arxiv.org/pdf/1804.07739	https://arxiv.org/abs/1804.07739	-	-	-	-	-				-	New
-848	-	Event Extraction with Generative Adversarial Imitation Learning	2018	4	0	https://arxiv.org/pdf/1804.07881	https://arxiv.org/abs/1804.07881	-	-	-	-	-				-	New
-849	-	Unsupervised Natural Language Generation with Denoising Autoencoders	2018	4	0	https://arxiv.org/pdf/1804.07899	https://arxiv.org/abs/1804.07899	-	-	-	-	-				-	New
-850	-	Spatial Image Steganography Based on Generative Adversarial Network	2018	4	0	https://arxiv.org/pdf/1804.07939	https://arxiv.org/abs/1804.07939	-	-	-	-	-				-	New
-851	-	Learning Myelin Content in Multiple Sclerosis from Multimodal MRI through?Adversarial?Training	2018	4	0	https://arxiv.org/pdf/1804.08039	https://arxiv.org/abs/1804.08039	-	-	-	-	-				-	New
-852	-	To Create What You Tell:?Generating?Videos from Captions	2018	4	0	https://arxiv.org/pdf/1804.08264	https://arxiv.org/abs/1804.08264	-	-	-	-	-				-	New
-853	-	Deep Semantic Hashing with Generative Adversarial Networks	2018	4	0	https://arxiv.org/pdf/1804.08275	https://arxiv.org/abs/1804.08275	-	-	-	-	-				-	New
-854	-	STAN: Spatio-Temporal?Adversarial?Networks?for Abnormal Event Detection	2018	4	0	https://arxiv.org/pdf/1804.08381	https://arxiv.org/abs/1804.08396	-	-	-	-	-				-	New
-855	-	Path Planning in Support of Smart Mobility Applications using Generative Adversarial Networks	2018	4	0	https://arxiv.org/pdf/1804.08396	https://arxiv.org/abs/1804.08396	-	-	-	-	-				-	New
-856	-	Quantum generative adversarial networks	2018	4	0	https://arxiv.org/pdf/1804.08641	https://arxiv.org/abs/1804.08641	-	-	-	-	-				-	New
-857	-	Siamese Generative Adversarial Privatizer for Biometric Data	2018	4	0	https://arxiv.org/pdf/1804.08757	https://arxiv.org/abs/1804.08757	-	-	-	-	-				-	New
-858	-	Mask-aware Photorealistic Face Attribute Manipulation	2018	4	0	https://arxiv.org/pdf/1804.08882	https://arxiv.org/abs/1804.08882	-	-	-	-	-				-	New
-859	-	Unsupervised Neural Machine Translation with Weight Sharing	2018	4	0	https://arxiv.org/pdf/1804.09057	https://arxiv.org/abs/1804.09057	-	-	-	-	-				-	New
-860	-	DOOM Level Generation using Generative Adversarial Networks	2018	4	0	https://arxiv.org/pdf/1804.09154	https://arxiv.org/abs/1804.09154	-	-	-	-	-				-	New
-861	-	Convolutional Generative Adversarial Networks with Binary Neurons for Polyphonic Music Generation	2018	4	0	https://arxiv.org/pdf/1804.09399	https://arxiv.org/abs/1804.09399	-	-	-	-	-				-	New
-862	-	Generative?Model for Heterogeneous Inference	2018	4	0	https://arxiv.org/pdf/1804.09858	https://arxiv.org/abs/1804.09858	-	-	-	-	-				-	New
-863	-	Visual Data Synthesis via GAN for Zero-Shot Video Classification	2018	4	0	https://arxiv.org/pdf/1804.10073	https://arxiv.org/abs/1804.10073	-	-	-	-	-				-	New
-864	-	Adversarial Training of Variational Auto-encoders for High Fidelity Image Generation	2018	4	0	https://arxiv.org/pdf/1804.10323	https://arxiv.org/abs/1804.10323	-	-	-	-	-				-	New
-865	-	Adversarial?Training of Variational Auto-encoders for High Fidelity Image?Generation	2018	4	0	https://arxiv.org/pdf/1804.10323	https://arxiv.org/abs/1804.10652v1	-	-	-	-	-				-	New
-866	-	Human Motion Modeling using DVGANs	2018	4	0	https://arxiv.org/pdf/1804.10652v1	https://arxiv.org/abs/1804.10652v1	-	-	-	-	-				-	New
-867	-	CRAFT: Complementary Recommendations Using?Adversarial?Feature Transformer	2018	4	0	https://arxiv.org/pdf/1804.10871	https://arxiv.org/abs/1804.10871	-	-	-	-	-				-	New
-868	-	Adversarial?Image Registration with Application for MR and TRUS Image Fusion	2018	4	0	https://arxiv.org/pdf/1804.11024	https://arxiv.org/abs/1804.11024	-	-	-	-	-				Synthersize	New
-869	-	Towards Deeper Generative Architectures for GANs using Dense connections	2018	4	0	https://arxiv.org/pdf/1804.11031	https://arxiv.org/abs/1804.11031	-	-	-	-	-				-	New
-870	-	DTR-GAN: Dilated Temporal Relational?Adversarial?Network?for Video Summarization	2018	4	0	https://arxiv.org/pdf/1804.11228	https://arxiv.org/abs/1804.11228	-	-	-	-	-				-	New
-871	-	Efficient inverse graphics in biological face processing	2018	4	0	https://www.biorxiv.org/content/early/2018/04/02/282798.full.pdf	https://www.biorxiv.org/content/early/2018/04/02/282798	-	-	-	-	-				-	"New, Bio"
-872	-	Weakly supervised learning of single-cell feature embeddings	2018	4	0	https://www.biorxiv.org/content/early/2018/04/02/293431.full.pdf	https://www.biorxiv.org/content/early/2018/04/02/293431	-	-	-	-	-				-	"New, Bio"
-873	-	Generative Adversarial Networks Conditioned on Brain Activity Reconstruct Seen Images	2018	4	0	https://www.biorxiv.org/content/early/2018/04/20/304774.full.pdf	https://www.biorxiv.org/content/early/2018/04/20/304774	-	-	-	-	-				-	"New, Bio"
-874	-	Teaching data science fundamentals through realistic synthetic clinical cardiovascular data	2018	4	0	https://www.biorxiv.org/content/early/2018/04/21/232611.full.pdf	https://www.biorxiv.org/content/early/2018/04/21/232611	-	-	-	-	-				-	"New, Bio"
-875	-	Deep learning achieves super-resolution in fluorescence microscopy	2018	4	0	https://www.biorxiv.org/content/early/2018/04/27/309641.full.pdf	https://www.biorxiv.org/content/early/2018/04/27/309641	-	-	-	-	-				-	"New, Bio"
-876	-	Automated Segmentation of Epithelial Tissue Using Cycle-Consistent Generative Adversarial Networks	2018	4	0	https://www.biorxiv.org/content/early/2018/04/30/311373.full.pdf	https://www.biorxiv.org/content/early/2018/04/30/311373	-	-	-	-	-				-	"New, Bio"
-877	-	Conditional molecular design with deep generative models	2018	5	0	https://arxiv.org/pdf/1805.00108	https://arxiv.org/abs/1805.00124	-	-	-	-	-				-	New
-878	-	On the Equivalence of Generative and Discriminative Formulations of the Sequential Dependence Model	2018	5	0	https://arxiv.org/pdf/1805.00152	https://arxiv.org/abs/1805.00152	-	-	-	-	-				-	New
-879	-	Versatile Auxiliary Classifier + Generative Adversarial Network (VAC+GAN); Training Conditional Generators	2018	5	0	https://arxiv.org/pdf/1805.00316	https://arxiv.org/abs/1805.00316	-	-	-	-	-				-	New
-880	-	Occluded object reconstruction for first responders with augmented reality glasses using conditional generative adversarial networks	2018	5	0	https://arxiv.org/pdf/1805.00322	https://arxiv.org/abs/1805.00322	-	-	-	-	-				-	New
-881	-	Text to Image Synthesis Using Generative Adversarial Networks	2018	5	0	https://arxiv.org/pdf/1805.00676	https://arxiv.org/abs/1805.00676	-	-	-	-	-				-	New
-882	-	Evolving Mario Levels in the Latent Space of a Deep Convolutional Generative Adversarial Network	2018	5	0	https://arxiv.org/pdf/1805.00728	https://arxiv.org/abs/1805.00728	-	-	-	-	-				-	New
-883	-	Perceptually Optimized Generative Adversarial Network for Single Image Dehazing	2018	5	0	https://arxiv.org/pdf/1805.01084	https://arxiv.org/abs/1805.01084	-	-	-	-	-				-	New
-884	-	MC-GAN: Multi-conditional Generative Adversarial Network for Image Synthesis	2018	5	0	https://arxiv.org/pdf/1805.01123	https://arxiv.org/abs/1805.01123	-	-	-	-	-				-	New
-885	-	Siamese networks for generating adversarial examples	2018	5	0	https://arxiv.org/pdf/1805.01431	https://arxiv.org/abs/1805.01431	-	-	-	-	-				-	New
-886	-	Transferring GANs: generating images from limited data	2018	5	0	https://arxiv.org/pdf/1805.01677	https://arxiv.org/abs/1805.01677	-	-	-	-	-				-	New
-887	-	Fast-converging Conditional Generative Adversarial Networks for Image Synthesis	2018	5	0	https://arxiv.org/pdf/1805.01972	https://arxiv.org/abs/1805.01972	-	-	-	-	-				-	New
-888	-	Clustering With Pairwise Relationships: A Generative Approach	2018	5	0	https://arxiv.org/pdf/1805.02285	https://arxiv.org/abs/1805.02285	-	-	-	-	-				-	New
-889	-	Elastic Registration of Medical Images With GANs	2018	5	0	https://arxiv.org/pdf/1805.02369	https://arxiv.org/abs/1805.02369	-	-	-	-	-				-	New
-890	-	Unpaired Multi-Domain Image Generation via Regularized Conditional GANs	2018	5	0	https://arxiv.org/pdf/1805.02456	https://arxiv.org/abs/1805.02456	-	-	-	-	-				-	New
-891	-	MEGAN: Mixture of Experts of Generative Adversarial Networks for Multimodal Image Generation	2018	5	0	https://arxiv.org/pdf/1805.02481	https://arxiv.org/abs/1805.02481	-	-	-	-	-				-	New
-892	-	ReGAN: RE[LAX|BAR|INFORCE] based Sequence Generation using GANs	2018	5	0	https://arxiv.org/pdf/1805.02788	https://arxiv.org/abs/1805.02788	-	-	-	-	-				-	New
-893	-	High-resolution medical image synthesis using progressively grown generative adversarial networks	2018	5	0	https://arxiv.org/pdf/1805.03144	https://arxiv.org/abs/1805.03144	-	-	-	-	-				-	New
-894	-	PSGAN: A Generative Adversarial Network for Remote Sensing Image Pan-Sharpening	2018	5	0	https://arxiv.org/pdf/1805.03371	https://arxiv.org/abs/1805.03371	-	-	-	-	-				-	New
-895	-	Rethinking Diversified and Discriminative Proposal Generation for Visual Grounding	2018	5	0	https://arxiv.org/pdf/1805.03508	https://arxiv.org/abs/1805.03508	-	-	-	-	-				-	"New, Accepted in IJCAI 2018"
-896	-	Improving GAN Training via Binarized Representation Entropy (BRE) Regularization	2018	5	0	https://arxiv.org/pdf/1805.03644	https://arxiv.org/abs/1805.03644	-	-	-	-	-				-	New
-897	-	Retinal Vessel Segmentation Based on Conditional Deep Convolutional Generative Adversarial Networks	2018	5	0	https://arxiv.org/pdf/1805.04224	https://arxiv.org/abs/1805.04224	-	-	-	-	-				-	New
-898	-	Stingray Detection of Aerial Images Using Augmented Training Images Generated by A Conditional Generative Model	2018	5	0	https://arxiv.org/pdf/1805.04262	https://arxiv.org/abs/1805.04262	-	-	-	-	-				-	New
-899	-	Exploiting Images for Video Recognition with Hierarchical Generative Adversarial Networks	2018	5	0	https://arxiv.org/pdf/1805.04384	https://arxiv.org/abs/1805.04384	-	-	-	-	-				-	New
-900	-	Image-derived generative modeling of pseudo-macromolecular structures - towards the statistical assessment of Electron CryoTomography template matching	2018	5	0	https://arxiv.org/pdf/1805.04634	https://arxiv.org/abs/1805.04634	-	-	-	-	-				-	New
-901	-	GAN Q-learning	2018	5	0	https://arxiv.org/pdf/1805.04874	https://arxiv.org/abs/1805.04874	-	-	-	-	-				-	New
-902	-	Learning Temporal Strategic Relationships using Generative Adversarial Imitation Learning	2018	5	0	https://arxiv.org/pdf/1805.04969	https://arxiv.org/abs/1805.04969	-	-	-	-	-				-	New
-903	-	Generative Adversarial Forests for Better Conditioned Adversarial Learning	2018	5	0	https://arxiv.org/pdf/1805.05185	https://arxiv.org/abs/1805.05185	-	-	-	-	-				-	New
-904	-	Generating Continuous Representations of Medical Texts	2018	5	0	https://arxiv.org/pdf/1805.05691	https://arxiv.org/abs/1805.05691	-	-	-	-	-				-	New
-905	-	Artificial Intelligence Paradigm for Customer Experience Management in Next-Generation Networks: Challenges and Perspectives	2018	5	0	https://arxiv.org/pdf/1805.06254	https://arxiv.org/abs/1805.06254	-	-	-	-	-				-	New
-906	-	Approximating the Void: Learning Stochastic Channel Models from Observation with Variational Generative Adversarial Networks	2018	5	0	https://arxiv.org/pdf/1805.06350	https://arxiv.org/abs/1805.06350	-	-	-	-	-				-	New
-907	-	Defense-GAN: Protecting Classifiers Against Adversarial Attacks Using Generative Models	2018	5	0	https://arxiv.org/pdf/1805.06605	https://arxiv.org/abs/1805.06605	-	-	-	-	-				-	New
-908	-	Generative networks as inverse problems with Scattering transforms	2018	5	0	https://arxiv.org/pdf/1805.06621	https://arxiv.org/abs/1805.06621	-	-	-	-	-				-	New
-909	-	Generic Deriving of Generic Traversals	2018	5	0	https://arxiv.org/pdf/1805.06798	https://arxiv.org/abs/1805.06798	-	-	-	-	-				-	New
-910	-	Improving Image Captioning with Conditional Generative Adversarial Nets	2018	5	0	https://arxiv.org/pdf/1805.07112	https://arxiv.org/abs/1805.07112	-	-	-	-	-				-	New
-911	-	Learning and Inference Movement with Deep Generative Model	2018	5	0	https://arxiv.org/pdf/1805.07252	https://arxiv.org/abs/1805.07252	-	-	-	-	-				-	New
-912	-	An Unsupervised Approach to Solving Inverse Problems using Generative Adversarial Networks	2018	5	0	https://arxiv.org/pdf/1805.07281	https://arxiv.org/abs/1805.07281	-	-	-	-	-				-	New
-913	-	GANE: A Generative Adversarial Network Embedding	2018	5	0	https://arxiv.org/pdf/1805.07324	https://arxiv.org/abs/1805.07324	-	-	-	-	-				-	New
-914	-	Batch Normalization in the final layer of generative networks	2018	5	0	https://arxiv.org/pdf/1805.07389	https://arxiv.org/abs/1805.07389	-	-	-	-	-				-	New
-915	-	Learning to Repair Software Vulnerabilities with Generative Adversarial Networks	2018	5	0	https://arxiv.org/pdf/1805.07475	https://arxiv.org/abs/1805.07475	-	-	-	-	-				-	New
-916	-	Sparsely Grouped Multi-task Generative Adversarial Networks for Facial Attribute Manipulation	2018	5	0	https://arxiv.org/pdf/1805.07509	https://arxiv.org/abs/1805.07509	-	-	-	-	-				-	New
-917	-	Deep Generative Markov State Models	2018	5	0	https://arxiv.org/pdf/1805.07601	https://arxiv.org/abs/1805.07601	-	-	-	-	-				-	New
-918	-	Generative Creativity: Adversarial Learning for Bionic Design	2018	5	0	https://arxiv.org/pdf/1805.07615	https://arxiv.org/abs/1805.07615	-	-	-	-	-				-	New
-919	-	BourGAN: Generative Networks with Metric Embeddings	2018	5	0	https://arxiv.org/pdf/1805.07674	https://arxiv.org/abs/1805.07674	-	-	-	-	-				-	New
-920	-	Generalized Cross Entropy Loss for Training Deep Neural Networks with Noisy Labels	2018	5	0	https://arxiv.org/pdf/1805.07836	https://arxiv.org/abs/1805.07836	-	-	-	-	-				-	New
-921	-	Featurized Bidirectional GAN: Adversarial Defense via Adversarially Learned Semantic Inference	2018	5	0	https://arxiv.org/pdf/1805.07862	https://arxiv.org/abs/1805.07862	-	-	-	-	-				-	New
-922	-	Generative Adversarial Examples	2018	5	0	https://arxiv.org/pdf/1805.07894	https://arxiv.org/abs/1805.07894	-	-	-	-	-				-	New
-923	-	Anime Style Space Exploration Using Metric Learning and Generative Adversarial Networks	2018	5	0	https://arxiv.org/pdf/1805.07997	https://arxiv.org/abs/1805.07997	-	-	-	-	-				-	New
-924	-	Self-Attention Generative Adversarial Networks	2018	5	0	https://arxiv.org/pdf/1805.08318	https://arxiv.org/abs/1805.08318	-	-	-	-	-				-	New
-925	-	A Solvable High-Dimensional Model of GAN	2018	5	0	https://arxiv.org/pdf/1805.08349	https://arxiv.org/abs/1805.08349	-	-	-	-	-				-	New
-926	-	Neural Generative Models for Global Optimization with Gradients	2018	5	0	https://arxiv.org/pdf/1805.08594	https://arxiv.org/abs/1805.08594	-	-	-	-	-				-	New
-927	-	Robust Conditional Generative Adversarial Networks	2018	5	0	https://arxiv.org/pdf/1805.08657	https://arxiv.org/abs/1805.08657	-	-	-	-	-				-	New
-928	-	Replicating Active Appearance Model by Generator Network	2018	5	0	https://arxiv.org/pdf/1805.08704	https://arxiv.org/abs/1805.08704	-	-	-	-	-				-	New
-929	-	Rapid seismic domain transfer: Seismic velocity inversion and modeling using deep generative neural networks	2018	5	0	https://arxiv.org/pdf/1805.08826	https://arxiv.org/abs/1805.08826	-	-	-	-	-				-	"New, submitted to EAGE 2018"
-930	-	Semi-Supervised Learning with GANs: Revisiting Manifold Regularization	2018	5	0	https://arxiv.org/pdf/1805.08957	https://arxiv.org/abs/1805.08957	-	-	-	-	-				-	"New, Workshop track - ICLR 2018"
-931	-	End-to-End Speech-Driven Facial Animation with Temporal GANs	2018	5	0	https://arxiv.org/pdf/1805.09313	https://arxiv.org/abs/1805.09313	-	-	-	-	-				-	New
-932	-	A Generalized Active Learning Approach for Unsupervised Anomaly Detection	2018	5	0	https://arxiv.org/pdf/1805.09411	https://arxiv.org/abs/1805.09411	-	-	-	-	-				-	New
-933	-	Primal-Dual Wasserstein GAN	2018	5	0	https://arxiv.org/pdf/1805.09575	https://arxiv.org/abs/1805.09575	-	-	-	-	-				-	New
-934	-	Autonomously and Simultaneously Refining Deep Neural Network Parameters by Generative Adversarial Networks	2018	5	0	https://arxiv.org/pdf/1805.09712	https://arxiv.org/abs/1805.09712	-	-	-	-	-				-	New
-935	-	"Generative Model: Membership Attack,Generalization and Diversity"	2018	5	0	https://arxiv.org/pdf/1805.09898	https://arxiv.org/abs/1805.09898	-	-	-	-	-				-	New
-936	-	Fairness GAN	2018	5	0	https://arxiv.org/pdf/1805.09910	https://arxiv.org/abs/1805.09910	-	-	-	-	-				-	New
-937	-	DSGAN: Generative Adversarial Training for Distant Supervision Relation Extraction	2018	5	0	https://arxiv.org/pdf/1805.09929	https://arxiv.org/abs/1805.09929	-	-	-	-	-				-	New
-938	-	Unsupervisedly Training GANs for Segmenting Digital Pathology with Automatically Generated Annotations	2018	5	0	https://arxiv.org/pdf/1805.10059	https://arxiv.org/abs/1805.10059	-	-	-	-	-				-	"New, Submitted to NIPS'18"
-939	-	Dyna Planning using a Feature Based Generative Model	2018	5	0	https://arxiv.org/pdf/1805.10129	https://arxiv.org/abs/1805.10129	-	-	-	-	-				-	New
-940	-	Cross Domain Image Generation through Latent Space Exploration with Adversarial Loss	2018	5	0	https://arxiv.org/pdf/1805.10130	https://arxiv.org/abs/1805.10130	-	-	-	-	-				-	New
+697	-	Load Balanced GANs for Multi-view Face Image Synthesis	2018	2	0	https://arxiv.org/pdf/1802.07447.pdf	https://arxiv.org/abs/1802.07447	-	-	-	-	-				-	-
+698	-	A Study into the similarity in generator and discriminator in GAN architecture	2018	2	0	https://arxiv.org/pdf/1802.07401.pdf	https://arxiv.org/abs/1802.07401	-	-	-	-	-				-	-
+699	-	Voice Impersonation using Generative Adversarial Networks	2018	2	0	https://arxiv.org/pdf/1802.06840.pdf	https://arxiv.org/abs/1802.06840	-	-	-	-	-				-	-
+700	-	Differentially Private Generative Adversarial Network	2018	2	0	https://arxiv.org/pdf/1802.06739.pdf	https://arxiv.org/abs/1802.06739	-	-	-	-	-				-	-
+701	-	Are Generative Classifiers More Robust to Adversarial Attacks?	2018	2	0	https://arxiv.org/pdf/1802.06552.pdf	https://arxiv.org/abs/1802.06552	-	-	-	-	-				-	-
+702	DA-GAN	DA-GAN: Instance-level Image Translation by Deep Attention Generative Adversarial Networks (with Supplementary Materials)	2018	2	0	https://arxiv.org/pdf/1802.06454.pdf	https://arxiv.org/abs/1802.06454	-	-	-	-	-				-	-
+703	RadialGAN	RadialGAN: Leveraging multiple datasets to improve target-specific predictive models using Generative Adversarial Networks	2018	2	0	https://arxiv.org/pdf/1802.06403.pdf	https://arxiv.org/abs/1802.06403	-	-	-	-	-				-	-
+704	-	Efficient GAN-Based Anomaly Detection	2018	2	0	https://arxiv.org/pdf/1802.06222.pdf	https://arxiv.org/abs/1802.06222	-	-	-	-	-				-	-
+705	CapsuleGAN	CapsuleGAN: Generative Adversarial Capsule Network	2018	2	0	https://arxiv.org/pdf/1802.06167.pdf	https://arxiv.org/abs/1802.06167	-	-	-	-	-				-	-
+706	-	Interaction Matters: A Note on Non-asymptotic Local Convergence of Generative Adversarial Networks	2018	2	0	https://arxiv.org/pdf/1802.06132.pdf	https://arxiv.org/abs/1802.06132	-	-	-	-	-				-	-
+707	-	Spectral Normalization for Generative Adversarial Networks	2018	2	0	https://arxiv.org/pdf/1802.05957.pdf	https://arxiv.org/abs/1802.05957	-	-	-	-	-				-	-
+708	-	ASP:A Fast Adversarial Attack Example Generation Framework based on Adversarial Saliency Prediction	2018	2	0	https://arxiv.org/pdf/1802.05763.pdf	https://arxiv.org/abs/1802.05763	-	-	-	-	-				-	-
+709	-	Inverting The Generator Of A Generative Adversarial Network (II)	2018	2	0	https://arxiv.org/pdf/1802.05701.pdf	https://arxiv.org/abs/1802.05701	-	-	-	-	-				-	-
+710	-	Conditioning of three-dimensional generative adversarial networks for pore and reservoir-scale models	2018	2	0	https://arxiv.org/pdf/1802.05622.pdf	https://arxiv.org/abs/1802.05622	-	-	-	-	-				-	-
+711	-	Selecting the Best in GANs Family: a Post Selection Inference Framework	2018	2	0	https://arxiv.org/pdf/1802.05411.pdf	https://arxiv.org/abs/1802.05411	-	-	-	-	-				-	-
+712	-	Satellite Image Forgery Detection and Localization Using GAN and One-Class Classifier<Framework	2018	2	0	https://arxiv.org/pdf/1802.04881.pdf	https://arxiv.org/abs/1802.04881	-	-	-	-	-				-	-
+713	-	Joint Demosaicing and Denoising with Perceptual Optimization on a Generative Adversarial Network	2018	2	0	https://arxiv.org/pdf/1802.04723.pdf	https://arxiv.org/abs/1802.04723	-	-	-	-	-				-	-
+714	-	First Order Generative Adversarial Networks	2018	2	0	https://arxiv.org/pdf/1802.04591.pdf	https://arxiv.org/abs/1802.04591	-	-	-	-	-				-	-
+715	-	Pros and Cons of GAN Evaluation Measures	2018	2	0	https://arxiv.org/pdf/1802.03446.pdf	https://arxiv.org/abs/1802.03446	-	-	-	-	-				-	-
+716	-	Generating and refining particle detector simulations using the Wasserstein distance in adversarial networks	2018	2	0	https://arxiv.org/pdf/1802.03325.pdf	https://arxiv.org/abs/1802.03325	-	-	-	-	-				-	-
+717	-	Generating Realistic Geology Conditioned on Physical Measurements with Generative Adversarial Networks	2018	2	0	https://arxiv.org/pdf/1802.03065.pdf	https://arxiv.org/abs/1802.03065	-	-	-	-	-				-	-
+718	-	Generating Triples with Adversarial Networks for Scene Graph Construction	2018	2	0	https://arxiv.org/pdf/1802.02598.pdf	https://arxiv.org/abs/1802.02598	-	-	-	-	-				-	-
+719	-	Bitewing Radiography Semantic Segmentation Base on Conditional Generative Adversarial Nets	2018	2	0	https://arxiv.org/pdf/1802.02571.pdf	https://arxiv.org/abs/1802.02571	-	-	-	-	-				-	-
+720	-	DeepRoad: GAN-based Metamorphic Autonomous Driving System Testing	2018	2	0	https://arxiv.org/pdf/1802.02295.pdf	https://arxiv.org/abs/1802.02295	-	-	-	-	-				-	-
+721	-	Selective Sampling and Mixture Models in Generative Adversarial Networks	2018	2	0	https://arxiv.org/pdf/1802.01568.pdf	https://arxiv.org/abs/1802.01568	-	-	-	-	-				-	-
+722	-	Image Synthesis in Multi-Contrast MRI with Conditional Generative Adversarial Networks	2018	2	0	https://arxiv.org/pdf/1802.01221.pdf	https://arxiv.org/abs/1802.01221	-	-	-	-	-				Synthersize	MRI
+723	-	No Modes left behind: Capturing the data distribution effectively using GANs	2018	2	0	https://arxiv.org/pdf/1802.00771.pdf	https://arxiv.org/abs/1802.00771	-	-	-	-	-				-	-
+724	-	Face Synthesis with Landmark Points from Generative Adversarial Networks and Inverse Latent Space Mapping	2018	2	0	https://arxiv.org/pdf/1802.00390.pdf	https://arxiv.org/abs/1802.00390	-	-	-	-	-				-	-
+725	-	Predicting Rapid Fire Growth (Flashover) Using Conditional Generative Adversarial Networks	2018	1	0	https://arxiv.org/pdf/1801.09804.pdf	https://arxiv.org/abs/1801.09804	-	-	-	-	-				-	-
+726	-	Interactive Generative Adversarial Networks for Facial Expression Generation in Dyadic Interactions	2018	1	0	https://arxiv.org/pdf/1801.09092.pdf	https://arxiv.org/abs/1801.09092	-	-	-	-	-				-	-
+727	-	Generating Instance Segmentation Annotation by Geometry-guided GAN	2018	1	0	https://arxiv.org/pdf/1801.08839.pdf	https://arxiv.org/abs/1801.08839	-	-	-	-	-				-	-
+728	-	Black-box Generation of Adversarial Text Sequences to Evade Deep Learning Classifiers	2018	1	0	https://arxiv.org/pdf/1801.04354.pdf	https://arxiv.org/abs/1801.04354	-	-	-	-	-				-	-
+729	-	A Deep Generative Adversarial Architecture for Network-Wide Spatial-Temporal Traffic State Estimation	2018	1	0	https://arxiv.org/pdf/1801.03818.pdf	https://arxiv.org/abs/1801.03818	-	-	-	-	-				-	-
+730	-	Novelty Detection with GAN	2018	2	0	https://arxiv.org/pdf/1802.10560.pdf	https://arxiv.org/abs/1802.10560	-	-	-	-	-				-	-
+731	-	Single-View Food Portion Estimation: Learning Image-to-Energy Mappings Using Generative Adversarial Networks	2018	2	0	https://arxiv.org/pdf/1802.09670.pdf	https://arxiv.org/abs/1802.09670	-	-	-	-	-				-	-
+732	-	Translating and Segmenting Multimodal Medical Volumes with Cycle- and Shape-Consistency Generative Adversarial Network	2018	2	0	https://arxiv.org/pdf/1802.09655.pdf	https://arxiv.org/abs/1802.09655	-	-	-	-	-				Segmentation	MRI
+733	-	Photographic Text-to-Image Synthesis with a Hierarchically-nested Adversarial Network	2018	2	0	https://arxiv.org/pdf/1802.09178.pdf	https://arxiv.org/abs/1802.09178	-	-	-	-	-				-	-	-
+734	-	PBGAN: Partial Binarization of Deconvolution Based Generators	2018	2	0	https://arxiv.org/pdf/1802.09153.pdf	https://arxiv.org/abs/1802.09153	-	-	-	-	-				-	-	-
+735	ATA-GANs	Attention-Aware Generative Adversarial Networks (ATA-GANs)	2018	2	0	https://arxiv.org/pdf/1802.09070.pdf	https://arxiv.org/abs/1802.09070	-	-	-	-	-				-	-	-
+736	-	Is Generator Conditioning Causally Related to GAN Performance?	2018	2	0	https://arxiv.org/pdf/1802.08768.pdf	https://arxiv.org/abs/1802.08768	-	-	-	-	-				-	-	-
+737	-	"GANs for Simulation, Representation and Inference"	2018	2	0	-	-	-	-	-	-	-	https://becominghuman.ai/gans-for-simulation-representation-and-inference-d215c251ed12?source=linkShare-63b654a4067b-1519863657			-	-	-
+738	-	Compositional Pattern Producing GAN 	2017		0	https://papers.nips.cc/paper/7109-triangle-generative-adversarial-networks.pdf		-	-	-	-	-				-	-	-
+739	-	Cross-View Image Synthesis using Conditional GANs	2018	3	0	https://arxiv.org/pdf/1803.03396.pdf	https://arxiv.org/abs/1803.03396	-	-	-	-	-				-	-	-
+740	-	Task Specific Visual Saliency Prediction with Memory Augmented Conditional Generative Adversarial Networks	2018	3	0	https://arxiv.org/pdf/1803.03354.pdf	https://arxiv.org/abs/1803.03354	-	-	-	-	-				-	-	-
+741	-	Generating Differentially Private Datasets Using GANs	2018	3	0	https://arxiv.org/pdf/1803.03148.pdf	https://arxiv.org/abs/1803.03148	-	-	-	-	-				-	-	-
+742	ST-GAN	ST-GAN: Spatial Transformer Generative Adversarial Networks for Image Compositing	2018	3	0	https://arxiv.org/pdf/1803.01837.pdf	https://arxiv.org/abs/1803.01837	-	-	-	-	-				-	-	-
+743	-	One-Class Adversarial Nets for Fraud Detection	2018	3	0	https://arxiv.org/pdf/1803.01798.pdf	https://arxiv.org/abs/1803.01798	-	-	-	-	-				-	-	-
+744	-	Improving the Improved Training of Wasserstein GANs: A Consistency Term and Its Dual Effect	2018	3	0	https://arxiv.org/pdf/1803.01541.pdf	https://arxiv.org/abs/1803.01541	-	-	-	-	-				-	-	-
+745	-	Memorization Precedes Generation: Learning Unsupervised GANs with Memory Networks	2018	3	0	https://arxiv.org/pdf/1803.01500.pdf	https://arxiv.org/abs/1803.01500	-	-	-	-	-				-	-	-
+746	-	Efficient and Accurate MRI Super-Resolution using a Generative Adversarial Network and 3D Multi-Level Densely Connected Network	2018	3	0	https://arxiv.org/pdf/1803.01417.pdf	https://arxiv.org/abs/1803.01417	-	-	-	-	-				Enhancement	3D
+747	-	GAN-based Synthetic Medical Image Augmentation for increased CNN Performance in Liver Lesion Classification	2018	3	0	https://arxiv.org/pdf/1803.01229.pdf	https://arxiv.org/abs/1803.01229	-	-	-	-	-				-	-
+748	-	Quantitatively Evaluating GANs With Divergences Proposed for Training	2018	3	0	https://arxiv.org/pdf/1803.01045.pdf	https://arxiv.org/abs/1803.01045	-	-	-	-	-				-	-
+749	-	"Can we steal your vocal identity from the Internet?: Initial investigation of cloning Obama's voice using GAN, WaveNet and low-quality found data"	2018	3	0	https://arxiv.org/pdf/1803.00860.pdf	https://arxiv.org/abs/1803.00860	-	-	-	-	-				-	-
+750	NetGAN	NetGAN: Generating Graphs via Random Walks	2018	3	0	https://arxiv.org/pdf/1803.00816.pdf	https://arxiv.org/abs/1803.00816	-	-	-	-	-				-	-
+751	-	Evolutionary Generative Adversarial Networks	2018	3	0	https://arxiv.org/pdf/1803.00657.pdf	https://arxiv.org/abs/1803.00657	-	-	-	-	-				-	-
+752	MAGAN	MAGAN: Aligning Biological Manifolds	2018	3	0	https://arxiv.org/pdf/1803.00385.pdf	https://arxiv.org/abs/1803.00385	-	-	-	-	-				-	-
+753	-	Synthesizing realistic neural population activity patterns using Generative Adversarial Networks	2018	3	0	https://arxiv.org/pdf/1803.00338.pdf	https://arxiv.org/abs/1803.00338	-	-	-	-	-				-	-
+754	-	A Variational Inequality Perspective on Generative Adversarial Nets	2018	2	0	https://arxiv.org/pdf/1802.10551.pdf	https://arxiv.org/abs/1802.10551	-	-	-	-	-				-	-
+755	-	Robust GANs against Dishonest Adversaries	2018	2	0	https://arxiv.org/pdf/1802.09700.pdf	https://arxiv.org/abs/1802.09700	-	-	-	-	-				-	-
+756	-	Solving Linear Inverse Problems Using GAN Priors: An Algorithm with Provable Guarantees	2018	2	0	https://arxiv.org/pdf/1802.08406.pdf	https://arxiv.org/abs/1802.08406	-	-	-	-	-				-	-
+757	-	Solving Approximate Wasserstein GANs to Stationarity	2018	2	0	https://arxiv.org/pdf/1802.08249.pdf	https://arxiv.org/abs/1802.08249	-	-	-	-	-				-	-
+758	-	Generative adversarial networks as a tool to recover structural information from cryo-electron microscopy data	2018	2	0	https://www.biorxiv.org/content/early/2018/02/12/256792.full.pdf	https://www.biorxiv.org/content/early/2018/02/12/256792	-	-	-	-	-				-	-
+759	-	Varying k-Lipschitz Constraint for Generative Adversarial Networks	2018	3	0	https://arxiv.org/abs/1803.06107	https://arxiv.org/abs/1803.06107	-	-	-	-	-				-	-
+760	-	On Generation of Adversarial Examples using Convex Programming	2018	3	0	https://arxiv.org/pdf/1803.03607	https://arxiv.org/abs/1803.03607	-	-	-	-	-				-	-
+761	-	Learning the Base Distribution in Implicit Generative Models	2018	3	0	https://arxiv.org/pdf/1803.04357	https://arxiv.org/abs/1803.04357	-	-	-	-	-				-	-
+762	-	An Introduction to Image Synthesis with Generative Adversarial Nets	2018	3	0	https://arxiv.org/pdf/1803.04469	https://arxiv.org/abs/1803.04469	-	-	-	-	-				-	-
+763	-	Correction by Projection: Denoising Images with Generative Adversarial Networks	2018	3	0	https://arxiv.org/pdf/1803.04477	https://arxiv.org/abs/1803.04477	-	-	-	-	-				-	-
+764	-	Adversarial Data Programming: Using GANs to Relax the Bottleneck of Curated Labeled Data	2018	3	0	https://arxiv.org/pdf/1803.05137	https://arxiv.org/abs/1803.05137	-	-	-	-	-				-	-
+765	-	Image Colorization with Generative Adversarial Networks	2018	3	0	https://arxiv.org/pdf/1803.05400	https://arxiv.org/abs/1803.05400	-	-	-	-	-				-	-
+766	-	Improving GANs Using Optimal Transport	2018	3	0	https://arxiv.org/pdf/1803.05573	https://arxiv.org/abs/1803.05573	-	-	-	-	-				-	-
+767	-	Improved Part Segmentation Performance by Optimising Realism of Synthetic Images using Cycle Generative Adversarial Networks	2018	3	0	https://arxiv.org/pdf/1803.06301	https://arxiv.org/abs/1803.06301	-	-	-	-	-				-	-
+768	Attention-GAN	Attention-GAN for Object Transfiguration in Wild Images	2018	3	0	https://arxiv.org/pdf/1803.06798	https://arxiv.org/abs/1803.06798	-	-	-	-	-				-	-
+769	-	Adversarial Generalized Method of Moments	2018	3	0	https://arxiv.org/pdf/1803.07164	https://arxiv.org/abs/1803.07164	-	-	-	-	-				-	-
+770	-	Patch-Based Image Inpainting with Generative Adversarial Networks	2018	3	0	https://arxiv.org/pdf/1803.07422	https://arxiv.org/abs/1803.07422	-	-	-	-	-				-	-
+771	-	Speech-Driven Facial Reenactment Using Conditional Generative Adversarial Networks	2018	3	0	https://arxiv.org/pdf/1803.07461	https://arxiv.org/abs/1803.07461	-	-	-	-	-				-	-
+772	-	An Improved Evaluation Framework for Generative Adversarial Networks	2018	3	0	https://arxiv.org/pdf/1803.07474	https://arxiv.org/abs/1803.07474	-	-	-	-	-				-	-
+773	-	Generative Multi-Agent Behavioral Cloning	2018	3	0	https://arxiv.org/pdf/1803.07612	https://arxiv.org/abs/1803.07612	-	-	-	-	-				-	-
+774	-	Generative Adversarial Talking Head: Bringing Portraits to Life with a Weakly Supervised Neural Network	2018	3	0	https://arxiv.org/pdf/1803.07716	https://arxiv.org/abs/1803.07716	-	-	-	-	-				-	-
+775	-	Some Theoretical Properties of GANs	2018	3	0	https://arxiv.org/pdf/1803.07819	https://arxiv.org/abs/1803.07819	-	-	-	-	-				-	-
+776	-	Enforcing constraints for interpolation and extrapolation in Generative Adversarial Networks	2018	3	0	https://arxiv.org/pdf/1803.08182	https://arxiv.org/abs/1803.08182	-	-	-	-	-				-	-
+777	-	Branched Generative Adversarial Networks for Multi-Scale Image Manifold Learning	2018	3	0	https://arxiv.org/pdf/1803.08467	https://arxiv.org/abs/1803.08467	-	-	-	-	-				-	-
+778	-	Generalized Scene Reconstruction	2018	3	0	https://arxiv.org/pdf/1803.08496	https://arxiv.org/abs/1803.08496	-	-	-	-	-				-	-
+779	-	Fictitious GAN: Training GANs with Historical Models	2018	3	0	https://arxiv.org/pdf/1803.08647	https://arxiv.org/abs/1803.08647	-	-	-	-	-				-	-
+780	-	Generative Adversarial Autoencoder Networks	2018	3	0	https://arxiv.org/pdf/1803.08887	https://arxiv.org/abs/1803.08887	-	-	-	-	-				-	-
+781	MTGAN	MTGAN: Speaker Verification through Multitasking Triplet Generative Adversarial Networks	2018	3	0	https://arxiv.org/pdf/1803.09059	https://arxiv.org/abs/1803.09059	-	-	-	-	-				-	-
+782	-	Comparing Generative Adversarial Network Techniques for Image Creation and Modification	2018	3	0	https://arxiv.org/pdf/1803.09093	https://arxiv.org/abs/1803.09093	-	-	-	-	-				-	-
+783	-	SUNLayer: Stable denoising with generative networks	2018	3	0	https://arxiv.org/pdf/1803.09319	https://arxiv.org/abs/1803.09319	-	-	-	-	-				-	-
+784	-	Correcting differences in multi-site neuroimaging data using Generative Adversarial Networks	2018	3	0	https://arxiv.org/pdf/1803.09375	https://arxiv.org/abs/1803.09375	-	-	-	-	-				-	-
+785	-	Regularizing Deep Hashing Networks Using GAN Generated Fake Images	2018	3	0	https://arxiv.org/pdf/1803.09466	https://arxiv.org/abs/1803.09466	-	-	-	-	-				-	-
+786	-	Fr?chet ChemblNet Distance: A metric for generative models for molecules	2018	3	0	https://arxiv.org/pdf/1803.09518	https://arxiv.org/abs/1803.09518	-	-	-	-	-				-	-
+787	BAGAN	BAGAN: Data Augmentation with Balancing GAN	2018	3	0	https://arxiv.org/pdf/1803.09655	https://arxiv.org/abs/1803.09655	-	-	-	-	-				-	-
+788	-	Investigating Generative Adversarial Networks based Speech Dereverberation for Robust Speech Recognition	2018	3	0	https://arxiv.org/pdf/1803.10132	https://arxiv.org/abs/1803.10132	-	-	-	-	-				-	-
+789	-	Graphite: Iterative Generative Modeling of Graphs	2018	3	0	https://arxiv.org/pdf/1803.10459	https://arxiv.org/abs/1803.10459	-	-	-	-	-				-	-
+790	ELEGANT	ELEGANT: Exchanging Latent Encodings with GAN for Transferring Multiple Face Attributes	2018	3	0	https://arxiv.org/pdf/1803.10562	https://arxiv.org/abs/1803.10562	-	-	-	-	-				-	-
+791	-	Social GAN: Socially Acceptable Trajectories with Generative Adversarial Networks	2018	3	0	https://arxiv.org/pdf/1803.10892	https://arxiv.org/abs/1803.10892	-	-	-	-	-				-	-
+792	-	Dihedral angle prediction using generative adversarial networks	2018	3	0	https://arxiv.org/pdf/1803.10996	https://arxiv.org/abs/1803.10996	-	-	-	-	-				-	-
+793	-	3D Consistent Biventricular Myocardial Segmentation Using Deep Learning for Mesh Generation	2018	3	0	https://arxiv.org/pdf/1803.11080	https://arxiv.org/abs/1803.11080	-	-	-	-	-				Segmentation	3D
+794	-	Generative Modeling using the Sliced Wasserstein Distance	2018	3	0	https://arxiv.org/pdf/1803.11188	https://arxiv.org/abs/1803.11188	-	-	-	-	-				-	-
+795	-	Deep Genomic Signature for early metastasis prediction in prostate cancer	2018	3	0	https://www.biorxiv.org/content/early/2018/03/04/276055.full.pdf	https://www.biorxiv.org/content/early/2018/03/04/276055	-	-	-	-	-				-	Bio
+796	-	A Deep Predictive Coding Network for Learning Latent Representations	2018	3	0	https://www.biorxiv.org/content/early/2018/03/26/278218.full.pdf	https://www.biorxiv.org/content/early/2018/03/26/278218	-	-	-	-	-				-	Bio
+797	MRI2MRI	MRI2MRI: A deep convolutional network that accurately transforms between brain MRI contrasts	2018	3	0	https://www.biorxiv.org/content/early/2018/03/27/289926.full.pdf	https://www.biorxiv.org/content/early/2018/03/27/289926	-	-	-	-	-				Translation	"Bio, MRI"
+798	-	Can AI reproduce observed chemical diversity?	2018	3	0	https://www.biorxiv.org/content/early/2018/03/30/292177.full.pdf	https://www.biorxiv.org/content/early/2018/03/30/292177	-	-	-	-	-				-	Bio
+799	-	Learning Beyond Human Expertise with Generative Models for Dental Restorations	2018	4	0	https://arxiv.org/pdf/1804.00064	https://arxiv.org/abs/1804.00064	-	-	-	-	-				-	-
+800	-	Generative Adversarial Networks (GANs): What it can generate and What it cannot?	2018	4	0	https://arxiv.org/pdf/1804.00140	https://arxiv.org/abs/1804.00140	-	-	-	-	-				-	-
+801	-	I-vector Transformation Using Conditional Generative Adversarial Networks for Short Utterance Speaker Verification	2018	4	0	https://arxiv.org/pdf/1804.00290	https://arxiv.org/abs/1804.00290	-	-	-	-	-				-	-
+802	-	Completely Unsupervised Phoneme Recognition by?Adversarially?Learning Mapping Relationships from Audio Embeddings	2018	4	0	https://arxiv.org/pdf/1804.00316	https://arxiv.org/abs/1804.00316	-	-	-	-	-				-	-
+803	SyncGAN	SyncGAN: Synchronize the Latent Space of Cross-modal Generative Adversarial Networks	2018	4	0	https://arxiv.org/pdf/1804.00410	https://arxiv.org/abs/1804.00410	-	-	-	-	-				-	-
+804	-	A Multi-Discriminator CycleGAN for Unsupervised Non-Parallel Speech Domain Adaptation	2018	4	0	https://arxiv.org/pdf/1804.00522v2	https://arxiv.org/abs/1804.00522v2	-	-	-	-	-				-	-
+805	-	Generative Adversarial Learning for Spectrum Sensing	2018	4	0	https://arxiv.org/pdf/1804.00709	https://arxiv.org/abs/1804.00709	-	-	-	-	-				-	-
+806	-	Generating Diverse and Accurate Visual Captions by Comparative Adversarial Learning	2018	4	0	https://arxiv.org/pdf/1804.00861	https://arxiv.org/abs/1804.00861	-	-	-	-	-				-	-
+807	-	Speech waveform synthesis from MFCC sequences with generative adversarial networks	2018	4	0	https://arxiv.org/pdf/1804.00920	https://arxiv.org/abs/1804.00920	-	-	-	-	-				-	-
+808	DeSIGN	DeSIGN: Design Inspiration from Generative Networks	2018	4	0	https://arxiv.org/pdf/1804.00921	https://arxiv.org/abs/1804.00921	-	-	-	-	-				-	-
+809	-	Correlated discrete data generation using adversarial training	2018	4	0	https://arxiv.org/pdf/1804.00925	https://arxiv.org/abs/1804.00925	-	-	-	-	-				-	-
+810	-	Synthesizing Programs for Images using Reinforced?Adversarial?Learning	2018	4	0	https://arxiv.org/pdf/1804.01118	https://arxiv.org/abs/1804.01118	-	-	-	-	-				-	-
+811	FBGAN	Feedback GAN (FBGAN) for DNA: a Novel Feedback-Loop Architecture for Optimizing Protein Functions	2018	4	0	https://arxiv.org/pdf/1804.01694	https://arxiv.org/abs/1804.01694	-	-	-	-	-				-	-
+812	-	Sliced-Wasserstein Autoencoder: An Embarrassingly Simple Generative Model	2018	4	0	https://arxiv.org/pdf/1804.01947	https://arxiv.org/abs/1804.01947	-	-	-	-	-				-	-
+813	-	Pedestrian-Synthesis-GAN: Generating Pedestrian Data in Real Scene and Beyond	2018	4	0	https://arxiv.org/pdf/1804.02047	https://arxiv.org/abs/1804.02047	-	-	-	-	-				-	-
+814	-	Generative adversarial network-based approach to signal reconstruction from magnitude spectrograms	2018	4	0	https://arxiv.org/pdf/1804.02181	https://arxiv.org/abs/1804.02181	-	-	-	-	-				-	-
+815	-	Language Modeling with Generative AdversarialNetworks	2018	4	0	https://arxiv.org/pdf/1804.02617	https://arxiv.org/abs/1804.02617	-	-	-	-	-				-	-
+816	-	Facial Aging and Rejuvenation by Conditional Multi-Adversarial?Autoencoder with Ordinal Regression	2018	4	0	https://arxiv.org/pdf/1804.02740	https://arxiv.org/abs/1804.02740	-	-	-	-	-				-	-
+817	-	Generative Adversarial Networks for Extreme Learned Image Compression	2018	4	0	https://arxiv.org/pdf/1804.02958	https://arxiv.org/abs/1804.02958	-	-	-	-	-				-	-
+818	-	Understanding Humans in Crowded Scenes: Deep Nested?Adversarial?Learning and A New Benchmark for Multi-Human Parsing	2018	4	0	https://arxiv.org/pdf/1804.03287	https://arxiv.org/abs/1804.03287	-	-	-	-	-				-	-
+819	-	Modular Generative Adversarial Networks	2018	4	0	https://arxiv.org/pdf/1804.03343	https://arxiv.org/abs/1804.03343	-	-	-	-	-				-	-
+820	-	Graphical Generative Adversarial Networks	2018	4	0	https://arxiv.org/pdf/1804.03429	https://arxiv.org/abs/1804.03429	-	-	-	-	-				-	-
+821	-	Semi-supervised Adversarial Learning to Generate Photorealistic Face Images of New Identities from 3D Morphable Model	2018	4	0	https://arxiv.org/pdf/1804.03675	https://arxiv.org/abs/1804.03675	-	-	-	-	-				-	3D
+822	-	Unsupervised and semi-supervised learning with Categorical Generative Adversarial Networks assisted by Wasserstein distance for dermoscopy image Classification	2018	4	0	https://arxiv.org/pdf/1804.03700	https://arxiv.org/abs/1804.03700	-	-	-	-	-				Classification	-
+823	CoT	CoT: Cooperative Training for Generative Modeling	2018	4	0	https://arxiv.org/pdf/1804.03782	https://arxiv.org/abs/1804.03782	-	-	-	-	-				-	-
+824	-	Ranking Generative Adversarial Networks: Subjective Control over Semantic Image Attributes	2018	4	0	https://arxiv.org/pdf/1804.04082	https://arxiv.org/abs/1804.04082	-	-	-	-	-				-	-
+825	-	Causal Generative Domain Adaptation Networks	2018	4	0	https://arxiv.org/pdf/1804.04333	https://arxiv.org/abs/1804.04333	-	-	-	-	-				-	-
+826	-	MelanoGANs: High Resolution Skin Lesion Synthesis with GANs	2018	4	0	https://arxiv.org/pdf/1804.04338	https://arxiv.org/abs/1804.04338	-	-	-	-	-				Synthersize	-
+827	-	Generative Adversarial Training for MRA Image Synthesis Using Multi-Contrast MRI	2018	4	0	https://arxiv.org/pdf/1804.04366	https://arxiv.org/abs/1804.04366	-	-	-	-	-				-	-
+828	-	Blood Vessel Geometry Synthesis using Generative Adversarial Networks	2018	4	0	https://arxiv.org/pdf/1804.04381	https://arxiv.org/abs/1804.04381	-	-	-	-	-				Synthersize	-
+829	MGGAN	MGGAN: Solving Mode Collapse using Manifold Guided Training	2018	4	0	https://arxiv.org/pdf/1804.04391	https://arxiv.org/abs/1804.04391	-	-	-	-	-				-	-
+830	-	Generative models for local network community detection	2018	4	0	https://arxiv.org/pdf/1804.04469	https://arxiv.org/abs/1804.04469	-	-	-	-	-				-	-
+831	-	A Hybrid Model for Identity Obfuscation by Face Replacement	2018	4	0	https://arxiv.org/pdf/1804.04779	https://arxiv.org/abs/1804.04779	-	-	-	-	-				-	-
+832	-	Talking Face Generation by Conditional Recurrent Adversarial Network	2018	4	0	https://arxiv.org/pdf/1804.04786	https://arxiv.org/abs/1804.04786	-	-	-	-	-				-	-
+833	-	Group Anomaly Detection using Deep Generative Models	2018	4	0	https://arxiv.org/pdf/1804.04876	https://arxiv.org/abs/1804.04876	-	-	-	-	-				-	-
+834	-	Generative Adversarial Network based Autoencoder: Application to fault detection problem for closed loop dynamical systems	2018	4	0	https://arxiv.org/pdf/1804.05320	https://arxiv.org/abs/1804.05320	-	-	-	-	-				-	-
+835	AF-DCGAN	AF-DCGAN: Amplitude Feature Deep Convolutional GAN for Fingerprint Construction in Indoor Localization System	2018	4	0	https://arxiv.org/pdf/1804.05347	https://arxiv.org/abs/1804.05347	-	-	-	-	-				-	-
+836	-	IterGANs: Iterative GANs to Learn and Control 3D Object Transformation	2018	4	0	https://arxiv.org/pdf/1804.05651	https://arxiv.org/abs/1804.05651	-	-	-	-	-				-	3D
+837	-	Defo-Net: Learning Body Deformation using Generative Adversarial Networks	2018	4	0	https://arxiv.org/pdf/1804.05928	https://arxiv.org/abs/1804.05928	-	-	-	-	-				-	-
+838	-	Adversarial?Example?Generation?with Syntactically Controlled Paraphrase?Networks	2018	4	0	https://arxiv.org/pdf/1804.06059	https://arxiv.org/abs/1804.06059	-	-	-	-	-				-	-
+839	PM-GANs	PM-GANs: Discriminative Representation Learning for Action Recognition Using Partial-modalities	2018	4	0	https://arxiv.org/pdf/1804.06248	https://arxiv.org/abs/1804.06248	-	-	-	-	-				-	-
+840	-	DGPose: Disentangled Semi-supervised Deep Generative Models for Human Body Analysis	2018	4	0	https://arxiv.org/pdf/1804.06364	https://arxiv.org/abs/1804.06364	-	-	-	-	-				-	-
+841	-	Deep Generative Networks For Sequence Prediction	2018	4	0	https://arxiv.org/pdf/1804.06546	https://arxiv.org/abs/1804.06546	-	-	-	-	-				-	-
+842	-	Adversarial?Complementary Learning for Weakly Supervised Object Localization	2018	4	0	https://arxiv.org/pdf/1804.06962	https://arxiv.org/abs/1804.06962	-	-	-	-	-				-	-
+843	-	Estimation of Tissue Oxygen Saturation from RGB Images based on Pixel-level Image Translation	2018	4	0	https://arxiv.org/pdf/1804.07116	https://arxiv.org/abs/1804.07116	-	-	-	-	-				-	-
+844	-	Functional Generative Design: An Evolutionary Approach to 3D-Printing	2018	4	0	https://arxiv.org/pdf/1804.07284	https://arxiv.org/abs/1804.07284	-	-	-	-	-				-	3DP
+845	-	Unsupervised Representation Adversarial Learning Network: from Reconstruction to Generation	2018	4	0	https://arxiv.org/pdf/1804.07353	https://arxiv.org/abs/1804.07353	-	-	-	-	-				-	-
+846	-	Generating?a Fusion Image: One's Identity and Another's Shape	2018	4	0	https://arxiv.org/pdf/1804.07455	https://arxiv.org/abs/1804.07455	-	-	-	-	-				-	-
+847	-	Synthesizing Images of Humans in Unseen Poses	2018	4	0	https://arxiv.org/pdf/1804.07739	https://arxiv.org/abs/1804.07739	-	-	-	-	-				-	-
+848	-	Event Extraction with Generative Adversarial Imitation Learning	2018	4	0	https://arxiv.org/pdf/1804.07881	https://arxiv.org/abs/1804.07881	-	-	-	-	-				-	-
+849	-	Unsupervised Natural Language Generation with Denoising Autoencoders	2018	4	0	https://arxiv.org/pdf/1804.07899	https://arxiv.org/abs/1804.07899	-	-	-	-	-				-	-
+850	-	Spatial Image Steganography Based on Generative Adversarial Network	2018	4	0	https://arxiv.org/pdf/1804.07939	https://arxiv.org/abs/1804.07939	-	-	-	-	-				-	-
+851	-	Learning Myelin Content in Multiple Sclerosis from Multimodal MRI through?Adversarial?Training	2018	4	0	https://arxiv.org/pdf/1804.08039	https://arxiv.org/abs/1804.08039	-	-	-	-	-				-	-
+852	-	To Create What You Tell:?Generating?Videos from Captions	2018	4	0	https://arxiv.org/pdf/1804.08264	https://arxiv.org/abs/1804.08264	-	-	-	-	-				-	-
+853	-	Deep Semantic Hashing with Generative Adversarial Networks	2018	4	0	https://arxiv.org/pdf/1804.08275	https://arxiv.org/abs/1804.08275	-	-	-	-	-				-	-
+854	STAN	STAN: Spatio-Temporal?Adversarial?Networks?for Abnormal Event Detection	2018	4	0	https://arxiv.org/pdf/1804.08381	https://arxiv.org/abs/1804.08396	-	-	-	-	-				-	-
+855	-	Path Planning in Support of Smart Mobility Applications using Generative Adversarial Networks	2018	4	0	https://arxiv.org/pdf/1804.08396	https://arxiv.org/abs/1804.08396	-	-	-	-	-				-	-
+856	-	Quantum generative adversarial networks	2018	4	0	https://arxiv.org/pdf/1804.08641	https://arxiv.org/abs/1804.08641	-	-	-	-	-				-	-
+857	-	Siamese Generative Adversarial Privatizer for Biometric Data	2018	4	0	https://arxiv.org/pdf/1804.08757	https://arxiv.org/abs/1804.08757	-	-	-	-	-				-	-
+858	-	Mask-aware Photorealistic Face Attribute Manipulation	2018	4	0	https://arxiv.org/pdf/1804.08882	https://arxiv.org/abs/1804.08882	-	-	-	-	-				-	-
+859	-	Unsupervised Neural Machine Translation with Weight Sharing	2018	4	0	https://arxiv.org/pdf/1804.09057	https://arxiv.org/abs/1804.09057	-	-	-	-	-				-	-
+860	-	DOOM Level Generation using Generative Adversarial Networks	2018	4	0	https://arxiv.org/pdf/1804.09154	https://arxiv.org/abs/1804.09154	-	-	-	-	-				-	-
+861	-	Convolutional Generative Adversarial Networks with Binary Neurons for Polyphonic Music Generation	2018	4	0	https://arxiv.org/pdf/1804.09399	https://arxiv.org/abs/1804.09399	-	-	-	-	-				-	-
+862	-	Generative?Model for Heterogeneous Inference	2018	4	0	https://arxiv.org/pdf/1804.09858	https://arxiv.org/abs/1804.09858	-	-	-	-	-				-	-
+863	-	Visual Data Synthesis via GAN for Zero-Shot Video Classification	2018	4	0	https://arxiv.org/pdf/1804.10073	https://arxiv.org/abs/1804.10073	-	-	-	-	-				-	-
+864	-	Adversarial Training of Variational Auto-encoders for High Fidelity Image Generation	2018	4	0	https://arxiv.org/pdf/1804.10323	https://arxiv.org/abs/1804.10323	-	-	-	-	-				-	-
+865	-	Adversarial?Training of Variational Auto-encoders for High Fidelity Image?Generation	2018	4	0	https://arxiv.org/pdf/1804.10323	https://arxiv.org/abs/1804.10652v1	-	-	-	-	-				-	-
+866	-	Human Motion Modeling using DVGANs	2018	4	0	https://arxiv.org/pdf/1804.10652v1	https://arxiv.org/abs/1804.10652v1	-	-	-	-	-				-	-
+867	CRAFT	CRAFT: Complementary Recommendations Using?Adversarial?Feature Transformer	2018	4	0	https://arxiv.org/pdf/1804.10871	https://arxiv.org/abs/1804.10871	-	-	-	-	-				-	-
+868	-	Adversarial?Image Registration with Application for MR and TRUS Image Fusion	2018	4	0	https://arxiv.org/pdf/1804.11024	https://arxiv.org/abs/1804.11024	-	-	-	-	-				Synthersize	-
+869	-	Towards Deeper Generative Architectures for GANs using Dense connections	2018	4	0	https://arxiv.org/pdf/1804.11031	https://arxiv.org/abs/1804.11031	-	-	-	-	-				-	-
+870	DTR-GAN	DTR-GAN: Dilated Temporal Relational?Adversarial?Network?for Video Summarization	2018	4	0	https://arxiv.org/pdf/1804.11228	https://arxiv.org/abs/1804.11228	-	-	-	-	-				-	-
+871	-	Efficient inverse graphics in biological face processing	2018	4	0	https://www.biorxiv.org/content/early/2018/04/02/282798.full.pdf	https://www.biorxiv.org/content/early/2018/04/02/282798	-	-	-	-	-				-	Bio
+872	-	Weakly supervised learning of single-cell feature embeddings	2018	4	0	https://www.biorxiv.org/content/early/2018/04/02/293431.full.pdf	https://www.biorxiv.org/content/early/2018/04/02/293431	-	-	-	-	-				-	Bio
+873	-	Generative Adversarial Networks Conditioned on Brain Activity Reconstruct Seen Images	2018	4	0	https://www.biorxiv.org/content/early/2018/04/20/304774.full.pdf	https://www.biorxiv.org/content/early/2018/04/20/304774	-	-	-	-	-				-	Bio
+874	-	Teaching data science fundamentals through realistic synthetic clinical cardiovascular data	2018	4	0	https://www.biorxiv.org/content/early/2018/04/21/232611.full.pdf	https://www.biorxiv.org/content/early/2018/04/21/232611	-	-	-	-	-				-	Bio
+875	-	Deep learning achieves super-resolution in fluorescence microscopy	2018	4	0	https://www.biorxiv.org/content/early/2018/04/27/309641.full.pdf	https://www.biorxiv.org/content/early/2018/04/27/309641	-	-	-	-	-				-	Bio
+876	-	Automated Segmentation of Epithelial Tissue Using Cycle-Consistent Generative Adversarial Networks	2018	4	0	https://www.biorxiv.org/content/early/2018/04/30/311373.full.pdf	https://www.biorxiv.org/content/early/2018/04/30/311373	-	-	-	-	-				-	Bio
+877	-	Conditional molecular design with deep generative models	2018	5	0	https://arxiv.org/pdf/1805.00108	https://arxiv.org/abs/1805.00124	-	-	-	-	-				-	-
+878	-	On the Equivalence of Generative and Discriminative Formulations of the Sequential Dependence Model	2018	5	0	https://arxiv.org/pdf/1805.00152	https://arxiv.org/abs/1805.00152	-	-	-	-	-				-	-
+879	-	Versatile Auxiliary Classifier + Generative Adversarial Network (VAC+GAN); Training Conditional Generators	2018	5	0	https://arxiv.org/pdf/1805.00316	https://arxiv.org/abs/1805.00316	-	-	-	-	-				-	-
+880	-	Occluded object reconstruction for first responders with augmented reality glasses using conditional generative adversarial networks	2018	5	0	https://arxiv.org/pdf/1805.00322	https://arxiv.org/abs/1805.00322	-	-	-	-	-				-	-
+881	-	Text to Image Synthesis Using Generative Adversarial Networks	2018	5	0	https://arxiv.org/pdf/1805.00676	https://arxiv.org/abs/1805.00676	-	-	-	-	-				-	-
+882	-	Evolving Mario Levels in the Latent Space of a Deep Convolutional Generative Adversarial Network	2018	5	0	https://arxiv.org/pdf/1805.00728	https://arxiv.org/abs/1805.00728	-	-	-	-	-				-	-
+883	-	Perceptually Optimized Generative Adversarial Network for Single Image Dehazing	2018	5	0	https://arxiv.org/pdf/1805.01084	https://arxiv.org/abs/1805.01084	-	-	-	-	-				-	-
+884	MC-GAN	MC-GAN: Multi-conditional Generative Adversarial Network for Image Synthesis	2018	5	0	https://arxiv.org/pdf/1805.01123	https://arxiv.org/abs/1805.01123	-	-	-	-	-				-	-
+885	-	Siamese networks for generating adversarial examples	2018	5	0	https://arxiv.org/pdf/1805.01431	https://arxiv.org/abs/1805.01431	-	-	-	-	-				-	-
+886	-	Transferring GANs: generating images from limited data	2018	5	0	https://arxiv.org/pdf/1805.01677	https://arxiv.org/abs/1805.01677	-	-	-	-	-				-	-
+887	-	Fast-converging Conditional Generative Adversarial Networks for Image Synthesis	2018	5	0	https://arxiv.org/pdf/1805.01972	https://arxiv.org/abs/1805.01972	-	-	-	-	-				-	-
+888	-	Clustering With Pairwise Relationships: A Generative Approach	2018	5	0	https://arxiv.org/pdf/1805.02285	https://arxiv.org/abs/1805.02285	-	-	-	-	-				-	-
+889	-	Elastic Registration of Medical Images With GANs	2018	5	0	https://arxiv.org/pdf/1805.02369	https://arxiv.org/abs/1805.02369	-	-	-	-	-				-	-
+890	-	Unpaired Multi-Domain Image Generation via Regularized Conditional GANs	2018	5	0	https://arxiv.org/pdf/1805.02456	https://arxiv.org/abs/1805.02456	-	-	-	-	-				-	-
+891	MEGAN	MEGAN: Mixture of Experts of Generative Adversarial Networks for Multimodal Image Generation	2018	5	0	https://arxiv.org/pdf/1805.02481	https://arxiv.org/abs/1805.02481	-	-	-	-	-				-	-
+892	ReGAN	ReGAN: RE[LAX|BAR|INFORCE] based Sequence Generation using GANs	2018	5	0	https://arxiv.org/pdf/1805.02788	https://arxiv.org/abs/1805.02788	-	-	-	-	-				-	-
+893	-	High-resolution medical image synthesis using progressively grown generative adversarial networks	2018	5	0	https://arxiv.org/pdf/1805.03144	https://arxiv.org/abs/1805.03144	-	-	-	-	-				-	-
+894	PSGAN	PSGAN: A Generative Adversarial Network for Remote Sensing Image Pan-Sharpening	2018	5	0	https://arxiv.org/pdf/1805.03371	https://arxiv.org/abs/1805.03371	-	-	-	-	-				-	-
+895	-	Rethinking Diversified and Discriminative Proposal Generation for Visual Grounding	2018	5	0	https://arxiv.org/pdf/1805.03508	https://arxiv.org/abs/1805.03508	-	-	-	-	-				-	Accepted in IJCAI 2018
+896	-	Improving GAN Training via Binarized Representation Entropy (BRE) Regularization	2018	5	0	https://arxiv.org/pdf/1805.03644	https://arxiv.org/abs/1805.03644	-	-	-	-	-				-	-
+897	-	Retinal Vessel Segmentation Based on Conditional Deep Convolutional Generative Adversarial Networks	2018	5	0	https://arxiv.org/pdf/1805.04224	https://arxiv.org/abs/1805.04224	-	-	-	-	-				-	-
+898	-	Stingray Detection of Aerial Images Using Augmented Training Images Generated by A Conditional Generative Model	2018	5	0	https://arxiv.org/pdf/1805.04262	https://arxiv.org/abs/1805.04262	-	-	-	-	-				-	-
+899	-	Exploiting Images for Video Recognition with Hierarchical Generative Adversarial Networks	2018	5	0	https://arxiv.org/pdf/1805.04384	https://arxiv.org/abs/1805.04384	-	-	-	-	-				-	-
+900	-	Image-derived generative modeling of pseudo-macromolecular structures - towards the statistical assessment of Electron CryoTomography template matching	2018	5	0	https://arxiv.org/pdf/1805.04634	https://arxiv.org/abs/1805.04634	-	-	-	-	-				-	-
+901	-	GAN Q-learning	2018	5	0	https://arxiv.org/pdf/1805.04874	https://arxiv.org/abs/1805.04874	-	-	-	-	-				-	-
+902	-	Learning Temporal Strategic Relationships using Generative Adversarial Imitation Learning	2018	5	0	https://arxiv.org/pdf/1805.04969	https://arxiv.org/abs/1805.04969	-	-	-	-	-				-	-
+903	-	Generative Adversarial Forests for Better Conditioned Adversarial Learning	2018	5	0	https://arxiv.org/pdf/1805.05185	https://arxiv.org/abs/1805.05185	-	-	-	-	-				-	-
+904	-	Generating Continuous Representations of Medical Texts	2018	5	0	https://arxiv.org/pdf/1805.05691	https://arxiv.org/abs/1805.05691	-	-	-	-	-				-	-
+905	-	Artificial Intelligence Paradigm for Customer Experience Management in Next-Generation Networks: Challenges and Perspectives	2018	5	0	https://arxiv.org/pdf/1805.06254	https://arxiv.org/abs/1805.06254	-	-	-	-	-				-	-
+906	-	Approximating the Void: Learning Stochastic Channel Models from Observation with Variational Generative Adversarial Networks	2018	5	0	https://arxiv.org/pdf/1805.06350	https://arxiv.org/abs/1805.06350	-	-	-	-	-				-	-
+907	Defense-GAN	Defense-GAN: Protecting Classifiers Against Adversarial Attacks Using Generative Models	2018	5	0	https://arxiv.org/pdf/1805.06605	https://arxiv.org/abs/1805.06605	-	-	-	-	-				-	-
+908	-	Generative networks as inverse problems with Scattering transforms	2018	5	0	https://arxiv.org/pdf/1805.06621	https://arxiv.org/abs/1805.06621	-	-	-	-	-				-	-
+909	-	Generic Deriving of Generic Traversals	2018	5	0	https://arxiv.org/pdf/1805.06798	https://arxiv.org/abs/1805.06798	-	-	-	-	-				-	-
+910	-	Improving Image Captioning with Conditional Generative Adversarial Nets	2018	5	0	https://arxiv.org/pdf/1805.07112	https://arxiv.org/abs/1805.07112	-	-	-	-	-				-	-
+911	-	Learning and Inference Movement with Deep Generative Model	2018	5	0	https://arxiv.org/pdf/1805.07252	https://arxiv.org/abs/1805.07252	-	-	-	-	-				-	-
+912	-	An Unsupervised Approach to Solving Inverse Problems using Generative Adversarial Networks	2018	5	0	https://arxiv.org/pdf/1805.07281	https://arxiv.org/abs/1805.07281	-	-	-	-	-				-	-
+913	GANE	GANE: A Generative Adversarial Network Embedding	2018	5	0	https://arxiv.org/pdf/1805.07324	https://arxiv.org/abs/1805.07324	-	-	-	-	-				-	-
+914	-	Batch Normalization in the final layer of generative networks	2018	5	0	https://arxiv.org/pdf/1805.07389	https://arxiv.org/abs/1805.07389	-	-	-	-	-				-	-
+915	-	Learning to Repair Software Vulnerabilities with Generative Adversarial Networks	2018	5	0	https://arxiv.org/pdf/1805.07475	https://arxiv.org/abs/1805.07475	-	-	-	-	-				-	-
+916	-	Sparsely Grouped Multi-task Generative Adversarial Networks for Facial Attribute Manipulation	2018	5	0	https://arxiv.org/pdf/1805.07509	https://arxiv.org/abs/1805.07509	-	-	-	-	-				-	-
+917	-	Deep Generative Markov State Models	2018	5	0	https://arxiv.org/pdf/1805.07601	https://arxiv.org/abs/1805.07601	-	-	-	-	-				-	-
+918	-	Generative Creativity: Adversarial Learning for Bionic Design	2018	5	0	https://arxiv.org/pdf/1805.07615	https://arxiv.org/abs/1805.07615	-	-	-	-	-				-	-
+919	BourGAN	BourGAN: Generative Networks with Metric Embeddings	2018	5	0	https://arxiv.org/pdf/1805.07674	https://arxiv.org/abs/1805.07674	-	-	-	-	-				-	-
+920	-	Generalized Cross Entropy Loss for Training Deep Neural Networks with Noisy Labels	2018	5	0	https://arxiv.org/pdf/1805.07836	https://arxiv.org/abs/1805.07836	-	-	-	-	-				-	-
+921	-	Featurized Bidirectional GAN: Adversarial Defense via Adversarially Learned Semantic Inference	2018	5	0	https://arxiv.org/pdf/1805.07862	https://arxiv.org/abs/1805.07862	-	-	-	-	-				-	-
+922	-	Generative Adversarial Examples	2018	5	0	https://arxiv.org/pdf/1805.07894	https://arxiv.org/abs/1805.07894	-	-	-	-	-				-	-
+923	-	Anime Style Space Exploration Using Metric Learning and Generative Adversarial Networks	2018	5	0	https://arxiv.org/pdf/1805.07997	https://arxiv.org/abs/1805.07997	-	-	-	-	-				-	-
+924	-	Self-Attention Generative Adversarial Networks	2018	5	0	https://arxiv.org/pdf/1805.08318	https://arxiv.org/abs/1805.08318	-	-	-	-	-				-	-
+925	-	A Solvable High-Dimensional Model of GAN	2018	5	0	https://arxiv.org/pdf/1805.08349	https://arxiv.org/abs/1805.08349	-	-	-	-	-				-	-
+926	-	Neural Generative Models for Global Optimization with Gradients	2018	5	0	https://arxiv.org/pdf/1805.08594	https://arxiv.org/abs/1805.08594	-	-	-	-	-				-	-
+927	-	Robust Conditional Generative Adversarial Networks	2018	5	0	https://arxiv.org/pdf/1805.08657	https://arxiv.org/abs/1805.08657	-	-	-	-	-				-	-
+928	-	Replicating Active Appearance Model by Generator Network	2018	5	0	https://arxiv.org/pdf/1805.08704	https://arxiv.org/abs/1805.08704	-	-	-	-	-				-	-
+929	-	Rapid seismic domain transfer: Seismic velocity inversion and modeling using deep generative neural networks	2018	5	0	https://arxiv.org/pdf/1805.08826	https://arxiv.org/abs/1805.08826	-	-	-	-	-				-	submitted to EAGE 2018
+930	-	Semi-Supervised Learning with GANs: Revisiting Manifold Regularization	2018	5	0	https://arxiv.org/pdf/1805.08957	https://arxiv.org/abs/1805.08957	-	-	-	-	-				-	Workshop track - ICLR 2018
+931	-	End-to-End Speech-Driven Facial Animation with Temporal GANs	2018	5	0	https://arxiv.org/pdf/1805.09313	https://arxiv.org/abs/1805.09313	-	-	-	-	-				-	-
+932	-	A Generalized Active Learning Approach for Unsupervised Anomaly Detection	2018	5	0	https://arxiv.org/pdf/1805.09411	https://arxiv.org/abs/1805.09411	-	-	-	-	-				-	-
+933	-	Primal-Dual Wasserstein GAN	2018	5	0	https://arxiv.org/pdf/1805.09575	https://arxiv.org/abs/1805.09575	-	-	-	-	-				-	-
+934	-	Autonomously and Simultaneously Refining Deep Neural Network Parameters by Generative Adversarial Networks	2018	5	0	https://arxiv.org/pdf/1805.09712	https://arxiv.org/abs/1805.09712	-	-	-	-	-				-	-
+935	-	"Generative Model: Membership Attack,Generalization and Diversity"	2018	5	0	https://arxiv.org/pdf/1805.09898	https://arxiv.org/abs/1805.09898	-	-	-	-	-				-	-
+936	-	Fairness GAN	2018	5	0	https://arxiv.org/pdf/1805.09910	https://arxiv.org/abs/1805.09910	-	-	-	-	-				-	-
+937	DSGAN	DSGAN: Generative Adversarial Training for Distant Supervision Relation Extraction	2018	5	0	https://arxiv.org/pdf/1805.09929	https://arxiv.org/abs/1805.09929	-	-	-	-	-				-	-
+938	-	Unsupervisedly Training GANs for Segmenting Digital Pathology with Automatically Generated Annotations	2018	5	0	https://arxiv.org/pdf/1805.10059	https://arxiv.org/abs/1805.10059	-	-	-	-	-				-	Submitted to NIPS'18
+939	-	Dyna Planning using a Feature Based Generative Model	2018	5	0	https://arxiv.org/pdf/1805.10129	https://arxiv.org/abs/1805.10129	-	-	-	-	-				-	-	-
+940	-	Cross Domain Image Generation through Latent Space Exploration with Adversarial Loss	2018	5	0	https://arxiv.org/pdf/1805.10130	https://arxiv.org/abs/1805.10130	-	-	-	-	-				-	-	-
 941	-	Conditional Generative Adversarial and Convolutional Networks for X-ray Breast Mass Segmentation and Shape Classification	2018	5	0	https://arxiv.org/pdf/1805.10207	https://arxiv.org/abs/1805.10207	-	-	-	-	-				-	"New, MICCAI 2018"
 942	-	Measuring human sensitivity to perturbations within the manifold of natural images	2018	5	0	https://www.biorxiv.org/content/early/2018/05/11/320531.full.pdf	https://www.biorxiv.org/content/early/2018/05/11/320531	-	-	-	-	-				-	"New, Bio"
-943	-	DeepEM: Deep 3D ConvNets With EM For Weakly Supervised Pulmonary Nodule Detection	2018	5	0	https://www.biorxiv.org/content/early/2018/05/14/322370.full.pdf	https://www.biorxiv.org/content/early/2018/05/14/322370	-	-	-	-	-				-	"New, Bio, 3D"
-944	-	scVAE: Variational auto-encoders for single-cell gene expression data	2018	5	0	https://www.biorxiv.org/content/early/2018/05/16/318295.full.pdf	https://www.biorxiv.org/content/early/2018/05/16/318295	-	-	-	-	-				-	"New, Bio"
+943	DeepEM	DeepEM: Deep 3D ConvNets With EM For Weakly Supervised Pulmonary Nodule Detection	2018	5	0	https://www.biorxiv.org/content/early/2018/05/14/322370.full.pdf	https://www.biorxiv.org/content/early/2018/05/14/322370	-	-	-	-	-				-	"New, Bio, 3D"
+944	scVAE	scVAE: Variational auto-encoders for single-cell gene expression data	2018	5	0	https://www.biorxiv.org/content/early/2018/05/16/318295.full.pdf	https://www.biorxiv.org/content/early/2018/05/16/318295	-	-	-	-	-				-	"New, Bio"
 945	-	Neural Networks for Efficient Bayesian Decoding of Natural Images from Retinal Neurons	2018	5	0	https://www.biorxiv.org/content/early/2018/05/28/153759.full.pdf	https://www.biorxiv.org/content/early/2018/05/28/153759	-	-	-	-	-				-	"New, Bio"
-946	-	MRI Image-to-Image Translation for Cross-Modality Image Registration and Segmentation	2018	1	0	https://arxiv.org/pdf/1801.06940	https://arxiv.org/abs/1801.06940	-	-	-	-	-				-	"New, Medical"
+946	-	MRI Image-to-Image Translation for Cross-Modality Image Registration and Segmentation	2018	1	0	https://arxiv.org/pdf/1801.06940	https://arxiv.org/abs/1801.06940	-	-	-	-	-				Segmentation	"New, Medical"
 947	-	Adversarial neural networks for basal membrane segmentation of microinvasive cervix carcinoma in histopathology images	2017	7	0	-	https://ieeexplore.ieee.org/abstract/document/8108952/	-	-	-	-	-				Segmentation	"New, ICMLC"
-948	-	Cross-modality image synthesis from unpaired data using CycleGAN: Effects of gradient consistency loss and training data size	2018	3	0	https://arxiv.org/pdf/1803.06629	https://arxiv.org/abs/1803.06629	-	-	-	-	-				Detection	New
-949	-	Compressed Sensing MRI Reconstruction using a Generative Adversarial Network with a Cyclic Loss	2017	9	0	https://arxiv.org/pdf/1709.00753	https://ieeexplore-ieee-org.cyber.usask.ca/abstract/document/8327637/	-	-	-	-	-				Reconstruction	New
-950	-	3D conditional generative adversarial networks for high-quality PET image estimation at low dose	2018	7	0	-	https://www.sciencedirect.com/science/article/pii/S1053811918302507?via%3Dihub	-	-	-	-	-	https://www.ncbi.nlm.nih.gov/pubmed/29571715			Reconstruction	New
-951	-	GAN-based Synthetic Medical Image Augmentation for increased CNN Performance in Liver Lesion Classification	2018	3	0	https://arxiv.org/pdf/1803.01229	https://arxiv.org/abs/1803.01229	-	-	-	-	-				Classification	New
-952	-	Unsupervised domain adaptation in brain lesion segmentation with adversarial networks	2017	5	0	-	https://link.springer.com/chapter/10.1007/978-3-319-59050-9_47	-	-	-	-	-				Segmentation	"New, IPMI2017"
-953	-	MolGAN: An implicit generative model for small molecular graphs	2018	5	0	http://arxiv.org/pdf/1805.11973.pdf	http://arxiv.org/abs/1805.11973	-	-	-	-	-					New
-954	-	Webpage Saliency Prediction with Two-stage Generative Adversarial Networks	2018	5	0	http://arxiv.org/pdf/1805.11374.pdf	http://arxiv.org/abs/1805.11374	-	-	-	-	-					New
-955	-	Capturing Variabilities from Computed Tomography Images with Generative Adversarial Networks	2018	5	0	http://arxiv.org/pdf/1805.11504.pdf	http://arxiv.org/abs/1805.11504	-	-	-	-	-				Detection	"New, ESANN"
-956	-	FairGAN: Fairness-aware Generative Adversarial Networks	2018	5	0	http://arxiv.org/pdf/1805.11202.pdf	http://arxiv.org/abs/1805.11202	-	-	-	-	-					New
-957	-	Learning Data Augmentation for Brain Tumor Segmentation with Coarse-to-Fine Generative Adversarial Networks	2018	5	0	http://arxiv.org/pdf/1805.11291.pdf	http://arxiv.org/abs/1805.11291	-	-	-	-	-				Segmentation	New
-958	-	Detecting Deceptive Reviews using Generative Adversarial Networks	2018	5	0	http://arxiv.org/pdf/1805.10364.pdf	http://arxiv.org/abs/1805.10364	-	-	-	-	-					New
-959	-	Less is More: Unified Model for Unsupervised Multi-Domain Image-to-Image Translation	2018	5	0	http://arxiv.org/pdf/1805.10871.pdf	http://arxiv.org/abs/1805.10871	-	-	-	-	-					New
-960	-	Versatile Auxiliary Regressor with Generative Adversarial network (VAR+GAN)	2018	5	0	http://arxiv.org/pdf/1805.10864.pdf	http://arxiv.org/abs/1805.10864	-	-	-	-	-					New
-961	-	Human Action Generation with Generative Adversarial Networks	2018	5	0	http://arxiv.org/pdf/1805.10416.pdf	http://arxiv.org/abs/1805.10416	-	-	-	-	-					New
-962	-	Deep CT to MR Synthesis using Paired and Unpaired Data	2018	5	0	http://arxiv.org/pdf/1805.10790.pdf	http://arxiv.org/abs/1805.10790	-	-	-	-	-				Synthersize	New
-963	-	Synergistic Reconstruction and Synthesis via Generative Adversarial Networks for Accelerated Multi-Contrast MRI	2018	5	0	http://arxiv.org/pdf/1805.10704.pdf	http://arxiv.org/abs/1805.10704	-	-	-	-	-				Reconstruction	New
-964	-	Generative Adversarial Image Synthesis with Decision Tree Latent Controller	2018	5	0	http://arxiv.org/pdf/1805.09898.pdf	http://arxiv.org/abs/1805.10603	-	-	-	-	-					New
-965	-	High Quality Bidirectional Generative Adversarial Networks	2018	5	0	http://arxiv.org/pdf/1805.10717.pdf	http://arxiv.org/abs/1805.10717	-	-	-	-	-					New
-966	-	Generative Adversarial Networks Based Heterogeneous Data Integration and Its Application for Intelligent Power Distribution and Utilization	2018	1	0	http://www.mdpi.com/2076-3417/8/1/93/pdf	-	-	-	-	-	-	http://www.mdpi.com/2076-3417/8/1/93				"New, Applied Science"
-967	-	Exploring the Potential of?Generative?Adversarial?Networks?for Synthesizing Radiological Images of the Spine to be Used in?In Silico?Trials.	2018	5	0	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5946008/pdf/fbioe-06-00053.pdf	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5946008/	-	-	-	-	-	https://www.ncbi.nlm.nih.gov/pubmed/29780802			Synthersize	New
-968	-	druGAN: An Advanced?Generative?Adversarial?Autoencoder Model for de Novo Generation of New Molecules with Desired Molecular Properties in Silico.	2017	8	0	-	https://dx.doi.org/10.1021/acs.molpharmaceut.7b00346	-	-	-	-	-	https://www.ncbi.nlm.nih.gov/pubmed/28703000			Synthersize	New
-969	-	Fine-Tuning Neural Patient Question Retrieval Model with?Generative?Adversarial?Networks	2018		0	http://ebooks.iospress.nl/publication/48886	-	-	-	-	-	-	https://www.ncbi.nlm.nih.gov/pubmed/29678055			Enhancement	New
-970	-	Sharpness-Aware Low-Dose CT Denoising Using Conditional?Generative?Adversarial?Network	2018	2	0	-	https://link.springer.com/article/10.1007%2Fs10278-018-0056-0	-	-	-	-	-	https://www.ncbi.nlm.nih.gov/pubmed/29464432			Synthersize	New
-971	-	Accelerating Science with?Generative?Adversarial?Networks: An Application to 3D Particle Showers in Multilayer Calorimeters	2018	1	0	https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.120.042003	https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.042003	-	-	-	-	-	https://www.ncbi.nlm.nih.gov/pubmed/29437460			Reconstruction	New
-972	-	druGAN: An Advanced?Generative?Adversarial?Autoencoder Model for de Novo Generation of New Molecules with Desired Molecular Properties in Silico	2017	9	0	-	https://pubs.acs.org/doi/10.1021/acs.molpharmaceut.7b00346	-	-	-	-	-	https://www.ncbi.nlm.nih.gov/pubmed/28703000				New
-973	-	Deep?Generative?Models for Molecular Science	2018	1	0	-	-	-	-	-	-	-	https://www.ncbi.nlm.nih.gov/pubmed/29405647				New
-974	-	SegAN:?Adversarial?Network?with Multi-scale L1?Loss for Medical Image Segmentation	2018	5	0	-	https://link.springer.com/article/10.1007%2Fs12021-018-9377-x	-	-	-	-	-	https://www.ncbi.nlm.nih.gov/pubmed/29725916			Segmentation	New
-975	-	Improving resolution of MR images with an?adversarial?network?incorporating images with different contrast	2018	5	0	-	http://dx.doi.org/10.1002/mp.12945	-	-	-	-	-	https://www.ncbi.nlm.nih.gov/pubmed/29729006			Enhancement	New
-976	-	The cornucopia of meaningful leads: Applying deep?adversarial?autoencoders for new molecule development in oncology	2017	2	0	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5355231/pdf/oncotarget-08-10883.pdf	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5355231/	-	-	-	-	-	https://www.ncbi.nlm.nih.gov/pubmed/28029644			Reconstruction	New
-977	-	Generation of structural MR images from amyloid PET: Application to MR-less quantification.	2017	12	0	-	http://jnm.snmjournals.org/content/early/2017/12/06/jnumed.117.199414.long	-	-	-	-	-	https://www.ncbi.nlm.nih.gov/pubmed/29217736			Synthersize	New
-978	-	Exploiting the potential of unlabeled endoscopic video data with self-supervised learning	2018	6	0	-	https://link.springer.com/article/10.1007%2Fs11548-018-1772-0	-	-	-	-	-	https://www.ncbi.nlm.nih.gov/pubmed/29704196			Synthersize	New
-979	-	Deep reinforcement learning for automated radiation adaptation in lung cancer	2017	11	0	https://aapm.onlinelibrary.wiley.com/doi/epdf/10.1002/mp.12625	https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.12625	-	-	-	-	-	https://www.ncbi.nlm.nih.gov/pubmed/29034482			Detection	New
-980	-	Generative?adversarial?network?based telecom fraud detection at the receiving bank	2018	6	0	-	https://linkinghub.elsevier.com/retrieve/pii/S0893-6080(18)30069-8	-	-	-	-	-	https://www.ncbi.nlm.nih.gov/pubmed/29558653				New
-981	-	NiftyNet: a deep-learning platform for medical imaging	2018	5	0	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5869052/pdf/main.pdf	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5869052/	-	-	-	-	-	https://www.ncbi.nlm.nih.gov/pubmed/29544777			Reconstruction	New
-982	-	Optimized generation of high-resolution phantom images using cGAN: Application to quantification of Ki67 breast cancer images	2018	5	0	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5942823/pdf/pone.0196846.pdf	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5942823/	https://github.com/cialab/DeepSlides	-	-	-	-	https://www.ncbi.nlm.nih.gov/pubmed/29742125			Segmentation	New
-983	-	Adaptive template generation for amyloid PET using a deep learning approach	2018	5	0	https://onlinelibrary.wiley.com/doi/pdf/10.1002/hbm.24210	http://dx.doi.org/10.1002/hbm.24210	-	-	-	-	-	https://www.ncbi.nlm.nih.gov/pubmed/29752765			Synthersize	New
-984	-	Can surgical simulation be used to train detection and classification of neural networks?	2017	9	0	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5683210/pdf/HTL.2017.0064.pdf	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5683210/	-	-	-	-	-	https://www.ncbi.nlm.nih.gov/pubmed/29184668			Detection	New
-985	-	Structural inference embedded adversarial networks for scene parsing	2018	4	0	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5896926/pdf/pone.0195114.pdf	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5896926/	-	-	-	-	-				Reconstruction	New
-986	-	Learning to Compose Domain-Specific Transformations for Data Augmentation	2017	12	0	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5786274/pdf/nihms933862.pdf	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5786274/	-	-	-	-	-				Augmentation	New
-987	-	Joint Craniomaxillofacial Bone Segmentation and Landmark Digitization by Context-Guided Fully Convolutional Networks	2017	9	0	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5786437/pdf/nihms915074.pdf	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5786437/	-	-	-	-	-				Segmentation	New
-988	-	Automatic lesion detection and segmentation of?18F-FET PET in gliomas: A full 3D U-Net convolutional neural network study	2018	4	0	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5898737/pdf/pone.0195798.pdf	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5898737/	-	-	-	-	-				Segmentation	New
-989	-	Segmentation of Oil Spills on Side-Looking Airborne Radar Imagery with Autoencoders	2018	3	0	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5876930/pdf/sensors-18-00797.pdf	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5876930/	-	-	-	-	-				Segmentation	New
-990	-	Opportunities and obstacles for deep learning in biology and medicine	2018	4	0	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5938574/pdf/rsif20170387.pdf	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5938574/	-	-	-	-	-				Survey	New
-991	-	High-quality face image generated with conditional boundary equilibrium generative adversarial networks	2018	4	0	-	https://www.sciencedirect.com/science/article/pii/S016786551830148X?via%3Dihub	-	-	-	-	-				Synthersize	New
-992	-	Remote sensing image scene classification based on generative adversarial networks	2018	7	0	-	https://www.tandfonline.com/doi/abs/10.1080/2150704X.2018.1453173	-	-	-	-	-				Classification	New
-993	-	PSFGAN: A generative adversarial network system for separating quasar point sources and host galaxy light	2018	3	0	-	https://academic.oup.com/mnras/article-abstract/477/2/2513/4951616?redirectedFrom=fulltext	-	-	-	-	-					New
-994	-	Semisupervised and weakly supervised road detection based on generative adversarial networks	2018	2	0	-	https://ieeexplore.ieee.org/document/8302923/	-	-	-	-	-				Detection	New
-995	-	CC-GAN: A Robust Transfer-Learning Framework for HEp-2 Specimen Image Segmentation	2018	2	0	-	https://ieeexplore.ieee.org/document/8301400/	-	-	-	-	-				Segmentation	New
-996	-	Depth prediction from a single image with conditional adversarial networks	2017	9	0	-	https://ieeexplore.ieee.org/document/8296575/	-	-	-	-	-				Prediction	New
-997	-	A conditional adversarial network for semantic segmentation of brain tumor	2018	2	0	-	https://link.springer.com/chapter/10.1007%2F978-3-319-75238-9_21	-	-	-	-	-				Segmentation	New
-998	-	Splenomegaly segmentation using global convolutional kernels and conditional generative adversarial networks	2018	3	0	-	https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10574/2293406/Splenomegaly-segmentation-using-global-convolutional-kernels-and-conditional-generative-adversarial/10.1117/12.2293406.full?SSO=1	-	-	-	-	-				Segmentation	New
-999	-	Generative Adversarial Networks: An Overview	2018	1	0	-	https://ieeexplore.ieee.org/document/8253599/	-	-	-	-	-				Survey	New
-1000	-	A survey of image synthesis and editing with generative adversarial networks	2017	12	0	-	https://ieeexplore.ieee.org/document/8195348/	-	-	-	-	-				Synthersize	New
-1001	-	Chest x-ray generation and data augmentation for cardiovascular abnormality classification	2018	3	0	-	https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10574/2293971/Chest-x-ray-generation-and-data-augmentation-for-cardiovascular-abnormality/10.1117/12.2293971.full	-	-	-	-	-				Classification	New
-1002	-	Enhancing Image Quality via Style Transfer for Single Image Super-Resolution	2018	2	0	-	https://ieeexplore.ieee.org/document/8290957/	-	-	-	-	-				Enhancement	New
-1003	-	Generative Adversarial Networks-Based Semi-Supervised Learning for Hyperspectral Image Classification	2017	10	0	http://www.mdpi.com/2072-4292/9/10/1042/pdf	http://www.mdpi.com/2072-4292/9/10/1042	-	-	-	-	-				Classification	New
+948	-	Cross-modality image synthesis from unpaired data using CycleGAN: Effects of gradient consistency loss and training data size	2018	3	0	https://arxiv.org/pdf/1803.06629	https://arxiv.org/abs/1803.06629	-	-	-	-	-				Detection	Medical
+949	-	Compressed Sensing MRI Reconstruction using a Generative Adversarial Network with a Cyclic Loss	2017	9	0	https://arxiv.org/pdf/1709.00753	https://ieeexplore-ieee-org.cyber.usask.ca/abstract/document/8327637/	-	-	-	-	-				Reconstruction	Medical
+950	-	3D conditional generative adversarial networks for high-quality PET image estimation at low dose	2018	7	0	-	https://www.sciencedirect.com/science/article/pii/S1053811918302507?via%3Dihub	-	-	-	-	-	https://www.ncbi.nlm.nih.gov/pubmed/29571715			Reconstruction	"3D, CT"
+951	-	GAN-based Synthetic Medical Image Augmentation for increased CNN Performance in Liver Lesion Classification	2018	3	0	https://arxiv.org/pdf/1803.01229	https://arxiv.org/abs/1803.01229	-	-	-	-	-				Classification	Medical
+952	-	Unsupervised domain adaptation in brain lesion segmentation with adversarial networks	2017	5	0	-	https://link.springer.com/chapter/10.1007/978-3-319-59050-9_47	-	-	-	-	-				Segmentation	IPMI2017
+953	MolGAN	MolGAN: An implicit generative model for small molecular graphs	2018	5	0	http://arxiv.org/pdf/1805.11973.pdf	http://arxiv.org/abs/1805.11973	-	-	-	-	-				-	-
+954	-	Webpage Saliency Prediction with Two-stage Generative Adversarial Networks	2018	5	0	http://arxiv.org/pdf/1805.11374.pdf	http://arxiv.org/abs/1805.11374	-	-	-	-	-				-	-
+955	-	Capturing Variabilities from Computed Tomography Images with Generative Adversarial Networks	2018	5	0	http://arxiv.org/pdf/1805.11504.pdf	http://arxiv.org/abs/1805.11504	-	-	-	-	-				Detection	ESANN
+956	FairGAN	FairGAN: Fairness-aware Generative Adversarial Networks	2018	5	0	http://arxiv.org/pdf/1805.11202.pdf	http://arxiv.org/abs/1805.11202	-	-	-	-	-				-	-
+957	-	Learning Data Augmentation for Brain Tumor Segmentation with Coarse-to-Fine Generative Adversarial Networks	2018	5	0	http://arxiv.org/pdf/1805.11291.pdf	http://arxiv.org/abs/1805.11291	-	-	-	-	-				Segmentation	Medical
+958	-	Detecting Deceptive Reviews using Generative Adversarial Networks	2018	5	0	http://arxiv.org/pdf/1805.10364.pdf	http://arxiv.org/abs/1805.10364	-	-	-	-	-				-	-
+959	-	Less is More: Unified Model for Unsupervised Multi-Domain Image-to-Image Translation	2018	5	0	http://arxiv.org/pdf/1805.10871.pdf	http://arxiv.org/abs/1805.10871	-	-	-	-	-				-	-
+960	-	Versatile Auxiliary Regressor with Generative Adversarial network (VAR+GAN)	2018	5	0	http://arxiv.org/pdf/1805.10864.pdf	http://arxiv.org/abs/1805.10864	-	-	-	-	-				-	-
+961	-	Human Action Generation with Generative Adversarial Networks	2018	5	0	http://arxiv.org/pdf/1805.10416.pdf	http://arxiv.org/abs/1805.10416	-	-	-	-	-				-	-
+962	-	Deep CT to MR Synthesis using Paired and Unpaired Data	2018	5	0	http://arxiv.org/pdf/1805.10790.pdf	http://arxiv.org/abs/1805.10790	-	-	-	-	-				Synthersize	Medical
+963	-	Synergistic Reconstruction and Synthesis via Generative Adversarial Networks for Accelerated Multi-Contrast MRI	2018	5	0	http://arxiv.org/pdf/1805.10704.pdf	http://arxiv.org/abs/1805.10704	-	-	-	-	-				Reconstruction	Medical
+964	-	Generative Adversarial Image Synthesis with Decision Tree Latent Controller	2018	5	0	http://arxiv.org/pdf/1805.09898.pdf	http://arxiv.org/abs/1805.10603	-	-	-	-	-				-	-
+965	-	High Quality Bidirectional Generative Adversarial Networks	2018	5	0	http://arxiv.org/pdf/1805.10717.pdf	http://arxiv.org/abs/1805.10717	-	-	-	-	-				-	-
+966	-	Generative Adversarial Networks Based Heterogeneous Data Integration and Its Application for Intelligent Power Distribution and Utilization	2018	1	0	http://www.mdpi.com/2076-3417/8/1/93/pdf	-	-	-	-	-	-	http://www.mdpi.com/2076-3417/8/1/93			-	Applied Science
+967	-	Exploring the Potential of?Generative?Adversarial?Networks?for Synthesizing Radiological Images of the Spine to be Used in?In Silico?Trials.	2018	5	0	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5946008/pdf/fbioe-06-00053.pdf	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5946008/	-	-	-	-	-	https://www.ncbi.nlm.nih.gov/pubmed/29780802			Synthersize	Medical
+968	druGAN	druGAN: An Advanced?Generative?Adversarial?Autoencoder Model for de Novo Generation of New Molecules with Desired Molecular Properties in Silico.	2017	8	0	-	https://dx.doi.org/10.1021/acs.molpharmaceut.7b00346	-	-	-	-	-	https://www.ncbi.nlm.nih.gov/pubmed/28703000			Synthersize	Medical
+969	-	Fine-Tuning Neural Patient Question Retrieval Model with?Generative?Adversarial?Networks	2018		0	http://ebooks.iospress.nl/publication/48886	-	-	-	-	-	-	https://www.ncbi.nlm.nih.gov/pubmed/29678055			Enhancement	Medical
+970	-	Sharpness-Aware Low-Dose CT Denoising Using Conditional?Generative?Adversarial?Network	2018	2	0	-	https://link.springer.com/article/10.1007%2Fs10278-018-0056-0	-	-	-	-	-	https://www.ncbi.nlm.nih.gov/pubmed/29464432			Synthersize	Medical
+971	-	Accelerating Science with?Generative?Adversarial?Networks: An Application to 3D Particle Showers in Multilayer Calorimeters	2018	1	0	https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.120.042003	https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.042003	-	-	-	-	-	https://www.ncbi.nlm.nih.gov/pubmed/29437460			Reconstruction	Medical
+972	druGAN	druGAN: An Advanced?Generative?Adversarial?Autoencoder Model for de Novo Generation of New Molecules with Desired Molecular Properties in Silico	2017	9	0	-	https://pubs.acs.org/doi/10.1021/acs.molpharmaceut.7b00346	-	-	-	-	-	https://www.ncbi.nlm.nih.gov/pubmed/28703000			-	-
+973	-	Deep?Generative?Models for Molecular Science	2018	1	0	-	-	-	-	-	-	-	https://www.ncbi.nlm.nih.gov/pubmed/29405647			-	-
+974	SegAN	SegAN:?Adversarial?Network?with Multi-scale L1?Loss for Medical Image Segmentation	2018	5	0	-	https://link.springer.com/article/10.1007%2Fs12021-018-9377-x	-	-	-	-	-	https://www.ncbi.nlm.nih.gov/pubmed/29725916			Segmentation	Medical
+975	-	Improving resolution of MR images with an?adversarial?network?incorporating images with different contrast	2018	5	0	-	http://dx.doi.org/10.1002/mp.12945	-	-	-	-	-	https://www.ncbi.nlm.nih.gov/pubmed/29729006			Enhancement	Medical
+976	-	The cornucopia of meaningful leads: Applying deep?adversarial?autoencoders for new molecule development in oncology	2017	2	0	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5355231/pdf/oncotarget-08-10883.pdf	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5355231/	-	-	-	-	-	https://www.ncbi.nlm.nih.gov/pubmed/28029644			Reconstruction	Medical
+977	-	Generation of structural MR images from amyloid PET: Application to MR-less quantification.	2017	12	0	-	http://jnm.snmjournals.org/content/early/2017/12/06/jnumed.117.199414.long	-	-	-	-	-	https://www.ncbi.nlm.nih.gov/pubmed/29217736			Synthersize	Medical
+978	-	Exploiting the potential of unlabeled endoscopic video data with self-supervised learning	2018	6	0	-	https://link.springer.com/article/10.1007%2Fs11548-018-1772-0	-	-	-	-	-	https://www.ncbi.nlm.nih.gov/pubmed/29704196			Synthersize	Medical
+979	-	Deep reinforcement learning for automated radiation adaptation in lung cancer	2017	11	0	https://aapm.onlinelibrary.wiley.com/doi/epdf/10.1002/mp.12625	https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.12625	-	-	-	-	-	https://www.ncbi.nlm.nih.gov/pubmed/29034482			Detection	Medical
+980	-	Generative?adversarial?network?based telecom fraud detection at the receiving bank	2018	6	0	-	https://linkinghub.elsevier.com/retrieve/pii/S0893-6080(18)30069-8	-	-	-	-	-	https://www.ncbi.nlm.nih.gov/pubmed/29558653			-	-
+981	NiftyNet	NiftyNet: a deep-learning platform for medical imaging	2018	5	0	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5869052/pdf/main.pdf	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5869052/	-	-	-	-	-	https://www.ncbi.nlm.nih.gov/pubmed/29544777			Reconstruction	Medical
+982	-	Optimized generation of high-resolution phantom images using cGAN: Application to quantification of Ki67 breast cancer images	2018	5	0	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5942823/pdf/pone.0196846.pdf	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5942823/	https://github.com/cialab/DeepSlides	-	-	-	-	https://www.ncbi.nlm.nih.gov/pubmed/29742125			Segmentation	Medical
+983	-	Adaptive template generation for amyloid PET using a deep learning approach	2018	5	0	https://onlinelibrary.wiley.com/doi/pdf/10.1002/hbm.24210	http://dx.doi.org/10.1002/hbm.24210	-	-	-	-	-	https://www.ncbi.nlm.nih.gov/pubmed/29752765			Synthersize	Medical
+984	-	Can surgical simulation be used to train detection and classification of neural networks?	2017	9	0	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5683210/pdf/HTL.2017.0064.pdf	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5683210/	-	-	-	-	-	https://www.ncbi.nlm.nih.gov/pubmed/29184668			Detection	Medical
+985	-	Structural inference embedded adversarial networks for scene parsing	2018	4	0	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5896926/pdf/pone.0195114.pdf	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5896926/	-	-	-	-	-				Reconstruction	Medical
+986	-	Learning to Compose Domain-Specific Transformations for Data Augmentation	2017	12	0	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5786274/pdf/nihms933862.pdf	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5786274/	-	-	-	-	-				Augmentation	Medical
+987	-	Joint Craniomaxillofacial Bone Segmentation and Landmark Digitization by Context-Guided Fully Convolutional Networks	2017	9	0	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5786437/pdf/nihms915074.pdf	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5786437/	-	-	-	-	-				Segmentation	Medical
+988	-	Automatic lesion detection and segmentation of?18F-FET PET in gliomas: A full 3D U-Net convolutional neural network study	2018	4	0	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5898737/pdf/pone.0195798.pdf	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5898737/	-	-	-	-	-				Segmentation	Medical
+989	-	Segmentation of Oil Spills on Side-Looking Airborne Radar Imagery with Autoencoders	2018	3	0	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5876930/pdf/sensors-18-00797.pdf	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5876930/	-	-	-	-	-				Segmentation	Medical
+990	-	Opportunities and obstacles for deep learning in biology and medicine	2018	4	0	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5938574/pdf/rsif20170387.pdf	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5938574/	-	-	-	-	-				Survey	Medical
+991	-	High-quality face image generated with conditional boundary equilibrium generative adversarial networks	2018	4	0	-	https://www.sciencedirect.com/science/article/pii/S016786551830148X?via%3Dihub	-	-	-	-	-				Synthersize	Medical
+992	-	Remote sensing image scene classification based on generative adversarial networks	2018	7	0	-	https://www.tandfonline.com/doi/abs/10.1080/2150704X.2018.1453173	-	-	-	-	-				Classification	Medical
+993	PSFGAN	PSFGAN: A generative adversarial network system for separating quasar point sources and host galaxy light	2018	3	0	-	https://academic.oup.com/mnras/article-abstract/477/2/2513/4951616?redirectedFrom=fulltext	-	-	-	-	-				-	-
+994	-	Semisupervised and weakly supervised road detection based on generative adversarial networks	2018	2	0	-	https://ieeexplore.ieee.org/document/8302923/	-	-	-	-	-				Detection	Medical
+995	CC-GAN	CC-GAN: A Robust Transfer-Learning Framework for HEp-2 Specimen Image Segmentation	2018	2	0	-	https://ieeexplore.ieee.org/document/8301400/	-	-	-	-	-				Segmentation	Medical
+996	-	Depth prediction from a single image with conditional adversarial networks	2017	9	0	-	https://ieeexplore.ieee.org/document/8296575/	-	-	-	-	-				Prediction	Medical
+997	-	A conditional adversarial network for semantic segmentation of brain tumor	2018	2	0	-	https://link.springer.com/chapter/10.1007%2F978-3-319-75238-9_21	-	-	-	-	-				Segmentation	Medical
+998	-	Splenomegaly segmentation using global convolutional kernels and conditional generative adversarial networks	2018	3	0	-	https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10574/2293406/Splenomegaly-segmentation-using-global-convolutional-kernels-and-conditional-generative-adversarial/10.1117/12.2293406.full?SSO=1	-	-	-	-	-				Segmentation	Medical
+999	-	Generative Adversarial Networks: An Overview	2018	1	0	-	https://ieeexplore.ieee.org/document/8253599/	-	-	-	-	-				Survey	Medical
+1000	-	A survey of image synthesis and editing with generative adversarial networks	2017	12	0	-	https://ieeexplore.ieee.org/document/8195348/	-	-	-	-	-				Synthersize	Medical
+1001	-	Chest x-ray generation and data augmentation for cardiovascular abnormality classification	2018	3	0	-	https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10574/2293971/Chest-x-ray-generation-and-data-augmentation-for-cardiovascular-abnormality/10.1117/12.2293971.full	-	-	-	-	-				Classification	Medical
+1002	-	Enhancing Image Quality via Style Transfer for Single Image Super-Resolution	2018	2	0	-	https://ieeexplore.ieee.org/document/8290957/	-	-	-	-	-				Enhancement	Medical
+1003	-	Generative Adversarial Networks-Based Semi-Supervised Learning for Hyperspectral Image Classification	2017	10	0	http://www.mdpi.com/2072-4292/9/10/1042/pdf	http://www.mdpi.com/2072-4292/9/10/1042	-	-	-	-	-				Classification	Medical
+1004	-	A Memristor based Unsupervised Neuromorphic System Towards Fast and Energy-Efficient?GAN	2018	6	0	https://arxiv.org/pdf/1806.01775	https://arxiv.org/abs/1806.01775	-	-	-	-	-				-	New
+1005	GANAX	GANAX: A Unified MIMD-SIMD Acceleration for?Generative?Adversarial?Networks	2018	6	0	https://arxiv.org/pdf/1806.01107	https://arxiv.org/abs/1806.01107	-	-	-	-	-				-	New
+1006	-	Speech-Driven Expressive Talking Lips with Conditional Sequential?GenerativeAdversarial?Networks	2018	6	0	https://arxiv.org/pdf/1806.00154	https://arxiv.org/abs/1806.00154	-	-	-	-	-				-	"New, Speech"
+1007	-	Diverse and Controllable Image Captioning with Part-of-Speech Guidance	2018	5	0	https://arxiv.org/pdf/1805.12589	https://arxiv.org/abs/1805.12589	-	-	-	-	-				-	New
+1008	-	Semantic Road Layout Understanding by?Generative?Adversarial?Inpainting	2018	5	0	https://arxiv.org/pdf/1805.11746	https://arxiv.org/abs/1805.11746	-	-	-	-	-				-	New
+1009	IR2VI	IR2VI: Enhanced Night Environmental Perception by Unsupervised Thermal Image Translation	2018	6	0	https://arxiv.org/pdf/1806.09565	https://arxiv.org/abs/1806.09565	-	-	-	-	-				-	New
+1010	JR-GAN	JR-GAN: Jacobian Regularization for?Generative?Adversarial?Networks	2018	6	0	https://arxiv.org/pdf/1806.09235	https://arxiv.org/abs/1806.09235	-	-	-	-	-				-	New
+1011	-	Privacy-Protective-GAN?for Face De-identification	2018	6	0	https://arxiv.org/pdf/1806.08906	https://arxiv.org/abs/1806.08906	-	-	-	-	-				-	New
+1012	-	Fully Connected?Networks?and?Generative?Neural?Networks?Applied to Sclera Segmentation	2018	6	0	https://arxiv.org/pdf/1806.08722	https://arxiv.org/abs/1806.08722	-	-	-	-	-				-	"Segmentation, BAT2018, New"
+1013	-	Semi-supervised Seizure Prediction with?Generative?Adversarial?Networks	2018	6	0	https://arxiv.org/pdf/1806.08235	https://arxiv.org/abs/1806.08235	-	-	-	-	-				-	New
+1014	BFGAN	BFGAN: Backward and Forward?Generative?Adversarial?Networks?for Lexically Constrained Sentence?Generation	2018	6	0	https://arxiv.org/pdf/1806.08097	https://arxiv.org/abs/1806.08097	-	-	-	-	-				-	New
+1015	-	Disentangling Multiple Conditional Inputs in?GANs	2018	6	0	https://arxiv.org/pdf/1806.07819	https://arxiv.org/abs/1806.07819	-	-	-	-	-				-	"KDD2018, New"
+1016	-	Generative?Adversarial?Networks?for Image-to-Image Translation on Multi-Contrast MR Images - A Comparison of CycleGAN and UNIT	2018	6	0	https://arxiv.org/pdf/1806.07777	https://arxiv.org/abs/1806.07777	-	-	-	-	-				Translation	New
+1017	-	An empirical study on evaluation metrics of?generative?adversarial?networks	2018	6	0	https://arxiv.org/pdf/1806.07755	https://arxiv.org/abs/1806.07755	-	-	-	-	-				-	New
+1018	-	"Versatile Auxiliary Classifier with?Generative?Adversarial?Network?(VAC+GAN), Multi Class Scenarios"	2018	6	0	https://arxiv.org/pdf/1806.07751	https://arxiv.org/abs/1806.07751	-	-	-	-	-				-	New
+1019	-	Beyond Local Nash Equilibria for?Adversarial?Networks	2018	6	0	https://arxiv.org/pdf/1806.07268	https://arxiv.org/abs/1806.07268	-	-	-	-	-				-	New
+1020	-	Task Driven?Generative?Modeling for Unsupervised Domain Adaptation: Application to X-ray Image Segmentation	2018	6	0	https://arxiv.org/pdf/1806.07201	https://arxiv.org/abs/1806.07201	-	-	-	-	-				Segmentation	New
+1021	-	Mixed batches and symmetric discriminators for?GAN?training	2018	6	0	https://arxiv.org/pdf/1806.07185	https://arxiv.org/abs/1806.07185	-	-	-	-	-				-	"ICML2018, New"
+1022	FrankenGAN	FrankenGAN: Guided Detail Synthesis for Building Mass-Models Using Style-Synchonized?GANs	2018	6	0	https://arxiv.org/pdf/1806.07179	https://arxiv.org/abs/1806.07179	-	-	-	-	-				-	New
+1023	-	Improving brain computer interface performance by data augmentation with conditional Deep Convolutional?Generative?Adversarial?Networks	2018	6	0	https://arxiv.org/pdf/1806.07108	https://arxiv.org/abs/1806.07108	-	-	-	-	-				-	"New, BCI"
+1024	BinGAN	BinGAN: Learning Compact Binary Descriptors with a Regularized?GAN	2018	6	0	https://arxiv.org/pdf/1806.06778	https://arxiv.org/abs/1806.06778	-	-	-	-	-				-	New
+1025	-	On Enhancing Speech Emotion Recognition using?Generative?Adversarial?Networks	2018	6	0	https://arxiv.org/pdf/1806.06626	https://arxiv.org/abs/1806.06626	-	-	-	-	-				-	"New, Speech Emotion Recognition"
+1026	-	Banach Wasserstein?GAN	2018	6	0	https://arxiv.org/pdf/1806.06621	https://arxiv.org/abs/1806.06621	-	-	-	-	-				-	New
+1027	MedGAN	MedGAN: Medical Image Translation using?GANs	2018	6	0	https://arxiv.org/pdf/1806.06397	https://arxiv.org/abs/1806.06397	-	-	-	-	-				Translation	New
+1028	-	Generative?Adversarial?Networks?and Perceptual Losses for Video Super-Resolution	2018	6	0	https://arxiv.org/pdf/1806.05764	https://arxiv.org/abs/1806.05764	-	-	-	-	-				-	"New, Super Resolution"
+1029	EL-GAN	EL-GAN: Embedding Loss Driven?Generative?Adversarial?Networks?for Lane Detection	2018	6	0	https://arxiv.org/pdf/1806.05525	https://arxiv.org/abs/1806.05525	-	-	-	-	-				-	New
+1030	-	Efficient Active Learning for Image Classification and Segmentation using a Sample Selection and Conditional?Generative?Adversarial?Network	2018	6	0	https://arxiv.org/pdf/1806.05473	https://arxiv.org/abs/1806.05473	-	-	-	-	-				Segmentation	New
+1031	-	What Is It Like Down There??Generating?Dense Ground-Level Views and Image Features From Overhead Imagery Using Conditional?Generative?Adversarial?Networks	2018	6	0	https://arxiv.org/pdf/1806.05129	https://arxiv.org/abs/1806.05129	-	-	-	-	-				-	New
+1032	-	On Accurate Evaluation of?GANs?for Language?Generation	2018	6	0	https://arxiv.org/pdf/1806.04936	https://arxiv.org/abs/1806.04936	-	-	-	-	-				-	New
+1033	-	Adversarial?Learning with Local Coordinate Coding	2018	6	0	https://arxiv.org/pdf/1806.04895	https://arxiv.org/abs/1806.04895	-	-	-	-	-				-	New
+1034	-	Integral Privacy for Density Estimation with Approximation Guarantees	2018	6	0	https://arxiv.org/pdf/1806.04819	https://arxiv.org/abs/1806.04819	-	-	-	-	-				-	New
+1035	-	Cross-dataset Person Re-Identification Using Similarity Preserved?Generative?Adversarial?Networks	2018	6	0	https://arxiv.org/pdf/1806.04533	https://arxiv.org/abs/1806.04533	-	-	-	-	-				-	New
+1036	-	The Unusual Effectiveness of Averaging in?GAN?Training	2018	6	0	https://arxiv.org/pdf/1806.04498	https://arxiv.org/abs/1806.04498	-	-	-	-	-				-	New
+1037	-	CT-Realistic Lung Nodule Simulation from 3D Conditional?Generative?Adversarial?Networks?for Robust Lung Segmentation	2018	6	0	https://arxiv.org/pdf/1806.04051	https://arxiv.org/abs/1806.04051	-	-	-	-	-				Segmentation	"New, 3D"
+1038	-	Hierarchy of?GANs?for learning embodied self-awareness model	2018	6	0	https://arxiv.org/pdf/1806.04012	https://arxiv.org/abs/1806.04012	-	-	-	-	-				-	New
+1039	CapsGAN	CapsGAN: Using Dynamic Routing for?Generative?Adversarial?Networks	2018	6	0	https://arxiv.org/pdf/1806.03968	https://arxiv.org/pdf/1806.03968	-	-	-	-	-				-	New
+1040	-	Retinal Optic Disc Segmentation using Conditional?Generative?Adversarial?Network	2018	6	0	https://arxiv.org/pdf/1806.03905	https://arxiv.org/abs/1806.03905	-	-	-	-	-				-	"New, Optic Disc Segmentation"
+1041	-	A Multimodal Classifier?Generative?Adversarial?Network?for Carry and Place Tasks from Ambiguous Language Instructions	2018	6	0	https://arxiv.org/pdf/1806.03847	https://arxiv.org/abs/1806.03847	-	-	-	-	-				-	New
+1042	-	Generative?Adversarial?Network?Architectures For Image Synthesis Using Capsule?Networks	2018	6	0	https://arxiv.org/pdf/1806.03796	https://arxiv.org/abs/1806.03796	-	-	-	-	-				-	"NIPS2018, New"
+1043	-	Stochastic seismic waveform inversion using?generative?adversarial?networks?as a geological prior	2018	6	0	https://arxiv.org/pdf/1806.03720	https://arxiv.org/abs/1806.03720	-	-	-	-	-				-	New
+1044	-	Improving Surgical Training Phantoms by Hyperrealism: Deep Unpaired Image-to-Image Translation from Real Surgeries	2018	6	0	https://arxiv.org/pdf/1806.03627	https://arxiv.org/abs/1806.03627	-	-	-	-	-				Translation	"New, Surgical Phantom"
+1045	-	Generative?Adversarial?Nets for Information Retrieval: Fundamentals and Advances	2018	6	0	https://arxiv.org/pdf/1806.03577	https://arxiv.org/abs/1806.03577	-	-	-	-	-				-	"SIGIR2018, New"
+1046	-	Data Synthesis based on?Generative?Adversarial?Networks	2018	6	0	https://arxiv.org/pdf/1806.03384	https://arxiv.org/abs/1806.03384	-	-	-	-	-				-	"New, Data Synthesis"
+1047	-	Generating?Image Sequence from Description with LSTM Conditional?GAN	2018	6	0	https://arxiv.org/pdf/1806.03027	https://arxiv.org/abs/1806.03027	-	-	-	-	-				-	New
+1048	JointGAN	JointGAN: Multi-Domain Joint Distribution Learning with?Generative?Adversarial?Nets	2018	6	0	https://arxiv.org/pdf/1806.02978	https://arxiv.org/abs/1806.02978	-	-	-	-	-				-	"ICML2018,  New"
+1049	ExoGAN	ExoGAN: Retrieving Exoplanetary Atmospheres Using Deep Convolutional?Generative?AdversarialNetworks	2018	6	0	https://arxiv.org/pdf/1806.02906	https://arxiv.org/abs/1806.02906	-	-	-	-	-				-	New
+1050	-	Generative?Adversarial?Networks?for Realistic Synthesis of Hyperspectral Samples	2018	6	0	https://arxiv.org/pdf/1806.02583	https://arxiv.org/abs/1806.02583	-	-	-	-	-				-	"IGARSS 2018, New"
+1051	StarGAN-VC	StarGAN-VC: Non-parallel many-to-many voice conversion with star?generative?adversarial?networks	2018	6	0	https://arxiv.org/pdf/1806.02169	https://arxiv.org/abs/1806.02169	-	-	-	-	-				-	New
+1052	-	Adversarial?Auto-encoders for Speech Based Emotion Recognition	2018	6	0	https://arxiv.org/pdf/1806.02146	https://arxiv.org/abs/1806.02146	-	-	-	-	-				-	"New, Speech Recognition"
+1053	-	Multi-chart?Generative?Surface Modeling	2018	6	0	https://arxiv.org/pdf/1806.02143	https://arxiv.org/abs/1806.02143	-	-	-	-	-				-	New
+1054	EEG-GAN	EEG-GAN:?Generative?adversarial?networks?for electroencephalograhic (EEG) brain signals	2018	6	0	https://arxiv.org/pdf/1806.01875	https://arxiv.org/abs/1806.01875	-	-	-	-	-				EEG	New
+1055	Luigi	Luigi: Large-scale histopathological image retrieval system using deep texture representations	2018	6	0	https://www.biorxiv.org/content/early/2018/06/22/345785.full.pdf	https://www.biorxiv.org/content/early/2018/06/22/345785	-	-	-	-	-				Representation	New

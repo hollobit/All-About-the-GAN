@@ -2,11 +2,14 @@
 """ Update Readme.md and cumulative_gans.jpg """
 from __future__ import print_function
 from __future__ import division
+from wordcloud import WordCloud
+from wordcloud import STOPWORDS
 
 import numpy as np
 import matplotlib.pyplot as plt
 import sys
 import datetime
+import pandas as pd
 
 def load_data():
     """ Load GANs data from the AllGAN.csv file """
@@ -66,12 +69,77 @@ def update_figure(gans):
         plt.ylabel("Total number of papers")
         plt.savefig('cumulative_gans.jpg')
 
+def update_wordcloud_title():
+    """ Update the figure wordcloud_title.jpg """
+
+    data = pd.read_csv('AllGAN-r2.tsv',delimiter='\t', encoding='utf-8')
+
+#    tmp_data = data['Title'].split(" ") for x in data
+
+#    count_list = list([list(x) for x in data['Title'].value_counts().reset_index().values])
+
+#    wordcloud = WordCloud(stopwords=STOPWORDS,relative_scaling = 0.2,
+#                        max_words=2000, background_color='white').generate_from_frequencies(tmp_data)
+    stopwords = set(STOPWORDS)
+    #ganstop = ['Generative','Adversarial', 'Networks', 'Network', 'GAN', 'GANs', 'using', 'Learning', 'Training', 'Generation',
+    #        'Neural', 'Net', 'Model', 'Nets', 'Deep', 'Based', 'Via', 'Conditional', 'Models', 'Examples']
+    #stopwords.add(ganstop)
+
+    stopwords.add('Generative')
+    stopwords.add('Adversarial')
+    stopwords.add('Networks')
+    stopwords.add('Network')
+    stopwords.add('GAN')
+    stopwords.add('GANs')
+    stopwords.add('using')
+    stopwords.add('Learning')
+    stopwords.add('Training')
+    stopwords.add('Generation')
+    stopwords.add('Neural')
+    stopwords.add('Net')
+    stopwords.add('Model')
+    stopwords.add('Nets')
+    stopwords.add('Deep')
+    stopwords.add('Based')
+    stopwords.add('Via')
+    stopwords.add('Conditional')
+    stopwords.add('Models')
+    stopwords.add('Examples')
+
+    wordcloud = WordCloud(stopwords=stopwords,relative_scaling = 0.2, random_state=3,
+                    max_words=2000, background_color='white').generate(' '.join(data['Title']))
+
+    plt.figure(figsize=(12,12))
+    plt.imshow(wordcloud, interpolation="bilinear")
+    plt.axis("off")
+    #plt.show()
+    #plt.savefig('wordcloud_title.png')
+    wordcloud.to_file('wordcloud_title.png')
+    wordcloud.to_file('docs/png/wordcloud_title.png')
+
+def update_wordcloud_category():
+    """ Update the figure wordcloud_category.jpg """
+
+    data = pd.read_csv('AllGAN-r2.tsv',delimiter='\t', encoding='utf-8')
+
+    wordcloud = WordCloud(stopwords=STOPWORDS,relative_scaling = 0.2, random_state=3,
+                max_words=2000, background_color='white').generate(' '.join(data['Category']))
+
+    plt.figure(figsize=(12,12))
+    plt.imshow(wordcloud, interpolation="bilinear")
+    plt.axis("off")
+    #plt.show()
+    #plt.savefig('wordcloud_title.png')
+    wordcloud.to_file('wordcloud_category.png')
+    wordcloud.to_file('docs/png/wordcloud_category.png')
 
 if __name__ == '__main__':
     reload(sys)
     sys.setdefaultencoding('utf-8')
 
     GANS = load_data()
+    update_wordcloud_title()
+    update_wordcloud_category()
     update_readme(GANS)
     update_index(GANS)
 #    update_figure(GANS)

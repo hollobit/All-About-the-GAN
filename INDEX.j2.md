@@ -69,6 +69,10 @@
     <h1 id="whats-this">What is this list?</h1>
     <p>The purpose of this repository is providing the curated list of the state-of-the-art works on the field of Generative Adversarial Networks since their introduction in 2014.</p>
 
+    <p><img src="png/wordcloud_title.png" width="100%" ALT="Title Word Cloud of GAN papers"></p>
+
+    <p><img src="png/wordcloud_category.png" width="100%" ALT="Category Word Cloud of GAN papers"></p>
+
     <p>This list provides a curated list that merged information from various GAN lists and repositories as below:</p>
     <h3>Reference repositories</h3>
       <ul>
