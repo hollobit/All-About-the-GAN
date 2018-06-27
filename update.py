@@ -134,8 +134,11 @@ def update_wordcloud_category():
     wordcloud.to_file('docs/png/wordcloud_category.png')
 
 if __name__ == '__main__':
-    reload(sys)
-    sys.setdefaultencoding('utf-8')
+    try:
+        reload(sys)  # Python 2
+        sys.setdefaultencoding('utf-8')
+    except NameError:
+        pass         # Python 3
 
     GANS = load_data()
     update_wordcloud_title()
