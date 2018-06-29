@@ -686,7 +686,7 @@ Mnum	Abbr.	Title	Year	Month	Citations	pdf	Arxiv	Official_Code	Tensorflow	PyTorch
 691	-	Deep Future Gaze Gaze Anticipation on Egocentric Videos Using Adversarial Networks	2017		0	http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhang_Deep_Future_Gaze_CVPR_2017_paper.pdf	-	-	-	-	-	-				-	-
 692	-	MARTA GANs Unsupervised Representation Learning for Remote Sensing Image Classification?	2017		0	-	http://ieeexplore.ieee.org/document/8059820/	-	-	-	-	-				-	-
 693	-	Adversarial Variational Bayes Unifying Variational Autoencoders and Generative Adversarial Networks	2017	1	0	https://arxiv.org/pdf/1701.04722.pdf	https://arxiv.org/abs/1701.04722	-	-	-	-	-				-	-
-694	-	Adversarial Stain Transfer for Histopathology Image Analysis	2017		0	-	http://ieeexplore.ieee.org/document/8170242/	-	-	-	-	-				-	-
+694	-	Adversarial Stain Transfer for Histopathology Image Analysis	2017	12	0	-	http://ieeexplore.ieee.org/document/8170242/	-	-	-	-	-				-	-
 695	CoGASA	Coupled generative adversarial stacked Auto-encoder: CoGASA	2018		0	-	https://www.sciencedirect.com/science/article/pii/S0893608018300029	-	-	-	-	-	https://www.ncbi.nlm.nih.gov/pubmed/29428433			-	-
 696	-	Cross-Modality Synthesis from CT to PET using FCN and GAN Networks for Improved Automated Lesion Detection	2018	2	0	https://arxiv.org/pdf/1802.07846.pdf	https://arxiv.org/abs/1802.07846	-	-	-	-	-				Detection	Medical
 697	-	Load Balanced GANs for Multi-view Face Image Synthesis	2018	2	0	https://arxiv.org/pdf/1802.07447.pdf	https://arxiv.org/abs/1802.07447	-	-	-	-	-				-	-
@@ -993,7 +993,7 @@ Mnum	Abbr.	Title	Year	Month	Citations	pdf	Arxiv	Official_Code	Tensorflow	PyTorch
 998	-	Splenomegaly segmentation using global convolutional kernels and conditional generative adversarial networks	2018	3	0	-	https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10574/2293406/Splenomegaly-segmentation-using-global-convolutional-kernels-and-conditional-generative-adversarial/10.1117/12.2293406.full?SSO=1	-	-	-	-	-				Segmentation	Medical
 999	-	Generative Adversarial Networks: An Overview	2018	1	0	-	https://ieeexplore.ieee.org/document/8253599/	-	-	-	-	-				Survey	Medical
 1000	-	A survey of image synthesis and editing with generative adversarial networks	2017	12	0	-	https://ieeexplore.ieee.org/document/8195348/	-	-	-	-	-				Synthersize	Medical
-1001	-	Chest x-ray generation and data augmentation for cardiovascular abnormality classification	2018	3	0	-	https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10574/2293971/Chest-x-ray-generation-and-data-augmentation-for-cardiovascular-abnormality/10.1117/12.2293971.full	-	-	-	-	-				Classification	Medical
+1001	-	Chest x-ray generation and data augmentation for cardiovascular abnormality classification	2018	3	0	https://www.spiedigitallibrary.org/proceedings/Download?fullDOI=10.1117/12.2293971&casa_token=AaT-qfRDu24AAAAA:Dp5qxCnTJn6J4WdGxyC3VIW0Et7DkxSlgn_Gr-DGEamjJo18vYfBQSTyBPTfQraFV5QyPeXGIN8	https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10574/2293971/Chest-x-ray-generation-and-data-augmentation-for-cardiovascular-abnormality/10.1117/12.2293971.full	-	-	-	-	-				Classification	"Chest X-Ray, SPIE MI2018"
 1002	-	Enhancing Image Quality via Style Transfer for Single Image Super-Resolution	2018	2	0	-	https://ieeexplore.ieee.org/document/8290957/	-	-	-	-	-				Enhancement	Medical
 1003	-	Generative Adversarial Networks-Based Semi-Supervised Learning for Hyperspectral Image Classification	2017	10	0	http://www.mdpi.com/2072-4292/9/10/1042/pdf	http://www.mdpi.com/2072-4292/9/10/1042	-	-	-	-	-				Classification	Medical
 1004	-	A Memristor based Unsupervised Neuromorphic System Towards Fast and Energy-Efficient?GAN	2018	6	0	https://arxiv.org/pdf/1806.01775	https://arxiv.org/abs/1806.01775	-	-	-	-	-				-	New
@@ -1048,3 +1048,43 @@ Mnum	Abbr.	Title	Year	Month	Citations	pdf	Arxiv	Official_Code	Tensorflow	PyTorch
 1053	-	Multi-chart?Generative?Surface Modeling	2018	6	0	https://arxiv.org/pdf/1806.02143	https://arxiv.org/abs/1806.02143	-	-	-	-	-				-	New
 1054	EEG-GAN	EEG-GAN:?Generative?adversarial?networks?for electroencephalograhic (EEG) brain signals	2018	6	0	https://arxiv.org/pdf/1806.01875	https://arxiv.org/abs/1806.01875	-	-	-	-	-				EEG	New
 1055	Luigi	Luigi: Large-scale histopathological image retrieval system using deep texture representations	2018	6	0	https://www.biorxiv.org/content/early/2018/06/22/345785.full.pdf	https://www.biorxiv.org/content/early/2018/06/22/345785	-	-	-	-	-				Representation	New
+1056	-	Semi-supervised learning with generative adversarial networks for chest X-ray classification with ability of data domain adaptation	2018	4	0	-	https://ieeexplore.ieee.org/abstract/document/8363749/	-	-	-	-	-				Classification	"New, ISBI2018"
+1057	-	Generative Adversarial Neural Networks for Pigmented and Non-Pigmented Skin Lesions Detection in Clinical Images	2017	5	0	https://www.computer.org/csdl/proceedings/cscs/2017/1839/00/07968584.pdf	https://ieeexplore.ieee.org/document/7968584/	-	-	-	-	-				Detection	"New, CSCS2017"
+1058	-	Generative Adversarial Networks to Segment Skin Lesions	2018	4	0	http://www.cs.sfu.ca/~hamarneh/ecopy/isbi2018b.pdf	https://ieeexplore.ieee.org/abstract/document/8363712/	-	-	-	-	-				Segmentation	"New, ISBI2018"
+1059	-	GAN-based synthetic brain MR image generation	2018	4	0	http://www.nlab.ci.i.u-tokyo.ac.jp/pdf/isbi2018.pdf	https://ieeexplore.ieee.org/abstract/document/8363678/	-	-	-	-	-				Synthersize	"New, MR, Brain, ISBI2018"
+1060	-	StainGAN: Stain Style Transfer for Digital Histological Images	2018	4	0	https://arxiv.org/pdf/1804.01601	https://arxiv.org/abs/1804.01601	-	-	-	-	-				Classification	"New, MICCAI 2018"
+1061	-	Histopathology Stain-Color Normalization Using Generative Neural Networks	2018	4	0	https://openreview.net/pdf?id=SkjdxkhoG	https://openreview.net/forum?id=SkjdxkhoG	-	-	-	-	-				Normalization	"New, MIDL2018"
+1062	-	Generative Spatiotemporal Modeling Of Neutrophil Behavior	2018	4	0	https://arxiv.org/pdf/1804.00393	https://arxiv.org/abs/1804.00393	-	-	-	-	-				Modeling	"New, ISBI2018"
+1063	-	Deformable medical image registration using generative adversarial networks	2018	4	0	-	https://ieeexplore.ieee.org/document/8363845/	-	-	-	-	-				Synthersize	"New, ISBI2018"
+1064	-	3-D Convolutional Encoder-Decoder Network for Low-Dose CT via Transfer Learning From a 2-D Trained Network	2018	5	0	-	https://ieeexplore.ieee.org/document/8353466/	-	-	-	-	-				Synthersize	"New, 3D, LD-CT"
+1065	-	Low-Dose CT Image Denoising Using a?Generative?Adversarial?Network With Wasserstein Distance and Perceptual Loss	2018	4	0	-	https://ieeexplore.ieee.org/document/8340157/	-	-	-	-	-				Denoising	"New, LD-CT"
+1066	-	Digital Signal Modulation Classification With Data Augmentation Using?Generative?Adversarial?Nets in Cognitive Radio?Networks	2018	3	0	-	https://ieeexplore.ieee.org/document/8319926/	-	-	-	-	-				-	New
+1067	IMG2DSM	IMG2DSM: Height Simulation From Single Imagery Using Conditional?Generative?Adversarial?Net	2018	3	0	-	https://ieeexplore.ieee.org/document/8306501/	-	-	-	-	-				-	New
+1068	-	Enhancing Image Quality via Style Transfer for Single Image Super-Resolution	2018	2	0	-	https://ieeexplore.ieee.org/document/8290957/	-	-	-	-	-				-	New
+1069	-	Improved Boundary Equilibrium?Generative?Adversarial?Networks	2018	2	0	-	https://ieeexplore.ieee.org/document/8288664/	-	-	-	-	-				-	New
+1070	-	From Eyes to Face Synthesis: a New Approach for Human-Centered Smart Surveillance	2018	2	0	-	https://ieeexplore.ieee.org/document/8286933/	-	-	-	-	-				-	New
+1071	-	Auxiliary Loss Multimodal GRU Model in Audio-Visual Speech Recognition	2018	2	0	-	https://ieeexplore.ieee.org/document/8279447/	-	-	-	-	-				-	New
+1072	-	Language/Dialect Recognition Based on Unsupervised Deep Learning	2018	1	0	-	https://ieeexplore.ieee.org/document/8268099/	-	-	-	-	-				-	New
+1073	-	Model-Free Renewable Scenario Generation Using?Generative?AdversarialNetworks	2018	1	0	-	https://ieeexplore.ieee.org/document/8260947/	-	-	-	-	-				-	New
+1074	-	Emerging From Water: Underwater Image Color Correction Based on Weakly Supervised Color Transfer	2018	1	0	-	https://ieeexplore.ieee.org/document/8253820/	-	-	-	-	-				-	New
+1075	-	Semisupervised Hyperspectral Image Classification Based on?GenerativeAdversarial?Networks	2017	12	0	-	https://ieeexplore.ieee.org/document/8241773/	-	-	-	-	-				-	New
+1076	DAGAN	DAGAN: Deep De-Aliasing Generative Adversarial Networks for Fast Compressed Sensing MRI Reconstruction	2017	12	0	-	https://ieeexplore.ieee.org/document/8233175/	-	-	-	-	-				Reconstruction	"New, MRI"
+1077	-	Median Filtered Image Restoration and Anti-Forensics Using?AdversarialNetworks	2017	12	0	-	https://ieeexplore.ieee.org/document/8186196/	-	-	-	-	-				-	New
+1078	-	Automatic Generation of News Comments Based on Gated Attention Neural?Networks	2017	11	0	-	https://ieeexplore.ieee.org/document/8114175/	-	-	-	-	-				-	New
+1079	-	Road Detection From Remote Sensing Images by?Generative?Adversarial Networks	2017	11	0	-	https://ieeexplore.ieee.org/document/8106771/	-	-	-	-	-				-	New
+1080	-	Statistical Parametric Speech Synthesis Incorporating?Generative?Adversarial Networks	2017	10	0	-	https://ieeexplore.ieee.org/document/8063435/	-	-	-	-	-				-	New
+1081	-	End-to-End?Adversarial?Retinal Image Synthesis	2017	10	0	-	https://ieeexplore.ieee.org/document/8055572/	-	-	-	-	-				-	New
+1082	WaterGAN	WaterGAN: Unsupervised?Generative?Network to Enable Real-Time Color Correction of Monocular Underwater Images	2017	7	0	-	https://ieeexplore.ieee.org/document/7995024/	-	-	-	-	-				-	New
+1083	-	"Face, hairstyle and clothing colour de-identification in video sequences"	2017	9	0	-	https://ieeexplore.ieee.org/document/8221827/	-	-	-	-	-				-	New
+1084	-	Can surgical simulation be used to train detection and classification of neural?networks?	2017	11	0	-	https://ieeexplore.ieee.org/document/8107157/	-	-	-	-	-				-	New
+1085	-	Generative?Adversarial?Networks?for Change Detection in Multispectral Imagery	2017	11	0	-	https://ieeexplore.ieee.org/document/8094357/	-	-	-	-	-				-	New
+1086	-	Automatic Steganographic Distortion Learning Using a?Generative?AdversarialNetwork	2017	8	0	-	https://ieeexplore.ieee.org/document/8017430/	-	-	-	-	-				-	New
+1087	-	Synthetic Aperture Radar Image Synthesis by Using?Generative?AdversarialNets	2017	5	0	-	https://ieeexplore.ieee.org/document/7927706/	-	-	-	-	-				-	New
+1088	-	High Diversity Attribute Guided Face?Generation?with?GANs	2018	6	0	https://arxiv.org/pdf/1806.10982	https://arxiv.org/abs/1806.10982	-	-	-	-	-				-	New
+1089	-	Training Discriminative Models to Evaluate?Generative?Ones	2018	6	0	https://arxiv.org/pdf/1806.10840	https://arxiv.org/abs/1806.10840	-	-	-	-	-				-	New
+1090	-	Approximability of Discriminators Implies Diversity in?GANs	2018	6	0	https://arxiv.org/pdf/1806.10586	https://arxiv.org/abs/1806.10586	-	-	-	-	-				-	New
+1091	-	Customizing an?Adversarial?Example?Generator?with Class-Conditional?GANs	2018	6	0	https://arxiv.org/pdf/1806.10496	https://arxiv.org/abs/1806.10496	-	-	-	-	-				-	New
+1092	-	Adversarial?Distillation of Bayesian Neural?Network?Posteriors	2018	6	0	https://arxiv.org/pdf/1806.10317	https://arxiv.org/abs/1806.10317	-	-	-	-	-				-	New
+1093	-	Sounderfeit: Cloning a Physical Model using a Conditional?Adversarial?Autoencoder	2018	6	0	https://arxiv.org/pdf/1806.09617	https://arxiv.org/abs/1806.09617	-	-	-	-	-				-	New
+1094	-	Thermal to Visible Facial Image Translation Using?Generative?AdversarialNetworks	2018	6	0	-	https://ieeexplore.ieee.org/document/8375645/	-	-	-	-	-				-	New
+1095	-	Instance Map based Image Synthesis with a Denoising?GenerativeAdversarial?Network	2018	6	0	-	https://ieeexplore.ieee.org/document/8389206/	-	-	-	-	-				-	New
