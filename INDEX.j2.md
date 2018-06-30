@@ -107,7 +107,8 @@
     <dl>
     {% for gan in gans if 'New' in gan['Category'] %}
     <dt><b>{{ gan['Title'] }}</b>  (No: {{ gan['Mnum']}})</dt>
-    <dd><a href="http://www.google.com/search?q={{ gan['Title']|urlencode() }})">[Search]</a>  <a href="http://scholar.google.com/scholar?q={{ gan['Title']|urlencode() }})">[Scholar]</a>  <a href="{{ gan['pdf'] }}">[PDF]</a>
+    <dd><a href="http://www.google.com/search?q={{ gan['Title']|urlencode() }})">[Search]</a>  <a href="http://scholar.google.com/scholar?q={{ gan['Title']|urlencode() }})">[Scholar]</a>  
+     {%- if gan['pdf'] != '-' and gan['pdf'] != '' -%} <a href="{{ gan['pdf'] }}">[PDF]</a> {% endif %}
      {%- if ncount.update({'value': (ncount.value + 1)}) -%} {% endif %}
      {%- if gan['Arxiv'] != '-' and gan['Arxiv'] != '' -%} <a href="{{ gan['Arxiv'] }}">[arXiv]</a> {% endif %}
      {%- if gan['Official_Code'] != '-' and gan['Official_Code'] != '' -%} <a href="{{ gan['Official_Code'] }}">[github]</a> {% endif %}
@@ -136,7 +137,8 @@
 <dl>
 {% for gan in gans if gan['Year']|int == syear %}
  <dt><b>{{ gan['Title'] }}</b>  (No: {{ gan['Mnum']}})</dt>
- <dd><a href="http://www.google.com/search?q={{ gan['Title']|urlencode() }})">[Search]</a>  <a href="http://scholar.google.com/scholar?q={{ gan['Title']|urlencode() }})">[Scholar]</a>  <a href="{{ gan['pdf'] }}">[PDF]</a>
+ <dd><a href="http://www.google.com/search?q={{ gan['Title']|urlencode() }})">[Search]</a>  <a href="http://scholar.google.com/scholar?q={{ gan['Title']|urlencode() }})">[Scholar]</a>  
+  {%- if gan['pdf'] != '-' and gan['pdf'] != '' -%} <a href="{{ gan['pdf'] }}">[PDF]</a> {% endif %}
   {%- if count.update({'value': (count.value + 1)}) -%} {% endif %}
   {%- if gan['Arxiv'] != '-' and gan['Arxiv'] != '' -%} <a href="{{ gan['Arxiv'] }}">[arXiv]</a> {% endif %}
   {%- if gan['Official_Code'] != '-' and gan['Official_Code'] != '' -%} <a href="{{ gan['Official_Code'] }}">[github]</a> {% endif %}
@@ -165,7 +167,8 @@
 <dl>
 {% for gan in gans if gan['Medical'] != '-' %}
 <dt><b>{{ gan['Title'] }}</b>  (No: {{ gan['Mnum']}})</dt>
-<dd><a href="http://www.google.com/search?q={{ gan['Title']|urlencode() }})">[Search]</a>  <a href="http://scholar.google.com/scholar?q={{ gan['Title']|urlencode() }})">[Scholar]</a>  <a href="{{ gan['pdf'] }}">[PDF]</a>
+<dd><a href="http://www.google.com/search?q={{ gan['Title']|urlencode() }})">[Search]</a>  <a href="http://scholar.google.com/scholar?q={{ gan['Title']|urlencode() }})">[Scholar]</a>  
+ {%- if gan['pdf'] != '-' and gan['pdf'] != '' -%} <a href="{{ gan['pdf'] }}">[PDF]</a> {% endif %}
  {%- if mcount.update({'value': (mcount.value + 1)}) -%} {% endif %}
  {%- if gan['Arxiv'] != '-' and gan['Arxiv'] != '' -%} <a href="{{ gan['Arxiv'] }}">[arXiv]</a> {% endif %}
  {%- if gan['Official_Code'] != '-' and gan['Official_Code'] != '' -%} <a href="{{ gan['Official_Code'] }}">[github]</a> {% endif %}
