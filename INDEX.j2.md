@@ -42,6 +42,7 @@
                 <a href="#doc-y2015">2015</a>
                 <a href="#doc-y2014">2014</a>
                 <a href="#doc-medical">Medical</a>
+                <a href="#doc-augmentation">Augmentation</a>
             </div>
         </div>
     </nav>
@@ -191,15 +192,46 @@
 
 <hr>
 
+{% set aucount = {'value': 1} %}
+<h2 id="doc-augmentation">Augmentation</h2>
+<dl>
+{% for gan in gans if 'Augmentation' in gan['Category'] %}
+<dt><b>{{ gan['Title'] }}</b>  (No: {{ gan['Mnum']}})</dt>
+<dd><a href="http://www.google.com/search?q={{ gan['Title']|urlencode() }})">[Search]</a>  <a href="http://scholar.google.com/scholar?q={{ gan['Title']|urlencode() }})">[Scholar]</a>  
+ {%- if gan['pdf'] != '-' and gan['pdf'] != '' -%} <a href="{{ gan['pdf'] }}">[PDF]</a> {% endif %}
+ {%- if aucount.update({'value': (aucount.value + 1)}) -%} {% endif %}
+ {%- if gan['Arxiv'] != '-' and gan['Arxiv'] != '' -%} <a href="{{ gan['Arxiv'] }}">[arXiv]</a> {% endif %}
+ {%- if gan['Official_Code'] != '-' and gan['Official_Code'] != '' -%} <a href="{{ gan['Official_Code'] }}">[github]</a> {% endif %}
+ {%- if gan['Tensorflow'] != '-' and gan['Tensorflow'] != '' -%} <a href="{{ gan['Tensorflow'] }}">[TensorFlow]</a> {% endif %}
+ {%- if gan['PyTorch'] != '-' and gan['PyTorch'] != '' -%} <a href="{{ gan['PyTorch'] }}">[PyTorch]</a> {% endif %}
+ {%- if gan['KERAS'] != '-' and gan['KERAS'] != '' -%} <a href="{{ gan['KERAS'] }}">[KERAS]</a> {% endif %}
+ {%- if gan['Web'] != '-' and gan['Web'] != '' -%} <a href="{{ gan['Web'] }}">[Web]</a> {% endif %}
+
+   - {%- if gan['Citations'] | int > 50  %} :dart: {% endif %}
+ {%- if gan['Stars'] | int > 10 %} :octocat: {% endif %} `{{ gan['Year'] }}/{{ gan['Month'] }}` {# #}
+ {%- if gan['Medical'] != '-' -%} `Medical: {{ gan['Medical'] }}` {% endif %}
+ {%- if gan['Category'] != '-' -%} `{{ gan['Category'] }}` {% endif %}  
+ {%- if gan['Abbr.'] != '-' and gan['Abbr.'] != '' %} `{{ gan['Abbr.'] }}`  {% endif %}
+ {%- if gan['Citations'] != '0' and gan['Citations'] != '' %} `Citation: {{ gan['Citations'] }}` {% endif %}
+ {%- if gan['Stars'] != '-' and gan['Stars'] != '' %} `Stars: {{ gan['Stars'] }}` {% endif %}
+ </dd>
+
+{% endfor %}
+  </dl>
+
+<hr>
+
 <h3>#### GANs counter: {{ count.value-1 }}</h3>
 
 <h3>#### Added new papers: {{ ncount.value-1 }}</h3>
 
 <h3>#### Medical related papers: {{ mcount.value-1 }}</h3>
 
+<h3>#### Augmentation topic papers: {{ aucount.value-1 }}</h3>
+
 <h3>#### Modified: {{ nowts.strftime('%A, %b %d %Y / %X') }}</h3>
 
-<h3>MIT (c) 2017, 2018 Jonathan Jeon</h3>
+<h3>MIT (c) 2017, 2018 Jonathan Jeon (hollobit_at_etri.re.kr) </h3>
 
 <!-- Label to hide menu -->
 <label for="menu" id="exit"></label>
