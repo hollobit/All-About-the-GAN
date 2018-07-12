@@ -1,4 +1,4 @@
-num	Abbr.	Title	Year	Month	Citations	pdf	Arxiv	Official_Code	Tensorflow	PyTorch	KERAS	Stars	Web	No	SN	Medical	Category												
+Mnum	Abbr.	Title	Year	Month	Citations	pdf	Arxiv	Official_Code	Tensorflow	PyTorch	KERAS	Stars	Web	No	SN	Medical	Category												
 174	GAN	Generative Adversarial Nets	2014	6	3675	https://arxiv.org/pdf/1406.2661.pdf	https://arxiv.org/abs/1406.2661	https://github.com/goodfeli/adversarial	-	-	-	1230		1		-	The First paper
 347	-	Semi-Supervised Learning with Deep Generative Models	2014	6	530	https://arxiv.org/pdf/1406.5298v2.pdf	https://arxiv.org/abs/1406.5298v2	-	-	-	-	-			5	-	-
 86	CGAN	Conditional Generative Adversarial Nets	2014	11	566	https://arxiv.org/pdf/1411.1784v1.pdf	https://arxiv.org/abs/1411.1784v1	https://github.com/zhangqianhui/Conditional-Gans	-	-	-	70		2	6	-	Conditional adversarial
