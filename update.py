@@ -10,6 +10,9 @@ import matplotlib.pyplot as plt
 import sys
 import datetime
 import pandas as pd
+import csv
+import json
+import os
 
 def load_data():
     """ Load GANs data from the AllGAN.csv file """
@@ -133,6 +136,32 @@ def update_wordcloud_category():
     wordcloud.to_file('wordcloud_category.png')
     wordcloud.to_file('docs/png/wordcloud_category.png')
 
+def update_wordcloud_abbr():
+    """ Update the figure wordcloud_category.jpg """
+
+    data = pd.read_csv('AllGAN-r2.tsv',delimiter='\t', encoding='utf-8')
+
+    wordcloud = WordCloud(stopwords=STOPWORDS,relative_scaling = 0.2, random_state=3,
+                max_words=2000, background_color='white').generate(' '.join(data['Abbr.']))
+
+    plt.figure(figsize=(12,12))
+    plt.imshow(wordcloud, interpolation="bilinear")
+    plt.axis("off")
+    #plt.show()
+    #plt.savefig('wordcloud_title.png')
+    wordcloud.to_file('wordcloud_abbr.png')
+    wordcloud.to_file('docs/png/wordcloud_abbr.png')
+
+def update_csv2json():
+
+#    COLUMNS = ('Mnum','Abbr.','Title','Year','Month','Citations','pdf','Arxiv','Official_Code','Tensorflow','PyTorch','KERAS',	'Stars','Web','No','SN','Medical','Category')
+    with open('AllGan-r2.tsv', 'r') as f:
+        reader = csv.DictReader(f, delimiter='\t')
+        rows = list(reader)
+
+    with open('docs/AllGan.json', 'w') as f:
+        f.write(json.dumps(rows, sort_keys=False, separators=(',', ': '), ensure_ascii=False, indent=4))
+
 if __name__ == '__main__':
     try:
         reload(sys)  # Python 2
@@ -143,6 +172,8 @@ if __name__ == '__main__':
     GANS = load_data()
     update_wordcloud_title()
     update_wordcloud_category()
+    update_wordcloud_abbr()
     update_readme(GANS)
     update_index(GANS)
+    update_csv2json()
 #    update_figure(GANS)

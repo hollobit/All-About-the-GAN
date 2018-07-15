@@ -75,6 +75,8 @@
 
     <p><img src="png/wordcloud_category.png" width="100%" ALT="Category Word Cloud of GAN papers"><br>(Word cloud of Category)</p>
 
+    <p align="center"><img src="png/wordcloud_abbr.png" width="100%" ALT="Abbr. Name Word Cloud of GAN papers"><br>(Word cloud of Abbr. name)</p>
+
     <p>This list provides a curated list that merged information from various GAN lists and repositories as below:</p>
     <h3>Reference repositories</h3>
       <ul>
