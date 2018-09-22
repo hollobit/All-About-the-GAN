@@ -8,7 +8,7 @@ The purpose of this repository is providing the curated list of the state-of-the
 
 <p align="center"><img width="80%" src="wordcloud_category.png" /><br>(Word Cloud of Title)</p>
 
-<p align="center"><img src="png/wordcloud_abbr.png" width="100%" ALT="Abbr. Name Word Cloud of GAN papers"><br>(Word cloud of Abbr. name)</p>
+<p align="center"><img width="80%" src="wordcloud_abbr.png" ALT="Abbr. Name Word Cloud of GAN papers" /><br>(Word cloud of Abbr. name)</p>
 
 It provides a list that merged information from various GAN lists and repositories as below:
 
