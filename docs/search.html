@@ -184,19 +184,19 @@ Vue.component('demo-grid', {
         },
         highlight: function(words, query) {
             var iQuery = new RegExp(query, "ig");
-            if (words.length <= 1) return "";
+            if (words == "-") return "";
             return words.replace(iQuery, function(matchedTxt,a,b){
               return ('<span class=\'highlight\'>' + matchedTxt + '</span>');
             });
           },
         searchml: function(uritext) {
-            return ('<a href=\'http://www.google.com/search?q=' + encodeURI(uritext) + '\'>[Search]</a>');
+            return ('<a href=\'http://www.google.com/search?q=' + encodeURI(uritext) + '\' target="_blank">[Search]</a>');
         },
         scholarml: function(uritext) {
-              return ('<a href=\'http://scholar.google.com/scholar?q=' + encodeURI(uritext) + '\'>[Scholar]</a>');
+              return ('<a href=\'http://scholar.google.com/scholar?q=' + encodeURI(uritext) + '\' target="_blank">[Scholar]</a>');
         },
         linkml: function(url, query) {
-            return ('<a href=\'' + url + '\'>[' + query + ']</a>');
+            return ('<a href=\'' + url + '\' target="_blank">[' + query + ']</a>');
         }
     }
 });
