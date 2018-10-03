@@ -32,6 +32,7 @@
         <div>
             <a href="#whats-gans">what is GANs?</a>
             <a href="#whats-this">What is this list</a>
+            <a href-"search.html">All GANs Search</a>
             <input type="checkbox" id="s1-all" checked>
             <label for="s1-all">All GANs</label>
             <div class="s1">

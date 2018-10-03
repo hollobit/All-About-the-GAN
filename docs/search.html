@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>All about the GANs dynamic search</title>
+  <meta charset="utf-8">
+  <!-- CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/buefy/lib/buefy.min.css">
+  <!-- JavaScript -->
+  <script src='https://unpkg.com/vue/dist/vue.min.js'></script>
+  <script src='https://unpkg.com/axios/dist/axios.min.js'></script>
+  <script src='https://cdn.jsdelivr.net/npm/lodash@4.17.4/lodash.min.js'></script>
+  <script src='https://unpkg.com/cleave.js/dist/cleave.min.js'></script>
+  <script src='https://cdn.jsdelivr.net/npm/sortablejs@1.6.1/Sortable.min.js'></script>
+  <style>
+  body {
+  font-family: Helvetica Neue, Arial, sans-serif;
+  font-size: 14px;
+  color: #444;
+}
+
+table {
+  border: 2px solid #42b983;
+  border-radius: 3px;
+  background-color: #fff;
+}
+
+th {
+  background-color: #42b983;
+  color: rgba(255,255,255,0.66);
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+td {
+  background-color: #f9f9f9;
+}
+
+th, td {
+  min-width: 120px;
+  padding: 10px 20px;
+}
+
+th.active {
+  color: #fff;
+}
+
+th.active .arrow {
+  opacity: 1;
+}
+
+.arrow {
+  display: inline-block;
+  vertical-align: middle;
+  width: 0;
+  height: 0;
+  margin-left: 5px;
+  opacity: 0.66;
+}
+
+.arrow.asc {
+  border-left: 4px solid transparent;
+  border-right: 4px solid transparent;
+  border-bottom: 4px solid #fff;
+}
+
+.arrow.dsc {
+  border-left: 4px solid transparent;
+  border-right: 4px solid transparent;
+  border-top: 4px solid #fff;
+}
+
+#search {
+  margin-bottom: 10px;
+}
+
+.highlight {
+    background-color: yellow;
+}
+</style>
+</head>
+<body>
+
+  <script type="text/x-template" id="grid-template">
+    <table>
+      <thead>
+        <tr>
+          <th v-if="!(key == 'pdf' || key == 'Arxiv')" v-for="key in columns"
+            @click="sortBy(key)"
+            :class="{ active: sortKey == key }">
+            {{ key | capitalize }}
+            <span class="arrow" :class="sortOrders[key] > 0 ? 'asc' : 'dsc'">
+            </span>
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr v-for="entry in filteredData">
+          <td v-html="highlight(entry['Mnum'], filterKey)"></td>
+          <td v-html="highlight(entry['Abbr.'], filterKey)"></td>
+          <td>
+            <span v-html="highlight(entry['Title'], filterKey)"></span></br>
+            <span v-html="searchml(entry['Title'])"></span>,
+            <span v-html="scholarml(entry['Title'])"></span>,
+            <span v-html="linkml(entry['pdf'], 'PDF')"></span>,
+            <span v-html="linkml(entry['Arxiv'], 'arXiv')"></span>
+          </td>
+          <td v-html="highlight(entry['Year'], filterKey)"></td>
+          <td v-html="highlight(entry['Month'], filterKey)"></td>
+          <td v-html="highlight(entry['Medical'], filterKey)"></td>
+          <td v-html="highlight(entry['Category'], filterKey)"></td>
+        </tr>
+      </tbody>
+    </table>
+  </script>
+
+  <div id="demo">
+    <a href="https://hollobit.github.io/All-About-the-GAN/" alt="[HOME]">[HOME]</a> - <a href="https://github.com/hollobit/All-About-the-GAN" alt="[github]">[GITHUB]</a><br>
+    <form id="search">
+      <h2>All GANs Search <input name="query" v-model="searchQuery"></h2>
+    </form>
+    <demo-grid
+      :data="gridData"
+      :columns="gridColumns"
+      :filter-key="searchQuery">
+    </demo-grid>
+    <br>
+    <div align="right">Copyright (c) 2017-2018, Jonathan Jeon, hollobit@etri.re.kr</div>
+  </div>
+
+<script>
+Vue.component('demo-grid', {
+    template: '#grid-template',
+    props: {
+        data: Array,
+        columns: Array,
+        filterKey: String
+    },
+    data: function () {
+        var sortOrders = {}
+        this.columns.forEach(function (key) {
+            sortOrders[key] = 1
+        })
+        return {
+            sortKey: '',
+            sortOrders: sortOrders
+        }
+    },
+    computed: {
+        filteredData: function () {
+            var sortKey = this.sortKey
+            var filterKey = this.filterKey && this.filterKey.toLowerCase()
+            var order = this.sortOrders[sortKey] || 1
+            var data = this.data
+
+            if (filterKey) {
+                data = data.filter(function (row) {
+                    return Object.keys(row).some(function (key) {
+                        return String(row[key]).toLowerCase().indexOf(filterKey) > -1
+                    })
+                })
+            }
+            if (sortKey) {
+                data = data.slice().sort(function (a, b) {
+                    a = a[sortKey]
+                    b = b[sortKey]
+                    return (a === b ? 0 : a > b ? 1 : -1) * order
+                })
+            }
+            return data
+        }
+    },
+    filters: {
+        capitalize: function (str) {
+            return str.charAt(0).toUpperCase() + str.slice(1)
+        }
+    },
+    methods: {
+        sortBy: function (key) {
+              this.sortKey = key ;
+              this.sortOrders[key] = this.sortOrders[key] * -1;
+        },
+        highlight: function(words, query) {
+            var iQuery = new RegExp(query, "ig");
+            if (words.length <= 1) return "";
+            return words.replace(iQuery, function(matchedTxt,a,b){
+              return ('<span class=\'highlight\'>' + matchedTxt + '</span>');
+            });
+          },
+        searchml: function(uritext) {
+            return ('<a href=\'http://www.google.com/search?q=' + encodeURI(uritext) + '\'>[Search]</a>');
+        },
+        scholarml: function(uritext) {
+              return ('<a href=\'http://scholar.google.com/scholar?q=' + encodeURI(uritext) + '\'>[Scholar]</a>');
+        },
+        linkml: function(url, query) {
+            return ('<a href=\'' + url + '\'>[' + query + ']</a>');
+        }
+    }
+});
+
+var demo = new Vue({
+    el: '#demo',
+    data: {
+        searchQuery: 'VGAN',
+        gridColumns: ['Mnum', 'Abbr.', 'Title', 'pdf',	'Arxiv', 'Year', 'Month', 'Medical', 'Category'],
+        gridData: []
+    },
+    beforeCreate: function () {
+        axios.get('https://hollobit.github.io/All-About-the-GAN/AllGan.json')
+            .then(function (response) {
+                demo.gridData = response.data;
+            })
+            .catch(function (error) {
+                console.log(error);
+            });
+    },
+    methods: {
+      updateQuery: function () {
+        var parsedUrl = new URL(window.location.href)
+        this.$emit('searchQuery', parsedUrl.searchParams.get("query"))
+      }
+    }
+});
+</script>
+</body>
+</html>
